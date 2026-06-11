@@ -1,5 +1,6 @@
 ---
-import { getCollection } from "astro:content";
+import { getCollection, render } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
 
 export async function getStaticPaths() {
   const voyages = await getCollection("voyages");
@@ -11,7 +12,10 @@ export async function getStaticPaths() {
 }
 
 const { voyage } = Astro.props;
+const { Content } = await render(voyage);
 ---
 
-<h1>{voyage.data.title}</h1>
-<p>{voyage.body}</p>
+<Layout title={voyage.data.title}>
+  <h1>{voyage.data.title}</h1>
+  <Content />
+</Layout>

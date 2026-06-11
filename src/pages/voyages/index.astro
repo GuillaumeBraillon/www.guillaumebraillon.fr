@@ -1,17 +1,20 @@
 ---
 import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
 
 const voyages = await getCollection("voyages");
 ---
 
-<h1>Voyages</h1>
+<Layout title="Voyages">
+  <h1>Voyages</h1>
 
-<ul>
-  {
-    voyages.map((voyage: { id: any; data: { title: unknown } }) => (
-      <li>
-        <a href={`/voyages/${voyage.id}`}>{voyage.data.title}</a>
-      </li>
-    ))
-  }
-</ul>
+  <ul>
+    {
+      voyages.map((voyage) => (
+        <li>
+          <a href={`/voyages/${voyage.id}`}>{voyage.data.title}</a>
+        </li>
+      ))
+    }
+  </ul>
+</Layout>

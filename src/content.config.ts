@@ -30,6 +30,7 @@ const articles = defineCollection({
     date: z.date(),
     tags: z.array(z.string()).optional(),
     description: z.string().optional(),
+    draft: z.boolean().optional(),
   }),
 });
 
