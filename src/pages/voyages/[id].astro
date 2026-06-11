@@ -1,89 +1,55 @@
 ---
 import { getCollection, render } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
+import { VoyageStrictSchema } from "../../schema";
 
 export async function getStaticPaths() {
   const voyages = await getCollection("voyages");
-
   return voyages.map((voyage) => ({
-    params: { id: voyage.id }, // Utilisation de 'id' au lieu de 'slug'
+    params: { id: voyage.id },
     props: { voyage: voyage },
   }));
 }
 
 const { voyage } = Astro.props;
+const validation = VoyageStrictSchema.safeParse(voyage.data);
 const { Content } = await render(voyage);
 ---
 
-<Layout title={voyage.data.title}>
-  <article class="space-y-6">
-    <header class="pb-5 border-b border-[#d0d7de]">
-      <div class="flex flex-wrap items-center gap-2 text-sm text-[#636c76] mb-2">
-        <a href="/voyages" class="text-[#0969da] hover:underline">voyages</a>
-        <span>/</span>
-        <span class="font-semibold text-[#1f2328]">{voyage.id}</span>
+<Layout title={validation.success ? validation.data.title : "Erreur de configuration"}>
+  {
+    !validation.success ? (
+      <div class="p-4 bg-[#ffebe9] border border-[#rgba(248,81,73,0.4)] rounded-md text-[#cf222e] space-y-2">
+        <h1 class="text-lg font-semibold flex items-center gap-2">⚠️ Frontmatter Invalide</h1>
+        <p class="text-sm">
+          Le fichier de ce voyage ne peut pas être rendu correctement car des variables obligatoires
+          sont absentes :
+        </p>
+        <ul class="list-disc pl-5 text-xs font-mono bg-white p-3 border border-[#d0d7de] rounded">
+          {validation.error.issues.map((issue) => (
+            <li>
+              {issue.path.join(".")}: {issue.message}
+            </li>
+          ))}
+        </ul>
+        <p class="text-xs pt-2">
+          <a href="/voyages" class="text-[#0969da] hover:underline">
+            ← Retour à la liste
+          </a>
+        </p>
       </div>
-
-      <h1 class="text-2xl font-semibold text-[#1f2328] tracking-tight">
-        {voyage.data.title}
-      </h1>
-
-      <div class="mt-2 flex flex-wrap items-center gap-3 text-sm text-[#57606a]">
-        <span class="font-medium text-[#1f2328]">{voyage.data.country}</span>
-        <span>•</span>
-        <span>Période : {voyage.data.period}</span>
-        {
-          voyage.data.duration && (
-            <>
-              <span>•</span>
-              <span>Durée : {voyage.data.duration}</span>
-            </>
-          )
-        }
-      </div>
-    </header>
-
-    <div class="prose prose-sm max-w-none text-[#1f2328] space-y-4 markdown-body">
-      <Content />
-    </div>
-  </article>
+    ) : (
+      <article class="space-y-6">
+        <header class="pb-5 border-b border-[#d0d7de]">
+          <h1 class="text-2xl font-semibold text-[#1f2328]">{validation.data.title}</h1>
+          <p class="text-sm text-[#57606a] mt-1">
+            {validation.data.country} · {validation.data.period}
+          </p>
+        </header>
+        <div class="prose prose-sm max-w-none markdown-body">
+          <Content />
+        </div>
+      </article>
+    )
+  }
 </Layout>
-
-<style is:global>
-  .markdown-body h2 {
-    font-size: 16px;
-    font-weight: 600;
-    border-bottom: 1px solid #d0d7de;
-    padding-bottom: 6px;
-    margin-top: 24px;
-    margin-bottom: 12px;
-    color: #1f2328;
-  }
-  .markdown-body h3 {
-    font-size: 14px;
-    font-weight: 600;
-    margin-top: 16px;
-    margin-bottom: 8px;
-    color: #1f2328;
-  }
-  .markdown-body ul {
-    list-style-type: disc;
-    padding-left: 20px;
-    margin-bottom: 16px;
-  }
-  .markdown-body li {
-    margin-top: 4px;
-    font-size: 14px;
-    color: #24292f;
-  }
-  .markdown-body p {
-    font-size: 14px;
-    line-height: 1.6;
-    margin-bottom: 16px;
-    color: #24292f;
-  }
-  .markdown-body strong {
-    font-weight: 600;
-    color: #1f2328;
-  }
-</style>

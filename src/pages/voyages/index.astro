@@ -4,13 +4,15 @@ import Layout from "../../layouts/Layout.astro";
 
 const voyages = await getCollection("voyages");
 
-// Tri décroissant sur la date
-const sortedVoyages = voyages.sort(
-  (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
-);
+// Tri robuste : gère les dates complètes et les années seules
+const sortedVoyages = voyages.sort((a, b) => {
+  const dateA = a.data.date instanceof Date ? a.data.date : new Date(a.data.date);
+  const dateB = b.data.date instanceof Date ? b.data.date : new Date(b.data.date);
+  return dateB.getTime() - dateA.getTime();
+});
 ---
 
-<Layout title="Voyages explorés">
+<Layout title="Voyages">
   <div class="pb-4 mb-2 border-b border-[#d0d7de]">
     <h1 class="text-xl font-semibold text-[#1f2328] flex items-center gap-2">
       Voyages explorés
@@ -37,7 +39,7 @@ const sortedVoyages = voyages.sort(
                   height="16"
                   fill="currentColor"
                 >
-                  <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM4.5 5a.5.5 0 0 0 0 1h7a.5.5 0 0 0 0-1h-7Zm0 2.5a.5.5 0 0 0 0 1h7a.5.5 0 0 0 0-1h-7Zm0 2.5a.5.5 0 0 0 0 1h4a.5.5 0 0 0 0-1h-4Z" />
+                  <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 1 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 0 1 1-1h8z" />
                 </svg>
                 {voyage.data.title}
               </a>
@@ -45,13 +47,21 @@ const sortedVoyages = voyages.sort(
                 {voyage.data.country}
               </span>
             </div>
+
             {voyage.data.description && (
               <p class="text-[14px] text-[#57606a] leading-normal">{voyage.data.description}</p>
             )}
-          </div>
 
-          <div class="flex items-center gap-2 text-xs text-[#636c76] shrink-0 sm:pt-1 font-medium">
-            <span class="bg-[#eaeef2] px-2 py-0.5 rounded">{voyage.data.period}</span>
+            <div class="pt-2 flex flex-wrap gap-1.5">
+              <span class="text-[11px] text-[#0969da] bg-[#ddf4ff] px-2 py-0.5 rounded-full font-medium">
+                {voyage.data.period}
+              </span>
+              {voyage.data.duration && (
+                <span class="text-[11px] text-[#1a7f37] bg-[#dafbe1] px-2 py-0.5 rounded-full font-medium">
+                  {voyage.data.duration}
+                </span>
+              )}
+            </div>
           </div>
         </div>
       ))

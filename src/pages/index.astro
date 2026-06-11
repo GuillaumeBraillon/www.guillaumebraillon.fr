@@ -1,14 +1,10 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import { getCollection } from "astro:content";
-import type { CollectionEntry } from "astro:content";
 
+// 1. Chargement des projets (statique car structure d'affichage spécifique au centre)
 const projects = await getCollection("projects");
-const voyages = await getCollection("voyages");
-const articles = await getCollection("articles");
 
-// 1. On trouve le projet qui a "featured: true"
-// Si aucun n'est marqué, on prend le plus récent par défaut
 const featuredProject =
   projects.find((p) => p.data.featured === true) ||
   projects.sort((a, b) => {
@@ -17,7 +13,6 @@ const featuredProject =
     return dateB - dateA;
   })[0];
 
-// 2. On filtre la liste pour les "Autres projets" en excluant le projet principal
 const otherProjects = projects
   .filter((p) => p.id !== featuredProject?.id)
   .sort((a, b) => {
@@ -25,10 +20,38 @@ const otherProjects = projects
     const dateB = b.data.date ? new Date(b.data.date).getTime() : 0;
     return dateB - dateA;
   })
-  .slice(0, 4); // On garde les 4 plus récents restants
+  .slice(0, 4);
 
-const latestArticles = articles.slice(0, 3) as CollectionEntry<"articles">[];
-const latestVoyages = voyages.slice(0, 2) as CollectionEntry<"voyages">[];
+// 2. GÉNÉRATION DYNAMIQUE DE LA LOGIQUE DES COLLECTIONS LATÉRALES
+const sidebarCollectionsConfig = [
+  { id: "articles", label: "Articles récents", maxItems: 3 },
+  { id: "voyages", label: "Voyages explorés", maxItems: 3 },
+];
+
+const sidebarSections = await Promise.all(
+  sidebarCollectionsConfig.map(async (config) => {
+    try {
+      const items = await getCollection(config.id as any);
+
+      const sortedItems = items
+        .sort((a: any, b: any) => {
+          const dateA =
+            a.data.date instanceof Date ? a.data.date.getTime() : Number(a.data.date) || 0;
+          const dateB =
+            b.data.date instanceof Date ? b.data.date.getTime() : Number(b.data.date) || 0;
+          return dateB - dateA;
+        })
+        .slice(0, config.maxItems);
+
+      return {
+        ...config,
+        items: sortedItems,
+      };
+    } catch (e) {
+      return { ...config, items: [] };
+    }
+  })
+);
 ---
 
 <Layout>
@@ -55,12 +78,6 @@ const latestVoyages = voyages.slice(0, 2) as CollectionEntry<"voyages">[];
         >
           Mon CV
         </a>
-        <a
-          href="/projects"
-          class="px-3 py-1.5 text-xs font-semibold text-white bg-[#1f883d] border border-[#1f883d] rounded-md shadow-sm hover:bg-[#1a7f37] transition-colors"
-        >
-          Voir les projets
-        </a>
       </div>
     </div>
   </section>
@@ -68,7 +85,7 @@ const latestVoyages = voyages.slice(0, 2) as CollectionEntry<"voyages">[];
   <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
     <div class="lg:col-span-2 space-y-6">
       <section>
-        <div class="flex items-center gap-2 mb-2">
+        <div class="flex items-center justify-between mb-2">
           <span class="text-xs font-semibold text-[#1f2328]">Projet principal</span>
         </div>
         {
@@ -113,8 +130,9 @@ const latestVoyages = voyages.slice(0, 2) as CollectionEntry<"voyages">[];
       </section>
 
       <section>
-        <div class="flex items-center gap-2 mb-2">
+        <div class="flex items-center justify-between mb-2">
           <span class="text-xs font-semibold text-[#1f2328]">Autres projets</span>
+          <a href="/projects" class="text-[11px] text-[#0969da] hover:underline">Tout voir</a>
         </div>
         <div class="grid gap-3 sm:grid-cols-2">
           {
@@ -157,53 +175,40 @@ const latestVoyages = voyages.slice(0, 2) as CollectionEntry<"voyages">[];
     </div>
 
     <div class="space-y-6">
-      <section class="border border-[#d0d7de] rounded-md bg-white overflow-hidden">
-        <div
-          class="bg-[#f6f8fa] border-b border-[#d0d7de] px-4 py-2 flex items-center justify-between"
-        >
-          <span class="text-xs font-semibold text-[#1f2328]">Articles récents</span>
-          <a href="/articles" class="text-[11px] text-[#0969da] hover:underline">Tout voir</a>
-        </div>
-        <div class="divide-y divide-[#d0d7de]">
-          {
-            latestArticles.map((a) => (
-              <a
-                href={`/articles/${a.id}`}
-                class="block px-4 py-2.5 hover:bg-[#f6f8fa] group transition-colors"
-              >
-                <span class="text-[13px] font-medium text-[#1f2328] group-hover:text-[#0969da] block truncate">
-                  {a.data.title}
-                </span>
-              </a>
-            ))
-          }
-        </div>
-      </section>
-
-      <section class="border border-[#d0d7de] rounded-md bg-white overflow-hidden">
-        <div class="bg-[#f6f8fa] border-b border-[#d0d7de] px-4 py-2">
-          <span class="text-xs font-semibold text-[#1f2328]">Voyages explorés</span>
-        </div>
-        <div class="divide-y divide-[#d0d7de]">
-          {
-            latestVoyages.map((v) => (
-              <a
-                href={`/voyages/${v.id}`}
-                class="block px-4 py-2.5 hover:bg-[#f6f8fa] group transition-colors"
-              >
-                <div class="flex items-center justify-between gap-2">
-                  <span class="text-[13px] font-medium text-[#1f2328] group-hover:text-[#0969da] truncate">
-                    {v.data.title}
-                  </span>
-                  <span class="text-[11px] text-[#636c76] bg-[#eaeef2] px-1.5 py-0.5 rounded shrink-0">
-                    {v.data.country || "Destination"}
-                  </span>
+      {
+        sidebarSections.map(
+          (section) =>
+            section.items.length > 0 && (
+              <section class="border border-[#d0d7de] rounded-md bg-white overflow-hidden">
+                <div class="bg-[#f6f8fa] border-b border-[#d0d7de] px-4 py-2 flex items-center justify-between">
+                  <span class="text-xs font-semibold text-[#1f2328]">{section.label}</span>
+                  <a href={`/${section.id}`} class="text-[11px] text-[#0969da] hover:underline">
+                    Tout voir
+                  </a>
                 </div>
-              </a>
-            ))
-          }
-        </div>
-      </section>
+                <div class="divide-y divide-[#d0d7de]">
+                  {section.items.map((item: any) => (
+                    <a
+                      href={`/${section.id}/${item.id}`}
+                      class="block px-4 py-2.5 hover:bg-[#f6f8fa] group transition-colors"
+                    >
+                      <div class="flex items-center justify-between gap-2">
+                        <span class="text-[13px] font-medium text-[#1f2328] group-hover:text-[#0969da] truncate">
+                          {item.data.title}
+                        </span>
+                        {item.data.country && (
+                          <span class="text-[11px] text-[#636c76] bg-[#eaeef2] px-1.5 py-0.5 rounded shrink-0">
+                            {item.data.country}
+                          </span>
+                        )}
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              </section>
+            )
+        )
+      }
     </div>
   </div>
 </Layout>
