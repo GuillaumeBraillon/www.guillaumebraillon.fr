@@ -1,5 +1,9 @@
 export default {
-  plugins: ["prettier-plugin-astro", "prettier-plugin-tailwindcss"],
+  semi: true,
+  singleQuote: false,
+  printWidth: 100,
+  trailingComma: "es5",
+  plugins: ["prettier-plugin-astro"],
   overrides: [
     {
       files: "*.astro",

@@ -2,12 +2,22 @@
 import "../styles/global.css";
 ---
 
-<nav class="flex gap-6 p-4 border-b">
-  <a href="/">Accueil</a>
-  <a href="/projects">Projets</a>
-  <a href="/voyages">Voyages</a>
-  <a href="/articles">Articles</a>
-  <a href="/cv">CV</a>
-</nav>
+<html lang="fr">
+  <body class="min-h-screen flex flex-col">
+    <nav class="flex gap-6 p-4 border-b">
+      <a href="/">Accueil</a>
+      <a href="/projects">Projets</a>
+      <a href="/voyages">Voyages</a>
+      <a href="/articles">Articles</a>
+      <a href="/cv">CV</a>
+    </nav>
 
-<slot />
+    <main class="flex-1 max-w-5xl mx-auto w-full px-6 py-8">
+      <slot />
+    </main>
+
+    <footer class="border-t p-4 text-sm text-gray-500">
+      © {new Date().getFullYear()} Guillaume
+    </footer>
+  </body>
+</html>

@@ -1,11 +1,131 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+import type { CollectionEntry } from "astro:content";
+
+const projects = await getCollection("projects");
+const voyages = await getCollection("voyages");
+const articles = await getCollection("articles");
+
+const featuredProject = projects[0] as CollectionEntry<"projects">;
+
+const otherProjects = projects.slice(1, 4) as CollectionEntry<"projects">[];
+const latestArticles = articles.slice(0, 3) as CollectionEntry<"articles">[];
+const latestVoyages = voyages.slice(0, 2) as CollectionEntry<"voyages">[];
 ---
 
 <Layout>
-  <main class="p-10">
-    <h1 class="text-4xl text-red-500 font-bold">Tailwind OK</h1>
+  <!-- HERO -->
+  <section class="relative py-28">
+    <div class="mx-auto max-w-5xl px-6">
+      <p class="mb-4 text-sm text-gray-500">Développeur Full Stack JavaScript</p>
 
-    <p class="mt-4 text-gray-600">Site personnel en reconstruction</p>
-  </main>
+      <h1 class="text-5xl font-semibold tracking-tight md:text-7xl">
+        Développeur full stack JavaScript.
+      </h1>
+
+      <p class="mt-6 max-w-2xl text-lg text-gray-600">
+        React, Node.js, Astro et Supabase. J’aime créer des outils simples, rapides et utiles.
+      </p>
+
+      <div class="mt-10 flex gap-4">
+        <a href="/projects" class="rounded-lg bg-black px-5 py-2.5 text-white">
+          Voir les projets
+        </a>
+        <a href="/cv" class="rounded-lg border px-5 py-2.5"> CV </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FEATURED PROJECT -->
+  <section class="border-t py-16">
+    <div class="mx-auto max-w-5xl px-6">
+      <p class="mb-6 text-sm text-gray-500">Projet principal</p>
+
+      <a
+        href={`/projects/${featuredProject.id}`}
+        class="block rounded-2xl border p-8 transition hover:shadow-lg"
+      >
+        <h2 class="text-2xl font-semibold">
+          {featuredProject.data.title}
+        </h2>
+
+        <p class="mt-3 text-gray-600">
+          {featuredProject.data.description}
+        </p>
+
+        <div class="mt-6 text-sm text-gray-500">Voir le projet →</div>
+      </a>
+    </div>
+  </section>
+
+  <!-- PROJECTS GRID -->
+  <section class="border-t py-16">
+    <div class="mx-auto max-w-5xl px-6">
+      <p class="mb-6 text-sm text-gray-500">Autres projets</p>
+
+      <div class="grid gap-4 md:grid-cols-3">
+        {
+          otherProjects.map((p) => (
+            <a href={`/projects/${p.id}`} class="rounded-xl border p-5 transition hover:bg-gray-50">
+              <h3 class="font-medium">{p.data.title}</h3>
+
+              <p class="mt-2 text-sm text-gray-600">{p.data.description}</p>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <!-- ARTICLES -->
+  <section class="border-t py-16">
+    <div class="mx-auto max-w-5xl px-6">
+      <div class="mb-6 flex items-center justify-between">
+        <p class="text-sm text-gray-500">Articles</p>
+        <a href="/articles" class="text-sm hover:underline"> Tous → </a>
+      </div>
+
+      <div class="space-y-4">
+        {
+          latestArticles.map((a) => (
+            <a
+              href={`/articles/${a.id}`}
+              class="flex items-center justify-between border-b px-2 py-4 hover:bg-gray-50"
+            >
+              <span>{a.data.title}</span>
+              <span class="text-sm text-gray-500">Lire →</span>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <!-- VOYAGES -->
+  <section class="border-t py-16">
+    <div class="mx-auto max-w-5xl px-6">
+      <p class="mb-6 text-sm text-gray-500">Voyages</p>
+
+      <div class="grid gap-6 md:grid-cols-2">
+        {
+          latestVoyages.map((v) => (
+            <a href={`/voyages/${v.id}`} class="rounded-xl border p-6 transition hover:shadow">
+              <h3 class="font-medium">{v.data.title}</h3>
+
+              <p class="mt-2 text-sm text-gray-600">{v.data.country}</p>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="border-t py-16">
+    <div class="mx-auto flex max-w-5xl justify-between px-6 text-sm text-gray-500">
+      <span>© {new Date().getFullYear()} Guillaume Braillon</span>
+      <span>Built with Astro</span>
+    </div>
+  </footer>
 </Layout>

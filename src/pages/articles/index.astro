@@ -7,11 +7,11 @@ const articles = await getCollection("articles");
 <h1>Articles</h1>
 
 <ul>
-  {articles.map((article) => (
-    <li>
-      <a href={`/articles/${article.id}`}>
-        {article.data.title}
-      </a>
-    </li>
-  ))}
+  {
+    articles.map((article) => (
+      <li>
+        <a href={`/articles/${article.id}`}>{article.data.title}</a>
+      </li>
+    ))
+  }
 </ul>
