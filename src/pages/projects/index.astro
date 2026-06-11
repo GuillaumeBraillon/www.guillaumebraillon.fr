@@ -6,15 +6,55 @@ const projects = await getCollection("projects");
 ---
 
 <Layout title="Projets">
-  <h1>Projets</h1>
+  <div class="pb-4 mb-2 border-b border-[#d0d7de]">
+    <h1 class="text-xl font-semibold text-[#1f2328] flex items-center gap-2">
+      Repositories
+      <span class="text-xs font-normal px-2 py-0.5 bg-[#eaeef2] text-[#636c76] rounded-full">
+        {projects.length}
+      </span>
+    </h1>
+  </div>
 
-  <ul>
+  <div class="divide-y divide-[#d0d7de]">
     {
       projects.map((project) => (
-        <li>
-          <a href={`/projects/${project.id}`}>{project.data.title}</a>
-        </li>
+        <div class="py-4 flex flex-col sm:flex-row sm:items-start justify-between gap-4">
+          <div class="space-y-1 max-w-3xl">
+            <div class="flex items-center gap-2">
+              <a
+                href={`/projects/${project.id}`}
+                class="text-lg font-semibold text-[#0969da] hover:underline flex items-center gap-2"
+              >
+                <svg
+                  class="text-[#636c76]"
+                  viewBox="0 0 16 16"
+                  width="16"
+                  height="16"
+                  fill="currentColor"
+                >
+                  <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 1 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 0 1 1-1h8z" />
+                </svg>
+                {project.data.title}
+              </a>
+              <span class="text-[12px] font-medium text-[#636c76] px-2 py-0.2 border border-[#d0d7de] rounded-full bg-[#f6f8fa]">
+                Public
+              </span>
+            </div>
+
+            <p class="text-[14px] text-[#57606a] leading-normal">{project.data.description}</p>
+
+            {project.data.tech && (
+              <div class="pt-2 flex flex-wrap gap-1.5">
+                {project.data.tech.map((tag: string) => (
+                  <span class="text-[11px] text-[#0969da] bg-[#ddf4ff] hover:bg-[#b6e3ff] px-2 py-0.5 rounded-full font-medium transition-colors">
+                    {tag}
+                  </span>
+                ))}
+              </div>
+            )}
+          </div>
+        </div>
       ))
     }
-  </ul>
+  </div>
 </Layout>
