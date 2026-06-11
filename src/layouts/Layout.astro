@@ -2,8 +2,12 @@
 import "../styles/global.css";
 ---
 
-<html>
-  <body>
-    <slot />
-  </body>
-</html>
+<nav class="flex gap-6 p-4 border-b">
+  <a href="/">Accueil</a>
+  <a href="/projects">Projets</a>
+  <a href="/voyages">Voyages</a>
+  <a href="/articles">Articles</a>
+  <a href="/cv">CV</a>
+</nav>
+
+<slot />

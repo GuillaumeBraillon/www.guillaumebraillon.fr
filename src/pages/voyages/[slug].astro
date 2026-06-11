@@ -1,0 +1,17 @@
+---
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  const voyages = await getCollection("voyages");
+
+  return voyages.map((voyage) => ({
+    params: { slug: voyage.id },
+    props: { voyage: voyage },
+  }));
+}
+
+const { voyage } = Astro.props;
+---
+
+<h1>{voyage.data.title}</h1>
+<p>{voyage.body}</p>

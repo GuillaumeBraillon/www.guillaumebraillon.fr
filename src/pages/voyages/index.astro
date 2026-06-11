@@ -1,0 +1,17 @@
+---
+import { getCollection } from "astro:content";
+
+const voyages = await getCollection("voyages");
+---
+
+<h1>Voyages</h1>
+
+<ul>
+  {voyages.map((voyage) => (
+    <li>
+      <a href={`/voyages/${voyage.id}`}>
+        {voyage.data.title}
+      </a>
+    </li>
+  ))}
+</ul>
