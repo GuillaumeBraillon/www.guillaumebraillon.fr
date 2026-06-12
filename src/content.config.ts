@@ -29,7 +29,6 @@ const voyages = defineCollection({
     description: z.string().optional(),
     duration: z.string().optional(),
     cover: z.string().optional(),
-    slug: z.string().optional(),
     categories: z.array(z.string()).optional(),
     tags: z.array(z.string()).optional(),
   }),

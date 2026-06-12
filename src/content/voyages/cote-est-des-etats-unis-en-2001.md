@@ -1,6 +1,5 @@
 ---
 title: "Côte Est des états unis en 2001."
-slug: cote-est-des-etats-unis-en-2001
 date: 2001-05-10
 country: "USA"
 period: "Mai 2001"

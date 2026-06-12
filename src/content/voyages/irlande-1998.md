@@ -1,6 +1,5 @@
 ---
 title: "Irlande 1998"
-slug: irlande-1998
 date: 1998-09-10
 country: "Irlande"
 period: "Septembre 1998"

@@ -1,6 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import { getCollection } from "astro:content";
+import type { CollectionKey } from "astro:content";
 
 // 1. Chargement des projets (statique car structure d'affichage spécifique au centre)
 const projects = await getCollection("projects");
@@ -23,7 +24,11 @@ const otherProjects = projects
   .slice(0, 4);
 
 // 2. GÉNÉRATION DYNAMIQUE DE LA LOGIQUE DES COLLECTIONS LATÉRALES
-const sidebarCollectionsConfig = [
+const sidebarCollectionsConfig: {
+  id: CollectionKey;
+  label: string;
+  maxItems: number;
+}[] = [
   { id: "articles", label: "Articles récents", maxItems: 3 },
   { id: "voyages", label: "Voyages explorés", maxItems: 3 },
 ];
@@ -31,8 +36,7 @@ const sidebarCollectionsConfig = [
 const sidebarSections = await Promise.all(
   sidebarCollectionsConfig.map(async (config) => {
     try {
-      const items = await getCollection(config.id as any);
-
+      const items = await getCollection(config.id);
       const sortedItems = items
         .sort((a: any, b: any) => {
           const dateA =

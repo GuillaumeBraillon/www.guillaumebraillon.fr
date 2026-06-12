@@ -1,6 +1,5 @@
 ---
 title: "Vacances à Miami Beach"
-slug: vacances-a-miami-beach
 date: 2004-10-02
 country: "USA"
 period: "Octobre 2004"

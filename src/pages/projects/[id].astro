@@ -1,5 +1,5 @@
 ---
-import { getCollection } from "astro:content";
+import { getCollection, render } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import { marked } from "marked";
 
@@ -12,6 +12,7 @@ export async function getStaticPaths() {
 }
 
 const { project } = Astro.props;
+const { Content } = await render(project);
 
 // Normalisation de l'URL pour requêter le fichier brut (RAW) sur la branche main
 const rawReadmeUrl = `${project.data.githubUrl.replace("github.com", "raw.githubusercontent.com")}/main/README.md`;
@@ -33,11 +34,9 @@ try {
 
     // Conversion du Markdown corrigé en HTML
     readmeHtml = await marked.parse(correctedMarkdown);
-  } else {
-    readmeHtml = `<p class="text-sm text-[#636c76] bg-[#fff8c5] border border-[#rgba(212,167,44,0.4)] p-3 rounded-md">Documentation indisponible : Le dépôt ne contient pas de fichier README.md sur la branche principale.</p>`;
   }
-} catch (error) {
-  readmeHtml = `<p class="text-sm text-[#cf222e] bg-[#ffebe9] border border-[#rgba(248,81,73,0.4)] p-3 rounded-md">Erreur réseau lors de la récupération de la documentation depuis GitHub.</p>`;
+} catch {
+  // Fallback silencieux sur le contenu Astro
 }
 ---
 
@@ -79,10 +78,18 @@ try {
       </div>
     </header>
 
-    <div
-      class="prose prose-sm max-w-none text-[#1f2328] space-y-4 markdown-body"
-      set:html={readmeHtml}
-    />
+    {
+      readmeHtml ? (
+        <div
+          class="prose prose-sm max-w-none text-[#1f2328] space-y-4 markdown-body"
+          set:html={readmeHtml}
+        />
+      ) : (
+        <div class="prose prose-sm max-w-none text-[#1f2328] space-y-4 markdown-body">
+          <Content />
+        </div>
+      )
+    }
   </article>
 </Layout>
 
