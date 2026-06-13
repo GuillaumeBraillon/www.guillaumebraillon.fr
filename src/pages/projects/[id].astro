@@ -61,7 +61,7 @@ try {
         </p>
       </div>
 
-      <div class="shrink-0">
+      <div class="shrink-0 not-prose">
         <a
           href={project.data.githubUrl}
           target="_blank"
@@ -92,62 +92,3 @@ try {
     }
   </article>
 </Layout>
-
-<style is:global>
-  /* Formatage strict pour le HTML distant injecté */
-  .markdown-body h1 {
-    font-size: 20px;
-    font-weight: 600;
-    border-bottom: 1px solid #d0d7de;
-    padding-bottom: 8px;
-    margin-top: 28px;
-    margin-bottom: 16px;
-    color: #1f2328;
-  }
-  .markdown-body h2 {
-    font-size: 16px;
-    font-weight: 600;
-    border-bottom: 1px solid #d0d7de;
-    padding-bottom: 6px;
-    margin-top: 24px;
-    margin-bottom: 12px;
-    color: #1f2328;
-  }
-  .markdown-body h3 {
-    font-size: 14px;
-    font-weight: 600;
-    margin-top: 16px;
-    margin-bottom: 8px;
-    color: #1f2328;
-  }
-  .markdown-body ul,
-  .markdown-body ol {
-    list-style-type: disc;
-    padding-left: 20px;
-    margin-bottom: 16px;
-  }
-  .markdown-body ol {
-    list-style-type: decimal;
-  }
-  .markdown-body li {
-    margin-top: 4px;
-    font-size: 14px;
-    color: #24292f;
-  }
-  .markdown-body p {
-    font-size: 14px;
-    line-height: 1.6;
-    margin-bottom: 16px;
-    color: #24292f;
-  }
-  .markdown-body strong {
-    font-weight: 600;
-    color: #1f2328;
-  }
-  .markdown-body blockquote {
-    padding: 0 1em;
-    color: #57606a;
-    border-left: 0.25em solid #d0d7de;
-    margin-bottom: 16px;
-  }
-</style>
