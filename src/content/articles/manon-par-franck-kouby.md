@@ -7,8 +7,8 @@ description: "Clip vidéo réalisé pour l'ami musicien Franck Kouby, associant 
 
 > Comme vous le savez certainement si vous avez parcouru mon site, la [**musique**](https://guillaumebraillon.fr/category/articles-divers/musique/) et le [**montage vidéo**](https://guillaumebraillon.fr/category/articles-divers/photos/) sont deux de mes **passions** et **l'association** des deux me permet de réaliser des clips vidéo comme celui ci, "**Manon par Franck Kouby",**  un ami musicien de Grenoble.
 >
-> Dans cet article, vous avez un **exemple** de ce que l'on peut faire avec des **appareils photos reflex**, associés au **logiciel de montage vidéo [Pinnacle Studio](https://amzn.to/35zZaGf)**.  
-> Ceux qui suivent régulièrement mes articles, savent désormais que je [prépares des tutoriels](https://guillaumebraillon.fr/montage-video-avec-pinnacle-studio-21-5/) pour le **montage vidéo**, également avec [Pinnacle Studio](https://amzn.to/35zZaGf).
+> Dans cet article, vous avez un **exemple** de ce que l'on peut faire avec des **appareils photos reflex**, associés au **logiciel de montage vidéo Pinnacle Studio**.  
+> Ceux qui suivent régulièrement mes articles, savent désormais que je [prépares des tutoriels](https://guillaumebraillon.fr/montage-video-avec-pinnacle-studio-21-5/) pour le **montage vidéo**, également avec Pinnacle Studio.
 >
 > *N’hésitez* *pas à visiter le site de mon ami Franck Kouby [http://franckkouby.fr](http://franckkouby.fr) pour trouver d'autres vidéos et informations sur sa musique. Un album est actuellement en préparation et devrait bientôt sortir.*
 
@@ -30,14 +30,12 @@ description: "Clip vidéo réalisé pour l'ami musicien Franck Kouby, associant 
 
 ## Quelques informations sur le montage vidéo
 
-Pour la **prise d'images**, j'ai utilisé deux appareils **reflex [Canon 600D](https://amzn.to/3KrXY6p)**.
+Pour la **prise d'images**, j'ai utilisé deux appareils **reflex Canon 600D**.
 
-L'un d'eux avec un **objectif [Canon Objectif EF 50 mm f/1.8 STM](https://amzn.to/3KoNqVF) à focal fixe** et l'autre avec un **objectif [Canon EF-S 24mm f/2.8 STM SLR Objectif large](https://amzn.to/3pMUGD3) à focal fixe**.
+L'un d'eux avec un **objectif Canon Objectif EF 50 mm f/1.8 STM à focal fixe** et l'autre avec un **objectif Canon EF-S 24mm f/2.8 STM SLR Objectif large à focal fixe**.
 
-_Comme je vous le disais, le montage vidéo à été réalisé avec le logiciel [Pinnacle Studio](https://amzn.to/35zZaGf)._
+_Comme je vous le disais, le montage vidéo à été réalisé avec le logiciel Pinnacle Studio._
 
 ## Clip de Manon par Franck Kouby
 
-\[embed\]https://youtu.be/W1W6HMtZFNo\[/embed\]
-
-[![](http://static.cb-content.com/mycontent/1534/pinnacle21-ult-affiliate-320x50-en.jpg)](https://amzn.to/35zZaGf)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W1W6HMtZFNo" frameborder="0" allowfullscreen></iframe>

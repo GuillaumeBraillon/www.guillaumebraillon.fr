@@ -9,7 +9,7 @@ Mes instruments de prédilection, ceux que j’utilise le plus souvent et qui on
 
 ## Guitare Fender Stratocaster SRV.
 
-[![Repete Altjala 096](https://guillaumebraillon.fr/wp-content/uploads/2012/07/Repete-Altjala-096-199x300.jpg)](https://amzn.to/3GBpGg2)
+(https://guillaumebraillon.fr/wp-content/uploads/2012/07/Repete-Altjala-096-199x300.jpg)
 
 Fender Stratocaster SRV
 
@@ -53,7 +53,7 @@ L'autre atout de la SRV Strat réside dans le choix d'un set de micros Texas Spe
 
 L'AR300 est un modèle de guitare électrique solid body de la série Artist introduit par Ibanez en 1979. Elle a été fabriquée au Japon et a remplacé la précédente 2619.
 
-L'AR300 est doté d'une table en érable flammé sculpté avec plusieurs reliures sur un corps en acajou à double pan coupé couplé à un manche en érable en trois pièces avec une touche en ébène de 22 frettes avec reliure et marqueurs de position de bloc fendu en nacre et en abalone. Les composants comprennent une paire de micros humbucker Ibanez Super 80 ([Que j'ai changé pour des Seymour Duncan](https://amzn.to/3CrcF6k)) avec commandes individuelles de volume et de tonalité, un chevalet Gibraltar de style Tune-o-matic avec bloc de sustain et cordier intégrés et des mécaniques VelveTune. Chaque micro dispose d'un interrupteur Tri-sound avec trois réglages de micro : humbucker, simple bobinage ou phase inversée.
+L'AR300 est doté d'une table en érable flammé sculpté avec plusieurs reliures sur un corps en acajou à double pan coupé couplé à un manche en érable en trois pièces avec une touche en ébène de 22 frettes avec reliure et marqueurs de position de bloc fendu en nacre et en abalone. Les composants comprennent une paire de micros humbucker Ibanez Super 80 (Que j'ai changé pour des Seymour Duncan) avec commandes individuelles de volume et de tonalité, un chevalet Gibraltar de style Tune-o-matic avec bloc de sustain et cordier intégrés et des mécaniques VelveTune. Chaque micro dispose d'un interrupteur Tri-sound avec trois réglages de micro : humbucker, simple bobinage ou phase inversée.
 
 ---
 
@@ -79,7 +79,7 @@ C'est sobre et classe à la fois. Pour le prix on peut trouver "plus" mais dans 
 
 ## Ampli Fender HotRod Deluxe 3.
 
-[![2011-10-01_01](https://guillaumebraillon.fr/wp-content/uploads/2012/07/2011-10-01_01.jpg)](https://amzn.to/3bekdwW)
+(https://guillaumebraillon.fr/wp-content/uploads/2012/07/2011-10-01_01.jpg)
 
 Fender HotRod Deluxe 3
 
@@ -96,7 +96,7 @@ Cette nouvelle variante se voit agrémentée des améliorations suivantes :
 
 ## Vox Ampli AmPlug V2
 
-[![](https://guillaumebraillon.fr/wp-content/uploads/2012/07/ccc9d7d4-9200-4129-8e80-d969647f989b.__CR54010911091_PT0_SX300_V1___-300x300.jpg "ibanezts9")](https://amzn.to/3BhMFsv)
+(https://guillaumebraillon.fr/wp-content/uploads/2012/07/ccc9d7d4-9200-4129-8e80-d969647f989b.__CR54010911091_PT0_SX300_V1___-300x300.jpg "ibanezts9")
 
 Vox Ampli AmPlug V2 AC30
 
@@ -114,7 +114,7 @@ Effets : trémolo (2 modes), chorus (3 modes), délai (3 modes), réverbe (3 mod
 
 ## Pédale Ibanez TS9.
 
-[![](https://guillaumebraillon.fr/wp-content/uploads/2012/07/HOSHINOTS9-181x300.jpg "ibanezts9")](https://amzn.to/3jGWcDk)
+![](https://guillaumebraillon.fr/wp-content/uploads/2012/07/HOSHINOTS9-181x300.jpg "ibanezts9")
 
 Ibanez TS-9
 
@@ -134,7 +134,7 @@ La TS808 a été relativement vite remplacée en 1982 par la TS9, suivi de la TS
 
 ## Pédale Boss RC 2.
 
-[![2011-10-01_03](https://guillaumebraillon.fr/wp-content/uploads/2012/07/2011-10-01_03-265x300.jpg)](https://amzn.to/3bekrEi)
+![2011-10-01_03](https://guillaumebraillon.fr/wp-content/uploads/2012/07/2011-10-01_03-265x300.jpg)
 
 Boss RC 2
 
@@ -153,7 +153,7 @@ Pour des milliers de guitaristes, les pédaliers de la série BCB constituent le
 
 ## Pédale Jim Dunlop Cry Baby Wah-Wah.
 
-[![](https://guillaumebraillon.fr/wp-content/uploads/2012/07/81fvqpeEdSL._AC_SL1500_-1024x326.jpg)](https://amzn.to/3nrwcNy)
+![](https://guillaumebraillon.fr/wp-content/uploads/2012/07/81fvqpeEdSL._AC_SL1500_-1024x326.jpg)]
 
 La Jim Dunlop Cry Baby est la plus populaire des pédales Wah-wah.
 

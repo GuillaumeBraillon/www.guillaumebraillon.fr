@@ -1011,7 +1011,7 @@ C'est un titre interprété par la chanteuse qui s'appelle "Joss Stone", et le m
 L'expérience a été intéressante, mais frustrante et stressante. Je ne suis pas encore assez à l'aise sur une scène. Bien que nos potes nous aient dit que c'était bien, je n'étais pas très content de moi. Je sais que sur scène ce n'est jamais aussi bien qu'en répétition, mais c'est le stress qui fait que ça ne sonne pas aussi bien que normalement.  
 C'est en forgeant qu'on devient forgeron, alors à la prochaine occasion de jouer sur scène, ou devant du public, je n'hésiterais pas, en espérant cette fois que j'aurais un peu plus de quelques heures pour apprendre et répéter le morceau.
 
-\[embedyt\]https://www.youtube.com/watch?v=1mO0P-AxALE&list=PLDB2FC583824EDC0B&width=400&height=250\[/embedyt\]
+\[embedyt\]<iframe width="560" height="315" src="https://www.youtube.com/embed/1mO0P-AxALE" frameborder="0" allowfullscreen></iframe>&list=PLDB2FC583824EDC0B&width=400&height=250\[/embedyt\]
 
 En résumé l'Arts Factoy a été vraiment une excellente expérience, grâce au lieu un peu magique, mais aussi au contact des personnes que j'ai pu y rencontrer. Alors si vous y allez, n'hésitez pas à camper plutôt que de rester dans un dortoir. La vrai bonne ambiance se trouve du côté camping. Il y a beaucoup moins de buveurs, bringueurs, et beaucoup plus de personnes qui savent apprécier les vraies bonnes choses.
 
