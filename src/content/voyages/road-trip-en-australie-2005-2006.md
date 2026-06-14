@@ -49,7 +49,7 @@ Dans l'auberge il y a aussi un français qui joue de la guitare et nous jouons l
 Nous avons rencontré deux françaises bien sympa qui sont en Australie pour leurs stages et qui en profitent pour faire un petit tour avant de commencer à Sydney et Melbourne.
 
 [  
-](https://guillaumebraillon.fr/wp-content/uploads/2014/08/0Remy11.jpg)[![1IMG_0044](https://guillaumebraillon.fr/wp-content/uploads/2014/08/1IMG_0044.jpg)](https://guillaumebraillon.fr/wp-content/uploads/2014/08/1IMG_0044.jpg)
+](https://guillaumebraillon.fr/wp-content/uploads/2014/08/0Remy11.jpg)![1IMG_0044](https://guillaumebraillon.fr/wp-content/uploads/2014/08/1IMG_0044.jpg)
 
 ## Un jour horrible.
 

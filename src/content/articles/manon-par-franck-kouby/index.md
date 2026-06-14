@@ -5,10 +5,9 @@ tags: ["Musique", "Montage vidéo", "Pinnacle Studio"]
 description: "Clip vidéo réalisé pour l'ami musicien Franck Kouby, associant appareils photo reflex et Pinnacle Studio."
 ---
 
-> Comme vous le savez certainement si vous avez parcouru mon site, la [**musique**](https://guillaumebraillon.fr/category/articles-divers/musique/) et le [**montage vidéo**](https://guillaumebraillon.fr/category/articles-divers/photos/) sont deux de mes **passions** et **l'association** des deux me permet de réaliser des clips vidéo comme celui ci, "**Manon par Franck Kouby",**  un ami musicien de Grenoble.
+> Comme vous le savez certainement si vous avez parcouru mon site, la **musique** et le **montage vidéo** sont deux de mes **passions** et **l'association** des deux me permet de réaliser des clips vidéo comme celui ci, "**Manon par Franck Kouby",**  un ami musicien de Grenoble.
 >
-> Dans cet article, vous avez un **exemple** de ce que l'on peut faire avec des **appareils photos reflex**, associés au **logiciel de montage vidéo Pinnacle Studio**.  
-> Ceux qui suivent régulièrement mes articles, savent désormais que je [prépares des tutoriels](https://guillaumebraillon.fr/montage-video-avec-pinnacle-studio-21-5/) pour le **montage vidéo**, également avec Pinnacle Studio.
+> Dans cet article, vous avez un **exemple** de ce que l'on peut faire avec des **appareils photos reflex**, associés au **logiciel de montage vidéo Pinnacle Studio**.
 >
 > *N’hésitez* *pas à visiter le site de mon ami Franck Kouby [http://franckkouby.fr](http://franckkouby.fr) pour trouver d'autres vidéos et informations sur sa musique. Un album est actuellement en préparation et devrait bientôt sortir.*
 
@@ -23,8 +22,6 @@ description: "Clip vidéo réalisé pour l'ami musicien Franck Kouby, associant 
 - **Gilles Ragris** (Images)
 - **Jean-Claude Braillon** (Assistant images)
 - **Guillaume Braillon** (Images et montage)
-  - [contact@guillaumebraillon.fr](mailto:contact@guillaumebraillon.fr)
-  - [https://guillaumebraillon.fr/](https://guillaumebraillon.fr/)
 - **Remerciements** : Manon, Mathis, Valérie.
 - Enregistrement à la MJC des Allobroges.
 

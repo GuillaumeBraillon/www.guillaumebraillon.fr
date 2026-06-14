@@ -19,7 +19,7 @@ J’ai pris l’avion à Lyon à 10 heures 10.
 Bon voyage d’environ sept heures je suis arrivé à New York à midi l’heure de New York.  
 Il fait 30°C.
 
-[![02](https://guillaumebraillon.fr/wp-content/uploads/2014/08/02-300x193.jpg)](https://guillaumebraillon.fr/wp-content/uploads/2014/08/02.jpg)Après avoir tourné un bon 1/4 d’heure dans l’aéroport j’ai rencontré des français qui mon proposer de partager un taxi pour rejoindre Manhattan.
+![02](https://guillaumebraillon.fr/wp-content/uploads/2014/08/02-300x193.jpg)Après avoir tourné un bon 1/4 d’heure dans l’aéroport j’ai rencontré des français qui mon proposer de partager un taxi pour rejoindre Manhattan.
 
 Les sont allés à Madison Street à leur hôtel,  là c’est le vrai départ pour le moi.
 
@@ -35,7 +35,7 @@ Une fois arrivé dans l’auberge j’ai donc pris une chambre enfin un lit dans
 
 Une fois mes affaire ranger, je suis allé visiter les alentours, je suis en plein centre de Times Square.
 
-[![newyork_06](https://guillaumebraillon.fr/wp-content/uploads/2014/08/newyork_06-300x196.jpg)](https://guillaumebraillon.fr/wp-content/uploads/2014/08/newyork_06.jpg)J’ai trouvé que les rues ressemblaient à « Walt Disney », c’est grandiose.
+![newyork_06](https://guillaumebraillon.fr/wp-content/uploads/2014/08/newyork_06-300x196.jpg)J’ai trouvé que les rues ressemblaient à « Walt Disney », c’est grandiose.
 
 Des écrans géants de partout,  les pubs pour les voitures se sont des voitures sur les immeubles !
 
@@ -45,7 +45,7 @@ Apres avoir passer une bonne heure dans les CD’s je suis retourner me balader 
 
 Je suis entré pour demander le prix du concert de ce soir, il y a Wilson Pickett et j’ai discuté avec la vendeuse de souvenirs.
 
-[![25](https://guillaumebraillon.fr/wp-content/uploads/2001/06/25-153x300.jpg)](https://guillaumebraillon.fr/wp-content/uploads/2001/06/25.jpg)Mais le concert coûté 37,50 $ (260,24 F), trop cher. Je lui ai demander pour BB King qui passait jeudi 17 et samedi 19 mai, 55 dollars soit 385,10 francs un peu cher pour mon budget, et je pense qu’à Chicago je trouverai de meilleures opportunités, New York c’est New York …
+![25](https://guillaumebraillon.fr/wp-content/uploads/2001/06/25-153x300.jpg)Mais le concert coûté 37,50 $ (260,24 F), trop cher. Je lui ai demander pour BB King qui passait jeudi 17 et samedi 19 mai, 55 dollars soit 385,10 francs un peu cher pour mon budget, et je pense qu’à Chicago je trouverai de meilleures opportunités, New York c’est New York …
 
 J’en ai profité pour aller voir les salles, c’est génial, c’est un resto et il y a une scène immense, il y a aussi un PUB.
 
@@ -185,7 +185,7 @@ J’ai discuté avec l’espagnol qui Ma dit qu’il voulait trouver du travail 
 
 ## Statue de la liberté
 
-[![Usa_2001](https://guillaumebraillon.fr/wp-content/uploads/2013/08/Usa_2001-199x300.jpg)](https://guillaumebraillon.fr/wp-content/uploads/2013/08/Usa_2001.jpg)Aujourd’hui je suis allé voir la statue de la liberté, je suis descendus à pied jusqu’aux World Trade Center mais je ne m’y suis pas arrêté, je pense que j’ai retournerais.
+![Usa_2001](https://guillaumebraillon.fr/wp-content/uploads/2013/08/Usa_2001-199x300.jpg)Aujourd’hui je suis allé voir la statue de la liberté, je suis descendus à pied jusqu’aux World Trade Center mais je ne m’y suis pas arrêté, je pense que j’ai retournerais.
 
 J’ai pris le bateau et je suis arrivé à L’île où il y a la statue, je suis monter à pied jusqu’au Ire étage car il était trop tard, pour allé jusqu’en haut et redescendre pour prendre le bateau à l’heure.
 
@@ -330,7 +330,7 @@ J’ai passé la soirée avec tout le groupe que nous sommes et on est allé dan
 Aujourd’hui je pars pour Washington par le bus de 2 :00pm si il y a de la place sinon je suis mal.  
 Ce matin je vais allé cherche mon Ameripass pour 7 jours pour que je puisse allé a Richmond, Chicago et aussi me baladé ou je veux.
 
-[![nordest](https://guillaumebraillon.fr/wp-content/uploads/2014/08/nordest-211x300.jpg)](https://guillaumebraillon.fr/wp-content/uploads/2014/08/nordest.jpg)A 10 :30 je suis parti au central Bus pour prendre mon Ameripass. Mais la au guichet ils m’ont dit que le seul bus pour Richmond partait à 12 :00 et il était 11 :25Am. J’ai donc couru à l’auberge qui est à la 20 th st pour prendre mon sac, rendre la clef et retourné au central bus qui est à la 40 th st, tout ça en moins de 30 minutes. Je suis arrivé à 12 :10, le bus été parti mais beaucoup de personnes attendaient et j’ai demandé si le bus allé à Richmond et ct le cas donc j’ai attendu 12 :45 l’heur de départ de ce bus et la le chauffeur ma dit que sur le quai d’en fasse il y avait un bus direct pour Richmond dons je suis allé le prendre, la femme du guichet était vraiment a la rue.
+![nordest](https://guillaumebraillon.fr/wp-content/uploads/2014/08/nordest-211x300.jpg)A 10 :30 je suis parti au central Bus pour prendre mon Ameripass. Mais la au guichet ils m’ont dit que le seul bus pour Richmond partait à 12 :00 et il était 11 :25Am. J’ai donc couru à l’auberge qui est à la 20 th st pour prendre mon sac, rendre la clef et retourné au central bus qui est à la 40 th st, tout ça en moins de 30 minutes. Je suis arrivé à 12 :10, le bus été parti mais beaucoup de personnes attendaient et j’ai demandé si le bus allé à Richmond et ct le cas donc j’ai attendu 12 :45 l’heur de départ de ce bus et la le chauffeur ma dit que sur le quai d’en fasse il y avait un bus direct pour Richmond dons je suis allé le prendre, la femme du guichet était vraiment a la rue.
 
 A 4 :25pm nous nous sommes arrêtés à Baltimore dans le Maryland, je suis allé acheter à manger car je n’avais pas mangé depuis la veille au soir. Les gens dans le bus sont bizarre ce ne sont pas des touristes comme moi. 4 :45 pm nous voilà reparti, je ne sais pas combien va durer le voyage.
 
@@ -346,6 +346,6 @@ Deja si vous avez tout lu chapeau parceque moi je l'ai jamais relu c'est trop lo
 
 Voila ou je me suis aussi baladé:
 
-[![sudouest](https://guillaumebraillon.fr/wp-content/uploads/2014/08/sudouest.jpg)](https://guillaumebraillon.fr/wp-content/uploads/2014/08/sudouest.jpg)
+![sudouest](https://guillaumebraillon.fr/wp-content/uploads/2014/08/sudouest.jpg)
 
 Et vous êtes-vous allez au USA ? De bons souvenir ?
