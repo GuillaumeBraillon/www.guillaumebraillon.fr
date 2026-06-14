@@ -44,7 +44,7 @@ Depuis toutes ces années, il continue à m'apprendre énormément sur le plan m
 > Franck fait partie des personnes qui ont le plus influencé ma façon d'aborder la musique, aussi bien humainement que musicalement.
 
 ![Guillaume en 2001](./Guillaume%202001.JPG)
-![Guillaume au lycée](./Guillaume%20Lyce%CC%81e.JPG)
+![Guillaume au lycee](./Guillaume%20Lycee.JPG)
 ![Guillaume en 2000](./Guillaume%202000.JPG)
 
 ![Jérôme](./Jerome.JPG)
