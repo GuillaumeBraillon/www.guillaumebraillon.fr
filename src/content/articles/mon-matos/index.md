@@ -9,8 +9,6 @@ description: "Présentation de mes instruments et équipements musicaux, de la F
 
 Mes instruments de prédilection, ceux que j’utilises le plus souvent et qui ont, pour la plupart, fait partie de mon univers depuis mes débuts.
 
----
-
 ## Guitares
 
 ### Fender Stratocaster SRV
