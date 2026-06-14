@@ -60,3 +60,33 @@
   border-left: 0.25em solid #d0d7de;
   margin-bottom: 16px;
 }
+
+.markdown-body iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.markdown-body img {
+  max-width: 200px;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 16px auto;
+  display: block;
+}
+
+/* Images côte à côte — wrappées dans un <p> par le parser markdown */
+.markdown-body p:has(img + img) {
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+}
+
+.markdown-body p:has(img + img) img {
+  width: calc(33% - 8px);
+  max-width: none;
+  margin: 0;
+}
