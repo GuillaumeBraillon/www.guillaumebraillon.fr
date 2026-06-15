@@ -1846,7 +1846,7 @@ Mais comme je n'avais plus de carte de crédit, je n'ai pas pu réserver d'avion
 
 ![J02_alb](./images/J02_alb.jpg)
 
-![J2_ALB](./images/J2_alb.jpg)
+![J2_ALB](./images/J2_ALB.jpg)
 
 ![J3_ALB](./images/J3_ALB.jpg)
 
