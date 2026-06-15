@@ -41,10 +41,35 @@ const { Content } = await render(voyage);
     ) : (
       <article class="space-y-6">
         <header class="pb-5 border-b border-[#d0d7de]">
-          <h1 class="text-2xl font-semibold text-[#1f2328]">{validation.data.title}</h1>
-          <p class="text-sm text-[#57606a] mt-1">
-            {validation.data.country} · {validation.data.period}
-          </p>
+          <div class="flex flex-wrap items-center gap-2 text-sm text-[#636c76] mb-2">
+            <a href="/voyages" class="text-[#0969da] hover:underline">
+              Voyages
+            </a>
+            <span>/</span>
+            <span class="font-semibold text-[#1f2328]">{voyage.id}</span>
+          </div>
+
+          <h1 class="text-2xl font-semibold text-[#1f2328] tracking-tight">
+            {validation.data.title}
+          </h1>
+
+          <div class="mt-2 flex flex-wrap items-center gap-3 text-sm text-[#57606a]">
+            <p class="text-sm text-[#57606a] mt-1">
+              {validation.data.country} · {validation.data.period}
+            </p>
+            {validation.data.tags && validation.data.tags.length > 0 && (
+              <>
+                <span>•</span>
+                <div class="flex flex-wrap gap-1.5 items-center">
+                  {validation.data.tags.map((tag: string) => (
+                    <span class="text-[11px] text-[#0969da] bg-[#ddf4ff] px-2 py-0.5 rounded-full font-medium">
+                      {tag}
+                    </span>
+                  ))}
+                </div>
+              </>
+            )}
+          </div>
         </header>
         <div class="prose prose-sm max-w-none markdown-body">
           <Content />

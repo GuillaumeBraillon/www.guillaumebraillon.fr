@@ -5,6 +5,7 @@ country: "Australie"
 period: "2005 - 2006"
 duration: "1 an"
 date: 2006-08-01
+tags: ["Carnets de voyages", "BackPacking", "Musique"]
 ---
 
 ## **Mercredi 29 juin.**

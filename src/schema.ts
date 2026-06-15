@@ -8,6 +8,7 @@ export const VoyageStrictSchema = z.object({
   date: z.coerce.date({ message: "La date doit être valide" }),
   duration: z.string().optional(),
   cover: z.string().optional(),
+  tags: z.array(z.string()).optional(),
 });
 
 export const ArticleStrictSchema = z.object({
