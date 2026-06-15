@@ -35,4 +35,4 @@ _Comme je vous le disais, le montage vidéo à été réalisé avec le logiciel�
 
 ## Clip de Manon par Franck Kouby
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W1W6HMtZFNo" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/W1W6HMtZFNo" frameborder="0" allowfullscreen></iframe>

@@ -38,9 +38,9 @@ De toute façon, là je n'ai qu'une envie, c'est de prendre une douche et de me 
 
 ## **Apres quelques jours...**
 
-Me voilà installé à la City Backpacker sur Roma Street ou j'ai retrouvé Rémy un pote de France qui est venu passer l'été en Australie. Il était déjà venu me voir lorsque j’étais en [Irlande](https://guillaumebraillon.fr/irlande-2003-2005/).
+Me voilà installé à la City Backpacker sur Roma Street ou j'ai retrouvé Rémy un pote de France qui est venu passer l'été en Australie. Il était déjà venu me voir lorsque j’étais en [Irlande](../voyages/irlande-2003-2005/).
 
-![0Remy11](https://guillaumebraillon.fr/wp-content/uploads/2014/08/0Remy11.jpg)
+![0Remy11](./images/0Remy11.jpg)
 
 L'auberge est bien mais je suis dans une chambre de 6 personnes ce qui fait que je paye 23$ la nuit, un peu cher.  
 Mercredi nous allons changer d'auberge pour une moins chère, 90$ la semaine.  
@@ -48,8 +48,7 @@ Nous avons rencontré pas mal de monde dont une irlandaise qui va peut-être ven
 Dans l'auberge il y a aussi un français qui joue de la guitare et nous jouons le soir, du JACK JOHNSON entre autres. Il y a pas mal de français à l'auberge, et le fait de parler Français avec Rémy ne facilite pas les choses.  
 Nous avons rencontré deux françaises bien sympa qui sont en Australie pour leurs stages et qui en profitent pour faire un petit tour avant de commencer à Sydney et Melbourne.
 
-[  
-](https://guillaumebraillon.fr/wp-content/uploads/2014/08/0Remy11.jpg)![1IMG_0044](https://guillaumebraillon.fr/wp-content/uploads/2014/08/1IMG_0044.jpg)
+![1IMG_0044](./images/1IMG_0044.jpg)
 
 ## Un jour horrible.
 
@@ -74,7 +73,29 @@ L'aventure continue, alors une bonne nuit de sommeil et on est reparti !!
 
 Jeudi soir j'ai reçu un appel de Kristy une des australiennes que j'avais rencontré à Dublin (voir Irlande 2004). Nous sommes allés boire un verre dans la soirée, nous avons reparlé des souvenir de l'Irlande et de ce que nous faisons maintenant. Elle est aujourd'hui, du haut de ces 25 ans, avocate, ce qui parait jeune pour nous mais qui est normal ici. Sa colloque a 24 ans, et est avocate aussi. Elle nous a proposé de sortir avec elles vendredi, où elle va retrouver des amis pour la soirée. Elle nous a aussi très gentiment proposé de passer le weekend chez elle.
 
-\[gallery columns="4" ids="1771,1772,1773,1774,1775,1776,1777,1778,1779" orderby="rand"\]
+### Photos
+
+<div class="gallery">
+
+![1IMG_0078](./images/1IMG_0078.jpg)
+
+![1IMG_0080](./images/1IMG_0080.jpg)
+
+![1IMG_0081](./images/1IMG_0081.jpg)
+
+![19-07-2005 006](./images/19-07-2005-006.jpg)
+
+![19-07-2005 019](./images/19-07-2005-019.jpg)
+
+![1IMG_0069](./images/1IMG_0069.jpg)
+
+![1IMG_0071](./images/1IMG_0071.jpg)
+
+![1IMG_0073](./images/1IMG_0073.jpg)
+
+![1IMG_0076](./images/1IMG_0076.jpg)
+
+</div>
 
 Vendredi nous avons pris rendez-vous avec plusieurs personnes, pour voir des vans. Nous sommes tombés sous le charme du 1er. C'est un Toyota qui ressemble de très près au fameux WW. Apres en avoir vu 2 autres, nous confirmons l'achat et partons retirer 2700$ soit 1600 E prix que nous avons négocié, car il était d'abord à 3300 $.  
 Mais là, les problèmes ont commencé, je ne peux retirer que 1000E par semaine, ce qui pose un gros problème car le vendeur est allemand, et il rentre dans 5 jours. Je propose donc de faire un transfert d'argent sur son compte. Apres plusieurs coups de fils a la banque, j'arrive à faire réaliser le transfert, mais le weekend et les délais font que l'argent ne sera pas sur son compte avant mercredi ou jeudi, je vais essayer de négocier ça avec lui.
@@ -90,7 +111,33 @@ Ce 1er week-end a été plutôt bien réussi, mais nous n'avons pas encore notre
 Voilà je suis enfin propriétaire d'un Van.  
 Après de dures négociations avec le vendeur, des fax à la banque, et le stress, me voilà enfin prêt, ou du moins presque, a partir sur les routes. Un seul petit problème le van n'a pas de contrôle technique alors on va devoir aller au garage pour le faire réaliser. S'il y a trop de frais je partirai comme ça, et on fera les réparations au fur et à mesure. De toute façon, je n'espère pas être obligé de le vendre bientôt.
 
-\[gallery columns="4" link="file" ids="1780,1781,1782,1783,1784,1785,1786,1787,1788,1790,1789" orderby="rand"\]
+### Photos
+
+<div class="gallery">
+
+![19-07-2005 012](./images/19-07-2005-012.jpg)
+
+![1IMG_0077](./images/1IMG_0077.jpg)
+
+![1IMG_0085](./images/1IMG_0085.jpg)
+
+![1IMG_0087](./images/1IMG_0087.jpg)
+
+![19-07-2005 002](./images/19-07-2005-002.jpg)
+
+![19-07-2005 007](./images/19-07-2005-007.jpg)
+
+![19-07-2005 010](./images/19-07-2005-010.jpg)
+
+![19-07-2005 011](./images/19-07-2005-011.jpg)
+
+![19-07-2005 023](./images/19-07-2005-023.jpg)
+
+![19-07-2005 026](./images/19-07-2005-026.jpg)
+
+![19-07-2005 022](./images/19-07-2005-022.jpg)
+
+</div>
 
 Pour un premier test nous allons aller pour le week-end sur la Gold Coast direction Surfers Paradise. Nous sommes passés pas Southport et Main Beach. Notre 1er arrêt sur la plage a été a the Spit regardez les photos, c'est ou il y a les jets ski.  
 Pour le soir nous sommes allés au camping de Burleigh, un peu déçus car il n'y avait que des vieux, mais cela nous a permis de profiter du Van avec l'équipement électrique, c'est à dire four micro-onde, toutes les lumières, et le chauffage car la nuit était fraîche.  
@@ -100,9 +147,31 @@ Les Australiens donnent vraiment l'impression d'une population sans soucis, qui 
 Apres avoir fait un petit tour en ville nous avons repris le dernier bus vers minuit, pour ne pas être obligés de faire 10 Kms a pied pour rentrer au Van.  
 Il est vrai que nous ne sommes pas encore très bons pour nous orienter et trouver les bons coins du 1er coup, mais tout cela devrait aller mieux avec l'expérience des habitudes du pays.
 
-\[gallery columns="4" link="file" ids="1791,1792,1793,1794,1795,1796,1797,1798,1799,1800" orderby="rand"\]
+### Photos
 
----
+<div class="gallery">
+
+![100_7457](./images/100_7457.jpg)
+
+![100_7458](./images/100_7458.jpg)
+
+![100_7459](./images/100_7459.jpg)
+
+![100_7463](./images/100_7463.jpg)
+
+![100_7464](./images/100_7464.jpg)
+
+![100_7439](./images/100_7439.jpg)
+
+![100_7443](./images/100_7443.jpg)
+
+![100_7448](./images/100_7448.jpg)
+
+![100_7451](./images/100_7451.jpg)
+
+![100_7453](./images/100_7453.jpg)
+
+## </div>
 
 ## 1er contact avec les koalas.
 
@@ -113,9 +182,57 @@ Je ne peux pas vous décrire l'impression que cela procure de voir de près ces 
 Après les kangourous, nous sommes allés voir les Koalas. Ce sont de petites créatures qui ressemblent à des peluches, et qui passent leur vie sur les arbres, à manger des feuilles d'eucalyptus. Leur pelage est merveilleux, et leurs petites pattes crochues montrent bien qu'ils ne sont faits que pour grimper aux arbres. Mais pourtant, un coup de griffe ne doit pas faire du bien.  
 Ensuite, nous sommes allés voir les autres animaux qui sont tout aussi magnifiques tels que les différents oiseaux exotiques, et les autres bestioles dont je ne me rappelle plus les noms. Je vous laisse regarder les photos et la vidéo pour juger par vous-même l'expérience du Lone Pine Koala Sanctuary.
 
-\[gallery columns="4" link="file" ids="1801,1802,1803,1804,1805,1806,1807,1808,1809,1810,1811,1812,1813,1814,1815,1816,1817,1818,1819,1820,1821,1822,1823" orderby="rand"\]
+### Photos
 
----
+<div class="gallery">
+
+![100_7286](./images/100_7286.jpg)
+
+![100_7291](./images/100_7291.jpg)
+
+![100_7295](./images/100_7295.jpg)
+
+![100_7296](./images/100_7296.jpg)
+
+![100_7298](./images/100_7298.jpg)
+
+![100_7299](./images/100_7299.jpg)
+
+![100_7300](./images/100_7300.jpg)
+
+![100_7302](./images/100_7302.jpg)
+
+![100_7320](./images/100_7320.jpg)
+
+![100_7342](./images/100_7342.jpg)
+
+![100_7370](./images/100_7370.jpg)
+
+![100_7410](./images/100_7410.jpg)
+
+![100_7415](./images/100_7415.jpg)
+
+![100_7416](./images/100_7416.jpg)
+
+![100_7418](./images/100_7418.jpg)
+
+![100_7420](./images/100_7420.jpg)
+
+![100_7423](./images/100_7423.jpg)
+
+![100_7425](./images/100_7425.jpg)
+
+![100_7427](./images/100_7427.jpg)
+
+![100_7428](./images/100_7428.jpg)
+
+![100_7432](./images/100_7432.jpg)
+
+![100_7435](./images/100_7435.jpg)
+
+![100_7437](./images/100_7437.jpg)
+
+## </div>
 
 ## C'est parti direction Cairns 1600 kms.
 
@@ -127,18 +244,76 @@ Sur la route, nous avons fait une escale pour manger, en haut d'une petite monta
 Le soir nous sommes arrivés à Morechydore et avons trouvé un petit coin pour dormir.  
 Le lendemain, nous sommes allés faire un tour sur la plage, avant de partir pour Noosa.
 
-\[gallery columns="4" link="file" ids="1824,1825,1826,1827,1828,1829,1830,1831,1832,1833,1834,1835,1836,1837,1838,1839" orderby="rand"\]
+### Photos
 
----
+<div class="gallery">
+
+![100_7569](./images/100_7569.jpg)
+
+![100_7500](./images/100_7500.jpg)
+
+![100_7501](./images/100_7501.jpg)
+
+![100_7502](./images/100_7502.jpg)
+
+![100_7503](./images/100_7503.jpg)
+
+![100_7530](./images/100_7530.jpg)
+
+![100_7537](./images/100_7537.jpg)
+
+![100_7539](./images/100_7539.jpg)
+
+![100_7540](./images/100_7540.jpg)
+
+![100_7541](./images/100_7541.jpg)
+
+![100_7543](./images/100_7543.jpg)
+
+![100_7545](./images/100_7545.jpg)
+
+![100_7549](./images/100_7549.jpg)
+
+![100_7551](./images/100_7551.jpg)
+
+![100_7556](./images/100_7556.jpg)
+
+![100_7562](./images/100_7562.jpg)
+
+## </div>
 
 ## Noosa National Park.
 
 Aujourd'hui Mercredi 19 Juillet 2005, nous sommes montés sur Noosa pour faire une petite balade dans le parc national. Le parc s'étend sur 2kms à la fin de la Sunshine Coast.  
 La ballade au travers de la forêt du Park et des plages de sable fin, nous a pris la journée et en prime, nous avons eu droit à un superbe coucher de soleil lorsque nous sommes sortis de la forêt tropicale. Les photos en disent plus que les discours, alors je vous laisse apprécier.
 
-\[gallery columns="4" link="file" ids="1840,1841,1842,1843,1844,1845,1846,1847,1848,1849,1850" orderby="rand"\]
+## Photos
 
----
+<div class="gallery">
+
+![100_7599](./images/100_7599.jpg)
+
+![100_7573](./images/100_7573.jpg)
+
+![100_7580](./images/100_7580.jpg)
+
+![100_7585](./images/100_7585.jpg)
+
+![100_7586](./images/100_7586.jpg)
+
+![100_7588](./images/100_7588.jpg)
+
+![100_7589](./images/100_7589.jpg)
+
+![100_7593](./images/100_7593.jpg)
+
+![100_7595](./images/100_7595.jpg)
+
+![100_7596](./images/100_7596.jpg)
+
+![100_7597](./images/100_7597.jpg)
+
+## </div>
 
 ## **Jusqu'où va t'on allé???**
 
@@ -163,9 +338,27 @@ Le soir à 17h00, nous avons eu un meeting pour nous préparer au séjour sur l'
 C'est un parc naturel avec des animaux sauvages en tous genres, tels que les Dingos (chiens sauvages) qui ne sont pas commodes, parait-il.  
 Voilà c'est tout pour aujourd'hui, car demain départ à 6h30 du matin, et retour dimanche soir.
 
-\[gallery link="file" columns="4" ids="1851,1852,1853,1854,1855,1856,1857,1858" orderby="rand"\]
+### Photos
 
----
+<div class="gallery">
+
+![100_7602](./images/100_7602.jpg)
+
+![100_7608](./images/100_7608.jpg)
+
+![100_7610](./images/100_7610.jpg)
+
+![100_7613](./images/100_7613.jpg)
+
+![100_7619](./images/100_7619.jpg)
+
+![100_7620](./images/100_7620.jpg)
+
+![100_7621](./images/100_7621.jpg)
+
+![100_7623](./images/100_7623.jpg)
+
+## </div>
 
 ## 3 jours de bonheur sur Frazer Island.
 
@@ -241,9 +434,21 @@ _A oui au fait, un grand merci à mon père qui fait de son mieux pour corriger 
 Je suis allongé sur la plage du lagon d'Airlie Beach, sous un soleil de plomb, et devant une belle page blanche. Je ne sais pas trop par où commencer. Voilà déjà un mois que nous sommes, Rémy et moi, arrivés à Airlie Beach. Nous avions retrouvé nos amies Allemandes, après notre périlleuse virée sur Bowen.  
 Elles ont visité les Iles de Whitsunday, l'archipel d'iles au large d'Airlie, sur la barrière de corail. Comme nous sommes revenus, elles ont décidé de rester un peu avec nous. Elles ont fait la connaissance d'un Australien qui voyage seul dans son van. Il s'appelle Adam et il joue de la guitare, nous avons tout de suite sympathisé. Rémy est parti Dimanche sur South Moll Island, pour travailler dans le complexe touristique de l'ile, et moi j'ai trouvé un boulot au Backpacker The Beaches, comme kitchen hands.
 
-\[gallery columns="4" link="file" ids="1944,1945,1946,1947,1948" orderby="rand"\]
+### Photos
 
----
+<div class="gallery">
+
+![Airlie beach](./images/Airlie-beach.jpg)
+
+![P1000220](./images/P1000220.jpg)
+
+![P1000229](./images/P1000229.jpg)
+
+![P1000231](./images/P1000231.jpg)
+
+![P1000233](./images/P1000233.jpg)
+
+## </div>
 
 ## **La 1ère semaine à Airlie Beach.**
 
@@ -345,9 +550,25 @@ Après qu'il ait disparu à l'horizon, nous avons repris le chemin dans la nuit 
 De retour aux vans, nous avons préparé le diner, et passés la nuit sur place.  
 Le ciel était tout étoilé, et nous avons vu pleins d'étoiles filantes magnifiques.
 
-\[gallery columns="4" link="file" ids="1949,1950,1951,1952,1953,1954,1955" orderby="rand"\]
+## Photos
 
----
+<div class="gallery">
+
+![P1000266](./images/P1000266.jpg)
+
+![P1000269](./images/P1000269.jpg)
+
+![P1000274](./images/P1000274.jpg)
+
+![P1000276](./images/P1000276.jpg)
+
+![P1000288](./images/P1000288.jpg)
+
+![P1000290](./images/P1000290.jpg)
+
+![P1000291](./images/P1000291.jpg)
+
+## </div>
 
 ## **Whitsunday Island.**
 
@@ -366,11 +587,41 @@ L'escale suivante est une plage de sable blanc, pur à 99.9%. Cela signifie qu'i
 
 De retour au bateau, nous sommes partis pour une petite crique, où nous avons pu observer des tortues d'eau. Sur les 7 espèces que l'on peut trouver au monde, les îles Witsunday en abritent 6.
 
-Un dernier rodéo en Zodiac, et nous sommes rentrés sur Airlie Beach vers 17h00. Voici l'adresse du site web d'Océan Rafting [http://www.oceanrafting.com/](http://www.oceanrafting.com/), je pense que c'est une très bonne formule qui regroupe la visite des îles, l'observation de la faune, et de la flore, du snorkeling, et une bonne dose de frissons garantie. 
+Un dernier rodéo en Zodiac, et nous sommes rentrés sur Airlie Beach vers 17h00. Je pense que c'est une très bonne formule qui regroupe la visite des îles, l'observation de la faune, et de la flore, du snorkeling, et une bonne dose de frissons garantie. 
 
-\[gallery columns="4" link="file" ids="1956,1957,1958,1959,1960,1961,1962,1963,1964,1965,1966,1967,1968,1969" orderby="rand"\]
+### Photos
 
----
+<div class="gallery">
+
+![P1010037](./images/P1010037.jpg)
+
+![P1010048](./images/P1010048.jpg)
+
+![P1010049](./images/P1010049.jpg)
+
+![P1010050](./images/P1010050.jpg)
+
+![P1010053](./images/P1010053.jpg)
+
+![P1010054](./images/P1010054.jpg)
+
+![P1010055](./images/P1010055.jpg)
+
+![P1010058](./images/P1010058.jpg)
+
+![P1010063](./images/P1010063.jpg)
+
+![P1010064](./images/P1010064.jpg)
+
+![P1010066](./images/P1010066.jpg)
+
+![P1010067](./images/P1010067.jpg)
+
+![P1010068](./images/P1010068.jpg)
+
+![P1010069](./images/P1010069.jpg)
+
+## </div>
 
 ## **On the road again.**
 
@@ -398,9 +649,23 @@ A 21h45, nous nous sommes arrêtés sur une aire de repos, à El Arish, ou nous 
 
 Après la petite session de montage de tente dans le noir, pour le couple anglais, nous avons joué un peu de guitare, et tout le monde est parti se coucher, car nous venions de parcourir plus de 500 Kms, et non sans mal.
 
-\[gallery columns="4" link="file" ids="1974,1975,1976,1977,1978,1979" orderby="rand"\]
+### Photos
 
----
+<div class="gallery">
+
+![021](./images/021.jpg)
+
+![04](./images/04.jpg)
+
+![05](./images/05.jpg)
+
+![07](./images/07.jpg)
+
+![09](./images/09.jpg)
+
+![10](./images/10.jpg)
+
+## </div>
 
 ## **Welcome to Cairns.**
 
@@ -500,9 +765,39 @@ Nous avons donc passé la soirée là-bas à jouer de la guitare. La musique est
 
 En fin de soirée nous partons regagner nos vans pour la nuit. Demain il va falloir trouver un moyen de monter un campement de fortune pour dormir, mais nous n'avons pas de tente, il va falloir improviser. Demain il fera jour, nous y verrons plus clair.
 
-\[gallery columns="4" link="file" ids="1991,1990,1992,1983,1980,1981,1982,1984,1993,1994,1995,1985,1986,1987"\]
+### Photos
 
----
+<div class="gallery">
+
+![18](./images/18.jpg)
+
+![19](./images/19.jpg)
+
+![20](./images/20.jpg)
+
+![21](./images/21.jpg)
+
+![22](./images/22.jpg)
+
+![39](./images/39.jpg)
+
+![40](./images/40.jpg)
+
+![41](./images/41.jpg)
+
+![11](./images/11.jpg)
+
+![13](./images/13.jpg)
+
+![14](./images/14.jpg)
+
+![15](./images/15.jpg)
+
+![16](./images/16.jpg)
+
+![17](./images/17.jpg)
+
+## </div>
 
 ## **Introduction au Rainbow**
 
@@ -532,9 +827,49 @@ Le soir la célébration pour la pleine lune a eu lieu, l'ambiance y était chal
 
 Une fois la soirée terminée, et après avoir hésité un bon moment, nous avons décidé de rester dormir dans notre "maison" perchée dans les arbres, le confort de mon van me manque déjà. . .
 
-\[gallery columns="4" link="file" ids="2000,2001,2002,2003,2004,2005,2006,2008,2009,1996,1997,1998,1999,2010,2011,2012,2013,2014,2015"\]
+### Photos
 
----
+<div class="gallery">
+
+![47](./images/47.jpg)
+
+![48](./images/48.jpg)
+
+![49](./images/49.jpg)
+
+![50](./images/50.jpg)
+
+![120](./images/120.jpg)
+
+![123](./images/123.jpg)
+
+![124](./images/124.jpg)
+
+![125](./images/125.jpg)
+
+![126](./images/126.jpg)
+
+![130](./images/130.jpg)
+
+![131](./images/131.jpg)
+
+![133](./images/133.jpg)
+
+![134](./images/134.jpg)
+
+![139](./images/139.jpg)
+
+![140](./images/140.jpg)
+
+![141](./images/141.jpg)
+
+![44](./images/44.jpg)
+
+![45](./images/45.jpg)
+
+![46](./images/46.jpg)
+
+## </div>
 
 ## **1ere nuit dans la forêt tropicale.**
 
@@ -624,9 +959,55 @@ Cette soirée a magnifiquement terminé cette expérience extraordinaire que j'e
 
 Plusieurs sites amateur ont été créés. Si vous êtes intéressés, faites des recherches sur Google avec "Rainbow Gathering" ou "Rainbow Family".
 
-\[gallery link="file" columns="4" ids="2016,2017,2018,2019,2022,2023,2024,2025,2026,2027,2028,2029,2030,2031,2032,2033,2034,2035,2036,2037,2038,2039" orderby="rand"\]
+### Photos
 
----
+<div class="gallery">
+
+![CIMG1309](./images/CIMG1309.jpg)
+
+![CIMG1314](./images/CIMG1314.jpg)
+
+![CIMG1316](./images/CIMG1316.jpg)
+
+![CIMG1317](./images/CIMG1317.jpg)
+
+![CIMG1409](./images/CIMG1409.jpg)
+
+![CIMG1422](./images/CIMG1422.jpg)
+
+![CIMG1478](./images/CIMG1478.jpg)
+
+![CIMG1481](./images/CIMG1481.jpg)
+
+![CIMG1484](./images/CIMG1484.jpg)
+
+![cimg1485](./images/cimg1485.jpg)
+
+![CIMG1486](./images/CIMG1486.jpg)
+
+![DSC02200](./images/DSC02200.jpg)
+
+![DSC02203](./images/DSC02203.jpg)
+
+![DSC02211](./images/DSC02211.jpg)
+
+![DSC02216](./images/DSC02216.jpg)
+
+![DSC02245](./images/DSC02245.jpg)
+
+![DSC02310](./images/DSC02310.jpg)
+
+![DSC02311](./images/DSC02311.jpg)
+
+![DSC02797](./images/DSC02797.jpg)
+
+![cDSC02204](./images/cDSC02204.jpg)
+
+![CIMG1302](./images/CIMG1302.jpg)
+
+![CIMG1303](./images/CIMG1303.jpg)
+
+## </div>
 
 ## L'après Rainbow.
 
@@ -654,9 +1035,21 @@ Après avoir nettoyé mon pied sous la douche, et dans de l'eau chaude salée, j
 
 Petit à petit, tout le monde s'endort sur la terrasse, en repensant à la belle aventure que nous avons vécue.
 
-\[gallery link="file" columns="4" ids="2040,2041,2042,2043,2044"\]
+### Photos
 
----
+<div class="gallery">
+
+![Bianca Tina Amid](./images/Bianca-Tina-Amid.jpg)
+
+![DSC02204](./images/DSC02204.jpg)
+
+![DSC02205](./images/DSC02205.jpg)
+
+![DSC03015](./images/DSC03015.jpg)
+
+![DSC03035](./images/DSC03035.jpg)
+
+## </div>
 
 ## **Noah Beach, Cap Tribulations.**
 
@@ -672,9 +1065,17 @@ Nous allons rester dans un genre de camping qui ne coûte que 4$ par nuit. L'am�
 
 Mes 3 compagnons de route montent leur tente, il est tard, alors nous allons juste faire à manger, et nous coucher.
 
-\[gallery columns="4" link="file" ids="2047,2046,2045"\]
+### Photos
 
----
+<div class="gallery">
+
+![DSC03001](./images/DSC03001.jpg)
+
+![DSC03002](./images/DSC03002.jpg)
+
+![IMG_0200](./images/IMG_0200.jpg)
+
+## </div>
 
 ## **J'en rêvais, l'Australie l'a fait.**
 
@@ -714,9 +1115,16 @@ Un guitariste ma rejoint un peu plus tard, il est guitariste professionnel, nous
 
 Le lendemain, nous avons profité du dimanche pour nous reposer, et jouer un peu de guitare pour changer. La mère d'Ochina a beaucoup aimé un de mes morceaux, et m'a demandé de lui apprendre. C'est un morceau que je joue tout le temps, je l'ai composé en Irlande, et à chaque fois que je rencontre quelqu'un qui joue de la guitare il me demande de lui apprendre. J'essaye de l'apprendre au plus de personnes possibles comme ça peut être qu'un jour je rencontrerai quelqu'un qui joue ce morceau sans savoir que c'est le mien. Adam l'a appris lorsque nous étions à Airlie Beach, dès que je pourrai en faire un enregistrement correct, je le mettrai en ligne sur le site, il s’appellera **Rainbow**.
 
-http://www.youtube.com/watch?v=SqI9cLTqla8
+<iframe id="ytplayer" type="text/html" width="480" height="270" src="https://www.youtube.com/embed/SqI9cLTqla8" frameborder="0" allowfullscreen></iframe>
 
-\[soundcloud url="https://api.soundcloud.com/tracks/20971814" params="color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false" width="100%" height="166" iframe="true" /\]
+<iframe 
+  width="100%" 
+  height="166" 
+  scrolling="no" 
+  frameborder="no" 
+  allow="autoplay" 
+  src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/guillaume-braillon/rainbow&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true">
+</iframe>
 
 ---
 
@@ -835,7 +1243,61 @@ Il m'a rassuré lorsqu'il est revenu le 1er matin, et ma confirmé ce que je pen
 Le soir, il ne voulait plus faire les remplacements, car il s'était engueulé avec le Chef Herbert.  
 Je vais descendre sur Cairns pour essayer de vendre mon van au meilleur prix Roberto est parti pour Darwin, mais après 1000kms, il a cassé le moteur de son van. C'était le même modèle que le mien, et le garagiste lui a racheté 100$...
 
-\[gallery columns="4" link="file" ids="2048,2049,2050,2051,2054,2055,2056,2057,2058,2059,2060,2061,2062,2063,2064,2065,2066,2067,2069,2070,2071,2072,2073,2074,2075" orderby="rand"\]
+### Photos
+
+<div class="gallery">
+
+![IMG_0205](./images/IMG_0205.jpg)
+
+![IMG_0464](./images/IMG_0464.jpg)
+
+![IMG_0595](./images/IMG_0595.jpg)
+
+![IMG_0596](./images/IMG_0596.jpg)
+
+![IMG_0601](./images/IMG_0601.jpg)
+
+![IMG_0603](./images/IMG_0603.jpg)
+
+![IMG_0604](./images/IMG_0604.jpg)
+
+![IMG_0606](./images/IMG_0606.jpg)
+
+![IMG_0607](./images/IMG_0607.jpg)
+
+![IMG_0621](./images/IMG_0621.jpg)
+
+![IMG_0675](./images/IMG_0675.jpg)
+
+![IMG_0676](./images/IMG_0676.jpg)
+
+![IMG_0677](./images/IMG_0677.jpg)
+
+![IMG_0679](./images/IMG_0679.jpg)
+
+![IMG_0680](./images/IMG_0680.jpg)
+
+![IMG_0681](./images/IMG_0681.jpg)
+
+![IMG_0682](./images/IMG_0682.jpg)
+
+![IMG_0687](./images/IMG_0687.jpg)
+
+![IMG_0691](./images/IMG_0691.jpg)
+
+![IMG_0737](./images/IMG_0737.jpg)
+
+![IMG_0738](./images/IMG_0738.jpg)
+
+![IMG_0754](./images/IMG_0754.jpg)
+
+![IMG_0201](./images/IMG_0201.jpg)
+
+![IMG_0202](./images/IMG_0202.jpg)
+
+![IMG_0203](./images/IMG_0203.jpg)
+
+</div>
 
 ---
 
@@ -915,9 +1377,37 @@ Après ces formalités, je lui ai donné les clefs, et il m'a donné les 3700$ e
 Je ne faisais pas le malin dans la rue en allant à la banque.  
 J'ai tout de suite réservé un billet d'avion pour le jour même, direction Brisbane, départ à 20h00, arrivée à 10h00 le lendemain, pour 129$.
 
-\[gallery columns="4" link="file" ids="2078,2088,2079,2080,2087,2094,2090,2091,2093,2095,2082,2083,2084"\]
+### Photos
 
----
+<div class="gallery">
+
+![IMG_0799](./images/IMG_0799.jpg)
+
+![IMG_0800](./images/IMG_0800.jpg)
+
+![IMG_0801](./images/IMG_0801.jpg)
+
+![IMG_0817](./images/IMG_0817.jpg)
+
+![IMG_0818](./images/IMG_0818.jpg)
+
+![IMG_0837](./images/IMG_0837.jpg)
+
+![IMG_0806](./images/IMG_0806.jpg)
+
+![IMG_0807](./images/IMG_0807.jpg)
+
+![IMG_0809](./images/IMG_0809.jpg)
+
+![IMG_0810](./images/IMG_0810.jpg)
+
+![IMG_0812](./images/IMG_0812.jpg)
+
+![IMG_0813](./images/IMG_0813.jpg)
+
+![IMG_0815](./images/IMG_0815.jpg)
+
+## </div>
 
 ## Ma vie de baroudeur a pris fin avec la vente de Big Banana.
 
@@ -949,7 +1439,33 @@ Le départ n'est que pour demain matin, alors nous avons été faire un tour sur
 Le soir nous avons joués un peu de guitare à l'auberge.  
 Deux ou trois personnes nous ont rejointes, dont un anglais qui a chanté toute la soirée, bien aidé par la bière je pense…
 
-\[gallery link="file" columns="4" ids="2101,2104,2106,2105,2097,2107,2108,2099,2102,2103,2100"\]
+### Photos
+
+<div class="gallery">
+
+![0850](./images/0850.jpg)
+
+![0860](./images/0860.jpg)
+
+![0862](./images/0862.jpg)
+
+![04](./images/04.jpg)
+
+![0831](./images/0831.jpg)
+
+![0842](./images/0842.jpg)
+
+![0847](./images/0847.jpg)
+
+![0848](./images/0848.jpg)
+
+![0849](./images/0849.jpg)
+
+![0852](./images/0852.jpg)
+
+![0859](./images/0859.jpg)
+
+</div>
 
 Mardi 17 novembre 11h00 Am, je monte pour la 1er fois dans le Bus pour une longue distance.  
 Quel changement après 4 mois en van.  
@@ -981,9 +1497,59 @@ Il m'a fait visiter la région, nous sommes allés dans endroits magnifiques qui
 Lorsque nous restions à la maison, nous jouions de la guitare, ou alors nous allions nous balader en Gator, ou encore en moto cross.  
 J'avais l'impression d'être dans le décor du Seigneur des anneaux, il y avait même les grands arbres, mais ceux-là ne parlaient pas, ni ne marchaient.
 
-\[gallery columns="4" link="file" ids="2111,2110,2119,2120,2112,2113,2114,2116,2115,2118,2122,2117,2123,2121,2109,2124,2125,2126,2127,2128,2129,2130,2131,2132"\]
+### Photos
 
----
+<div class="gallery">
+
+![P1010515](./images/P1010515.jpg)
+
+![P1010536](./images/P1010536.jpg)
+
+![0866](./images/0866.jpg)
+
+![IMG_0867](./images/IMG_0867.jpg)
+
+![IMG_0869](./images/IMG_0869.jpg)
+
+![IMG_0871](./images/IMG_0871.jpg)
+
+![IMG_0874](./images/IMG_0874.jpg)
+
+![IMG_0878](./images/IMG_0878.jpg)
+
+![IMG_0883](./images/IMG_0883.jpg)
+
+![IMG_0908](./images/IMG_0908.jpg)
+
+![IMG_0942](./images/IMG_0942.jpg)
+
+![IMG_0958](./images/IMG_0958.jpg)
+
+![IMG_0991](./images/IMG_0991.jpg)
+
+![IMG_1060](./images/IMG_1060.jpg)
+
+![IMG_1086](./images/IMG_1086.jpg)
+
+![IMG_1107](./images/IMG_1107.jpg)
+
+![IMG_1122](./images/IMG_1122.jpg)
+
+![IMG_1142](./images/IMG_1142.jpg)
+
+![IMG_1170](./images/IMG_1170.jpg)
+
+![IMG_1171](./images/IMG_1171.jpg)
+
+![IMG_1178](./images/IMG_1178.jpg)
+
+![IMG_1188](./images/IMG_1188.jpg)
+
+![IMG_1204](./images/IMG_1204.jpg)
+
+![IMG_1206](./images/IMG_1206.jpg)
+
+## </div>
 
 ## Byron Bay
 
@@ -1011,13 +1577,75 @@ C'est un titre interprété par la chanteuse qui s'appelle "Joss Stone", et le m
 L'expérience a été intéressante, mais frustrante et stressante. Je ne suis pas encore assez à l'aise sur une scène. Bien que nos potes nous aient dit que c'était bien, je n'étais pas très content de moi. Je sais que sur scène ce n'est jamais aussi bien qu'en répétition, mais c'est le stress qui fait que ça ne sonne pas aussi bien que normalement.  
 C'est en forgeant qu'on devient forgeron, alors à la prochaine occasion de jouer sur scène, ou devant du public, je n'hésiterais pas, en espérant cette fois que j'aurais un peu plus de quelques heures pour apprendre et répéter le morceau.
 
-\[embedyt\]<iframe width="560" height="315" src="https://www.youtube.com/embed/1mO0P-AxALE" frameborder="0" allowfullscreen></iframe>&list=PLDB2FC583824EDC0B&width=400&height=250\[/embedyt\]
+<iframe id="ytplayer" type="text/html" width="480" height="270" src="https://www.youtube.com/embed/1mO0P-AxALE?si=aAcrUz1aT40TEd5q" frameborder="0" allowfullscreen></iframe>
 
 En résumé l'Arts Factoy a été vraiment une excellente expérience, grâce au lieu un peu magique, mais aussi au contact des personnes que j'ai pu y rencontrer. Alors si vous y allez, n'hésitez pas à camper plutôt que de rester dans un dortoir. La vrai bonne ambiance se trouve du côté camping. Il y a beaucoup moins de buveurs, bringueurs, et beaucoup plus de personnes qui savent apprécier les vraies bonnes choses.
 
-\[gallery columns="4" link="file" ids="2149,2137,2136,2135,2138,2139,2150,2151,2142,2166,2167,2134,2141,2146,2147,2148,2152,2153,2154,2155,2156,2158,2164,2157,2159,2145,2144,2160,2161,2162,2163,2165"\]
+### Photos
 
----
+<div class="gallery">
+
+![IMG_1689](./images/IMG_1689.jpg)
+
+![IMG_1695](./images/IMG_1695.jpg)
+
+![IMG_1699](./images/IMG_1699.jpg)
+
+![IMG_1700](./images/IMG_1700.jpg)
+
+![IMG_1704](./images/IMG_1704.jpg)
+
+![IMG_1709](./images/IMG_1709.jpg)
+
+![IMG_1720](./images/IMG_1720.jpg)
+
+![IMG_1722](./images/IMG_1722.jpg)
+
+![IMG_1740](./images/IMG_1740.jpg)
+
+![IMG_1745](./images/IMG_1745.jpg)
+
+![IMG_1756](./images/IMG_1756.jpg)
+
+![IMG_1761](./images/IMG_1761.jpg)
+
+![IMG_1249](./images/IMG_1249.jpg)
+
+![IMG_1269](./images/IMG_1269.jpg)
+
+![IMG_1270](./images/IMG_1270.jpg)
+
+![IMG_1272](./images/IMG_1272.jpg)
+
+![IMG_1316](./images/IMG_1316.jpg)
+
+![IMG_1335](./images/IMG_1335.jpg)
+
+![IMG_1342](./images/IMG_1342.jpg)
+
+![IMG_1368](./images/IMG_1368.jpg)
+
+![IMG_1370](./images/IMG_1370.jpg)
+
+![IMG_1393](./images/IMG_1393.jpg)
+
+![IMG_1404](./images/IMG_1404.jpg)
+
+![IMG_1416](./images/IMG_1416.jpg)
+
+![IMG_1452](./images/IMG_1452.jpg)
+
+![IMG_1472](./images/IMG_1472.jpg)
+
+![IMG_1478](./images/IMG_1478.jpg)
+
+![IMG_1484](./images/IMG_1484.jpg)
+
+![IMG_1505](./images/IMG_1505.jpg)
+
+![IMG_1541](./images/IMG_1541.jpg)
+
+## </div>
 
 ## **RAINBOW TEMPLE**
 
@@ -1033,9 +1661,37 @@ Au temple l'ambiance y est vraiment tranquille. Nous avons passé 1 jour 1/2 à 
 Nous avons ainsi passé 3 jours au Temple, avant de retourner sur Byron Bay.  
 J'ai ensuite pris le bus pour Brisbane, et Alex est parti dans le sud, pour passer le nouvel an prés de Perth.
 
-\[gallery columns="4" link="file" ids="2182,2186,2187,2188,2189,2185,2174,2175,2176,2181,2180,2177,2178"\]
+### Photos
 
----
+<div class="gallery">
+
+![IMG_1825](./images/IMG_1825.jpg)
+
+![IMG_1826](./images/IMG_1826.jpg)
+
+![IMG_1827](./images/IMG_1827.jpg)
+
+![IMG_1830](./images/IMG_1830.jpg)
+
+![IMG_1831](./images/IMG_1831.jpg)
+
+![IMG_1833](./images/IMG_1833.jpg)
+
+![IMG_1834](./images/IMG_1834.jpg)
+
+![IMG_1764](./images/IMG_1764.jpg)
+
+![IMG_1788](./images/IMG_1788.jpg)
+
+![IMG_1802](./images/IMG_1802.jpg)
+
+![IMG_1804](./images/IMG_1804.jpg)
+
+![IMG_1775](./images/IMG_1775.jpg)
+
+![IMG_1784](./images/IMG_1784.jpg)
+
+## </div>
 
 ## **Merry Christmas, et Joyeux Noël !**
 
@@ -1066,9 +1722,49 @@ Si vous voulez des infos sur le Festival allez faire un tour sur le site web sui
 
 [http://www.woodfordfolkfestival.com](http://www.woodfordfolkfestival.com/)
 
-\[gallery link="file" columns="4" ids="2191,2208,2190,2192,2193,2194,2195,2196,2197,2204,2205,2206,2202,2201,2199,2198,2200,2203,2207"\]
+### Photos
 
----
+<div class="gallery">
+
+![IMG_1866](./images/IMG_1866.jpg)
+
+![IMG_1835](./images/IMG_1835.jpg)
+
+![IMG_1836](./images/IMG_1836.jpg)
+
+![IMG_1837](./images/IMG_1837.jpg)
+
+![IMG_1838](./images/IMG_1838.jpg)
+
+![IMG_1842](./images/IMG_1842.jpg)
+
+![IMG_1843](./images/IMG_1843.jpg)
+
+![IMG_1844](./images/IMG_1844.jpg)
+
+![IMG_1848](./images/IMG_1848.jpg)
+
+![IMG_1849](./images/IMG_1849.jpg)
+
+![IMG_1850](./images/IMG_1850.jpg)
+
+![IMG_1851](./images/IMG_1851.jpg)
+
+![IMG_1852](./images/IMG_1852.jpg)
+
+![IMG_1853](./images/IMG_1853.jpg)
+
+![IMG_1854](./images/IMG_1854.jpg)
+
+![IMG_1855](./images/IMG_1855.jpg)
+
+![IMG_1857](./images/IMG_1857.jpg)
+
+![IMG_1859](./images/IMG_1859.jpg)
+
+![IMG_1864](./images/IMG_1864.jpg)
+
+## </div>
 
 ## **Woodford Folk Festival.**
 
@@ -1099,7 +1795,7 @@ Et le moment tant attendu est arrivé très vite, un peu avant 20h00, direction 
 Seul sur scène, il s'habille simplement, et porte un chapeau. Il n'a pas besoin de plus, vu la forte présence qu'il a sur scène.  
 Tous les spectateurs ont été embarqués sur un bateau appelé Love ("A Ship Called Love», titre de son dernier album), conduit par les magnifiques mélodies jouées en figerpicking sur sa guitare acoustique, et surtout, bercés par sa voix de velours.  
 L'avantage des festivals comme celui-ci, c'est que le public ne se presse pas pour arriver au concert, j'ai donc pu m'installer idéalement juste devant la scène, et apprécier au maximum les 2h00 de cet excellent concert. (Voir photos.)  
-Pour plus d'infos sur Éric Bibb, allez faire un tour sur son site web : [http://www.ericbibb.com](http://www.ericbibb.com/) Vous pouvez également écouter des extraits sur [amazon.fr](http://www.amazon.fr/gp/product/B00083FYSW/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00083FYSW&linkCode=as2&tag=guilbraimespa-21&linkId=3X3YCVF4NUR7TCMZ)![](http://ir-fr.amazon-adsystem.com/e/ir?t=guilbraimespa-21&l=as2&o=8&a=B00083FYSW).
+Pour plus d'infos sur Éric Bibb, allez faire un tour sur son site web : [http://www.ericbibb.com](http://www.ericbibb.com/).
 
 Après Éric Bibb, direction la scène Concert, pour écouter "Ember Swift" un groupe Canadien qui joue un mélange de folk, jazz, funk, punk, pop, classical, et reggae, sur des textes plus ou moins engagés. Ils sont trois très bons musiciens sur scène, dont une fille qui joue de la basse et du violon.  
 Pour finir cette 1ère soirée retour, a la scène blues pour écouter "Mia Dyson" une Australienne de 22 ans qui joue du blues rock sur guitare électrique, guitare steel, guitare slide et acoustique guitare super énergique sur scène c'est une belle découverte.
@@ -1124,9 +1820,47 @@ Au passage, le slogan de la caisse d'épargne c'est : "Et si une banque vous aid
 En fin de compte, j'ai, une fois encore, dû faire appel à mon père, qui m’a envoyé de l'argent par la Western Union. Le seul problème, c'est qu'avec le décalage horaire, les agences en France ouvrent, quand celles d'Australie ferment. J'ai eu la chance, une nouvelle fois, de tomber sur quelqu'un de super aimable à l'agence. Il est resté pour moi jusqu'à 20h00, au lieu de 18h00, pour me permettre de recevoir l'argent venant de France.  
 Mais comme je n'avais plus de carte de crédit, je n'ai pas pu réserver d'avion sur le net, ce qui m'a fait perdre 3 jours. J'ai dû demander à Jess et Kristy si je pouvais rester chez l'une d'elles pour quelques jours. Jess qui était seule chez elle pour la semaine a donc pu m'accueillir, le temps que je réserve mon billet pour Sydney, ma prochaine destination.
 
-\[gallery columns="4" link="file" ids="2218,2219,2220,2221,2222,2223,2225,2226,2209,2210,2211,2212,2213,2214,2215,2216,2217,2224"\]
+### Photos
 
----
+<div class="gallery">
+
+![J8](./images/J8.jpg)
+
+![J8a](./images/J8a.jpg)
+
+![J8b](./images/J8b.jpg)
+
+![J8d](./images/J8d.jpg)
+
+![J8e](./images/J8e.jpg)
+
+![J9](./images/J9.jpg)
+
+![J85283092933_0_ALB](./images/J85283092933_0_ALB.jpg)
+
+![J87683092933_0_ALB](./images/J87683092933_0_ALB.jpg)
+
+![JI42663092933_0_ALB](./images/JI42663092933_0_ALB.jpg)
+
+![J01_ALB](./images/J01_ALB.jpg)
+
+![J02_alb](./images/J02_alb.jpg)
+
+![J2_ALB](./images/J2_alb.jpg)
+
+![J3_ALB](./images/J3_ALB.jpg)
+
+![J5_ALB](./images/J5_ALB.jpg)
+
+![J6](./images/J6.jpg)
+
+![J6_ALB](./images/J6_ALB.jpg)
+
+![J7](./images/J7.jpg)
+
+![j7b](./images/j7b.jpg)
+
+## </div>
 
 ## **SYDNEY !**
 
@@ -1201,9 +1935,61 @@ Maintenant que je suis là, je vais devoir trouve un boulot au plus vite, car il
 J'ai beaucoup misé sur Melbourne, parce que depuis 6 mois, tout le monde ne m'en dit que du bien.  
 Il parait que c'est une ville multiculturelle, où la culture en général, est beaucoup plus présente. Vais-je trouver quelques personnes avec qui je pourrai faire de la musique ? C'est un peu mon souhait, mais on verra bien ce que la vie m'apportera...
 
-\[gallery columns="4" link="file" ids="2238,2239,2241,2240,2242,2247,2243,2248,2251,2245,2244,2249,2250,2227,2246,2230,2231,2232,2233,2234,2235,2236,2237,2229,2228"\]
+### Photos
 
----
+<div class="gallery">
+
+![59](./images/59.jpg)
+
+![31932973933_0_ALB](./images/31932973933_0_ALB.jpg)
+
+![34542973933_0_ALB](./images/34542973933_0_ALB.jpg)
+
+![86021514933_0_ALB](./images/86021514933_0_ALB.jpg)
+
+![aaaa](./images/aaaa.jpg)
+
+![guitable](./images/guitable.jpg)
+
+![kichen1](./images/kichen1.jpg)
+
+![museum](./images/museum.jpg)
+
+![space2](./images/space2.jpg)
+
+![train](./images/train.jpg)
+
+![vapeur](./images/vapeur.jpg)
+
+![022](./images/022.jpg)
+
+![03](./images/03.jpg)
+
+![10](./images/101.jpg)
+
+![12](./images/12.jpg)
+
+![14](./images/142.jpg)
+
+![18](./images/181.jpg)
+
+![22](./images/391.jpg)
+
+![28](./images/28.jpg)
+
+![29b](./images/29b.jpg)
+
+![39](./images/221.jpg)
+
+![46](./images/461.jpg)
+
+![54](./images/54.jpg)
+
+![54a](./images/54a.jpg)
+
+![57](./images/57.jpg)
+
+## </div>
 
 ## **Melbourne, Victoria.**
 
@@ -1650,9 +2436,71 @@ I AM WAITING YOU MESSAGES because I can't really tell everything here I don't ha
 
 See you all I wish you the best bye-bye
 
-\[gallery columns="4" link="file" ids="2256,2257,2258,2259,2260,2261,2262,2263,2264,2265,2266,2267,2268,2269,2270,2271,2272,2273,2274,2275,2276,2277,2278,2279,2280,2281,2282,2283,2284,2285,2286,2287,2288,2290,2291,2292,2293,2294,2295,2296,2297,2298,2299,2300,2301,2302,2303,2304,2305,2306,2307,2308,2309,2310,2311,2312,2313,2314,2315,2316,2317,2318,2319,2320,2321,2322,2323,2324,2325,2326,2327,2328,2331,2332,2333,2334,2335,2336,2337,2338,2339,2340,2341,2342,2343,2344,2345,2346,2347,2348,2349,2350,2352,2353,2354,2355,2356,2357,2358,2359,2360,2361,2362,2363,2364,2365,2366,2367,2368,2369,2370,2371,2372,2373,2374,2375,2376" orderby="rand"\]
+### Photos
 
----
+<div class="gallery">
+
+![DSC01424](./images/DSC01424.jpg)
+
+![DSC01463](./images/DSC01463.jpg)
+
+![DSC01512](./images/DSC01512.jpg)
+
+![DSC01547](./images/DSC01547.jpg)
+
+![DSC01552](./images/DSC01552.jpg)
+
+![DSC01648](./images/DSC01648.jpg)
+
+![DSC01698](./images/DSC01698.jpg)
+
+![DSC01715](./images/DSC01715.jpg)
+
+![DSC01717](./images/DSC01717.jpg)
+
+![DSC01776](./images/DSC01776.jpg)
+
+![DSC01789](./images/DSC01789.jpg)
+
+![DSC01807](./images/DSC01807.jpg)
+
+![DSC01851](./images/DSC01851.jpg)
+
+![DSC01873](./images/DSC01873.jpg)
+
+![DSC01901](./images/DSC01901.jpg)
+
+![DSC01925](./images/DSC01925.jpg)
+
+![DSC01940](./images/DSC01940.jpg)
+
+![DSC01942](./images/DSC01942.jpg)
+
+![DSC02007](./images/DSC02007.jpg)
+
+![IMG_3744](./images/IMG_3744.jpg)
+
+![IMG_3759](./images/IMG_3759.jpg)
+
+![IMG_3787](./images/IMG_3787.jpg)
+
+![IMG_3794](./images/IMG_3794.jpg)
+
+![IMG_3987](./images/IMG_3987.jpg)
+
+![IMG_3993](./images/IMG_3993.jpg)
+
+![IMG_3995](./images/IMG_3995.jpg)
+
+![IMG_3998](./images/IMG_3998.jpg)
+
+![IMG_3999](./images/IMG_3999.jpg)
+
+![IMG_4045](./images/IMG_4045.jpg)
+
+![IMG_4047](./images/IMG_4047.jpg)
+
+## </div>
 
 ## **This is the end....**
 
@@ -1669,10 +2517,4 @@ I've lived so many experiences that my head is full of unforgettable memories I 
 
 This is it!!! The Oz adventure is over, back to reality, back to France. The experience was amaaaaaaaaaaazing, magical, full of joy I'd like to thanks all the people I've met on the road, for being so nice and now I'm sure now that in a journey the most important it's the people you meet.
 
-I've made a video with the pictures of the people on the road, I don't have a picture of everybody but a few are on it so have a look on the Home page or click on the links:
-
-With a [Hi Speed](http://guillaume.braillon.free.fr/share/Friends_in_Oz_Web.WMV) connection.
-
-With a [Low Speed](http://guillaume.braillon.free.fr/share/Friends_in_Oz_Mail.WMV) connection.
-
-«The most beautiful trip, it is the one you did not do yet. » (Loick Peyron)
+> **«The most beautiful trip, it is the one you did not do yet. » (Loick Peyron)**

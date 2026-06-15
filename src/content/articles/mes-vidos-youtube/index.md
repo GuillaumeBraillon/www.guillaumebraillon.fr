@@ -21,25 +21,25 @@ description: "Découvrez mes compositions originales à la guitare, sessions de 
 
 Un morceau composé lors de mon séjour à **Dublin**, en Irlande. Je le jouais régulièrement avec ma colocataire Jess. Le rejouer aujourd’hui fait remonter beaucoup de souvenirs.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/vQICoUB3lgA?si=DcAb9-jtkkSdk27e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" style="aspect-ratio: 16/9; height: auto; max-width: 800px; border-radius: 8px; margin-bottom: 2rem;" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/vQICoUB3lgA?si=DcAb9-jtkkSdk27e" id="ytplayer" type="text/html" frameborder="0" allowfullscreen></iframe>
 
 ### P'tit Intro
 
 Une courte improvisation qui est en réalité l’introduction du morceau suivant.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/eyRx1zsXtDE?si=mn2cXxTx4KtHEQr9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" style="aspect-ratio: 16/9; height: auto; max-width: 800px; border-radius: 8px; margin-bottom: 2rem;" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/eyRx1zsXtDE?si=mn2cXxTx4KtHEQr9" id="ytplayer" type="text/html" frameborder="0" allowfullscreen></iframe>
 
 ### Me and Myself
 
 Le fruit de mes premiers essais avec la pédale loop après son achat.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/31shmqNmfOg?si=6VATBYq5Vl4R-dia" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" style="aspect-ratio: 16/9; height: auto; max-width: 800px; border-radius: 8px; margin-bottom: 2rem;" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/31shmqNmfOg?si=6VATBYq5Vl4R-dia" id="ytplayer" type="text/html" frameborder="0" allowfullscreen></iframe>
 
 ### Rainbow
 
 Une composition écrite pendant mon voyage en **Australie**.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/SqI9cLTqla8?si=d9l2wlyjsqdnS-FD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" style="aspect-ratio: 16/9; height: auto; max-width: 800px; border-radius: 8px; margin-bottom: 2rem;" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/SqI9cLTqla8?si=d9l2wlyjsqdnS-FD" id="ytplayer" type="text/html" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -49,7 +49,7 @@ Une composition écrite pendant mon voyage en **Australie**.
 
 Une reprise jouée avec Mary à l’Art Factory de **Byron Bay** en Australie. C’était surtout ma première véritable scène seul à la guitare, et le stress se ressent clairement dans la vidéo.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/1mO0P-AxALE?si=CZoQSdkgb58Hm_gK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" style="aspect-ratio: 16/9; height: auto; max-width: 800px; border-radius: 8px; margin-bottom: 2rem;" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/1mO0P-AxALE?si=CZoQSdkgb58Hm_gK" id="ytplayer" type="text/html" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -59,9 +59,9 @@ Une reprise jouée avec Mary à l’Art Factory de **Byron Bay** en Australie. C
 
 Deux improvisations enregistrées un soir, principalement pour tester le matériel d’enregistrement vidéo et la configuration audio.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/1llORXm4o5k?si=W5i9UgWof45pVnEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" style="aspect-ratio: 16/9; height: auto; max-width: 800px; border-radius: 8px; margin-bottom: 1rem;" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/1llORXm4o5k?si=W5i9UgWof45pVnEk" id="ytplayer" type="text/html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" style="aspect-ratio: 16/9; height: auto; max-width: 800px; border-radius: 8px; margin-bottom: 1rem;" allowfullscreen></iframe>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/lAjXhpRUk6M?si=Yi5-GxahVMtWUSnm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" style="aspect-ratio: 16/9; height: auto; max-width: 800px; border-radius: 8px; margin-bottom: 2rem;" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/lAjXhpRUk6M?si=Yi5-GxahVMtWUSnm" id="ytplayer" type="text/html" frameborder="0" allowfullscreen></iframe>
 
 ---
 

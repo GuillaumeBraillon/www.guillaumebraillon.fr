@@ -15,13 +15,13 @@ description: "Présentation de Pinnacle Studio 21.5, l'un des logiciels de monta
 >
 > _Voilà un exemple de clip vidéo que j'avais fait il y a déjà quelques années._
 >
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/1rLAZWx-fjM?si=LFnefAdjgUJ5jut-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> <iframe width="480" height="270" src="https://www.youtube.com/embed/1rLAZWx-fjM?si=LFnefAdjgUJ5jut-" id="ytplayer" type="text/html" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Présentation de Pinnacle Studio 21.5
 
 _Le plus simple pour voir comment fonctionne Pinnacle Studio 21.5 et savoir ce que l'on peut faire avec c'est une vidéo._
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7pAnM5Gd41s" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/7pAnM5Gd41s" frameborder="0" allowfullscreen></iframe>
 
 Pinnacle Studio 21.5 propose une **nouvelle interface utilisateur** qui simplifie le montage vidéo et permet d'accéder rapidement aux **outils de montage**. Il est par exemple possible d'appliquer un **effet de stabilisation** pour rendre les vidéos fluides et sans tremblements ce qui est très utile avec les vidéos prisent avec un smartphone. Il est aussi possible de **corriger les effets fish-eye** courant avec les cameras d'action.
 
