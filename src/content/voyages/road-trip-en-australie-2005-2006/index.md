@@ -10,69 +10,76 @@ tags: ["Carnets de voyages", "BackPacking", "Musique"]
 
 ## **Mercredi 29 juin.**
 
-Me voilà arrivé à Lyon, il est 6h00pm, j'enregistre les bagages et là ça commence par le panneau d'affichage qui indique qu'il y a une heure de retard sur mon vol vers London. A priori je peux toujours prendre le vol vers Hong Kong dans les temps. Je vais donc prendre un verre pour attendre le départ. Lors de mon retour le vol est annoncé avec 3h00 de retard à cause des mauvaises conditions climatiques. Résultat des courses, je ne peux pas faire la connexion vers Hong-Kong. Après un peu plus d'une heure de recherches, l'hôtesse me trouve un vol pour le 1er juillet à 7h15am. Me voilà donc de retour au point de départ, à la maison.
+Me voilà arrivé à Lyon. Il est 18h00, j'enregistre mes bagages et déjà, le panneau d'affichage indique une heure de retard sur mon vol vers Londres. En principe, je peux quand même prendre le vol vers Hong Kong dans les temps. Je vais donc prendre un verre en attendant le départ. Mais à mon retour, le vol est annoncé avec 3h00 de retard à cause des mauvaises conditions climatiques. Résultat des courses, je ne peux pas assurer la correspondance vers Hong Kong. Après un peu plus d'une heure de recherches, l'hôtesse me trouve un vol pour le 1er juillet à 7h15. Me voilà donc de retour au point de départ, à la maison.
 
-## **Vendredi 1 juillet.**
+## **Vendredi 1er juillet.**
 
-C'est reparti pour un tour, direction Lyon. Il est 6h00 du mat j'enregistre mes bagages. Je passe ma guitare en « hors gabarit fragile » et je croise les doigts. L'avantage c'est que je n'aurai pas à la transporter lors des escales, car je reste une journée entière sur Hong Kong.  
-Quelques heures plus tard j'arrive à Londres. Direction le guichet de la Cathay Pacific pour prendre mes billets pour Hong Kong et Brisbane. Quelle n'est pas ma surprise lorsque l'hôtesse m'annonce que mes vols ont été annulés, et que je n'ai pas de place dans l'avion. Apres une bonne demi-heure elle me dit qu'il y a peut-être une chance et que je sois en liste d'attente. Je dois donc revenir toutes les ¼ heures, pour voir si je peux partir ou pas. Au bout d'une heure et juste avant que l'avion ne parte, elle me trouve une place, je lui demande de vérifier si mes bagages sont bien dans l'avion, et une course folle commence alors pour rejoindre l'avion dans les temps. J'arrive à l'embarquement du vol limite, l'hôtesse me demande mon passeport, et vérifie mon visa électronique. Bien sûr, pour rendre la chose plus intense et stressante, car l'avion est déjà en train de m'attendre, ils ne trouvent pas mon visa, et me disent que je dois vite refaire une demande et repayer 100,00 Euros. Je râle un peu, et après 2 ou 3 coups de fils en Australie, ils trouvent enfin mon visa. Enfin je monte dans l'avion, direction Hong-Kong, je devrais déjà être à Brisbane depuis quelques heures, mais ce n'est plus qu'un détail maintenant.  
-Je m'installe à ma place dans l'avion, prêt à affronter les 12 h00 de vols sur mon petit siège en espérant que je ne vais pas avoir deux mecs de 150 kilos a cote de moi. Mais enfin, la chance me sourit, effectivement il n'y a personne à côté de moi j'ai donc 3 sièges rien que pour moi. Dire qu'une heure plus tôt je n'avais même pas de place dans l'avion. Comme pour me redonner courage une jolie jeune fille, qui était à une place ou le system vidéo ne fonctionnait pas, vient me rejoindre, les 12 heures de vol ont été beaucoup plus agréables que prévu.
+C'est reparti pour un tour, direction Lyon. Il est 6h00 du matin, j'enregistre mes bagages. Je passe ma guitare en « hors gabarit fragile » et je croise les doigts. L'avantage, c'est que je n'aurai pas à la transporter lors des escales, puisque je reste une journée entière à Hong Kong.
 
-## **Samedi 2** juillet.
+Quelques heures plus tard, j'arrive à Londres. Direction le guichet de la Cathay Pacific pour récupérer mes billets vers Hong Kong et Brisbane. Quelle n'est pas ma surprise quand l'hôtesse m'annonce que mes vols ont été annulés et qu'il n'y a plus de place dans l'avion. Après une bonne demi-heure, elle me dit qu'il y a peut-être une chance et que je sois mis en liste d'attente. Je dois donc revenir toutes les quarts d'heure pour voir si je peux partir. Au bout d'une heure, juste avant que l'avion ne décolle, elle me trouve une place. Je lui demande de vérifier que mes bagages sont bien dans l'avion, et une course folle commence pour rejoindre la porte d'embarquement à temps. J'arrive limite, l'hôtesse me demande mon passeport et vérifie mon visa électronique. Bien sûr, pour rendre la chose encore plus stressante — l'avion m'attend déjà — ils ne trouvent pas mon visa et me disent que je dois refaire une demande et repayer 100 euros. Je râle un peu, et après deux ou trois coups de fil en Australie, ils retrouvent enfin mon visa. Je monte enfin dans l'avion, direction Hong Kong. J'aurais dû être à Brisbane depuis quelques heures, mais ce n'est plus qu'un détail maintenant.
 
-Après 2 repas, 5 films et 12 heures de vols, me voilà à Hong-Kong. Il est 8h30 du mat et mon vol pour Brisbane n'est que dans 15 heures. Je vais donc en profiter pour faire un tour en ville, autant profiter de l'occasion. A la douane je rencontre un Français qui a son vol a peu près a la même heure que moi, et donc nous décidons d'aller visiter la ville ensemble.
+Je m'installe à ma place, prêt à affronter les 12h00 de vol sur mon petit siège, en espérant ne pas avoir deux costauds de 150 kilos à côté de moi. Mais la chance me sourit : il n'y a personne à côté, j'ai donc trois sièges rien que pour moi. Dire qu'une heure plus tôt je n'avais même pas de place dans l'avion. Comme pour me redonner du courage, une jolie jeune fille — dont le système vidéo ne fonctionnait pas — vient me rejoindre. Les 12 heures de vol ont été bien plus agréables que prévu.
 
-Nous prenons le train depuis l'aéroport, direction Hong-Kong city center. Cette ville est impressionnante les grattes ciel style ‘ Le 5ieme élément, côtoient les petits jardins chinois. Les rues du centre sont vraiment très propres, les gens très courtois et disciplinés.
+## **Samedi 2 juillet.**
 
-A midi nous allons dans un petit resto de la ville. Lors de notre arrivée le serveur nous pose deux verres comme du thé que nous goûtons, le goût est particulier voir « dégueu ». Nous nous rendons compte à la fin repas, que c'est en fait pour mettre les baguettes et cuillères avant de manger. Mais à ce stade nous avions déjà fini de manger, donc plus rien ne nous paraissait bizarre. Effectivement nous avions déjà essayé les « noddles with beef » à la sauce gluante (voir photos). Mais pour vivre l'expérience à fond, je décide de prendre les Lotus Seed Sweet Milk (voir photos) qui n'est en fait que du lait chaud avec du sucre, où baignent des graines de Lotus, qui ressemblent a des yeux. C'est comme je ne sais pas trop quoi, un légume pas cuit, ou un bout de bois, ou peut-être encore comme des queues des cerises.
+Après deux repas, cinq films et 12 heures de vol, me voilà à Hong Kong. Il est 8h30 du matin et mon vol pour Brisbane n'est que dans 15 heures. Je vais donc en profiter pour faire un tour en ville. À la douane, je rencontre un Français dont le vol part à peu près à la même heure que le mien ; nous décidons de visiter la ville ensemble.
 
-Après ce « fameux repas » dans un resto avec la clim a – 15°C, nous ressortons dans les rues a + 45°C à l'ombre s’il vous plait. Nous continuons notre périple dans la ville, et décidons de prendre un bateau pour l'île de Hong-Kong. Depuis là-bas, nous pouvons voir toute l'étendue de la ville (voir vidéo). Plus tard nous retournons à l'aéroport pour nous reposer, car ces dernières heures ont été plus qu'éprouvantes. La fatigue, le stress, la chaleur, et le décalage horaire, ont eu raison de moi.
+Nous prenons le train depuis l'aéroport, direction le centre de Hong Kong. Cette ville est impressionnante : les gratte-ciel style _Le Cinquième Élément_ côtoient de petits jardins chinois. Les rues du centre sont vraiment très propres, les gens courtois et disciplinés.
 
-J'arrive enfin à la porte d'embarquement de mon dernier vol, direction Brisbane, via Cairns. Pour me remettre dans le bain le Stewart vient me voir pour me dire qu'il lui manque des informations à propos de mon passeport, mais heureusement tout se passe en 5 minutes. Je monte dans l'avion sans problème. J'arrive à Cairns dans 8 h00, et à Brisbane, 2 h00 après.
+À midi, nous allons dans un petit restaurant de la ville. À notre arrivée, le serveur pose deux verres qui ressemblent à du thé ; nous les goûtons, et le goût est particulier, voire douteux. Nous nous rendons compte à la fin du repas que c'est en fait pour y déposer les baguettes et les cuillères avant de manger. Mais à ce stade, nous avions déjà terminé — après avoir testé les _noodles with beef_ à la sauce gluante (voir photos). Pour vivre l'expérience à fond, je décide de prendre le _Lotus Seed Sweet Milk_ (voir photos), qui n'est en fait que du lait chaud sucré dans lequel baignent des graines de lotus ressemblant à des yeux. C'est comme... je ne sais trop quoi — un légume pas cuit, un bout de bois, ou peut-être des queues de cerises.
 
-## Dimanche 3 juillet
+Après ce fameux repas dans un restaurant climatisé à −15 °C, nous ressortons dans les rues à +45 °C à l'ombre. Nous continuons notre périple et décidons de prendre un bateau pour l'île de Hong Kong. De là-bas, nous pouvons voir toute l'étendue de la ville (voir vidéo). Plus tard, nous retournons à l'aéroport pour nous reposer, car ces dernières heures ont été éprouvantes. La fatigue, le stress, la chaleur et le décalage horaire ont eu raison de moi.
 
-Me voilà enfin à Brisbane, la guitare et mon sac ont bien suivi et tout est en un seul morceau.  
-Une fois sortie de l'aéroport, bien sûr, je vois le bus partir mais ce n’est pas grave je vais prendre le train qui coûte le même prix et qui me laisse à côté de l'auberge.  
-La température sur Brisbane n'est que de 20 C mais c'est très agréable et il fait super beau.  
-De toute façon, là je n'ai qu'une envie, c'est de prendre une douche et de me coucher.
+J'arrive enfin à la porte d'embarquement de mon dernier vol, direction Brisbane via Cairns. Pour me remettre dans le bain, le stewart vient me voir pour me dire qu'il lui manque des informations sur mon passeport — mais heureusement tout se règle en cinq minutes. Je monte dans l'avion sans problème. J'arrive à Cairns dans 8 heures, et à Brisbane deux heures après.
 
-## **Apres quelques jours...**
+## **Dimanche 3 juillet.**
 
-Me voilà installé à la City Backpacker sur Roma Street ou j'ai retrouvé Rémy un pote de France qui est venu passer l'été en Australie. Il était déjà venu me voir lorsque j’étais en [Irlande](../voyages/irlande-2003-2005/).
+Me voilà enfin à Brisbane, la guitare et mon sac ont bien suivi, tout est en un seul morceau.
+Une fois sorti de l'aéroport, je vois bien sûr le bus partir, mais ce n'est pas grave : je vais prendre le train, qui coûte le même prix et me dépose juste à côté de l'auberge.
+La température à Brisbane n'est que de 20 °C, mais c'est très agréable et il fait un beau soleil.
+De toute façon, là, je n'ai qu'une envie : prendre une douche et me coucher.
+
+## **Après quelques jours...**
+
+Me voilà installé à la City Backpacker sur Roma Street, où j'ai retrouvé Rémy, un pote de France venu passer l'été en Australie. Il était déjà venu me voir quand j'étais en [Irlande](../voyages/irlande-2003-2005/).
 
 ![0Remy11](./images/0Remy11.jpg)
 
-L'auberge est bien mais je suis dans une chambre de 6 personnes ce qui fait que je paye 23$ la nuit, un peu cher.  
-Mercredi nous allons changer d'auberge pour une moins chère, 90$ la semaine.  
-Nous avons rencontré pas mal de monde dont une irlandaise qui va peut-être venir avec nous sur CAIRNS, la ville du nord ou nous voulons aller dès que nous avons notre van.  
-Dans l'auberge il y a aussi un français qui joue de la guitare et nous jouons le soir, du JACK JOHNSON entre autres. Il y a pas mal de français à l'auberge, et le fait de parler Français avec Rémy ne facilite pas les choses.  
-Nous avons rencontré deux françaises bien sympa qui sont en Australie pour leurs stages et qui en profitent pour faire un petit tour avant de commencer à Sydney et Melbourne.
+L'auberge est bien, mais je suis dans une chambre de six personnes, ce qui fait que je paye 23 $ la nuit — un peu cher.
+Mercredi, nous allons changer d'auberge pour une moins chère : 90 $ la semaine.
+Nous avons rencontré pas mal de monde, dont une Irlandaise qui va peut-être venir avec nous à Cairns, la ville du nord où nous voulons aller dès que nous aurons notre van.
+Dans l'auberge, il y a aussi un Français qui joue de la guitare, et nous jouons le soir — du Jack Johnson, entre autres. Il y a pas mal de Français à l'auberge, et le fait de parler français avec Rémy ne facilite pas les choses.
+Nous avons rencontré deux Françaises bien sympas qui sont en Australie pour leurs stages et qui en profitent pour faire un petit tour avant de commencer à Sydney et Melbourne.
 
 ![1IMG_0044](./images/1IMG_0044.jpg)
 
-## Un jour horrible.
+## **Un jour horrible.**
 
-Aujourd'hui nous allons changer d'auberge car nous la trouvons trop cher. Rémy, Ludo, le français avec qui je joue de la guitare, et moi, partons chargés comme des mules pour l'auberge à l'autre cote de la ville.  
-Apres 1h30 de marche en plein soleil nous arrivons enfin à l'auberge qui ressemble plus à une petite maison de potes, mais l'ambiance parait tout de même cool.  
-Un des locataires nous dit que le responsable n'est pas encore là, mais qu'il ne va pas tarder. Nous décidons donc d'attendre et d'en profiter pour appeler quelques propriétaires de Van. Quelques minutes plus tard le responsable arrive et nous annonce qu'il n'y a en fait plus qu'un lit de libre. Nous laissons donc, Rémy et moi, la place pour Ludo.  
-Nous ne perdons pas une minute et commençons à appeler les auberges du coin. Après 1h00 au téléphone, nous en trouvons une avec deux places libres, mais seulement pour une nuit, et je vous le donne en mille ou se trouve l'auberge ? Juste derrière la city Backpacker de l'autre côté de la ville.  
-Nous voilà repartis avec notre chargement sur le dos mais cette fois nous avons pris un Taxi car il est déjà 1h30 de l'aprèm, et je dois aller à la banque pour ouvrir un compte, afin de pouvoir bosser ce soir au Stade en tant que 'runner', genre de serveur pour les VIP Room, et il faut aussi que je passe en ville pour acheter une paire de chaussures noires, obligatoires pour travailler.  
-Bien sur l'auberge que nous avons trouvés est 4$ plus cher que la City Backpacker, donc comme elle se trouve tout à côté, nous réservons 2 nuits, tant de marche, de coups de fils et de perte de temps, pour se retrouver au même endroit, on se rassure en disant que cela fait partie de la vie de routard que nous avons choisie.  
-L'heure tourne et il me reste beaucoup de choses à faire avant de bosser à 17h00. Une fois installés dans l'auberge, nous mangeons vite fait, et je pars à toute allure vers la banque qui ferme à 16h00. J'arrive à 15h58, Thanks God la porte n'est pas ferme et je peux entrer. Lorsque je dis au banquier que je veux ouvrir un compte il commence par me dire qu'il est trop tard et de revenir demain, j'insiste en lui disant que je commence à bosser à 17h00 et très gentiment il crée mon compte en quelques minutes.  
-16h15 la course contre la montre n'est pas finie, je pars chercher des chaussures dans un magasin pas loin de la banque mais une fois là-bas, impossible de trouver ma pointure. Je cherche dans les autres magasins, mais je ne trouve pas, je n'ai plus le temps je tente le coup, et retourne à l'auberge pour me laver, me raser et me changer, je repars vers le stade et j'arrive à 16h55.  
-Je vais voir la manager au point de rendez-vous et là, grosse déception, elle me dit que je ne peux pas travailler sans chaussures noires. Je rentre donc à l'auberge en repensant a cette course folle que j'ai réussie à réaliser dans les temps, mais pour échouer si près du but pour une simple paire de chaussures noires...
+Aujourd'hui, nous allons changer d'auberge car nous la trouvons trop chère. Rémy, Ludo — le Français avec qui je joue de la guitare — et moi, partons chargés comme des mules vers l'auberge de l'autre côté de la ville.
+Après 1h30 de marche en plein soleil, nous arrivons enfin à l'auberge, qui ressemble plutôt à une coloc de potes, mais l'ambiance paraît cool.
+Un des locataires nous dit que le responsable n'est pas encore là, mais qu'il ne va pas tarder. Nous décidons donc d'attendre et d'en profiter pour appeler quelques propriétaires de van. Quelques minutes plus tard, le responsable arrive et nous annonce qu'il n'y a en fait plus qu'un lit de libre. Rémy et moi laissons donc la place à Ludo.
 
-Cette journée a été vraiment éprouvante, je fais donc une petite sieste.  
-Dans cette course folle, lorsque nous attendions le responsable de l'auberge, nous avons vus un Van qui n'est pas trop mal, mais un peu vieux et sans aménagement à l'intérieur, pour la somme de 3900$ que nous avons déjà fait baisser à 3400$. C'est le 1er van donc on va en voir d'autres pour se faire une meilleure idée de ce que l'on peut trouver.  
-Le soir je passe à la City Backpacker ou je croise l'Irlandaise qui me propose d'aller boire un coup avec eux en ville, et bien sûr j'oublie ma carte d'identité, donc je ne peux pas rentrer, et je retourne seul à l'auberge.  
-Des jours comme ça, il ne vaudrait mieux pas se lever le matin ...
+Nous ne perdons pas une minute et commençons à appeler les auberges du coin. Après une heure au téléphone, nous en trouvons une avec deux places — mais seulement pour une nuit. Et je vous le donne en mille : où se trouve l'auberge ? Juste derrière la City Backpacker, de l'autre côté de la ville.
 
-L'aventure continue, alors une bonne nuit de sommeil et on est reparti !!
+Nous voilà repartis avec notre chargement sur le dos. Cette fois nous prenons un taxi, car il est déjà 13h30 et je dois aller à la banque ouvrir un compte pour pouvoir travailler ce soir au stade en tant que _runner_ — genre de serveur pour les salons VIP — et il faut aussi que je passe en ville acheter une paire de chaussures noires, obligatoires pour travailler.
+Bien sûr, l'auberge trouvée est 4 $ plus chère que la City Backpacker. Comme elle se trouve tout à côté, nous réservons deux nuits. Tant de marche, de coups de fil et de perte de temps pour se retrouver au même endroit. On se console en se disant que ça fait partie de la vie de routard que nous avons choisie.
 
-## 1er Week-end en Australie.
+L'heure tourne et il me reste beaucoup à faire avant de travailler à 17h00. Une fois installés à l'auberge, nous mangeons vite fait, et je pars à toute allure vers la banque qui ferme à 16h00. J'arrive à 15h58 — la porte n'est pas encore fermée, ouf. Quand je dis au banquier que je veux ouvrir un compte, il commence par me dire qu'il est trop tard et de revenir demain. J'insiste en lui expliquant que je commence à travailler à 17h00, et très gentiment, il crée mon compte en quelques minutes.
 
-Jeudi soir j'ai reçu un appel de Kristy une des australiennes que j'avais rencontré à Dublin (voir Irlande 2004). Nous sommes allés boire un verre dans la soirée, nous avons reparlé des souvenir de l'Irlande et de ce que nous faisons maintenant. Elle est aujourd'hui, du haut de ces 25 ans, avocate, ce qui parait jeune pour nous mais qui est normal ici. Sa colloque a 24 ans, et est avocate aussi. Elle nous a proposé de sortir avec elles vendredi, où elle va retrouver des amis pour la soirée. Elle nous a aussi très gentiment proposé de passer le weekend chez elle.
+16h15 : la course contre la montre n'est pas finie. Je pars chercher des chaussures dans un magasin pas loin de la banque, mais impossible de trouver ma pointure. Je cherche dans d'autres magasins, en vain. Je n'ai plus le temps — je tente le coup et retourne à l'auberge pour me laver, me raser, me changer, puis je repars vers le stade. J'arrive à 16h55.
+Je vais voir la manager au point de rendez-vous et là, grosse déception : elle me dit que je ne peux pas travailler sans chaussures noires. Je rentre donc à l'auberge en repensant à cette course folle accomplie dans les temps... pour échouer si près du but à cause d'une simple paire de chaussures noires.
+
+Cette journée a été vraiment éprouvante. Je fais une petite sieste.
+Pendant notre attente du responsable d'auberge, nous avons repéré un van pas trop mal, mais un peu vieux et sans aménagement intérieur, pour 3 900 $, que nous avons déjà fait baisser à 3 400 $. C'est le premier van vu, alors on va en regarder d'autres pour avoir une meilleure idée du marché.
+
+Le soir, je passe à la City Backpacker où je croise l'Irlandaise qui me propose d'aller boire un coup en ville — et bien sûr, j'ai oublié ma carte d'identité, donc je ne peux pas rentrer dans le bar, et je retourne seul à l'auberge.
+Des jours comme ça, il vaudrait mieux ne pas se lever le matin...
+
+L'aventure continue — bonne nuit de sommeil, et on repart !
+
+## **1er week-end en Australie.**
+
+Jeudi soir, j'ai reçu un appel de Kristy, une Australienne rencontrée à Dublin (voir Irlande 2004). Nous sommes allés boire un verre dans la soirée et avons reparlé des souvenirs d'Irlande et de ce que nous faisons maintenant. Elle est aujourd'hui avocate à 25 ans, ce qui paraît jeune pour nous mais est tout à fait normal ici — sa collègue a 24 ans et est également avocate. Elle nous a proposé de sortir vendredi avec ses amis, et nous a aussi très gentiment proposé de passer le week-end chez elle.
 
 ### Photos
 
@@ -98,19 +105,20 @@ Jeudi soir j'ai reçu un appel de Kristy une des australiennes que j'avais renco
 
 </div>
 
-Vendredi nous avons pris rendez-vous avec plusieurs personnes, pour voir des vans. Nous sommes tombés sous le charme du 1er. C'est un Toyota qui ressemble de très près au fameux WW. Apres en avoir vu 2 autres, nous confirmons l'achat et partons retirer 2700$ soit 1600 E prix que nous avons négocié, car il était d'abord à 3300 $.  
-Mais là, les problèmes ont commencé, je ne peux retirer que 1000E par semaine, ce qui pose un gros problème car le vendeur est allemand, et il rentre dans 5 jours. Je propose donc de faire un transfert d'argent sur son compte. Apres plusieurs coups de fils a la banque, j'arrive à faire réaliser le transfert, mais le weekend et les délais font que l'argent ne sera pas sur son compte avant mercredi ou jeudi, je vais essayer de négocier ça avec lui.
+Vendredi, nous avons pris rendez-vous avec plusieurs personnes pour voir des vans. Nous sommes tombés sous le charme du premier : un Toyota qui ressemble de très près au célèbre VW. Après en avoir vu deux autres, nous confirmons l'achat et partons retirer 2 700 $, soit 1 600 €, prix négocié car il était d'abord à 3 300 $.
 
-Le soir nous retrouvons Kristy, et nous passons la soirée dans la valley, le coin des bars et clubs de Brisbane. Le lendemain elle nous conduit en voiture chez elle, et nous restons pour le week-end.  
-Samedi soir j'ai travaillé au Trivoli Theater Restaurant en tant que « kitchen hand », aide de cuisine. Cette 1ere expérience en restauration s'est plutôt bien passée, car à la fin, le manager m’a dit que je retravaillerais sûrement encore pour eux.  
-Le dimanche a été repos dans l'appart de Kristy, et le soir, Rémy et moi, sommes sorti. Nous avons passé une superbe soirée, nous avons discuté avec plein de gens, surtout des Australiens.
+Mais là, les problèmes ont commencé. Je ne peux retirer que 1 000 € par semaine, ce qui pose un gros problème car le vendeur est allemand et rentre dans cinq jours. Je lui propose donc un virement sur son compte. Après plusieurs coups de fil à la banque, j'arrive à faire réaliser le transfert, mais le week-end et les délais bancaires font que l'argent ne sera pas sur son compte avant mercredi ou jeudi — je vais essayer de négocier ça avec lui.
 
-Ce 1er week-end a été plutôt bien réussi, mais nous n'avons pas encore notre van, et l'impatience de partir sur les routes se fait vraiment sentir.
+Le soir, nous retrouvons Kristy et passons la soirée dans le Valley, le quartier des bars et clubs de Brisbane. Le lendemain, elle nous conduit chez elle et nous restons pour le week-end.
+Samedi soir, j'ai travaillé au Tivoli Theater Restaurant en tant que _kitchen hand_ — aide de cuisine. Cette première expérience en restauration s'est plutôt bien passée ; à la fin, le manager m'a dit que je retravailerais sûrement pour eux.
+Le dimanche a été repos dans l'appartement de Kristy, et le soir, Rémy et moi sommes sortis. Nous avons passé une superbe soirée et discuté avec beaucoup de gens, surtout des Australiens.
 
-## Bientôt près pour l'aventure.
+Ce premier week-end a été plutôt réussi, mais nous n'avons pas encore notre van, et l'impatience de partir sur les routes se fait vraiment sentir.
 
-Voilà je suis enfin propriétaire d'un Van.  
-Après de dures négociations avec le vendeur, des fax à la banque, et le stress, me voilà enfin prêt, ou du moins presque, a partir sur les routes. Un seul petit problème le van n'a pas de contrôle technique alors on va devoir aller au garage pour le faire réaliser. S'il y a trop de frais je partirai comme ça, et on fera les réparations au fur et à mesure. De toute façon, je n'espère pas être obligé de le vendre bientôt.
+## **Bientôt prêts pour l'aventure.**
+
+Je suis enfin propriétaire d'un van.
+Après de dures négociations avec le vendeur, des fax à la banque et beaucoup de stress, me voilà enfin prêt — ou du moins presque — à partir sur les routes. Seul petit problème : le van n'a pas de contrôle technique, alors il va falloir aller au garage. S'il y a trop de frais, je partirai comme ça et ferons les réparations au fur et à mesure.
 
 ### Photos
 
@@ -140,13 +148,16 @@ Après de dures négociations avec le vendeur, des fax à la banque, et le stres
 
 </div>
 
-Pour un premier test nous allons aller pour le week-end sur la Gold Coast direction Surfers Paradise. Nous sommes passés pas Southport et Main Beach. Notre 1er arrêt sur la plage a été a the Spit regardez les photos, c'est ou il y a les jets ski.  
-Pour le soir nous sommes allés au camping de Burleigh, un peu déçus car il n'y avait que des vieux, mais cela nous a permis de profiter du Van avec l'équipement électrique, c'est à dire four micro-onde, toutes les lumières, et le chauffage car la nuit était fraîche.  
-Pour la soirée nous avons décidé d'aller sur Surfers Paradise, mais il y a 10 Kms de marche et nous ne pouvions prendre le Van car cela nous obligeait à revenir avant 11h00. Nous nous sommes arrêtés dans un bar restaurant de Miami, une ville proche, mais là aussi, il n'y avait que des vieux, alors nous avons pris le bus de la ville.  
-Une fois arrivés sur Surfers Paradise j'ai eu l'impression d'être à Miami Beach, aux Etats Unis. De hauts gratte-ciel, des jeunes partout dans les rues qui font la fête, la plage juste à côté ou les gens jouent au football et au Freezbee. Voilà ou se trouvaient les jeunes.  
-Les Australiens donnent vraiment l'impression d'une population sans soucis, qui a une vraie culture de la fête. Un pays en pleine croissance économique, mais l'on ressent aussi un pays qui n'a pas vraiment d'histoire, comme on les pays d'Europe.  
-Apres avoir fait un petit tour en ville nous avons repris le dernier bus vers minuit, pour ne pas être obligés de faire 10 Kms a pied pour rentrer au Van.  
-Il est vrai que nous ne sommes pas encore très bons pour nous orienter et trouver les bons coins du 1er coup, mais tout cela devrait aller mieux avec l'expérience des habitudes du pays.
+Pour un premier test, nous allons passer le week-end sur la Gold Coast, direction Surfers Paradise. Nous sommes passés par Southport et Main Beach. Notre premier arrêt sur la plage a été à The Spit — regardez les photos, c'est là qu'il y a les jet-skis.
+Pour la nuit, nous sommes allés au camping de Burleigh. Un peu déçus car il n'y avait que des gens âgés, mais cela nous a permis de profiter du van avec l'équipement électrique : micro-ondes, lumières, et chauffage car la nuit était fraîche.
+
+Pour la soirée, nous avions décidé d'aller sur Surfers Paradise, mais ça représentait 10 km à pied et nous ne pouvions pas prendre le van sans être obligés de rentrer avant 23h00. Nous nous sommes arrêtés dans un bar-restaurant de Miami, une ville proche, mais là aussi il n'y avait que des gens plus âgés. Nous avons donc pris le bus de ville.
+
+Une fois arrivés sur Surfers Paradise, j'ai eu l'impression d'être à Miami Beach. De hauts gratte-ciel, des jeunes partout dans les rues qui font la fête, la plage juste à côté où des gens jouent au football et au frisbee. Voilà où se trouvait la jeunesse.
+Les Australiens donnent vraiment l'impression d'être une population sans soucis, qui a une vraie culture de la fête. Un pays en pleine croissance économique, mais où l'on ressent aussi l'absence d'histoire ancienne, à l'inverse des pays d'Europe.
+Après avoir fait un petit tour en ville, nous avons repris le dernier bus vers minuit pour ne pas avoir à marcher 10 km jusqu'au van.
+
+Il est vrai que nous ne sommes pas encore très bons pour nous orienter et trouver les bons coins du premier coup, mais tout cela devrait s'améliorer avec le temps.
 
 ### Photos
 
@@ -174,14 +185,16 @@ Il est vrai que nous ne sommes pas encore très bons pour nous orienter et trouv
 
 ## </div>
 
-## 1er contact avec les koalas.
+## **1er contact avec les koalas.**
 
-Une expérience inoubliable!!  
-Lors de notre descente sur Surfers Paradise, nous nous sommes arrêtés à Lone Pine Koala Sanctuary. Comme c'était notre 1ère virée en Van, nous nous sommes un peu perdus, et donc arrivés vers 16h00, c'est à dire 1 heure avant que le Park ne ferme. A l'entrée, nous voyons des tarifs pour adultes à 14$, pas question de payer 28$ pour 1h00, alors nous décidons de négocier et après quelques minutes nous n'avons payé que 7$ pour les 2, Well done !!  
-Une fois à l'intérieur, l'émerveillement total. Nous avons vu des troupeaux de Kangourous. Nous pouvions même les toucher et leur donner à manger.  
-Je ne peux pas vous décrire l'impression que cela procure de voir de près ces animaux si étranges, et de pouvoir les caresser comme des chiens. Je ne vous cache pas que je ne faisais pas le malin quand j'en voyais un arriver à toute allure vers moi.  
-Après les kangourous, nous sommes allés voir les Koalas. Ce sont de petites créatures qui ressemblent à des peluches, et qui passent leur vie sur les arbres, à manger des feuilles d'eucalyptus. Leur pelage est merveilleux, et leurs petites pattes crochues montrent bien qu'ils ne sont faits que pour grimper aux arbres. Mais pourtant, un coup de griffe ne doit pas faire du bien.  
-Ensuite, nous sommes allés voir les autres animaux qui sont tout aussi magnifiques tels que les différents oiseaux exotiques, et les autres bestioles dont je ne me rappelle plus les noms. Je vous laisse regarder les photos et la vidéo pour juger par vous-même l'expérience du Lone Pine Koala Sanctuary.
+Une expérience inoubliable !
+Lors de notre descente vers Surfers Paradise, nous nous sommes arrêtés au Lone Pine Koala Sanctuary. Comme c'était notre première virée en van, nous nous sommes un peu perdus et sommes arrivés vers 16h00, soit une heure avant la fermeture du parc. À l'entrée, les tarifs adultes étaient à 14 $ — pas question de payer 28 $ pour une heure. Nous avons négocié et n'avons finalement payé que 7 $ pour deux. Well done !
+
+Une fois à l'intérieur, l'émerveillement total. Nous avons vu des troupeaux de kangourous que nous pouvions toucher et nourrir.
+Je ne peux pas vous décrire l'impression que cela procure de voir de près ces animaux si étranges et de pouvoir les caresser comme des chiens. Je ne vous cache pas que je ne faisais pas le malin quand j'en voyais un arriver à toute allure vers moi.
+
+Après les kangourous, nous sommes allés voir les koalas. Ce sont de petites créatures qui ressemblent à des peluches et passent leur vie dans les arbres à manger des feuilles d'eucalyptus. Leur pelage est merveilleux, et leurs petites pattes crochues montrent bien qu'ils ne sont faits que pour grimper. Cela dit, un coup de griffe ne doit pas faire de bien.
+Nous avons ensuite découvert les autres animaux, tout aussi magnifiques : les différents oiseaux exotiques et autres bestioles dont je ne me rappelle plus les noms. Je vous laisse regarder les photos et la vidéo pour juger par vous-mêmes.
 
 ### Photos
 
@@ -235,15 +248,16 @@ Ensuite, nous sommes allés voir les autres animaux qui sont tout aussi magnifiq
 
 ## </div>
 
-## C'est parti direction Cairns 1600 kms.
+## **C'est parti, direction Cairns — 1 600 km.**
 
-Alors nous sommes allés chez Toyota pour le van et il ne nous a pas annoncé une très bonne nouvelle. Effectivement le van ne passe pas le contrôle technique, cela ne pose pas vraiment de problème pour le moment, sauf si le moteur casse, ou si je veux le vendre.  
-Donc nous allons faire la montée sur Cairns, et voir comment il se comporte, et si cela vaut le coup de le garder, surtout que Rémy va partir fin Août, et je ne sais pas si c'est vraiment rentable de garder ce Van lorsque je serai seul. Toutes ces questions trouveront une réponse au fil des jours.
+Nous sommes donc allés chez Toyota pour faire inspecter le van, et la nouvelle n'est pas très bonne : il ne passe pas le contrôle technique. Ce n'est pas vraiment un problème pour l'instant, sauf si le moteur lâche ou si je veux le revendre.
 
-Nous voilà donc partis direction Morychidore, une petite ville bien sympathique avec de belles plages.  
-Sur la route, nous avons fait une escale pour manger, en haut d'une petite montagne, d'où nous avions une superbe vue, nous en avons profité pour faire un BBQ, car nous en trouvons de partout en Australie que ce soit dans les parcs, les aires de repos, et même sur les plages. Quelques oiseaux ont voulu nous piquer notre repas, mais nous nous sommes défendus, ils ont renoncé au bout d'un moment, mais ils sont téméraires.  
-Le soir nous sommes arrivés à Morechydore et avons trouvé un petit coin pour dormir.  
-Le lendemain, nous sommes allés faire un tour sur la plage, avant de partir pour Noosa.
+Nous allons donc faire la montée vers Cairns pour voir comment il se comporte, et si ça vaut le coup de le garder — d'autant que Rémy repart fin août, et je ne suis pas sûr qu'il soit rentable de garder ce van quand je serai seul, l'essence coûtant le même prix que je sois seul ou à deux. Ces questions trouveront une réponse au fil des jours.
+
+Nous voilà donc partis vers Maroochydore, une petite ville bien sympathique avec de belles plages.
+Sur la route, nous avons fait une escale repas au sommet d'une petite montagne offrant une superbe vue, et en avons profité pour faire un barbecue — il y en a partout en Australie, dans les parcs, les aires de repos, et même sur les plages. Quelques oiseaux ont tenté de nous piquer notre repas, mais nous avons tenu bon ; ils ont renoncé au bout d'un moment, même s'ils sont téméraires.
+Le soir, nous sommes arrivés à Maroochydore et avons trouvé un coin pour dormir.
+Le lendemain, nous sommes allés faire un tour sur la plage avant de repartir vers Noosa.
 
 ### Photos
 
@@ -283,10 +297,10 @@ Le lendemain, nous sommes allés faire un tour sur la plage, avant de partir pou
 
 ## </div>
 
-## Noosa National Park.
+## **Noosa National Park.**
 
-Aujourd'hui Mercredi 19 Juillet 2005, nous sommes montés sur Noosa pour faire une petite balade dans le parc national. Le parc s'étend sur 2kms à la fin de la Sunshine Coast.  
-La ballade au travers de la forêt du Park et des plages de sable fin, nous a pris la journée et en prime, nous avons eu droit à un superbe coucher de soleil lorsque nous sommes sortis de la forêt tropicale. Les photos en disent plus que les discours, alors je vous laisse apprécier.
+Aujourd'hui, mercredi 19 juillet 2005, nous sommes montés à Noosa pour une balade dans le parc national, qui s'étend sur 2 km à l'extrémité de la Sunshine Coast.
+La promenade à travers la forêt du parc et ses plages de sable fin nous a pris la journée, et en prime, nous avons eu droit à un superbe coucher de soleil en sortant de la forêt tropicale. Les photos en disent plus que les discours, alors je vous laisse apprécier.
 
 ## Photos
 
@@ -316,28 +330,32 @@ La ballade au travers de la forêt du Park et des plages de sable fin, nous a pr
 
 ## </div>
 
-## **Jusqu'où va t'on allé???**
+## **Jusqu'où va-t-on aller ?**
 
-Alors là c'est le moment ou le moral est à zéro, et où la remise en question est indispensable pour pouvoir repartir de plus belle.  
-C'est également cela qui rend les autres moments encore plus agréables ensuite.  
-Après quelques jours de voyages avec le Van, je me rends compte qu'il n'est pas dans l'état que j'aurais espéré. Je m'explique, même si nous roulons bien et que son aménagement est génial, frigo, plaque chauffantes, lumière, lavabo, chauffage, table à manger, auvent et même télé, il fait des bruits très bizarres et inquiétants, et la consommation est énorme.  
-Apres avoir un peu réfléchi à la chose, et en sachant comment se passe la vie ici, car en 2 semaines j'ai trouvé du boulot, j'ai vécu en auberge, chez des amies (Merci Kristy), et j'ai fait pas mal de kilomètres, ma vision du pays a changée.  
-Je me dis qu'il serait plus judicieux de monter sur Cairns comme prévu, si le Van tient le coup, et une fois arrivé là-haut, je le revends en essayant d'en tirer 2500 $, ce qui ne ferait qu'une perte de 200$, qui n'est presque rien pour un mois d'utilisation. Ensuite je compte changer mon mode de voyage. Après le départ de Rémy fin Août, je ne pense pas que voyager seul en van serait des plus sécurisant ni des plus économique, car l'essence coût le même prix que je sois seul ou pas.
+Là, c'est le moment où le moral est à zéro et où la remise en question s'impose pour pouvoir repartir de plus belle. C'est aussi ce qui rend les bons moments d'autant plus agréables ensuite.
 
-En résumé, j'essaye de monter sur Cairns, de vendre le van, et après je repars à zéro.  
-Par contre si le van me lâche, ou si je n'arrive pas à le vendre, je risque d'être de retour en France plus tôt que prévu, avec un moral au plus bas. Voilà on verra bien la suite, et on garde le sourire car ici c'est trop beau et trop bien. Bye-bye.
+Après quelques jours de voyage en van, je me rends compte qu'il n'est pas dans l'état que j'aurais espéré. Je m'explique : même si nous roulons bien et que son aménagement est génial — frigo, plaques chauffantes, lumières, lavabo, chauffage, table, auvent et même télé — il fait des bruits très bizarres et la consommation est énorme.
 
-## Hervey Bay.
+Après réflexion, et fort de ce que j'ai déjà appris sur la vie ici en deux semaines — j'ai trouvé du boulot, vécu en auberge, chez des amis (merci Kristy) et parcouru pas mal de kilomètres — ma vision du pays a évolué.
 
-Aujourd'hui nous nous sommes arrêtés à Hervey Bay, petite ville sans grand intérêt, mais avec des kilomètres de plage superbe.  
-Vous me direz des superbes plages y'en a partout ici, mais le but de nôtre visite est Frazer Island qui n'est rien d'autre que la plus grande île de sable au monde.  
-Pour visiter l'île, nous avons opté pour une formule proposée par une auberge/camping. Nous avons donc 2 nuits au camping puis une excursion sur l'île en 4x4, d'une durée de 2 jours, et ensuite une autre nuit au camping.  
-La 1er nuit au camping a été très cool, ne serait-ce que pour les douches et pour laver le linge. Plus tard nous avons rencontré 2 Allemandes qui visitent l'Australie en 4x4, et qui partent donc demain pour Frazer Island.  
-Elles nous ont donné des conseils et des plans pour faire du fruit Picking (Ramassage de fruit) dans le nord. Nous allons peut-être les revoir sur l'île ce week-end, et au fruit picking plus tard.  
-Le lendemain nous sommes allés faire un tour sur la plage. Nous y étions lors de la marée basse, le décor était splendide, et l'appareil resté dans le Van, désolé.  
-Le soir à 17h00, nous avons eu un meeting pour nous préparer au séjour sur l'île. Ils nous ont expliqués comment se déplacer, car là-bas c'est un peu Mad Max, il n'y a pas de route, et que des 4x4 qui se déplacent à travers les forêts tropicales, et les dunes de sables. L'île fait 120 Kms de long, sur 15kms de large.  
-C'est un parc naturel avec des animaux sauvages en tous genres, tels que les Dingos (chiens sauvages) qui ne sont pas commodes, parait-il.  
-Voilà c'est tout pour aujourd'hui, car demain départ à 6h30 du matin, et retour dimanche soir.
+Je me dis qu'il serait plus judicieux de monter à Cairns comme prévu, si le van tient le coup, et une fois là-haut de le revendre en essayant d'en tirer 2 500 $, ce qui ne représenterait qu'une perte de 200 $ — presque rien pour un mois d'utilisation. Ensuite, je compte changer mon mode de voyage. Après le départ de Rémy fin août, je ne pense pas que voyager seul en van serait très sécurisant ni économique.
+
+En résumé : j'essaie de monter à Cairns, de vendre le van, et après je repars à zéro.
+Par contre, si le van me lâche ou si je n'arrive pas à le vendre, je risque de rentrer en France plus tôt que prévu, avec le moral en berne. On verra bien la suite, et on garde le sourire — parce qu'ici, c'est trop beau. Bye-bye.
+
+## **Hervey Bay.**
+
+Aujourd'hui, nous nous sommes arrêtés à Hervey Bay, petite ville sans grand intérêt mais bordée de kilomètres de plage superbe.
+Vous me direz que des plages superbes, il y en a partout ici — mais le but de notre visite, c'est Fraser Island, qui n'est autre que la plus grande île de sable au monde.
+
+Pour visiter l'île, nous avons opté pour une formule proposée par une auberge-camping : deux nuits au camping, puis une excursion en 4x4 sur l'île pendant deux jours, et encore une nuit au camping.
+
+La première nuit au camping a été très cool, ne serait-ce que pour les douches et pour laver le linge. Plus tard, nous avons rencontré deux Allemandes qui visitent l'Australie en 4x4 et partent elles aussi pour Fraser Island le lendemain. Elles nous ont donné des conseils et des adresses pour faire du fruit picking dans le nord. Nous allons peut-être les retrouver sur l'île ce week-end et au fruit picking plus tard.
+
+Le lendemain, nous sommes allés faire un tour sur la plage lors de la marée basse — décor splendide, mais l'appareil photo était resté dans le van, désolé.
+Le soir à 17h00, nous avons eu un briefing pour préparer le séjour sur l'île. On nous a expliqué les déplacements : là-bas c'est un peu Mad Max, pas de route, que des 4x4 qui traversent forêts tropicales et dunes de sable. L'île fait 120 km de long sur 15 km de large.
+C'est un parc naturel avec des animaux sauvages en tous genres, notamment les dingos — des chiens sauvages pas vraiment commodes, paraît-il.
+Voilà pour aujourd'hui, car demain départ à 6h30 et retour dimanche soir.
 
 ### Photos
 
@@ -361,79 +379,94 @@ Voilà c'est tout pour aujourd'hui, car demain départ à 6h30 du matin, et reto
 
 ## </div>
 
-## 3 jours de bonheur sur Frazer Island.
+## **3 jours de bonheur sur Fraser Island.**
 
-Tout a commencé jeudi soir au Pub de l'auberge ou nous nous sommes retrouvés pour faire connaissance avec les autres personnes du tour.  
-Il y avait une vraie bonne ambiance autour du billard et de la piste de danse. A minuit nous sommes allés nous coucher pour être prêts à 6h30 du mat.  
-Avant de partir sur l'île, nous avons eu un meeting présenté par un Australien qui avait pour but de nous effrayer pour nous préparer à l'hostilité de l'île. Il nous a dit que nous partions pour a World of pain!! Effectivement le tour que nous avons choisi est un tour self drive, c'est à dire que nous avons notre propre 4x4 land cruiser, identique à ceux du Camel Trophy.  
-Apres quelques reportages sur les accidents qu'il y a eu sur l'île, et des conseils utiles, nous avons chargé le 4x4, avant de prendre le bac pour l'île à 8h00.
+Tout a commencé jeudi soir au pub de l'auberge où nous nous sommes retrouvés pour faire connaissance avec les autres participants du tour. Bonne ambiance autour du billard et de la piste de danse. À minuit, nous sommes allés nous coucher pour être prêts à 6h30.
 
-Arrivés là-bas, nous sommes partis sur des petites pistes à travers la jungle aux arbres de plus de 2 mètres de diamètre, pour arriver au lac Mc Kenzie, un lac d'eau douce cristalline, que nous pouvions boire. Après une petite baignade, et un petit repas, nous sommes repartis vers Eurong Beach.
+Avant de partir sur l'île, nous avons eu un briefing présenté par un Australien dont le but était clairement de nous faire peur pour nous préparer à l'hostilité du lieu. Il nous a dit que nous partions pour a _world of pain_ ! Le tour que nous avions choisi est en self-drive : chaque groupe a son propre Land Cruiser 4x4, identique à ceux du Camel Trophy.
 
-Au bord de la route, nous avons vu notre 1er Dingo qui n'avait pas l'air bien méchant. Une bonne tête de chienchien. Apres 25 km de plages, nous sommes arrivés sur le site de Maheno, où l'on peut voir l'épave d'un navire construit en 1904, du type Titanic, rapide, luxueux et coulé.  
-Plus tard, au nord de la plage qui fait 70 km de long, nous sommes restés bloqué dans du sable mou, mais après quelques efforts nous sommes repartis, et nous avons ensuite monté le camp sur la plage, ou nous avons retrouvé une vingtaine de personnes qui faisaient le même tour que nous.  
-Lorsque nous faisions le barbecue, nous avons vu un serpent de plus d'un mètre se balader à coté nous, cela nous a fait prendre conscience de la faune et flore qui vit sur cette île parc naturel.
+Après quelques reportages sur les accidents survenus sur l'île et quelques conseils utiles, nous avons chargé le 4x4 avant de prendre le bac à 8h00.
 
-Le 2ème jour, levé 7h00, «P’tit Déj» et départ à 9h00 pour Champagne Pools, une sorte de piscine naturelle à l'abri des vagues, ou l'on peut se baigner sans risquer de se faire dévorer par les requins énormes qu'il y a en mer.  
-Après nous sommes remontés vers Indian Head, un observatoire pour baleines et requins, mais nous n'avons pu apercevoir que quelques baleines au loin
+Arrivés là-bas, nous avons suivi de petites pistes à travers la jungle, entre des arbres de plus de 2 mètres de diamètre, jusqu'au lac McKenzie — un lac d'eau douce si cristalline qu'elle est potable. Après une petite baignade et un repas, nous sommes repartis vers Eurong Beach.
 
-## **A la recherche d'un boulot dans le nord.**
+Au bord de la route, nous avons vu notre premier dingo, qui n'avait pas l'air bien méchant — une bonne tête de toutou. Après 25 km de plage, nous sommes arrivés sur le site de Maheno, où l'on peut voir l'épave d'un navire construit en 1904 — rapide, luxueux et coulé, un peu à la Titanic.
 
-Lundi matin «P’tit Déj» au camping autour du van, avec tous les potes qui ont passé le week-end avec nous sur Frazer. On s'échange les numéros de téléphone et les mails, et après on se souhaite tous bon courage pour la suite, nous allons peut-être en retrouver quelques-uns plus haut, pour une visite en voilier sur les iles de Whitsunday.  
-Le 1er soir, au camping, nous avions rencontré deux Allemandes que l'on a retrouvées sur l’île, et nous avons décidé de faire un bout de route ensemble. Elles ont déjà travaillé dans le nord, et on a quelques adresses, et puis il est vrai que c'est plus sympa de se retrouver à 4 et parler anglais.
+Plus au nord, sur cette plage qui fait 70 km de long, nous nous sommes retrouvés bloqués dans du sable mou. Après quelques efforts, nous avons pu repartir et monter le camp sur la plage, où une vingtaine de personnes faisant le même tour nous ont rejoints.
+Pendant le barbecue, nous avons vu un serpent d'un bon mètre se balader à côté de nous — de quoi prendre conscience de la faune qui vit sur cette île.
 
-Donc lundi, nous sommes partis pour Childers, ou elles connaissent une auberge qui est en contact avec les fermes avoisinantes, qui proposent du boulot.  
-Apres quelques heures de route, nous sommes arrivés dans cette petite ville bien sympa, mais il n'y avait pas de boulot pour le moment. A l'auberge nous avons retrouvé l'anglais et l'irlandaise qui était avec nous sur Frazer. Ils recherchent aussi du boulot, et vont aussi monter comme nous, plus au Nord. Nous avons donc décide de monter sur Bundeberg, en espérant que nous aurons plus de chance, la haut.  
-Pas de chance, y'a pas plus de boulot, et en plus il faut être dans une auberge qui coute entre 110 et 160 $ la semaine pour pouvoir travailler en fruit picking. Pas bon pour nous.  
-Comme il est assez tard, nous avons décidé d'aller un peu plus vers la mer, à Bargara Beach, pour manger et dormir dans un coin tranquille, et repartir demain assez tôt pour rouler jusqu'au soir, histoire d'être le plus au Nord possible.  
-Le soir, pique-nique sur les barbecues de la plage. Ensuite, nous avons trouvé un coin dans les arbres pour passer la nuit. Au matin, nous nous sommes rendu compte que nous étions au milieu des vaches, le décor était splendide. Nous avons pris le «P’tit Déj» au soleil, avant de reprendre la route.  
-Nous avons roule toute la journée, avec un arrêt vers 16h00 à rock Hampton, capitale du Bœuf Australien, ce qui a donné très envie à Rémy de manger du bœuf, sauf que les restos ne servent pas à 16h00 de l'aprèm. Nous avons dû marcher 1 heure pour enfin trouver un café resto mais lorsque le serveur a donné le menu à Rémy, nous sommes partis car les prix étaient exorbitants.  
-Nous avons donc fini au supermarché du coin, pour acheter un steak qui n'était même pas de la viande de Rock Hampton...  
-Apres cette petite excursion nous sommes partis vers Mackey. Vers minuit, nous avons posé le camp dans un petit coin sympa, et sommes allés nous coucher, car la journée a été longue, avec 12h00 de trajet d'un seul coup, avec seulement une pause à Rock Hampton.  
-Le lendemain, au lever, le rêve ! Nous étions en fait au bord d'un lac avec personne autour, sauf un aéroport au loin qui ne nous gênait pas du tout. L'endroit était si bien que nous avons passé la journée à lézarder au soleil, joué à quelques jeux, et a profiter du moment présent. Vers 16h00, nous sommes allés faire un tour en ville, avant de prendre la route vers Airlie Beach, qui n'était qu'à 185 kms. Vers 8h00, toujours la routine, barbecue sur le bord de la plage, mais pas la plage de la mer cette fois ci. La plage d'un « Lagon » artificiel de toute beauté. Le soir, nous avons voulu dormir sur le parking, mais un agent de la sécurité nous a vire, alors nous sommes allés sur un parking un peu plus loin, car nous étions en ville, et qu'il n'est pas facile d'y trouver des coins tranquilles. Le lendemain matin, nous nous sommes fait réveiller à 6h30, nous et les 6 ou 7 autres vans autour de nous, par les agents de la commune, car le camping était interdit. Mais nous nous sommes rendormis et à 10h00, «P’tit Déj» et direction centre-ville a la recherche d'un boulot.
+Le deuxième jour, lever à 7h00, petit déj, départ à 9h00 pour les _Champagne Pools_ — une sorte de piscine naturelle à l'abri des vagues où l'on peut se baigner sans risquer de croiser les requins qui patrouillent au large.
+Nous sommes ensuite montés à Indian Head, un belvédère pour observer baleines et requins. Nous n'avons aperçu que quelques baleines au loin.
+
+## **À la recherche d'un boulot dans le nord.**
+
+Lundi matin, petit déjeuner au camping autour du van avec tous les potes du week-end. On s'échange les numéros et les mails, on se souhaite bon courage et on se promet peut-être de se retrouver sur les îles Whitsunday.
+
+La veille sur l'île, nous avions retrouvé les deux Allemandes de Hervey Bay et décidé de faire un bout de route ensemble. Elles ont déjà travaillé dans le nord et connaissent quelques adresses. Et puis c'est plus sympa à quatre en parlant anglais.
+
+Nous sommes donc partis pour Childers, où elles connaissent une auberge en contact avec les fermes du coin. Après quelques heures de route, arrivés dans cette petite ville sympathique, il n'y avait pas de travail pour le moment. À l'auberge, nous avons retrouvé l'Anglais et l'Irlandaise de Fraser Island — eux aussi cherchent du travail et montent vers le nord. Nous avons donc décidé de partir pour Bundaberg, en espérant avoir plus de chance.
+
+Pas de chance non plus, et en plus il faut loger dans une auberge à 110–160 $ la semaine pour accéder au fruit picking. Pas bon pour nous.
+
+Comme il est assez tard, nous décidons de descendre un peu vers la mer, à Bargara Beach, pour manger et dormir dans un coin tranquille avant de reprendre la route tôt le lendemain.
+Le soir, pique-nique sur les barbecues de la plage. Nous avons trouvé un coin dans les arbres pour passer la nuit. Au matin, nous nous sommes rendu compte que nous étions au milieu des vaches — décor splendide. Petit déjeuner au soleil avant de reprendre la route.
+
+Nous avons roulé toute la journée, avec un arrêt vers 16h00 à Rockhampton, capitale du bœuf australien. Rémy avait alors très envie d'un bon steak, sauf que les restaurants ne servaient pas à cette heure-là. Après une heure de marche, nous avons trouvé un café-resto — mais quand le serveur a donné le menu à Rémy, nous sommes repartis face aux prix exorbitants.
+Nous avons donc fini au supermarché pour acheter un steak... qui n'était même pas de la viande de Rockhampton.
+
+Nous sommes repartis vers Mackay. Vers minuit, nous avons posé le camp dans un coin sympa et sommes allés nous coucher : la journée avait été longue avec 12h00 de route d'un seul coup.
+
+Le lendemain, au réveil, le rêve : nous étions au bord d'un lac, seuls au monde, avec juste un aéroport au loin qui ne nous dérangeait pas. L'endroit était si agréable que nous avons passé la journée à lézarder au soleil, à jouer à des jeux, à profiter du moment. Vers 16h00, tour en ville, puis route vers Airlie Beach à 185 km. Vers 20h00, barbecue au bord d'un lagon artificiel splendide. Le soir, un agent de sécurité nous a chassés du parking, alors nous nous sommes installés un peu plus loin.
+
+Le lendemain matin, des agents de la commune nous ont réveillés à 6h30 — nous et les six ou sept autres vans autour — car le camping était interdit. Mais nous nous sommes rendormis, et à 10h00, petit déj et direction le centre-ville pour chercher du travail.
 
 ## **La chance n'est pas vraiment avec nous.**
 
-Tous les boulots que l'on peut trouver sur Airlie Beach ne sont que des boulots pour 2 ou 3 mois ce qui ne nous conviens pas car Rémy part fin Août et nous voulons aller sur Cairns.  
-Nous partirons donc pour demain pour Bowen le soit disant paradis du fruit picking.
+Tous les boulots disponibles à Airlie Beach sont des contrats de deux à trois mois, ce qui ne nous convient pas : Rémy repart fin août et nous voulons aller à Cairns.
+Nous partirons donc demain pour Bowen, le soi-disant paradis du fruit picking.
 
-Le soir, nous avons passé la soirée avec les allemands, tout à commencer par le coucher de soleil notre plaisir de tous les jours car ici ils sont magnifiques, en suite nous sommes allées faire du Trampoline sur la plage et fini la soirée dans le van après un bon repas de pates pour changer.
+Le soir, nous avons passé la soirée avec les Allemandes. Tout a commencé par le coucher de soleil — notre plaisir quotidien, car ils sont magnifiques ici — puis nous sommes allés faire du trampoline sur la plage et avons fini la soirée dans le van après un bon repas de pâtes, pour changer.
 
-Le lendemain matin les filles sont parties très tôt pour un tour en bateau sur les iles de Whitsunday, n'ayant pas de sous nous ne sommes pas allés avec elles.  
-Nous sommes parti pour Bowen vers 11h mais la dès que j'ai voulu démarrer les problèmes ont commencé.  
-Le van n'avait plus de batterie et nous avons donc dû demandé à des gens, très sympa, de nous aider à pousser. Nous voilà donc parti mais après 20 kms le van à commencer à faire des flammes et a caller. J’ai cru au début que c'était le moteur qui nous lâcher mais en faites s'était parce que la batterie était morte et ne fournit pas un bonne allumage au moteur.  
-Après 2 ou 3 arrêt sur les 80 kms qui s'épare les deux villes nous somme enfin arriver, je me suis garer en descente et nous sommes parti a la recherche du boulot.  
-C'est après 3 heures de marche dans un ville qui ressemble fortement au Mexique, c'est à dire avec des rues cabosser, un climat très sec et chaud et comme véhicules des pickup et des 4x4 que nous avons compris que dans cette ville il n'y avait rien d'autre que des fermiers et des travailleurs.  
-Le problème c'est que de partout ils nous ont dit que la saison était mauvaise et qu'il n'y aura pas de boulot avant 2 ou3 semaines.  
-Nous sommes donc retourne au van et Rémy a eu la bonne idée d'aller prendre un douche dans l'auberge d'à côté. Le problème c'est que 10 minutes plus tard il est revenu avec le manager de l'auberge qui la vue entrer et la sortie de la douche, bien énerver il lui a dit tu me donne 10$ pour la douche ou j'appelle les flics, alors bien sûr il a payé sa douche 10$, bien jouer. Ensuite il lui a dit je ne veux pas vous voir garer ici ni les rues aux alentour, donc en pleins nuit nous avons poussé le van et chercher une place en pente pour dormir.  
-Vu la superbe journée passe nous nous sommes couchés à 8h du soir, c'est le genre de journée que l'on veut courte pour ne pas risquer d'avoir plus de problèmes.  
-Le lendemain matin nous sommes allées dans un garage pour faire recharger la batterie du van et nous sommes allées demander au port de pèches si ils avaient besoin d'aide mais rien la non plus.  
-Apres mure réflexion j'ai décidé de retourner sur Airlie Beach et de prendre un boulot pour 2 ou 3 mois, j'ai donc appelé les endroits où nous avions des pistes.  
-Vers 11h30 du mat nous avons récupéré la batterie au garage mais elle n'avait pas fini de se charger alors nous sommes reparti avec une demie batterie.  
-Nous sommes arrivés vers 13h à Airlie Beach, je suis allé remplir un formulaire pour le boulot mais la personne sur qui je suis tombé n'était pas la personne sympa que j'avais eu au téléphone c'était une bonne tête de con qui a pris mon formulaire et la mise en vrac sur un tat de papier de la réception.  
-J'ai donc fait plusieurs auberges de jeunesse qui propose le logement gratuit et un salaire de 200 à 300 $ par semaines pour différent boulots. J'ai aussi appelé une personne qui propose du boulot sur une ile. Mon téléphone n'ayant plus de batterie j'ai donné le numéro de téléphone de Rémy et c'est lui qui a répondu lorsque la personne a appelé et il a eu le boulot, un boulot de 5 jours sur l’ile à nettoyer les cuisines. C'est pas plus mal car c'est ce genre de boulot qui lui va bien, il ne peut pas prendre de boulot pour 2 mois.  
-Moi j'ai eu une interview pour conduire le bus d'une auberge le manager m'a dit que j'avais 50% de chance d'avoir le boulot car une autre personne avait un entretiens juste après moi, là j'attends, je vous dis pas la pression mais bon, je pense que je vais retourner à l'auberge pour avoir des nouvelles et leurs montrer que je suis motiver par le boulot.  
-Je vous donne des nouvelles le plus vite possible bye-bye.
+Le lendemain matin, les filles sont parties très tôt pour un tour en bateau sur les îles Whitsunday. N'ayant pas les moyens, nous ne sommes pas allés avec elles.
+Nous sommes partis pour Bowen vers 11h00, mais dès que j'ai voulu démarrer, les problèmes ont commencé. La batterie du van était morte ; il a fallu demander à des gens très sympas de nous aider à pousser. Nous voilà partis, mais après 20 km, le van a commencé à cracher des flammes et à caler. J'ai d'abord cru que c'était le moteur, mais c'était en fait la batterie à plat qui ne fournissait pas une bonne alimentation. Après deux ou trois arrêts sur les 80 km séparant les deux villes, nous sommes enfin arrivés. Je me suis garé en descente et nous sommes partis à la recherche de travail.
 
-## **Tant de choses se sont passées en seulement 1 mois.**
+Après trois heures de marche dans une ville qui ressemble fortement au Mexique — rues cabossées, climat sec et chaud, pickups et 4x4 partout — nous avons compris qu'ici il n'y avait que des fermiers et des ouvriers agricoles. Et de partout, on nous a dit que la saison était mauvaise et qu'il n'y aurait pas de travail avant deux ou trois semaines.
 
-Eh bien voilà, le job m'est passé sous le nez !!! Je n'ai pas eu le job de chauffeur de bus. Le manager m'a dit qu'une fille s'était présentée, et que c'était mieux car il y avait déjà un mec et il voulait équilibrer. . .  
-Donc, bien énervé et découragé, j'ai pris mon courage à deux mains, mon sac à dos, et je suis parti faire le tour de tous les restos, auberges de jeunesse, magasins, et autres endroits où je pouvais éventuellement trouver du boulot. Plus tard, une auberge qui avait pris mon CV m'a orientée vers une auberge de jeunesse / restaurant / bar, où j'ai effectivement trouvé un boulot de kitchen Hand, la même chose que j'avais fait à Brisbane pour un soir, mais bien sûr, j'ai dit que j'avais de l'expérience, et j'ai donc commencé le soir même, à 6pm.  
-Je peux rester pour 2 ou 3 mois. J'ai le logement gratos, Internet gratos, un repas gratos par jour, boisons gratos, réductions dans plusieurs bars et night clubs de la ville, et aussi 300$ par semaine, pour 5 jours de boulot. Je bosse de 11h30 à 15h00, et de 18h00 à 23h30. Ces horaires me conviennent très bien, car je ne suis pas trop du matin, et le soir je peux quand même sortir après 23h30. Entre nous c'est mieux que l'autre job, car je devais commencer à 5h00 du mat, crazy !!!
+Nous sommes retournés au van, et Rémy a eu la brillante idée d'aller prendre une douche dans l'auberge d'à côté. Le problème, c'est que dix minutes plus tard, il est revenu accompagné du manager de l'auberge qui l'avait vu entrer et sortir de la douche. Très en colère, il lui a dit : « 10 $ pour la douche ou j'appelle les flics. » Bien joué. Il nous a également interdit de rester garés là et dans les rues alentour. En pleine nuit, nous avons donc poussé le van et cherché une pente pour dormir.
 
-Donc voilà, la roue tourne, et ça fait du bien.  
-Evidement y'a pas de photos aujourd'hui parce que ce n’était pas vraiment des vacances, et en plus, il a plu toute la semaine.
+Vue la superbe journée, nous nous sommes couchés à 20h00 — le genre de journée qu'on veut courte.
 
-Ca fait donc un mois que je suis parti de France, honnêtement j'ai vécu un des mois les plus mouvementés de ma vie, où il m'est arrivé plein de choses. Des bonnes comme des mauvaises (et je n’ai pas tout mis sur le site pour ne pas que mes parents viennent me cherche en urgence.) Mais bon, tout est rentré dans l'ordre, et je pense que ça va me faire du bien de me poser pour 2 mois dans ce coin paradisiaque.
+Le lendemain matin, nous sommes allés dans un garage faire recharger la batterie et au port de pêche demander s'ils avaient besoin d'aide — rien là non plus.
 
-Merci bien pour vôtre soutient à tous, et continuez à venir faire un tour de temps en temps sur mon site, je vais continuer l'aventure, même si ça risque d'être plus calme pour quelques mois.
+Après mûre réflexion, j'ai décidé de retourner à Airlie Beach et de prendre un boulot pour deux à trois mois. J'ai appelé les contacts que nous avions.
+Vers 11h30, nous avons récupéré la batterie — pas tout à fait chargée — et sommes repartis avec une demi-batterie.
 
-_A oui au fait, un grand merci à mon père qui fait de son mieux pour corriger mes fautes "dortografff " et c'est du boulot ! ! !_
+Arrivés à Airlie Beach vers 13h00, je suis allé remplir un formulaire mais suis tombé sur quelqu'un d'antipathique qui a posé mon dossier en vrac sur une pile. J'ai donc fait le tour des auberges proposant logement gratuit et 200 à 300 $ par semaine pour divers boulots. J'ai aussi appelé quelqu'un qui proposait du travail sur une île. Mon téléphone étant à plat, j'avais donné le numéro de Rémy — c'est lui qui a répondu quand la personne a rappelé, et c'est lui qui a eu le boulot : cinq jours sur l'île à nettoyer les cuisines. C'est le genre de mission qui lui convient, pas de contrat long.
+
+Moi, j'ai eu un entretien pour conduire le bus d'une auberge. Le manager m'a dit que j'avais 50 % de chances car une autre personne passait juste après. J'attends, je vous dis pas la pression... Je vais retourner à l'auberge montrer que je suis motivé.
+
+Je vous donne des nouvelles le plus vite possible. Bye-bye.
+
+## **Tant de choses se sont passées en seulement un mois.**
+
+Eh bien voilà, le job m'est passé sous le nez ! Le manager m'a dit qu'une fille s'était présentée, et qu'il préférait équilibrer car il y avait déjà un homme parmi le staff.
+
+Bien énervé et découragé, j'ai pris mon courage à deux mains, mon sac à dos, et je suis parti faire le tour de tous les restos, auberges, magasins et autres endroits où je pourrais éventuellement trouver du boulot. Plus tard, une auberge qui avait pris mon CV m'a orienté vers un backpacker-restaurant-bar où j'ai effectivement trouvé un poste de kitchen hand — le même travail qu'à Brisbane pour un soir, mais cette fois j'ai dit que j'avais de l'expérience, et j'ai donc commencé le soir même à 18h00.
+
+Je peux rester deux à trois mois. J'ai le logement gratuit, Internet gratuit, un repas gratuit par jour, des boissons gratuites, des réductions dans plusieurs bars et clubs de la ville, et 300 $ par semaine pour cinq jours de travail. Je bosse de 11h30 à 15h00 et de 18h00 à 23h30. Ces horaires me conviennent très bien car je ne suis pas du matin, et le soir je peux sortir après 23h30. Entre nous, c'est mieux que l'autre job où je devais commencer à 5h00 du matin !
+
+La roue tourne, et ça fait du bien.
+Évidemment, pas de photos aujourd'hui car ce n'était pas vraiment des vacances — et en plus il a plu toute la semaine.
+
+Ça fait donc un mois que je suis parti de France. Honnêtement, j'ai vécu l'un des mois les plus mouvementés de ma vie, plein de hauts et de bas (je n'ai pas tout mis sur le site pour ne pas que mes parents viennent me chercher en urgence). Mais tout est rentré dans l'ordre, et je pense que ça va me faire du bien de me poser deux mois dans ce coin paradisiaque.
+
+Merci à tous pour votre soutien, et continuez à passer de temps en temps sur le site. L'aventure continue, même si ça risque d'être plus calme pour quelques mois.
+
+_À oui, au fait — un grand merci à mon père qui fait de son mieux pour corriger mes fautes « d'ortograffe », et c'est du boulot !_
 
 ## **Petit rappel.**
 
-Je suis allongé sur la plage du lagon d'Airlie Beach, sous un soleil de plomb, et devant une belle page blanche. Je ne sais pas trop par où commencer. Voilà déjà un mois que nous sommes, Rémy et moi, arrivés à Airlie Beach. Nous avions retrouvé nos amies Allemandes, après notre périlleuse virée sur Bowen.  
-Elles ont visité les Iles de Whitsunday, l'archipel d'iles au large d'Airlie, sur la barrière de corail. Comme nous sommes revenus, elles ont décidé de rester un peu avec nous. Elles ont fait la connaissance d'un Australien qui voyage seul dans son van. Il s'appelle Adam et il joue de la guitare, nous avons tout de suite sympathisé. Rémy est parti Dimanche sur South Moll Island, pour travailler dans le complexe touristique de l'ile, et moi j'ai trouvé un boulot au Backpacker The Beaches, comme kitchen hands.
+Je suis allongé sur la plage du lagon d'Airlie Beach, sous un soleil de plomb, devant une belle page blanche. Je ne sais pas trop par où commencer. Voilà déjà un mois que Rémy et moi sommes arrivés à Airlie Beach. Nous avions retrouvé nos amies allemandes après notre périlleuse virée à Bowen.
+Elles ont visité les îles Whitsunday, l'archipel au large d'Airlie sur la barrière de corail. Comme nous étions revenus, elles ont décidé de rester un peu avec nous. Elles ont fait la connaissance d'Adam, un Australien qui voyage seul dans son van et joue de la guitare — nous avons tout de suite sympathisé. Rémy est parti dimanche sur South Moll Island pour travailler dans le complexe touristique de l'île, et moi j'ai trouvé un boulot aux Beaches Backpacker comme kitchen hand.
 
 ### Photos
 
@@ -453,103 +486,108 @@ Elles ont visité les Iles de Whitsunday, l'archipel d'iles au large d'Airlie, s
 
 ## **La 1ère semaine à Airlie Beach.**
 
-Les allemandes sont parties lundi matin pour Cairnes, puis Darwin. Je me suis donc retrouvé seul pour la première fois depuis le départ. Enfin pas tout à fait. Effectivement Adam compte rester pour quelques temps sur Airlie, mais il ne sait pas trop combien de temps.  
-Lorsque je ne bosse pas, on va jouer de la guitare, ou au freezbee sur la plage.  
-Souvent le soir, nous jouons de la guitare en regardant le coucher de soleil sur la bay d'Airlie, je pense que c'est un des plus beaux endroits où j'ai joué de la guitare.
+Les Allemandes sont parties lundi matin pour Cairns, puis Darwin. Je me suis donc retrouvé seul pour la première fois depuis le départ. Enfin, pas tout à fait — Adam compte rester quelque temps à Airlie, même s'il ne sait pas combien.
+Quand je ne bosse pas, on va jouer de la guitare ou du frisbee sur la plage.
+Souvent le soir, nous jouons de la guitare en regardant le coucher de soleil sur la baie d'Airlie. Je pense que c'est l'un des plus beaux endroits où j'ai joué de la guitare.
 
-Bien que j'ai connu pas mal d'Australiens en Irlande, je commence juste à m'habituer aux différents accents du pays, surement grâce à Adam qui est bien cool, et m'apprend les mots d'argot et autres expression Aussi.
+Bien que j'aie connu pas mal d'Australiens en Irlande, je commence seulement à m'habituer aux différents accents du pays — sûrement grâce à Adam qui est vraiment cool et m'apprend les mots d'argot et autres expressions locales.
 
-Nous avons donc découvert la ville, elle n'est pas très grande, il y a une rue principale, avec un supermarché, une dizaine de Backpacker, et je ne pense pas moins de 30 agences de voyage pour vendre des "trips" sur les iles de Whitsunday. Tout ça pour dire que l'économie de la ville est basée essentiellement sur la visite des iles. En général, les gens ne restent pas plus de 2 ou 3 jours. Il n'y a donc pas grand-chose à faire, si ce n'est d'aller à la plage, faire des ballades dans les collines aux alentours, et aller dépenser son fric dans les Pubs et les Night clubs.
+Nous avons donc découvert la ville. Elle n'est pas très grande : une rue principale avec un supermarché, une dizaine de backpackers et pas moins de trente agences de voyage pour vendre des tours sur les îles Whitsunday. L'économie de la ville repose entièrement sur ces visites. En général, les gens ne restent pas plus de deux ou trois jours. Il n'y a donc pas grand-chose à faire, si ce n'est la plage, des balades dans les collines et dépenser ses économies dans les pubs et clubs.
 
-Niveaux Pubs, j'ai déjà bien donné pendant 2 ans en Irlande, alors je vais passer mon tour, et essayer de voir autre chose.  
-Je compte économiser ce que je gagne en bossant, pour voyager avec mon Van, payer l'essence, l'entretient, le camping si besoin, et surtout, faire des activités telles que la plongée sous-marine, la visite des Iles Whitsunday, la barrière de corail, aller voir des baleines, faire du Quad ou du cheval dans le Bush Australien, etc...
+Niveau pubs, j'ai déjà bien donné pendant deux ans en Irlande, alors je vais passer mon tour et essayer de voir autre chose.
+Je compte économiser mes salaires pour voyager en van, payer l'essence, l'entretien, le camping si besoin, et surtout faire des activités : plongée sous-marine, visite des îles Whitsunday, barrière de corail, observation des baleines, quad ou cheval dans le bush australien...
 
-Honnêtement je n'ai pas été très bon pour le moment, c'est peut-être le fait d'avoir vécu deux semaines avec 20$, mais j'ai dépensé tout mon salaire, il faut bien vivre de temps en temps.
+Honnêtement, je n'ai pas été très bon pour le moment côté économies — c'est peut-être le fait d'avoir vécu deux semaines avec 20 $. Mais j'ai dépensé tout mon salaire. Il faut bien vivre de temps en temps.
 
-Voilà donc comment c'est passé la première semaine.
+Voilà comment s'est passée la première semaine.
 
 ## **La 2ème semaine.**
 
-Lundi j'ai rejoint la Staff Room (Chambre du personnel), car je vivais toujours dans le Van pendant la 1ère semaine de boulot. J'ai donc fait connaissance avec le staff. Je suis, sur la trentaine de personnes, le seul qui ne vient pas d'un pays de langue anglaise. Il y a des Anglais en pagaille, des Irlandais, des New Zélandais, des australiens, des canadiens, etc... Je pensais que mon niveau d'anglais était assez bon lorsque je n'étais qu'avec des non anglais, ou avec peu de personnes, mais lorsque je ne suis qu'avec des anglais, les choses se gâtent, et il est assez difficile de trouver sa place. En Irlande, les gens ont l'habitude de parler avec des gens non-anglais, mais ici, ils ne savent même pas que ça existe.  
-Apres réflexion je me suis dit que c'était une très bonne chose. J'ai appris à parler anglais en Irlande, et ici, je vais pouvoir peaufiner mon apprentissage.  
-Il va falloir plus de temps pour m'intégrer ici, par exemple, il n'y en a pas un qui arrive à dire mon nom, Guillaume deviens "Juilomy" ou "Guylomee" et lorsque les gens ne se rappellent pas ton nom, ou n'arrivent pas à le dire, ils te parlent beaucoup moins. Avec le Staff de la cuisine, avec qui j'ai bien sympathisé, nous avons cherché un surnom pour moi. Après avoir refusé tous les noms du genre, Frenchy, froggy, etc, nous sommes tombés d'accord sur "G" ce qui sonne un peu comme d'Ji en anglais. Ça ira donc pour le moment, du moins jusqu'à ce que je trouve un meilleur surnom.  
-J'ai refusé aussi qu'ils m'appellent William, car c'est un autre nom, et pas un surnom.
+Lundi, j'ai rejoint la chambre du personnel car je vivais toujours dans le van pendant ma première semaine de boulot. J'ai donc fait connaissance avec le staff. Je suis, sur la trentaine de personnes, le seul qui ne vient pas d'un pays anglophone. Il y a des Anglais en pagaille, des Irlandais, des Néo-Zélandais, des Australiens, des Canadiens... Je pensais que mon niveau d'anglais était assez bon quand je n'étais qu'avec des non-anglophones, mais là, entouré exclusivement d'anglophones natifs, les choses se compliquent et il est difficile de trouver sa place. En Irlande, les gens sont habitués à parler avec des étrangers, mais ici, certains ne semblent même pas savoir que ça existe.
 
-Donc voilà, je bosse 5 jours sur 7 dans la cuisine, de 11:30 à 3:00PM et de 6:00PM, à 11:00PM.  
-L'ambiance est cool, il y a toujours de la musique, on écoute radio classic, mais ici les classiques, c'est la "zique" des 60's 70's, ou encore les bons rocks des 80's 90's, ce qui me va plus que bien. Je fais la vaisselle en écoutant de la musique, pas mal par rapport au "fruits picking".  
-Au début j'avais un peu peur de perdre le job rapidement car je n'avais aucune idée de ce que j'allais faire, alors je me suis donné à fond. Et bien je ne suis pas mauvais du tout, le chef a même dit au directeur des Beaches que j'étais le meilleur kitchen hands qu'ils avaient eu. Le chef ma même proposé de passer en préparation des plats. J'ai déjà fait quelques essais, et je m'applique car ça peut être une bonne expérience pour trouver du boulot dans les villes que je visiterai dans l'avenir.
+Après réflexion, j'ai décidé que c'était une très bonne chose : j'ai appris à parler anglais en Irlande, et ici je vais pouvoir peaufiner.
 
-Je commence à faire mon bonhomme de chemin, je discute maintenant de plus en plus avec le staff, le fait de ne pas trop parler au début a entrainé que les gens se sont intrigués, et lorsqu'ils ont l'occasion de parler avec moi; ils sont agréablement surpris de voir que je peux bien parler anglais, et que je ne suis pas si renfermé. Les conversations en sont ainsi bien souvent plus intéressantes.  
-Je ne pense tout de même pas trouver des gens pour voyager avec moi dans le staff actuel, car ils sont tous très portés sur les beuveries, et ça leur prend tout leur temps libre et leur argent. Forcément, les Pubs c'est cher, même si on a 50% de remise sur les consos.
+Il faudra du temps pour m'intégrer — par exemple, personne n'arrive à prononcer mon prénom. Guillaume devient « Juilomy » ou « Guylomee ». Et quand les gens ne retiennent pas ton prénom, ils te parlent moins. Avec le staff de cuisine, avec qui j'ai bien sympathisé, nous avons cherché un surnom. Après avoir refusé tous les « Frenchy », « Froggy » et consorts, nous nous sommes mis d'accord sur « G », qui sonne un peu comme « Ji » en anglais. Ça ira pour le moment. J'ai aussi refusé « William » — c'est un autre prénom, pas un surnom.
 
-Mon but avant de partir d'Airlie Beach, est de trouver au moins une personne pour faire la route avec moi, afin de partager les frais, et de ne pas être seul sur les routes.  
-Le top pour moi serait de trouver quelqu'un pour voyager dans le van, et 2 autres personnes dans un autre véhicule, pour se suivre, comme on a fait avec les Allemandes.
+Je bosse donc cinq jours sur sept en cuisine, de 11h30 à 15h00 et de 18h00 à 23h00.
+L'ambiance est cool, il y a toujours de la musique. On écoute Radio Classic, mais ici les classiques, c'est la zique des années 60–70 et les bons rocks des 80–90, ce qui me va très bien. Faire la vaisselle en écoutant de la bonne musique, pas mal comparé au fruit picking.
+
+Au début, j'avais un peu peur de perdre le job rapidement car je ne savais pas trop ce que j'allais faire. Alors je me suis donné à fond — et je ne m'en sors pas mal du tout. Le chef a même dit au directeur des Beaches que j'étais le meilleur kitchen hand qu'ils avaient eu. Il m'a même proposé de passer en préparation de plats. J'ai déjà fait quelques essais et je m'applique, car ça peut être une bonne expérience pour trouver du boulot dans les villes que je visiterai.
+
+Je commence à faire mon chemin : je discute de plus en plus avec le staff. Le fait de ne pas trop parler au début a intrigué les gens, et quand ils ont enfin l'occasion de discuter avec moi, ils sont agréablement surpris de voir que je parle bien anglais et que je ne suis pas si renfermé. Les conversations en sont d'autant plus intéressantes.
+
+Je ne pense pas trouver de compagnons de voyage dans le staff actuel — ils sont tous très portés sur les beuveries, ce qui prend tout leur temps libre et tout leur argent. Forcément, les pubs, c'est cher, même avec 50 % de réduction sur les consos.
+
+Mon objectif avant de quitter Airlie Beach : trouver au moins une personne pour partager la route et les frais, et ne pas être seul. Le top serait de trouver quelqu'un dans le van, et deux autres personnes dans un autre véhicule, comme nous l'avions fait avec les Allemandes.
 
 ## **Bye bye, Rémy.**
 
-Rémy est parti pour la France, c'est comme un nouveau départ pour moi.  
-Lorsqu'il est revenu après 2 semaines de travail sur South Moll Island, il a décidé de rester sur Airlie pour les quelques jours qui lui restaient. Comme je travaille nous n'avons pas pu faire grand-chose de très intéressant, mais lui, il s'est tout de même payé une journée de plongée sur la barrière de corail. Il a adoré, il a même vu des baleines.  
-Nos journées se sont limitées à la plage, au lagon, et le soir, je le retrouvais la plupart du temps au Paddy's, un Pub Irlandais ou il y a un groupe qui joue tous les soirs. Nous allions souvent voir le groupe Wazabi, un groupe de jeunes qui jouaient du "reck", genre Ben Harper, ou Jack Johnson.  
-C'est d'ailleurs au Paddy's que nous avons commencés la soirée de départ de Rémy.  
-Il pensait qu'il partait le jeudi, alors nous avions prévus de faire une "leaving party" le mercredi soir. Lorsque j'ai fini le boulot mardi soir à 10:30PM, il est venu me dire qu'il partait mercredi matin. J'ai donc vite pris une douche et nous sommes partis au "Paddy's". Adam a trouvé un travail, alors il n'était pas avec nous.  
-Le Paddy's est un pub, et donc il ferme à 1:00 du mat. Nous avions décidé d'aller au Mama Africa, un night-club ou tout le monde va pour finir la soirée. A la sortie du Paddy's, il y avait un jeune qui jouait du Didgereedoo, je lui ai demandé si je pouvais jouer avec lui, et j'ai été cherché ma guitare dans le van.  
-Je vous le donne en mille, ce jeune joueur de "Didge" n'était pas australien, mais…... Français ! ! ! Son "Didge" est en clef de Fa, pas très commun pour la guitare. Après quelques minutes nous avons trouvé des rythmes sympas. Il y avait pas mal de gens qui se sont arrêtés pour danser, écouter et donner quelques pièces.  
-Vers la fin, un groupe de jeunes de notre âge est venu, et nous avons commencé à discuter avec eux. L'un d'eux jouait de la guitare, et nous avons décidé d'aller jouer sur la plage. Émeric, le "didge man", était fatigué, et il est parti se coucher, mais nous avons pris RDV pour le lendemain.
+Rémy est parti pour la France — c'est comme un nouveau départ pour moi.
+Quand il est revenu après deux semaines de travail sur South Moll Island, il a décidé de rester à Airlie pour les quelques jours qui lui restaient. Comme je travaillais, nous n'avons pas pu faire grand-chose d'intéressant, mais lui s'est tout de même offert une journée de plongée sur la barrière de corail. Il a adoré — il a même vu des baleines.
 
-Nous étions 6 ou 7 sur la plage, avec 2 guitares. Tout le monde chantait. Il y avait entre autres, 2 américains, dont le gars qui jouait de la guitare, 2 françaises et moi. Rémy étant parti chercher à manger, je ne l'ai pas revu avant le lendemain matin.  
-La française ma montré les accords d'une chanson française, répertoire que je ne connais pas beaucoup, mais la chanson était Nostalgique, du cool de "M", un de mes musiciens français favoris.  
-Elle a chanté et c'était pas mal, ensuite j'ai joué quelques blues, et du Jack Johnson avec le "ricain". C'était génial. Malheureusement, il est parti le lendemain.
+Nos journées se sont limitées à la plage, au lagon, et le soir je le retrouvais la plupart du temps au Paddy's, un pub irlandais où un groupe joue tous les soirs. Nous allions souvent voir Wazabi, un groupe de jeunes qui jouaient du rock folk à la Ben Harper ou Jack Johnson.
 
-Cette soirée ma vraiment convaincu que les bons moments ne se passent pas dans les pubs avec des gens "bourrés", mais avec des gens prêts à partager de bon moments, en toute simplicité.
+C'est d'ailleurs au Paddy's qu'a commencé la soirée de départ de Rémy.
+Il pensait partir le jeudi, alors nous avions prévu une _leaving party_ le mercredi soir. Quand j'ai fini le boulot mardi à 22h30, il est venu me dire qu'il partait le mercredi matin. J'ai vite pris une douche et nous sommes filés au Paddy's. Adam avait trouvé du travail et n'était pas avec nous.
 
-Voilà donc ou j'en suis aujourd'hui. J'espère que ce week-end, je vais pouvoir aller jouer avec Émeric, car cette expérience guitare /"Didge" me plait bien. Hier soir je suis allé avec mes collègues de cuisine à l'appart de Phil, un des cuistots qui vient de N.Z. Nous avons passé une bonne soirée et fait connaissance.  
-En cuisine avec moi, il y a la chef Randi, une femme d'une trentaine d'années qui vient du Canada, mais qui habite ici depuis 8 ou 9 ans. Elle est cool au boulot et en dehors aussi. Il y a aussi Steve, le 1er cuistot qui est Australien, il a la quarantaine. C'est un bon "Roots" qui vit dans un bus et voyage en Australie, en bossant dans les restos. Ensuite, il y a Phil le NZ, super sympa, puis un autre Steve qui est arrivé après moi. Il est bien tranquille, mais un peu perdu. Il vient d'Angleterre. Le dernier cuistot c'est un anglais aussi, mais il est très froid. Steve m'a dit il est "sick" (malade). Un troisième anglais, Gary d'une vingtaine d'années travaille aussi avec nous. Il était kitchen hand quand je suis arrivé, et il est passé cuistot. J'aimerai bien faire la même chose plus tard, mais je ne sais pas s'il restera longtemps. Gary c'est le mec gentil, le bon gars. Il n'articule pas trop quand il parle, alors c'est dur à le comprendre, mais tout le monde galère alors je ne m'en fait pas, et je le fait répéter.  
-En kitchen hands avec moi, il y a Stacy, une canadienne de 18/19 ans qui voyage aussi, je m'entends bien avec elle.  
-Depuis peu un Irlandais, David que l'on appelle Dave, est arrivé. Il est Kitchen Hand comme moi. Nous avons bien le temps de discuter, et il m'a dit qu'il jouait de la guitare, mais surtout qu'il chante.  
-Tous les soirs, le staff de la cuisine se retrouve autour du billard, pour jouer et discuter. En général il y a une bonne ambiance, et donc l'autre jour je suis allé chercher ma guitare, et Dave a chanté quelques chansons. Il n'avait pas sa guitare, car il n'a pas encore emménagé dans la staff room, mais dès qu'il bouge, nous allons Jammer ensemble. Ça devrait bien le faire. Suivant comme on va s'entendre, il y a peut-être moyen d'aller sur Cairnes ensemble.
+À la sortie du pub à 1h00, il y avait un jeune qui jouait du didgeridoo. Je lui ai demandé si je pouvais jouer avec lui, et je suis allé chercher ma guitare dans le van.
+Ce jeune joueur n'était pas australien mais... français ! Son didge est en clé de fa, pas très courant pour la guitare. Après quelques minutes, nous avons trouvé des rythmes sympas. Des gens s'arrêtaient pour danser, écouter, et donner quelques pièces.
 
-Apres la session guitare ils sont partis au Paddy's, mais moi j'ai été rejoindre Emeric, pour jouer avec lui. Nous avons trouvé quelques rythmes. Cela fait déjà 2 ou 3 soirs que je joue avec lui, et le Week-end ça marche pas mal. Il s'est fait 80 $ les 2 soirs. Je ne veux pas que l'on partage, car j'ai un boulot, et surtout parce que le plaisir de jouer m'apporte beaucoup plus que 80$.  
-Le fait que je joue avec lui n'apporte, d'autre part, rien de plus à sa prestation, car les gens ne sont attirés que par le "didgereedoo".
+Vers la fin, un groupe de notre âge est arrivé. L'un d'eux jouait de la guitare et nous avons décidé d'aller jouer sur la plage. Émeric, le « didge man », était fatigué et est parti se coucher, mais nous avons pris rendez-vous pour le lendemain.
 
-Je rêve de pouvoir voyager en jouant de la guitare. Peut-être que plus tard, je pourrai monter un groupe avec d'autre amis qui voyagent, ça vaudrait le coup d'essayer.  
-Chaque jour à son lot de bonnes surprises; et j'espère que cela va continuer. L'aventure devient de plus en plus intéressante et passionnante. Je vais faire de mon mieux pour vous faire partager ces bons moments.
+Nous étions six ou sept sur la plage avec deux guitares. Tout le monde chantait — deux Américains, dont le guitariste, deux Françaises et moi. Rémy était parti chercher à manger et je ne l'ai pas revu avant le lendemain matin.
+La Française m'a montré les accords d'une chanson d'un de mes musiciens français favoris — _Nostalgic du cool_ de Mathieu Chedid. Elle a chanté, puis j'ai joué quelques blues et du Jack Johnson avec l'Américain. C'était génial. Dommage qu'il soit reparti le lendemain.
 
-Désolé si y'a pas de photos, mais mon appareil numérique a rendu l'âme, alors je vais devoir en acheter un autre, dès que j'aurai 500$, vous aurez des photos.
+Cette soirée m'a vraiment convaincu que les bons moments ne se trouvent pas dans des pubs avec des gens ivres, mais avec des gens prêts à partager de belles choses, en toute simplicité.
+
+Voilà où j'en suis. J'espère pouvoir jouer ce week-end avec Émeric, car cette expérience guitare/didge me plaît beaucoup. Hier soir, je suis allé avec mes collègues de cuisine chez Phil, un des cuisiniers néo-zélandais, et avons passé une bonne soirée.
+
+En cuisine avec moi, il y a la chef Randi, une femme d'une trentaine d'années venue du Canada mais installée ici depuis huit ou neuf ans. Il y a aussi Steve, le premier cuistot — un Australien de la quarantaine, bon vivant qui vit dans un bus et voyage en bossant dans les restos. Puis Phil le Néo-Zélandais, super sympa. Un autre Steve, arrivé après moi — bien tranquille mais un peu perdu, venu d'Angleterre. Et un troisième Anglais, Gary, une vingtaine d'années, qui était kitchen hand à mon arrivée et est passé cuistot. J'aimerais faire pareil, mais je ne sais pas s'il restera longtemps. Gary, c'est le bon gars — il articule peu et c'est parfois dur à suivre, mais tout le monde galère avec lui, alors je me fais répéter sans complexe.
+
+En kitchen hand, il y a Stacy, une Canadienne de 18–19 ans qui voyage aussi. Et depuis peu, David — Dave — un Irlandais arrivé récemment. Nous discutons beaucoup en faisant la vaisselle et il m'a dit qu'il joue de la guitare mais surtout qu'il chante.
+Tous les soirs, le staff de cuisine se retrouve autour du billard. L'autre jour, j'ai sorti ma guitare et Dave a chanté quelques chansons. Il n'avait pas la sienne, mais dès qu'il emménage dans la chambre du personnel, nous allons jammer ensemble. Suivant comment ça se passe, il y a peut-être moyen de monter vers Cairns ensemble.
+
+Après la session guitare, ils sont partis au Paddy's, mais moi je suis allé rejoindre Émeric pour jouer avec lui. Nous avons trouvé quelques rythmes. Cela fait deux ou trois soirs que nous jouons ensemble, et le week-end ça marche bien — il s'est fait 80 $ sur les deux soirs. Je ne veux pas que l'on partage car j'ai un boulot, et surtout parce que le plaisir de jouer m'apporte bien plus que 40 $.
+Le fait que je joue avec lui n'apporte d'ailleurs pas grand-chose à sa prestation, car les gens sont uniquement attirés par le didgeridoo.
+
+Je rêve de pouvoir voyager en jouant de la guitare. Peut-être qu'un jour je pourrais monter un groupe avec d'autres amis rencontrés sur la route. Ça vaudrait le coup d'essayer.
+Chaque jour apporte son lot de bonnes surprises. L'aventure devient de plus en plus intéressante et passionnante. Je vais faire de mon mieux pour vous faire partager ces beaux moments.
+
+Désolé pour l'absence de photos — mon appareil numérique a rendu l'âme. Dès que j'aurai 500 $, j'en achèterai un autre et vous aurez des photos.
 
 ## **Fin de saison à Airlie Beach.**
 
-Samedi 3 septembre 2005, The Beaches Backpacker AIrlie Beach.
+Samedi 3 septembre 2005, The Beaches Backpacker Airlie Beach.
 
-Dave, Steve, Randi et moi finissions de nettoyer la cuisine. John le Manager entre et dit : " Hey Guys, venez par-là s'il vous plait, Comme vous le savez, la haute saison se termine, et depuis une bonne semaine, nous tournons au ralentit.  
-Je suis désolé mais je ne vais pas pouvoir vous gardez plus longtemps."  
-Je vous laisse imaginer à quel point nous étions surpris. Il nous a dit que nous étions les derniers arrivés, et c'est donc pour ça qu'il ne nous gardait pas. Bien sympa, il nous a dit qu'il allait appeler Magnetic Island, une ville plus au nord pour voir s'ils cherchaient du Staff.
+Dave, Steve, Randi et moi finissions de nettoyer la cuisine quand John, le manager, entre et dit : « Hey guys, venez par là s'il vous plaît. Comme vous le savez, la haute saison se termine et depuis une bonne semaine nous tournons au ralenti. Je suis désolé, mais je ne vais pas pouvoir vous garder plus longtemps. »
 
-Nous voilà à la rue, et le boulot sur Airlie Beach ne court plus les rues. Comme je n'ai pas de fric pour payer l'auberge, je pars le soir même avec mon van.  
-Bien sûr, la batterie était à plat, mais j'ai pu démarrer avec l'aide de quelques personnes qui m'ont poussé.  
-Randi, la chef, a aussi été virée, car elle devait terminer à la fin du Mois. Elle nous a proposé de venir chez elle. Steve l'anglais est venu avec moi Car, soit disant, il connaissait la route, sauf qu'une fois dans le quartier, il était complètement perdu. A droite, à Gauche au rond-point, non c'est la prochaine, la pression monte. A force de faire des tours et des détours, une voiture de flic nous arrête.  
-Vu que Steve n'est pas très doué, et bien qu'il soit anglais, je lui ai dit "Laisse-moi faire, ne dit pas un mot". Le flic est arrivé, il s'est présenté, et m'a demandé de "souffler dans le ballon". Bien sûr, il était négatif, je lui ai expliqué que nous cherchions la maison d'une amie.  
-Il me demande mon permis, je lui donne, je lui propose même mon permis International, et après quelques minutes, il nous a laissé partir.  
-Je remonte dans le van, tourne la clef et là, rien, plus de batterie.  
-Il était toujours derrière nous, alors je suis descendu pour leur expliquer, et en rigolant il me dit : "Tu veux peut être qu'on te pousse ?" Je n'ai pas osé dire oui……..  
-Nous étions un peu en pente alors Steve a poussé, et nous avons démarré.
+Je vous laisse imaginer notre surprise. Il nous a expliqué que nous étions les derniers arrivés, et que c'est pour cette raison qu'il ne nous gardait pas. Très aimablement, il a proposé d'appeler Magnetic Island, plus au nord, pour voir s'ils cherchaient du staff.
 
-Finalement nous avons trouvé la maison, mais après 15minutes d'attente, toujours personne, alors nous sommes repartis sur le parking gratuit de la ville ou Rémy et moi avions dormi au début.  
-Nous avons passés la nuit ici, je n'étais pas très rassuré, car Steve est très efféminé mais tous c'est finalement bien passé.
+Nous voilà à la rue, et le travail ne court plus les rues à Airlie Beach. Comme je n'ai pas les moyens de payer l'auberge, je repars le soir même avec mon van.
+Bien sûr, la batterie était à plat, mais j'ai réussi à démarrer grâce à quelques personnes qui m'ont poussé.
 
-Le lendemain il est allé booker (louer) au Magnum Backpacker 20,00$ / 3nuits.  
-Moi, je suis allé voir Adam qui a fini de bosser, mais qui est toujours au camping.
+Randi, la chef, avait elle aussi été licenciée. Elle nous a proposé de venir chez elle. Steve l'Anglais est monté avec moi car il prétendait connaître la route — sauf qu'une fois dans le quartier, il était complètement perdu. À droite, à gauche, au rond-point, non c'est la prochaine... La pression montait. À force de tourner en rond, une voiture de police nous arrête.
 
-Plus tard dans l'après-midi, Steve et moi sommes retournés aux Beaches pour demander le numéro du Backpacker de Magnetic Island, nous avons appelé et bien sûr, là-bas non plus, il n'y a pas de boulot.
+Vu que Steve n'était pas très fiable, et bien qu'anglophone, je lui ai dit : « Laisse-moi faire, ne dis pas un mot. » Le policier s'est approché, m'a demandé de souffler dans l'éthylotest — négatif, bien sûr. Je lui ai expliqué que nous cherchions la maison d'une amie. Il demande mon permis, je lui donne, je lui propose même le permis international. Après quelques minutes, il nous laisse partir.
 
-Adam a prévu de monter sur Cairns, alors je pense faire la route avec lui. Émeric, le français qui joue du Deedjeridoo, est déjà sur Cairns, à un rassemblement Hippie qui dure 1 mois, perdu dans le bush Australien.  
-Nous avons donc décidé de le rejoindre. Je lui ai envoyé un mail pour avoir la direction afin de le retrouver.  
-Le lundi, Adam et moi sommes partis avec les vans à Corail Beach, une plage tranquille à quelques kms d'Airlie.  
-Après une marche d'une 1/2 heure dans le bush, nous sommes arrivés sur une plage déserte.  
-La plage porte bien son nom. Il n'y avait pas de sable mais un tapis de Corail. Cela ne nous a pas gênés pour jouer de la guitare en regardant le coucher de soleil.
+Je remonte dans le van, tourne la clé, et... rien. Plus de batterie.
+Le policier était toujours derrière nous. Je suis descendu lui expliquer la situation, et en rigolant il me dit : « Tu veux peut-être qu'on te pousse ? » Je n'ai pas osé dire oui.
+Nous étions légèrement en pente — Steve a poussé, et nous avons démarré.
 
-Après qu'il ait disparu à l'horizon, nous avons repris le chemin dans la nuit tombante. Quelle expérience, marcher dans la forêt semi tropical la nuit avec tous les bruits d'animaux autour de nous, j'aurai aimé enregistrer ce moment magique.  
-De retour aux vans, nous avons préparé le diner, et passés la nuit sur place.  
-Le ciel était tout étoilé, et nous avons vu pleins d'étoiles filantes magnifiques.
+Finalement, nous avons trouvé la maison, mais après quinze minutes d'attente, toujours personne. Nous sommes donc repartis vers le parking gratuit de la ville où Rémy et moi avions dormi au début.
+Nous avons passé la nuit là. Je n'étais pas très rassuré, mais tout s'est bien passé.
+
+Le lendemain, Steve est allé réserver une chambre au Magnums Backpacker pour 20 $ / 3 nuits.
+Moi, je suis allé voir Adam, qui avait fini de travailler mais était toujours au camping.
+
+Dans l'après-midi, Steve et moi sommes retournés aux Beaches pour demander le numéro du backpacker de Magnetic Island. Nous avons appelé — et là non plus, pas de boulot.
+
+Adam prévoyait de monter à Cairns, alors je pensais faire la route avec lui. Émeric, le Français au didgeridoo, se trouvait déjà à Cairns pour un rassemblement hippie d'un mois, perdu dans le bush australien. Nous avons donc décidé de le rejoindre. Je lui ai envoyé un mail pour avoir les indications.
+
+Le lundi, Adam et moi sommes partis avec nos vans à Coral Beach, une plage tranquille à quelques km d'Airlie. Après une demi-heure de marche dans le bush, nous avons découvert une plage déserte. Elle portait bien son nom : pas de sable, mais un tapis de corail. Cela ne nous a pas empêchés de jouer de la guitare en regardant le coucher de soleil.
+
+Après sa disparition à l'horizon, nous avons repris le chemin dans la nuit tombante. Quelle expérience de marcher dans la forêt semi-tropicale à la nuit, entouré de sons d'animaux — j'aurais voulu enregistrer ce moment magique.
+De retour aux vans, nous avons préparé le dîner et passé la nuit sur place, sous un ciel étoilé traversé d'étoiles filantes magnifiques.
 
 ## Photos
 
@@ -573,22 +611,23 @@ Le ciel était tout étoilé, et nous avons vu pleins d'étoiles filantes magnif
 
 ## **Whitsunday Island.**
 
-Voilà déjà plus d'un mois que je suis sur Airlie Beach et je n'ai toujours pas visité les îles, même chose pour Adam. Nous avons donc décidé de passer une journée sur les îles avec l'Océan Rafting tour. C'est une très bonne formule car elle nous permet de passer une journée sur les îles à faire du snorkeling (Masque et tuba), une ballade dans le bush, la visite des plus belles plages de sable fin, et tout ça, sur des bateaux super rapides.  
-Un bus devait venir nous chercher en face de l'agence de voyage à 9h30 mais à 9h45 nous avons vu arriver la femme de l'agence en courant, "Désolée, j'ai oublié de prévenir le chauffeur du bus de venir vous chercher". Elle a alors appelé le chauffeur, et 5 minutes plus tard, nous étions dans le bus, et à 10h00, nous embarquions sur le bateau.
+Voilà plus d'un mois que je suis à Airlie Beach et je n'avais toujours pas visité les îles — idem pour Adam. Nous avons donc décidé de passer une journée sur les îles avec l'Ocean Rafting Tour. C'est une excellente formule : snorkeling, balade dans le bush, visite des plus belles plages, le tout sur des bateaux ultrarapides.
 
-Pendant le trajet vers les îles, le pilote nous dit qu'il voit des baleines au loin, tout le monde se demande s'il ne nous mène pas un peu en bateau (c'est le cas de le dire), car personne ne voit rien. De toute façon, nous ne pouvons pas nous approcher, car il faut un permis pour observer les baleines de près. Un peu déçus, nous regardons au loin en espérant quand même voir quelque chose, quand soudain, une baleine énorme sort juste derrière nous, suivi de son "veau" qui était aussi gros que le bateau. Le pilot stop alors les moteurs pour nous permettre de les admirer tranquillement. Nous observons d'un air ébahis, le ballet que nous offrent ces mammifères sortis d'un autre temps. Comme pour nous dire bonjour, elles font de grands signes avec leurs queues énormes, le spectacle est époustouflant.
+Un bus devait venir nous chercher à 9h30, mais à 9h45 nous avons vu arriver la femme de l'agence en courant — elle avait oublié de prévenir le chauffeur. Elle a appelé, et cinq minutes plus tard nous étions dans le bus. À 10h00, nous embarquions.
 
-Ensuite, nous repartons pour rejoindre un secteur réputé pour le snorkeling. Et effectivement, autour de nous, nagent des poisons de toutes les couleurs, et le sol est tapissé d'un manteau de corail. Il ne manque plus que Nemo, Marlin et Dory. C'est splendide. Plus tard la guide nous apprendra que depuis le film " Finding Nemo " il y a beaucoup moins de poisons Clown, car les gens les prennent pour les mettre dans des aquariums…
+Pendant le trajet vers les îles, le pilote annonce qu'il aperçoit des baleines au loin. Tout le monde se demande s'il nous mène en bateau (c'est le cas de le dire), car personne ne voit rien. Nous ne pouvons pas nous approcher sans permis spécifique. Un peu déçus, nous scrutons l'horizon — quand soudain, une baleine énorme surgit juste derrière nous, suivie de son veau, aussi grand que le bateau. Le pilote coupe les moteurs. Nous observons, ébahis, le ballet de ces mammifères qui semblent sortis d'un autre temps. Comme pour nous dire au revoir, elles font de grands signes avec leurs queues — le spectacle est époustouflant.
 
-Doucement, je retourne vers le bateau, tout en gardant la tête sous l'eau, observant les poisons autour de moi, lorsque j'aperçois un poison énorme, plus d'un mètre de long, du genre Mérou avec plein de couleurs. Il venait si près de nous qu'on pouvait le caresser.
+Nous repartons ensuite vers une zone réputée pour le snorkeling. Et effectivement, des poissons de toutes les couleurs nagent autour de nous, et le fond est tapissé de corail. Il ne manque que Nemo, Marlin et Dory. C'est splendide. La guide nous apprendra plus tard que depuis _Le Monde de Nemo_, il y a beaucoup moins de poissons-clowns — les gens les attrapent pour les mettre en aquarium.
 
-Une fois séchée, nous sommes repartis pour un rodéo sur les vagues. Cette fois-ci, je me suis mis sur le côté, pour avoir encore plus de sensations. Les bateaux sur lesquels nous nous trouvons, sont des sortes de zodiacs géants, qui rebondissent sur les vagues à toute allure.
+Doucement, je retourne vers le bateau en gardant la tête sous l'eau, quand j'aperçois un poisson énorme, plus d'un mètre de long, genre mérou multicolore. Il venait si près qu'on aurait pu le caresser.
 
-L'escale suivante est une plage de sable blanc, pur à 99.9%. Cela signifie qu'il n'est composé que de Silice, et que même par très grande chaleur, il ne brûle pas les pieds. Nous sommes restés sur cette plage pour le repas de midi. Après avoir mangé, nous sommes allés faire une balade à pied dans le bush qui nous a amenée au sommet d'une montagne, ou nous avons pu voir les magnifiques plages des alentours.
+Une fois séchés, c'est le rodéo : je me mets sur le côté pour avoir encore plus de sensations sur ces zodiacs géants qui rebondissent sur les vagues à toute allure.
 
-De retour au bateau, nous sommes partis pour une petite crique, où nous avons pu observer des tortues d'eau. Sur les 7 espèces que l'on peut trouver au monde, les îles Witsunday en abritent 6.
+L'escale suivante : une plage de sable blanc pur à 99,9 % — uniquement composé de silice, il ne brûle pas les pieds même par grande chaleur. Repas de midi sur la plage, puis balade dans le bush jusqu'au sommet d'une montagne avec vue sur les plages environnantes.
 
-Un dernier rodéo en Zodiac, et nous sommes rentrés sur Airlie Beach vers 17h00. Je pense que c'est une très bonne formule qui regroupe la visite des îles, l'observation de la faune, et de la flore, du snorkeling, et une bonne dose de frissons garantie. 
+De retour au bateau, direction une petite crique pour observer des tortues de mer. Sur les sept espèces mondiales, les îles Whitsunday en abritent six.
+
+Un dernier rodéo en zodiac, et retour à Airlie Beach vers 17h00. Une excellente formule qui conjugue visite des îles, faune, flore, snorkeling et frissons garantis.
 
 ### Photos
 
@@ -626,29 +665,29 @@ Un dernier rodéo en Zodiac, et nous sommes rentrés sur Airlie Beach vers 17h00
 
 ## **On the road again.**
 
-Le mois passé sur Airlie Beach a été un mois très intéressant sur beaucoup de points. J'y ai vécu des moments forts, plus ou moins bons, mais qui m'ont tous beaucoup apporté.
+Le mois passé à Airlie Beach a été très riche sur bien des points. J'y ai vécu des moments forts, bons ou moins bons, mais qui m'ont tous beaucoup apporté.
 
-Cette journée sur les îles nous a vraiment décidés à "tracer la route". Adam est allé chez le mécanicien pour un problème de carburateur, j'en ai profité pour faire réaliser un check-up de mon van. Je n’aurai peut-être pas dû, car le garagiste m'a dit que mon carburateur ne faisait pas bien le mélange, et qu'un cylindre avait un manque de compression, juste 40%. Enfin tout ça pour dire que si je voulais tout réparer, j'en aurai au moins pour 2000$, ou 1000$ avec des pièces d'occasion. Comme je ne veux pas faire de nouveaux frais, et de toute façon je n'ai plus que 300$, je vais partir comme ça, et essayer de vendre le van si j'arrive jusqu'à Cairns.
+Cette journée sur les îles nous a vraiment décidés à reprendre la route. Adam est allé chez le mécanicien pour un problème de carburateur ; j'en ai profité pour faire un check-up de mon van. J'aurais peut-être mieux fait de m'en abstenir : le garagiste m'a dit que mon carburateur ne faisait pas bien le mélange et qu'un cylindre avait un déficit de compression de 40 %. Bref, pour tout réparer : au moins 2 000 $, ou 1 000 $ avec des pièces d'occasion. Comme je ne veux pas engager de nouveaux frais — et que je n'ai de toute façon plus que 300 $ — je vais partir comme ça et essayer de vendre le van si j'arrive jusqu'à Cairns.
 
-Pour partager les frais d'essence, nous avons mis des affiches proposant de monter des gens sur Cairns, cela se fait beaucoup ici. On appelle ça un « Lift ».
+Pour partager les frais d'essence, nous avons posé des affiches pour proposer des lifts jusqu'à Cairns — c'est très courant ici.
 
-Une canadienne nous a contactés pour venir avec nous, mais 1 jour avant de partir, elle a trouvé un boulot sur Airlie Beach. Nous avons alors décidé de rester un jour de plus, pour essayer de trouver d'autres personnes. Un couple d'anglais nous a appelés le jour même.
+Une Canadienne nous a contactés, mais la veille du départ, elle a trouvé un boulot à Airlie Beach. Nous avons donc décidé de rester un jour de plus pour trouver d'autres personnes. Un couple d'Anglais nous a appelés le jour même.
 
-Ils vont partager l'essence avec moi puisque mon van consomme plus que celui d'Adam. Le jour du départ, une suédoise nous a contactée, elle fera la route avec Adam, le veinard . . .
+Ils vont partager l'essence avec moi, puisque mon van consomme plus que celui d'Adam. Le jour du départ, une Suédoise a contacté Adam — le veinard.
 
-Tout le monde est bien installé, Adam ma prêté des CDs pour la route. Nous avalons des Kms de routes droites, passons des dizaines de villes qui semblent toutes inhabitées, séparées par des hectares de champs de cannes à sucre, suivis par d'immenses distilleries de Rhum.
+Tout le monde est bien installé, Adam me prête des CD pour la route. Nous avalons des kilomètres de routes droites, passons des dizaines de villes qui semblent toutes inhabitées, séparées par des hectares de champs de canne à sucre et d'immenses distilleries de rhum.
 
 Tout se passe bien.
 
-Nous sommes repassés à Bowen, ce qui m’a rappelé les « Bons » moment que Rémy et moi avons vécus ici, il n'y a pas si longtemps. Ensuite, nous sommes passés par Home Hill, Ayr, et un peu avant, Townsville, nous sommes passés voir une réserve de Kangourou, car la Suédoise n'avait vu comme kangourous, que ceux écrasés sur le bord de la route. Malheureusement c'était fermé, mais il y en avait quelques-uns uns qui mangeaient près de l'entrée, et nous avons pu les observer, et même en caresser. Apres ½ heure de pause, nous sommes repartis. Nous n'avions même pas eu le temps de sortir du parking, qu'une flamme est sortie du pot d'échappement de mon van. Après quelques tours sur le parking, tout semblait être redevenu normal, et nous avons pu repartir. Je pense que ce n'était que de l'essence qui ne se consomme pas bien, à cause du mauvais mélange au niveau du carburateur, et qui s'enflamme dans l'échappement.
+Nous sommes repassés par Bowen, ce qui m'a rappelé les « bons » moments que Rémy et moi y avons vécus. Ensuite, Home Hill, Ayr, et un peu avant Townsville, nous nous sommes arrêtés voir une réserve de kangourous pour la Suédoise qui n'en avait vu que d'écrasés sur le bord de la route. C'était fermé, mais quelques-uns mangeaient près de l'entrée et nous avons pu les observer et en caresser. Après une demi-heure, nous sommes repartis. À peine sorti du parking, une flamme a jailli du pot d'échappement de mon van. Après quelques tours, tout semblait redevenu normal. Je pense que c'était simplement de l'essence mal brûlée à cause du mauvais mélange, qui s'enflamme dans l'échappement.
 
-Nous avons passé Townsville, et Ingham où nous avons mangé dans un resto chinois qui propose un menu à volonté, les Samedi et Dimanche soir. On s'est tous remplis le ventre pour au moins 3 jours.
+Nous avons passé Townsville, puis Ingham, où nous avons mangé dans un restaurant chinois proposant un buffet à volonté le samedi et dimanche soir. Nous nous sommes tous calés pour au moins trois jours.
 
-La nuit est tombée, mais nous décidons de continuer à avancer vers Cairns. Entre CardWell et Trully, mon van s'est mis à ratatouiller, et à faire de nouveaux retours de flamme. Il a fallu s'arrêter, faire une petite pause, puis nous sommes repartis sans autre problème.
+La nuit est tombée, mais nous décidons de continuer vers Cairns. Entre Cardwell et Tully, mon van s'est mis à toussotter et à faire des retours de flamme. Il a fallu s'arrêter, faire une pause, puis nous avons pu repartir sans autre problème.
 
-A 21h45, nous nous sommes arrêtés sur une aire de repos, à El Arish, ou nous pouvions camper pour la nuit.
+À 21h45, nous nous sommes arrêtés sur une aire de repos à El Arish pour camper.
 
-Après la petite session de montage de tente dans le noir, pour le couple anglais, nous avons joué un peu de guitare, et tout le monde est parti se coucher, car nous venions de parcourir plus de 500 Kms, et non sans mal.
+Après la session montage de tente dans le noir pour le couple anglais, un peu de guitare, et tout le monde au lit : nous venions de parcourir plus de 500 km, non sans mal.
 
 ### Photos
 
@@ -670,101 +709,91 @@ Après la petite session de montage de tente dans le noir, pour le couple anglai
 
 ## **Welcome to Cairns.**
 
-10h00 du mat, Adam frappe à la porte de mon van : « Get up Guillaume let's go to Cairns !!!! ». Je réponds par le grognement habituel. . .
+10h00 du matin, Adam frappe à la porte de mon van : « Get up Guillaume, let's go to Cairns ! » Je réponds par le grognement habituel...
 
-Après une toilette rapide, on plie la tente, on charge les sacs, et je démarre "Big Banana" sans trop de problèmes. Big Banana, c'est le nom que j'ai donné à mon van, quand je lui parle pour le motiver.
+Après une toilette rapide, tente pliée, sacs chargés, je démarre _Big Banana_ sans trop de problèmes. Big Banana, c'est le nom que j'ai donné à mon van quand je lui parle pour le motiver.
 
-Il ne nous reste plus que 100 Kms à parcourir avant d'arriver sur Cairns, lorsque nous voyons un panneau, « Joséphine Falls 8 Kms », nous n'hésitons alors pas un instant à faire le détour.
+Il ne nous reste plus que 100 km avant Cairns quand nous voyons un panneau : « Josephine Falls – 8 km ». Nous n'hésitons pas une seconde.
 
-En quelques minutes nous nous sommes retrouvés au beau milieu d'une forêt tropicale. Après 600 mètres sur un chemin bordé d'arbres géants, le paradis ! Une cascade énorme formant à son pied, 2 piscines naturelles qui se rejoignent par des rochers gigantesques en guise de toboggan.
+En quelques minutes, nous nous retrouvons au beau milieu d'une forêt tropicale. Après 600 mètres sur un chemin bordé d'arbres géants : le paradis. Une cascade monumentale formant à ses pieds deux piscines naturelles reliées par des rochers en guise de toboggan.
 
-Une petite baignade bien agréable et rafraîchissante, un petit encas de fruits frais, et nous repartons sur la route pour nous arrêter à Edmonton pour un «P’tit Déj», certes, un peu tardif.
+Petite baignade bien agréable, encas de fruits frais, et nous reprenons la route jusqu'à Edmonton pour un petit déjeuner certes tardif.
 
-Vers les 3h00, nous arrivons à Cairns. Comme d'habitude, petit arrêt au centre d'information, pour prendre une carte de la ville, et essayer de trouver le « Rainbow », qui est le festival ou se trouve Emeric le Français que j'ai rencontré à Airlie Beach, et qui joue du Deedjeridoo.
+Vers 15h00, nous arrivons à Cairns. Arrêt au centre d'information pour prendre une carte et essayer de trouver le « Rainbow », le festival où se trouve Émeric. Grâce aux grandes compétences de l'agent qui nous reçoit, nous repartons avec une petite carte de la ville et zéro information sur le Rainbow.
 
-Grâce aux grandes compétences de l'agent qui nous a reçu au centre d'information, nous ne repartirons qu'avec une toute petite carte de la ville, et pas une seule info sur le Rainbow. . .
+Voilà plus d'une heure que nous tournons pour trouver une plage recommandée par un ami d'Adam pour dormir. Nous en trouvons une magnifique mais où le camping est interdit. Adam rappelle son pote qui lui donne enfin le bon nom : _Holloways Beach_. Au passage, il lui explique que le Rainbow n'est pas un festival mais un rassemblement hippie quelque part autour de Cairns, dont le lieu change chaque année.
 
-Voilà plus d'une heure que nous tournons pour trouver une plage qu'un pote d'Adam lui a recommandée, comme étant sympa pour passer la nuit. Nous trouvons une autre plage magnifique, où l'eau est plutôt chaude, mais tout le monde est trop fatigué pour s'essayer à une baignade. Cette belle plage n'était pas la bonne, et il est impossible de camper. Adam rappelle son pote qui lui donne le nom de la bonne plage, ce qui nous a bien aidés pour nos recherches.
+Nous arrivons finalement à Holloways Beach. Toilettes publiques avec douche, barbecues, tables abritées, et bien sûr un grand panneau « NO CAMPING ». Deux ou trois vans sont déjà garés — nous restons pour la nuit.
 
-Au passage il lui a demandé s'il avait entendu parler du Rainbow, il y a été il y a 3 ans, et en fait, ce n'est pas un festival, mais un rassemblement hippie quelque part autour de Cairns, et le lieu change chaque année.
+Il est 19h00, la nuit est déjà tombée. Nous préparons à manger tandis que le couple anglais monte sa tente une dizaine de mètres plus bas sur la plage. D'après leurs calculs, la marée descend. Ils devraient rester au sec.
 
-La plage que nous cherchions s'appelle « Holloways Beach », nous y sommes finalement arrivés. Il y a des toilettes publiques avec douche, des barbecues, des tables sous abri, et comme à Airlie Beach, un beau panneau « NO CAMPING ». Il y a déjà 2 ou 3 vans garés, donc nous resterons là pour la nuit.
+La soirée est tranquille. Tout le monde est soulagé d'être arrivé à Cairns — moi le premier, car le moteur de Big Banana est entier, et il était temps. Je suis parti pour Cairns il y a deux mois.
 
-Il est 7h00 du soir, la nuit est déjà tombée, nous préparons à manger, tandis que le couple d'anglais monte la tente à une dizaine de mètres, plus bas sur la plage, d'après leurs calculs, la marée descend. Ils devraient donc rester au sec cette nuit.
+Le climat semble plus chaud ici, la végétation bien plus tropicale. Tout autre environnement.
 
-La soirée se passe tranquille, et tout le monde est bien content d'être arrivé à Cairns, moi le 1er, car le moteur de Big Banana est toujours entier, et il était grand temps que j'arrive. Je suis tout de même parti pour Cairns il y a maintenant 2 mois.
-
-Ici, le climat semble plus chaud, et la végétation beaucoup plus tropicale, c'est un tout autre environnement.
-
-Il est 1h30 du matin, il fait toujours très bon, je vais me coucher, et en m'endormant en écoutant les vagues, j'ai une pensée pour les anglais. J'espère qu'ils ne se sont pas trompés pour le sens de la marée. . .
+Il est 1h30 du matin, il fait encore très bon. Je vais me coucher, et en m'endormant au son des vagues, j'ai une pensée pour les Anglais. J'espère qu'ils ne se sont pas trompés dans le sens de la marée.
 
 ## **Prochaine destination : Inconnue.**
 
-Les oiseaux chantent, j'entends les vagues aux loin, il est l'heure de se lever. Toc-toc « Guillaume get-up ! ». Tout le monde est déjà debout, les anglais ont effectivement mal calculé leur coup, et se sont fait surprendre par la marée. Pour couronner le tout, ils se sont fait dévorer par les moustiques.
+Les oiseaux chantent, j'entends les vagues au loin, c'est l'heure de se lever. Toc-toc : « Guillaume, get up ! » Tout le monde est déjà debout. Les Anglais ont effectivement mal calculé leur coup et se sont fait surprendre par la marée — et dévorer par les moustiques en prime.
 
-Aussitôt sorti du van je me suis retrouvé sur la plage, où je me suis posé un instant. Le soleil semble être sorti de l'océan. Je découvre une plage sans fin, bordée de cocotiers. Je me réveille doucement, contemplant ce décor de carte postale. Un peu plus tard, nous partons pour Cairns qui n'est qu'à quelques minutes, pour déposer nos compagnons de route dans un Backpacker.
+Aussitôt sorti du van, je me suis posé un instant sur la plage. Le soleil semblait sortir de l'océan. Je découvre une plage sans fin bordée de cocotiers. Plus tard, nous déposons nos compagnons de route dans un backpacker en centre-ville.
 
-Adam et moi partons ensuite pour le lagon. Mais comme à Airlie Beach, la baignade en mer n'est pas conseillée à cause des méduses, et ici, il y a également des crocodiles.
+Adam et moi partons ensuite pour le lagon — comme à Airlie Beach, la baignade en mer est déconseillée à cause des méduses, et ici il y a aussi des crocodiles.
 
-Dans l'après-midi je suis allé dans un cyber café, pour trouver l'adresse du Rainbow gathering, et j'en ai profité pour recharger mon téléphone, car Emeric à mon numéro.
+Dans l'après-midi, je suis allé dans un cybercafé pour trouver l'adresse du Rainbow Gathering. Je n'ai trouvé que « Walshes River » comme info — pas terrible, elle n'est même pas sur la carte — mais j'ai trouvé une montagne appelée Walsh's Pyramid près de Josephine Falls. Sur le site, j'ai vu deux personnes qui voulaient aussi aller au Rainbow : je leur ai envoyé un mail.
 
-Je n'ai trouvé que Walshes River comme info, pas génial, elle n'est même pas sur la carte mais j'ai trouvé une montagne qui s'appelle Walshes pyramide, et qui se trouve près de Joséphine falls. Voilà toutes les infos que j'ai pour le moment. Sur le site, j'ai vu que 2 personnes désirent aller au Rainbow, alors je leur ai envoyé un mail pour les emmener, en espérant qu'ils auront l'adresse. Le soir nous avons cherchés une autre plage pour dormir, mais en fin de compte nous sommes retournés à holloways Beach, car elle n'est pas mal, sauf que cette fois, nous nous sommes garés un peu plus loin pour être tranquilles. Nous sommes bien fatigués, alors au lit comme les poules, à 10h00 du soir.
+Le soir, nous sommes retournés à Holloways Beach, un peu plus loin pour être tranquilles. Coucher avec les poules à 22h00.
 
-## **Ça sent le Blues!!**
+## **Ça sent le blues !**
 
-Ce matin c'est moi qui me réveille le 1er, je regarde à l'extérieur, et je vois un écriteau sur la fenêtre du van d'Adam, et un autre sur mon pare-brise. C'était un avertissement pour nous dire que si nous campions encore là, nous aurions une contravention, c'est plus sympa qu'à Airlie Beach, où ils te réveillent à 6h00 du mat en tapant sur les portières.
+Ce matin, c'est moi qui me réveille le premier. Un écriteau sur la fenêtre du van d'Adam, un autre sur mon pare-brise : un avertissement nous prévenant qu'une prochaine fois nous aurions une contravention. Plus sympa qu'à Airlie Beach où ils tapaient dans les portières à 6h00 du matin.
 
-Nous sommes donc partis en centre-ville, Adam pour la registration de son van, et moi pour me baigner au Lagon, comme je ne cherche pas de boulot maintenant, car nous allons partir au Rainbow. Mais j'ai tout de même commencé à jeter un œil, et il semble qu'il y a pas mal de jobs sur la région de Cairns.
+Nous sommes partis en centre-ville, Adam pour la registration de son van, moi pour me baigner au lagon et jeter un œil aux offres d'emploi. Il semble qu'il y ait pas mal de jobs dans la région de Cairns.
 
-La ville n'a pas l'air mal du tout, bien que j'aie rencontré beaucoup de gens qui n'ont pas aimé. Je pense y passer quelques jours après le Rainbow, peut-être jusqu'à la saison humide qui commence à la mi-novembre.
+La ville n'a pas l'air mal du tout, bien que beaucoup de gens que j'ai rencontrés ne l'aient pas appréciée. Je pense y rester quelques jours après le Rainbow, peut-être jusqu'au début de la saison humide mi-novembre.
 
-Pour le moment l'objectif c'est le Rainbow, et à ce sujet, une des personnes que j'ai contactée par mail pour y aller, m'a appelée, et elle est d'accord pour partager les frais. Le bon plan c'est qu'elle connaît le lieu. Ce serait à 2h30 de Cairns, soit 300 km.
+Pour le moment, l'objectif c'est le Rainbow. L'une des personnes contactées par mail m'a rappelé : elle connaît l'endroit, à environ 2h30 de Cairns — soit 300 km. Nous ne pouvons pas partir avant vendredi car Adam attend un papier pour son registration.
 
-Nous ne pouvons pas partir avant vendredi car Adam attend un papier pour sa registration.
+Le soir, nous sommes allés dans un camping où se trouvaient deux potes australiens d'Airlie Beach. Trop cher à 35 $ par personne — nous avons cherché et trouvé par hasard le _Sun Land_ camping : 28 $ pour les deux vans, soit 14 $ par personne, avec courant électrique, piscine et laverie. Parfait.
 
-Le soir, nous avons été a un camping ou se trouvent 2 potes Australiens que nous avions rencontrés à Airlie Beach. Le camping était bien, mais beaucoup trop cher, 35$ par nuit et par personne. Nous sommes donc allés dans un autre camping que nous avons trouvé par hasard, en demandant à quelqu'un dans la rue. Le camping s'appelle le « Sun Land » et ne coûte que 28$ par nuit pour les 2 vans, ce qui ne fait que 14$ par personne. Pour ce prix-là, nous avons le courant électrique dans le van, la piscine, la laverie enfin tout ce qui nous faut.
+En se baladant en ville, j'ai trouvé le _Johno's Blues Bar_. Entrée gratuite. Le groupe n'était pas terrible, mais les photos aux murs montraient que de grands noms du blues sont passés ici. En consultant le programme : les 28 et 29 septembre, Kenny Neal vient jouer — celui que j'avais vu à Vienne et à Grenoble. Je ne sais pas où je serai ces jours-là, mais si je suis à Cairns, je ne raterai pas ça.
 
-Le soir nous sommes sortis en ville rejoindre la Norvégienne qui ne se plait pas à Cairns, et repart le lendemain pour Sydney.
+À l'extérieur du bar, un tableau d'affichage proposait des recherches de musiciens — pas forcément rémunérées. Un bon plan pour rencontrer du monde dans le milieu musical.
 
-En se baladant, j'ai trouvé un pub qui s'appelle le « Johno's Blues Bar ». Nous sommes allés y faire un tour, car l'entrée était gratuite. Le groupe qui jouait n'était pas très bon, mais j'ai regardé les photos sur les murs à l'intérieur, et il y a pas mal de grands du blues qui sont venus jouer. J'ai donc regardé le programme, et les 28 et 29 Septembre, il y a Kenny Neal qui vient jouer. Kenny Neal que j'avais vu à Vienne, mais aussi au Duplex à Grenoble, lors d'un week-end blues. Il était d'ailleurs présent lors de la prestation de Fabien Sanchez la vielle de son concert, et ils avaient "tapés le bœuf" ensemble. Je ne sais pas où je serais pour les 28 et 29 septembre, mais si je suis sur Cairns, je ne manquerai pas le Rendez-Vous.
-
-A l'extérieur du Bar, il y a un tableau d'affichage et j'y ai vu des personnes qui recherchent des musiciens pour jouer, pas forcément pour de l'argent. Je pense que ça peut être un bon plan pour rencontrer du monde dans le milieu de la musique.
-
-Après ce concert plus que moyen, nous sommes allés faire un tour en ville, mais comme la plupart des pubs sont payants, vers 1h00, nous sommes rentrés au camping jouer un peu de guitare, comme tous les soirs.
+Après ce concert plus que moyen, tour en ville, et comme la plupart des pubs sont payants, retour au camping vers 1h00 du matin pour jouer un peu de guitare comme chaque soir.
 
 ## **Avant de partir.**
 
-Aujourd'hui je suis allé chez un réparateur d'appareil photo, mais ils m'ont dit que la réparation coûterait plus que le prix de l'appareil. Donc pas de photo pour le moment.
+Aujourd'hui, je suis allé chez un réparateur d'appareils photo — réparation plus chère que l'appareil lui-même. Pas de photos pour le moment.
 
-La personne que nous devions monter au Rainbow a trouvé quelqu'un d'autre qui la monte avant vendredi, mais elle nous a tout de même indiqué la direction.
+La personne que nous devions emmener au Rainbow a finalement trouvé quelqu'un d'autre, mais nous a tout de même indiqué la direction.
 
-Ce soir, nous voulions aller faire un tour en ville, mais nous avons joué de la guitare toute la soirée, et il était trop tard pour sortir, car demain, nous partons pour le Rainbow.
+Ce soir, nous voulions aller en ville, mais nous avons joué de la guitare toute la soirée. Trop tard pour sortir. Demain, départ pour le Rainbow.
 
-Dans deux jours c'est la pleine lune, et une fête devrait avoir lieu pour l'occasion.
+Dans deux jours c'est la pleine lune et une fête doit avoir lieu pour l'occasion.
 
-## **Le Rainbow Gathering (Rassemblement de L'arc en ciel).**
+## **Le Rainbow Gathering (Rassemblement de l'arc-en-ciel).**
 
-Nous y sommes enfin arrivés !!!
+Nous y sommes enfin arrivés !
 
-Dans la soirée, nous sommes arrivés au rassemblement Hippie, mais la route a été longue.
+Tout a commencé par un petit déjeuner tranquille au soleil et une bonne douche avant de partir pour l'aventure.
 
-Tout a commencé par un «P’tit Déj» tranquille au soleil, et une bonne douche avant de partir pour l'aventure.
+Nous sommes allés en ville récupérer les papiers d'Adam. J'en ai profité pour vérifier le niveau d'huile moteur, car Big Banana en consomme pas mal. En voilà une bonne idée que j'ai eue là ! Le niveau était en dessous du minimum. Direction Super Cheap Auto. Il y avait une promo sur le bidon de 6 litres au prix de 4 — sauf que je n'avais pas remarqué que c'était un bidon de 6 litres, et j'en ai mis comme si c'était un bidon de 4. Résultat : 2 litres en trop. Nous voilà donc à faire une vidange improvisée sur le parking, avec des bidons découpés, une paire de pinces pour dévisser l'écrou et un vieux pot qui traînait dans le van depuis des lustres. En un quart d'heure, problème réglé.
 
-Nous sommes allés en ville ensuite, pour récupérer les papiers qu'Adam attendait. Pendant ce temps, j'en ai profité pour regarder le niveau d'huile moteur, car je sais que "Big banana" en consomme pas mal. En voilà une bonne idée que j'ai eue là, car le niveau était en dessous du mini. Nous sommes donc allé à Super Cheap Auto, il y avait une promo. Le bidon de 6 litres pour le prix de 4, sauf que je n'avais pas remarqué que c'était un bidon de 6 litres, alors j'ai mis de l'huile comme si c'était un bidon de 4 litres et forcement, il y avait 2 litres de trop… Nous voilà donc embarqués dans une vidange improvisée sur le parking, avec des bidons découpés, une paire de tenaille pour dévisser l'écrou, et un vieux pot d'eau qui traînait dans mon van depuis des lustres. En ¼ d'heure le problème était réglé, et nous avons pu enfin partir.
+## Direction Mareeba, Atherton, Herberton, puis Irvinebank où se trouve le Rainbow.
 
-## Direction Mareeba, Atherton, Heberton puis Irvine Bank ou se trouve le Rainbow.
+Pour arriver à Irvinebank, nous avons emprunté une route de montagne. À chaque col, c'était l'aventure — Big Banana a tourné comme une horloge, même si j'ai dû passer en première plus d'une fois.
 
-Pour arriver à Irvine Bank, nous avons dû emprunter une route de montagne, et à chaque col c'était l'aventure, il fallait bien prendre son temps pour arriver en haut, mais "Big Banana" a tourné comme une horloge, bien que j'ai dû passer la 1ere plus d'une fois en haut des cols.
+Arrivés à Irvinebank, nous avons pris un chemin de pierres rouges — rodéo pendant plus d'une demi-heure. Je me suis même retrouvé bloqué sur un petit pont, mais après plusieurs manœuvres j'ai pu m'en sortir. Nous avons garé le van dans un champ improvisé en parking.
 
-Une fois arrivés à Irvine Bank, nous sommes partis sur un chemin de pierres rouges, ça a été le rodéo pour plus d'une demi-heure, je suis même resté bloqué sur un petit pont, mais après plusieurs manœuvres, j'ai pu m'en sortir, et nous sommes arrivés au parking improvisé dans un champ.
+Nous nous sommes préparés à manger avant de partir à pied — une demi-heure dans le bush — pour rejoindre le campement du Rainbow. Impossible d'y accéder en van.
 
-Nous nous sommes fait à manger avant de partir pour une balade à pied d'½ heure dans le bush, pour rejoindre le campement du Rainbow. Nous ne pouvons pas rejoindre ce campement en van, quelques 4X4 s'y aventurent, mais la route est vraiment impraticable pour nous.
+Il fait déjà nuit. Des gens partout, regroupés autour d'un énorme feu central. J'ai trouvé Émeric et Melinda, les Français d'Airlie Beach. Ils sont là depuis deux semaines. Au début ils n'étaient qu'une dizaine, mais à présent ils sont près de 150, et d'autres personnes doivent encore arriver pour la pleine lune.
 
-Il fait déjà nuit, il y a des gens partout, regroupés autour de l'énorme feu central. Ce n'est pas facile de voir à quoi ressemble le lieu, mais j'ai tout de même pu trouver Emeric et Melinda, les Français de Airlie Beach. Ils sont là depuis 2 semaines, ils me diront qu'au début ils n'étaient qu'une dizaine, mais qu'à présent, nous sommes près de 150, et que d'autres personnes devraient encore arriver pour la pleine lune.
+Nous avons passé la soirée à jouer de la guitare. La musique est omniprésente : percussions, guitares, didgeridoos, tin whistles, saxophones, mandolines...
 
-Nous avons donc passé la soirée là-bas à jouer de la guitare. La musique est omniprésente, il y a des percussions, des guitares bien sûr, mais aussi des didgeridoo, tin Wistle, saxophones, mandolines etc…
-
-En fin de soirée nous partons regagner nos vans pour la nuit. Demain il va falloir trouver un moyen de monter un campement de fortune pour dormir, mais nous n'avons pas de tente, il va falloir improviser. Demain il fera jour, nous y verrons plus clair.
+En fin de soirée, nous rejoignons nos vans pour la nuit. Demain, il faudra trouver comment monter un campement de fortune sans tente — mais il fera jour, on y verra plus clair.
 
 ### Photos
 
@@ -800,33 +829,31 @@ En fin de soirée nous partons regagner nos vans pour la nuit. Demain il va fall
 
 ## </div>
 
-## **Introduction au Rainbow**
+## **Introduction au Rainbow.**
 
-Réveil tranquille, il n'y a personne autour, après le «P’tit Déj» nous avons préparé nos affaires pour monter un campement de fortune. J'ai pris le auvent du van en guise de tente, je ne l'ai jamais utilisé, mais il me paraît assez grand pour faire quelque chose de bien.
+Réveil tranquille. Après le petit déjeuner, nous avons préparé nos affaires pour monter un campement de fortune. J'ai pris l'auvent du van en guise de tente — jamais utilisé, mais suffisamment grand pour faire quelque chose de bien.
 
-Les sacs à dos, les guitares, l'auvent nous voilà bien harnachés, et pas au bout de nos peines, car le chemin que nous devons emprunter n'est pas une promenade de santé.
+Sacs à dos, guitares, auvent... nous voilà bien chargés pour ce chemin qui n'est pas une promenade de santé.
 
-Et là, comme par magie, nous n'avons pas fait 10 mètres que sorti de nulle part, un pêcheur du coin avec son pick-up 4X4, nous propose de grimper à l'arrière, pour nous emmener jusqu'au campement.
+Et là, comme par magie, à dix mètres du parking, un pêcheur du coin surgit dans son 4x4 et nous propose de grimper à l'arrière pour nous emmener au campement.
 
-Au début, allongés tranquilles sur nos sacs, nous commençons à jouer de la guitare, mais une fois sortis du parking, nous faisons des bons dans tous les sens, car le 4X4 crapahute sur ce chemin défoncé par l'érosion. Le chauffeur était vraiment très bon, il est passé par des endroits où je serai tombé à pied. Ce petit rodéo ma rappelé la virée en 4X4 sur Frazer Island avec Rémy.
+Au début, allongés tranquillement sur nos sacs, nous jouons de la guitare. Mais une fois sortis du parking, c'est le rodéo — le 4x4 crapahute sur un chemin défoncé par l'érosion. Le chauffeur était vraiment excellent. Ce petit rodéo m'a rappelé Fraser Island avec Rémy.
 
-Une fois au campement, nous avons recherché un coin pour monter le campement, tout en visitant les lieux. Après ½ heure de montage démontage, nous nous sommes finalement installés.
+Arrivés au campement, nous avons cherché un coin pour nous installer en visitant les lieux. Après une demi-heure de montage-démontage, nous avons finalement trouvé notre place.
 
-Cachés dans les arbres, perchés sur une colline qui surplombe la rivière et le feu central, nous avons vraiment trouvé un petit coin pas mal du tout.
+Cachés dans les arbres, perchés sur une colline qui surplombe la rivière et le feu central — un petit coin pas mal du tout.
 
-Le campement se trouve sur un lieu très spirituel ou vivaient des aborigènes, il n'y a pas si longtemps que ça encore. Il y a de grands rochers blancs, usés par l'érosion, ce qui donne l'impression d'être sur la lune.
+Le campement se trouve sur un lieu très spirituel habité par des aborigènes il n'y a pas si longtemps. De grands rochers blancs usés par l'érosion donnent l'impression d'être sur la lune.
 
-A l'heure du repas, pour appeler tout le monde, les personnes présentes au feu central, crient : « Food Cercle », le mot est alors répété par tous, pour appeler ceux qui se trouvent loin, car le campement s'étend sur une très grande distance le long de la rivière.
+À l'heure des repas, on appelle tout le monde en criant « Food circle ! », le mot se répercutant de proche en proche. Nous mangeons en cercle autour du feu. Quelques personnes font le service, tout est très bien organisé — sans leader, sans obligation. Chacun fait ce qu'il veut.
 
-Nous mangeons tous ensemble en cercle autour du feu. Quelques personnes font le service, tout est très bien organisé, et tout cela sans "leader", ni de quelconques obligations. Chacun fait quelque chose, uniquement s'il le veut.
+Voilà ma première journée au Rainbow. Le rythme de vie est vraiment cool, dans le vrai esprit hippie — tout le monde il est beau, tout le monde il est gentil. Même si je suis un peu sceptique sur ce genre de communauté, l'expérience me paraît intéressante à vivre, et c'est l'occasion de me faire ma propre opinion.
 
-Voilà donc ma 1ere journée passée au Rainbow. Le rythme de vie ici, me paraît être vraiment cool, le vrai style dans l'esprit Hippie, peace and love, tout le monde il est beau tout le monde il est gentil, et même si je suis un peu sceptique sur le fonctionnement de ce genre de communauté, l'expérience me paraît intéressante à vivre pour quelques jours, et c'est l'occasion ou jamais de me faire ma propre opinion sur la chose.
+Une chose m'inquiète un peu : l'intégration. J'ai l'impression qu'il faut vraiment avoir le look hippie pour s'intégrer — pantalons larges, dreadlocks et foulards à fleurs semblent être de rigueur.
 
-Il y a tout de même quelque chose qui m'inquiète c'est l'intégration, car j'ai l'impression qu'il faut vraiment avoir le look Hippie pour s'intégrer ici, pantalons larges, dreadlocks et autres bijoux ou foulard à fleurs, semblent être de rigueur.
+Le soir, la célébration de la pleine lune a eu lieu dans une ambiance chaleureuse. Tout le monde dansait sur les rythmes des percussions et des didgeridoos.
 
-Le soir la célébration pour la pleine lune a eu lieu, l'ambiance y était chaleureuse, tout le monde dansait sur les rythmes des percussions et des didgeridoo.
-
-Une fois la soirée terminée, et après avoir hésité un bon moment, nous avons décidé de rester dormir dans notre "maison" perchée dans les arbres, le confort de mon van me manque déjà. . .
+Après avoir hésité, nous avons finalement décidé de rester dormir dans notre maison perchée dans les arbres. Le confort de mon van me manque déjà...
 
 ### Photos
 
@@ -872,93 +899,83 @@ Une fois la soirée terminée, et après avoir hésité un bon moment, nous avon
 
 ## </div>
 
-## **1ere nuit dans la forêt tropicale.**
+## **1ère nuit dans la forêt tropicale.**
 
-La lune est pleine, elle illumine les immenses pierres blanches qui constituent le sol du campement. Dans le ciel, des milliers d'étoiles. Tel était le décor de notre 1ere nuit dans la forêt tropicale.
+La lune était pleine, illuminant les immenses pierres blanches qui constituaient le sol du campement. Dans le ciel, des milliers d'étoiles. Tel était le décor de notre première nuit dans la forêt tropicale.
 
-Je vous passe les côtés plus surprenants des sons bizarres que peut faire la nature la nuit.
+Je vous passe les sons plus surprenants que peut faire la nature la nuit.
 
-Le matin nous nous sommes réveillés assez tôt, vers les 8h00. Nous sommes retournés aux vans, car Adam ne reste pas, il ne veut pas vivre l'expérience hippie. J'en ai donc profité pour prendre le lit pliant, et les piquets qui se trouvent dans mon van pour arranger mon habitation.
+Le matin, nous nous sommes réveillés assez tôt, vers 8h00. Nous sommes retournés aux vans — Adam ne reste pas, il ne veut pas vivre l'expérience hippie. J'en ai profité pour prendre le lit pliant et les piquets pour améliorer mon installation.
 
-Je me suis fait un petit coin pas mal du tout, j'ai une terrasse sur laquelle j'ai placé un petit feu de camp.
+Je me suis fait un petit coin vraiment confortable, avec une terrasse où j'ai installé un petit feu de camp. J'ai pris des plaques d'ardoise : une posée sur des pierres en cercle comme foyer, une autre en face de ma tente en guise de porte-pare-feu, qui diffuse la chaleur comme un radiateur même après que le feu est éteint.
 
-J'ai pris des plaques d'ardoise, une posée dessus, sur les pierres en rond, et une en face de ma tente en guise de porte, elle me permet de cacher les flammes et fait office de radiateur pendant la nuit car elle diffuse la chaleur même une fois le feu éteint.
+À l'intérieur, le lit — bien plus rassurant que de dormir à même le sol. Une bâche au sol pour poser mes affaires et m'isoler.
 
-A l'intérieur il y a le lit, c'est beaucoup plus rassurant et confortable que de dormir à même le sol. J'ai étalé une bâche au sol pour poser mes affaires et m'isoler un peu.
+Après le petit déjeuner, je suis allé aider en cuisine. Vaisselle à l'eau bouillie et au vinaigre — pas d'eau courante, pas de produit vaisselle pour préserver l'environnement, et surtout parce que nous buvons l'eau de la rivière puisée en amont et nous baignons sans savon.
 
-Après le «P’tit Déj» je suis allé aider en cuisine. J'ai fait la vaisselle à l'eau bouillie et au vinaigre, car nous n'avons, bien sûr, pas l'eau courante, et nous n'utilisons pas de produit vaisselle, pour préserver l'environnement et aussi, car la rivière est l'artère principale du campement, et nous buvons l'eau qui est puisée en amont, et nous nous lavons sans savon, et surtout nous nous baignons car il fait chaud.
+Une fois la cuisine terminée, balade le long de la rivière — magnifique — puis guitare à mon campement. L'atmosphère est très reposante.
 
-Une fois les travaux en cuisine terminés, je suis parti faire une petite balade le long de la rivière qui est magnifique, et après, je suis allé me relaxer et jouer de la guitare à mon campement, L'atmosphère ici est très reposante.
+Maintenant que je suis seul, il est plus facile d'aller vers les autres. Je vais voir si ces gens sont vraiment sereins ou si c'est seulement en apparence.
 
-Maintenant que je suis tout seul, il est plus facile d'aller vers les gens, et de faire connaissance. Je vais voir s'ils sont vraiment tranquilles, ou si c'est seulement en apparence.
+Le soir, repas en commun comme tous les jours, puis musique et discussions autour du feu. Très relaxant.
 
-Le soir nous avons mangé tous ensemble comme tous les jours, mais ce soir il n'y a pas de fête. Nous nous retrouvons autour du feu à discuter, joué de la guitare, l'atmosphère y est très relaxante encore.
+Il y a ici toutes sortes de personnes : beaucoup de jeunes voyageurs de tous pays, mais aussi des gens qui voyagent depuis des années et font tous les Rainbow du monde, des familles — une dizaine d'enfants de 4 à 15 ans. Ces enfants sont impressionnants : épanouis, débrouillards, vivant au bord de la rivière avec pour seuls jouets la forêt et l'eau.
 
-Il y a ici toutes sortes de personnes, beaucoup de jeunes voyageurs de tous les pays mais aussi des personnes qui voyagent depuis des années, et qui font tous les rassemblements Rainbow dans le monde. Il y a aussi des familles il y a une dizaine d'enfants de 4 à 15 ans. C'est impressionnant comme ces enfants sont épanouis et débrouillards, ils vivent sur le bord de la rivière avec rien, si ce n'est les jeux que leur apporte la forêt et la rivière.
-
-Pour cette 2ème nuit, je suis seul à dormir dans ma tente, c'est un grand moment à vivre, et il va me falloir un moment je pense pour faire abstraction de tout ce qui se passe autour de moi quand je dors.
+Pour cette deuxième nuit, je suis seul dans ma tente. Grand moment. Il me faudra du temps pour faire abstraction de tout ce qui se passe autour quand je dors.
 
 ## **La vie sur le Rainbow.**
 
-Quelques jours se sont écoulés depuis que je suis arrivé au Rainbow.
+Quelques jours ont passé depuis mon arrivée au Rainbow.
 
-En quelques mots je dirais, " La vie, elle est bien belle ", plus d'horloge, plus de courses à faire, plus de téléphone, d'Internet, de télévision, pas de bruit si ce n'est la rivière et les oiseaux, ici c'est le paradis.
+En quelques mots : _la vie, elle est bien belle_. Plus d'horloge, plus de course, plus de téléphone, d'Internet, de télé. Pas de bruit si ce n'est la rivière et les oiseaux. Ici, c'est le paradis.
 
-Le matin je me réveille quand je veux, et ensuite, en guise de douche, je pars pour une petite baignade rafraîchissante dans la rivière. En général je choisis un coin avec une petite cascade qui a formé une baignoire naturelle, et je trouve que c'est très agréable.
+Le matin, je me réveille quand je veux, puis je pars me baigner dans la rivière en guise de douche — en général dans un coin où une petite cascade a formé une baignoire naturelle. Très agréable.
 
-Plus tard j'entends " Food cercle !!! ", c'est le signale pour dire que le «P’tit Déj» est près. Petit à petit les gens se regroupent sans trop se presser, nous sommes à présent un peu plus de 80 à vivre sur le site. Beaucoup sont repartis après la pleine lune, et ce n'est pas plus mal car maintenant c'est plus tranquille.
+Plus tard, le « Food circle ! » annonce le petit déjeuner. Les gens se regroupent sans se presser. Nous sommes maintenant un peu plus de 80 sur le site — beaucoup sont repartis après la pleine lune, ce qui est plus tranquille. Le petit déjeuner est composé de fruits frais, de riz aux raisins avec du lait et du miel, et souvent de gâteaux — j'apprécie particulièrement le gâteau banane-chocolat.
 
-Le «P’tit Déj» est en général composé de fruits frais, de riz au raisin, avec du lait et du miel. Bien souvent nous avons des gâteaux, et j'aime particulièrement le gâteau banane / chocolat.
+Après le petit déjeuner (vers 11h00–12h00), le _Magic Hat_ — le chapeau magique — passe devant tout le monde. Ceux qui le peuvent y mettent de l'argent pour acheter la nourriture. Principe simple : si tu as, tu donnes ; si tu n'as pas, tu donneras quand tu en auras.
 
-Après ce bon «P’tit Déj» qui doit être vers les 11h00 -12h00, il y a le "Magic Hat " (Chapeau magique), le chapeau passe devant tout le monde et ceux qui le veulent, et qui le peuvent, mettent de l'argent pour acheter la nourriture. Le principe c'est : si tu as de l'argent, t'en mets, si t'en a pas, t'en mettras quand tu en auras.
+Ensuite, le _Talking Circle_ : un bâton circule et qui le tient peut s'exprimer sur n'importe quel sujet. Les ateliers y sont annoncés — yoga, médecine douce, initiation à un instrument, astrologie... Chaque annonce est possible. Si quelqu'un veut cuisiner, il recrute des volontaires. Si une discussion nécessite plus d'approfondissement, les intéressés se retrouvent plus tard.
 
-Ensuite, ceux qui le désirent se mettent en cercle pour le "Talking Cercle”. Un bâton circule de personne en personne, et lorsqu'on l'a, on peut s'exprimer sur n'importe quel sujet.
+En général, mes journées se passent entre coups de main en cuisine, guitare et baignades.
 
-Une personne qui voudrait monter un atelier, annonce le programme et le lieu. Les ateliers peuvent être par exemple des initiations au yoga, à la médecine douce, à un instrument, à l'astrologie, etc…
+Le soir, nouveau _Food Circle_, service par quelques volontaires.
 
-Si quelqu'un veut s'occuper de la cuisine il annonce ce qu'il désire préparer, et recrute du monde. Si quelqu'un va en ville, il fait une liste des courses, toutes les annonces sont possibles, et si un sujet entraîne plus de discutions, les personnes intéressées se regroupent plus tard pour en parler. Si une personne ne veut pas parler, mais juste écouter, elle peut parfaitement y assister.
+La nourriture est toujours de très bonne qualité, variée et consistante : entrée (salade ou soupe), plat principal, parfois dessert, et même du pain cuit dans un four à pain construit en terre de termitière. À la fin du repas, le _Magic Hat_ circule souvent accompagné de musique et de quelques improvisations.
 
-En général mes journées se passent à la cuisine, si j'ai envie de donner un coup de main. Je joue aussi pas mal de guitare, et je vais faire bronzette et trempette.
+Ce soir après le repas, c'est la fête de la musique autour du grand feu. Didgeridoos, guitares, percussions et tous les autres instruments s'accordent en improvisation, laissant l'imagination de chacun s'exprimer.
 
-A nouveau le soir, le « Food cercle », quelques personnes se dévouent pour faire le service, lorsque que tout le monde s'est regroupé autour du feu central.
+Plus tard dans la nuit, nous nous retrouvons dans le _Chai Space_ — la tente du chai, un thé épicé. Ce que j'aime le plus dans cet espace, c'est l'ambiance intimiste : musique, discussions tranquilles, thé chaud.
 
-Bien que nous soyons nombreux, la nourriture est toujours de très bonne qualité, variée et consistante. Il y a en général une entrée composée de salade ou de soupe, suivie par un plat principal, et parfois un dessert. Nous avons aussi du pain, car ils ont construit un four à pain avec la terre des termitières. A la fin du repas c'est le « Magic Hat » qui est souvent accompagné de musique. Quelques-uns improvisent des paroles et dansent en passant le chapeau dans le cercle.
+Voilà comment se passent les journées ici. C'est si reposant, relaxant et intéressant qu'on se demande pourquoi on ne vit pas tous comme ça...
 
-Ce soir après le repas, c'est la fête de la musique autour du grand feu. Didgeridoo, guitares, percussions et tous les autres instruments s'accordent pour jouer, la plupart du temps en improvisations, et laisser l'imagination et la créativité de chacun s'exprimer.
+## **10 jours à la manière hippie.**
 
-Lorsque la nuit et bien avancée, nous nous retrouvons, en plus petit comité, dans le " Chai Space " (La tente du Chai). Le Chai est un thé épicé. Mais ce qui m'intéresse le plus dans le Chai Space, c'est plus l'ambiance intimiste qu'on y trouve. En général nous jouons de la musique, et discutons tranquillement.
+Voilà dix jours au Rainbow. L'expérience a été passionnante et riche.
 
-Voilà comment se passent les journées ici. C'est si reposant, relaxant, et intéressant que l'on se demande pourquoi on ne vit pas tous comme ça...
+Tout d'abord, vivre hors de la société dans un système communautaire basé sur le partage, où les notions de biens matériels sont réduites au minimum, change profondément la vision des choses, la manière d'aborder la vie et les relations humaines.
 
-## **10 jours passés à la manière Hippie.**
+Le site était chargé de spiritualité — des aborigènes y ont vécu et il est plus ou moins sacré.
 
-Voilà 10 jours de passés au Rainbow. L'expérience a été passionnante, et intéressante.
+Le mouvement hippie est très proche de la nature et de l'environnement. Nous prenions bien soin de ne pas polluer. Personne ne se lavait dans la rivière avec du savon, même naturel. Pour les toilettes, nous avons creusé des _shit pits_ — des trous dans le sol où chacun recouvre ses déjections avec de la terre. Avec parfois plus de 150 personnes, c'est un travail quotidien.
 
-Tout d'abord le fait de vivre hors de la société, dans un système communautaire ou tout est basé sur le partage, et ou les notions de biens matériels sont réduits au minimum, change beaucoup la vision des choses, la manière d'aborder la vie et les relations humaines.
+En cuisine, tous les déchets organiques étaient enterrés dans des trous recouverts de chaux pour faire du compost. Nous vivions vraiment en harmonie avec la nature, et il y a beaucoup de choses que l'on pourrait adopter au quotidien — mais je ne vous conseille pas les _shit pits_ dans votre jardin.
 
-Le site sur lequel nous nous trouvions était chargé de spiritualité. Des aborigènes ont vécu ici, et ce site est plus ou moins sacré.
+La spiritualité était très présente. Cérémonies pour la pleine lune, pour l'équinoxe, très inspirées des coutumes aborigènes — peintures corporelles à la cendre et à la terre rouge, danses autour du feu au rythme des didgeridoos et percussions.
 
-Le mouvement hippie est très proche de la nature et de l'environnement. Nous prenions bien soins de ne pas polluer ou dégrader le site. Par exemple, personne ne se lavait dans la rivière avec du savon, même naturel. Pour les WC, nous avons créés des « Shit Pit » (Trou à merde) qui se traduit par feuillets, c'est plus joli. Mais ce ne sont que des trous creusés dans le sol, et chacun recouvre son excrément avec la terre laissée sur les côtes. C'est un travail de tous les jours de créer de nouveaux Shit Pit, pour accueillir parfois plus de 150 personnes.
+J'aurais aimé en apprendre plus sur le yoga, la relaxation et la médecine douce. J'ai pu voir à quel point on peut maîtriser son corps, ses émotions et ses énergies, et à quel point cela agit sur le moral et le bien-être.
 
-En cuisine tous les déchets organiques étaient enterrés dans des trous recouverts de chaux, pour crée du compost. Nous vivions vraiment en harmonie avec la nature, et il y a beaucoup de choses que l'on pourrait utiliser dans notre vie de tous les jours, mais je ne vous conseille cependant pas de faire des shit pit dans votre jardin.
+Ces dix jours ont été dix jours de ressourcement. Les bons moments se sont multipliés. Le _Chai Space_ était vraiment un lieu de paix — chaque soir dans cette ambiance tranquille et magique, accompagnée de chants, guitares et mandolines.
 
-La spiritualiste était très présente sur le rassemblement. Nous avons fait des cérémonies pour la pleine lune, ou encore pour l'équinoxe. Ces cérémonies étaient très inspirées des coutumes Aborigènes. Nous nous sommes fait des peintures sur le corps avec de la cendre et de la terre rouge, nous avons dansé autour du feu au rythme des Didgeridoo et percussions.
+Amid, d'origine indienne, jouait et chantait les chansons propres au Rainbow, pleines d'espoir et de joie. Mickey, un Belge installé en Australie depuis quelques années, habitué des Rainbow du monde entier, chantait un nombre infini de chansons traditionnelles de multiples pays, à la mandoline ou à la guitare, accompagné de sa compagne Meghan au chant et au tin whistle.
 
-J'aurais aussi aimé en apprendre plus sur les techniques de Yoga, de relaxation, et de médecine douce. J'ai pu voir à quel point on peut maîtriser son corps, ses émotions et les énergies, et constater à quel point cela agit sur le moral et le bien-être.
+Mais le dernier soir, nous ne l'avons pas passé à la tente chai.
 
-Ces 10 jours ont été 10 jours de ressourcement, et les bons moments se sont multipliés jours après jours. La Chai space était vraiment un lieu de paix, tous les soirs nous nous retrouvions dans cette ambiance tranquille et magique, accompagnés par les chants les guitares et autres mandolines.
+Avec Guillaume, un autre Français venu de Clermont-Ferrand, et Stéphane, nous avons fait un spa naturel.
 
-Amide d'origine indienne jouait et chantait les chansons propres au Rainbow pleines d'espoirs et de joie. Mickey, un belge qui vie en Australie depuis quelque temps, est maintenant un habitué des Rainbow, il chantait un nombre infini de chansons traditionnelles de multiples pays, le plus souvent en jouant de la mandoline, mais aussi à la guitare, sans oublier sa compagne Meghan qui l'accompagne au chant et au tin wistle.
+Grâce à un tuyau de cuivre enroulé plongé dans le foyer d'un feu de bois, nous avons créé un circuit d'eau chaude se déversant dans un creux formé par l'érosion dans la pierre. Ce trou d'environ 80 cm de profondeur et plus de 2 mètres de diamètre accueillait une dizaine de personnes. Nous étions une dizaine à regarder les étoiles en mangeant du gâteau au chocolat, prélassés dans cette baignoire à ciel ouvert agrémentée de feuilles d'eucalyptus fraîchement cueillies.
 
-Mais le dernier soir, nous ne l'avons pas passé à la Chai tente.
-
-Avec Guillaume, un autre Français qui vient de Clermont Ferrand, et Stéphane, nous avons fait un Spa naturel.
-
-Grâce à un tuyau de cuivre enroulé et plongé dans le foyer d'un feu de bois, nous avons fait un circuit d'eau chaude qui se déversait dans un trou formé par l'érosion dans la pierre. Ce trou de 80 Cm de profondeur, et large de plus de 2 mètres, qui pouvait accueillir une dizaine de personnes a été une magnifique baignoire d'eau chaude en plein air. Nous étions une dizaine à regarder les étoiles en mangeant du gâteau au chocolat, tout en se prélassant dans ce bain que nous avions agrémenté avec quelques feuilles d'eucalyptus fraîchement cueillies.
-
-Cette soirée a magnifiquement terminé cette expérience extraordinaire que j'espère sincèrement pouvoir renouveler un jour. Il y a des Rainbow assez souvent. Le prochain en Europe aura lieu en Angleterre au mois d'août 2006, et j'ai cru entendre qu'un autre Rainbow aura lieu en Australie au mois d'avril.
-
-Plusieurs sites amateur ont été créés. Si vous êtes intéressés, faites des recherches sur Google avec "Rainbow Gathering" ou "Rainbow Family".
+Cette soirée a magnifiquement clôturé cette expérience extraordinaire que j'espère sincèrement renouveler un jour. Le prochain Rainbow en Europe devait avoir lieu en Angleterre en août 2006, et un autre en Australie en avril. Si vous êtes intéressés, cherchez « Rainbow Gathering » ou « Rainbow Family » sur Google.
 
 ### Photos
 
@@ -1010,31 +1027,27 @@ Plusieurs sites amateur ont été créés. Si vous êtes intéressés, faites de
 
 ## </div>
 
-## L'après Rainbow.
+## **L'après-Rainbow.**
 
-Les tentes sont pliée, les sacs fermés l'aventure se termine, c'est le retour à la réalité.
+Les tentes sont pliées, les sacs fermés — l'aventure se termine, c'est le retour à la réalité.
 
-Parti d'Airlie Beach avec 300 $ je suis arrivé ici sans un sou. Grâce aux 50$ que m'ont donné les Anglais que j'ai emmenés, j'ai encore ¾ du réservoir d'essence, assez pour aller sur Cairns. Adam m'a dit qu'ils auraient dû me donner au moins 100$, mais au moins, je ne reste pas bloqué sur place.
+Parti d'Airlie Beach avec 300 $, je suis arrivé ici sans un sou. Grâce aux 50 $ que m'ont donné les Anglais que j'avais emmenés, j'ai encore les trois quarts du réservoir — assez pour aller jusqu'à Cairns. Adam m'a dit qu'ils auraient dû m'en donner au moins 100 $. Mais au moins, je ne reste pas bloqué sur place.
 
-Ici tout le monde parle d'un Week-end à Cap Tribulations au Nord de Cairns. Guillaume, avec qui je m'entends bien, ma demandé si je voulais y aller, mais je lui ai expliqué que j'étais fauché. Avec l'envie que nous avions de continuer l'expérience pour quelques jours, nous avons fait un deal. J'ai un van mais pas d'argent pour l'essence et lui il est à pied mais avec des sous pour payer l'essence.
+Ici, tout le monde parle d'un week-end à Cap Tribulation, au nord de Cairns. Guillaume, avec qui je m'entends bien, m'a demandé si je voulais y aller, mais je lui ai expliqué que j'étais fauché. Avec l'envie de prolonger l'expérience, nous avons fait un deal : moi j'ai un van mais plus d'argent pour l'essence, lui est à pied mais a des sous. Melinda, une Française venue avec Émeric, voulait aussi venir — parfait pour partager les frais.
 
-Melinda une française qui est venue avec Emeric voulait venir aussi, alors nous lui avons proposé de participer au deal, ce qui partage les frais.
+Heureusement, un 4x4 fait des allers-retours pour les sacs et les tentes de tout le monde, ce qui rend les 30 minutes de marche dans le bush bien plus légères. La végétation est magnifique — très tropicale mais sèche. La saison des pluies n'arrivera qu'à la mi-novembre.
 
-Heureusement il y a un 4X4 qui fait des allers-retours pour les sacs et les tentes de tout le monde ce qui rend les 30 minutes de marche dans le bush beaucoup plus sympathique surtout qu'ici la végétation est magnifique c'est très tropical mais sec. La saison des pluies n'arrivera qu'à la mi-novembre.
+Avant le départ, pause à la cuisine qui reste ouverte encore quelques jours pour ceux qui prolongent. Un ami de Melinda, Aloo, venu du Japon, voulait aussi venir — nous voilà donc partis à quatre pour un week-end sur la plage de Noah Beach à Cap Tribulation.
 
-Avant le départ, petite pause à la cuisine qui reste encore quelques jours pour ceux qui prolongent l'aventure encore un peu. Un pote de Melinda, Aloo qui viens du Japon, voudrais aussi venir, alors nous voilà parti tous les 4 pour un week-end sur le bord de la plage de Noah Beach à Cap Tribulations.
+Comme si les aborigènes me prévenaient de faire attention, je me suis éclaté le pied sur une racine. Pas aussi grave que l'an dernier en Irlande, mais il manque un beau bout de peau. Un peu de Bétadine et d'antiseptique — merci maman pour la trousse à pharmacie bien remplie — et on est partis.
 
-Comme si les aborigènes me disaient de faire attention, je me suis éclaté le pied sur une racine qui sortait du sol. Pas aussi méchant que l'an dernier sur la plage en Irlande, mais y manque un bon bout de viande. Un peu de Bétadine et d'antiseptique, merci maman pour la trousse à pharmacie bien remplie, et on est parti.
+Le van démarre au quart de tour, mais je lui fais confiance. Direction Cairns avec 45 minutes de piste pour un rodéo endiablé à quatre. On prie pour ne pas éclater un pneu. Guillaume en copilote.
 
-Le van démarre au ¼ de tour, mais je lui fais confiance. Pour bien le mettre dans le bain, 45 minutes de pistes pour un Rodéo endiablé à 4 dans le van. Là, on prie pour ne pas éclater un pneu. Guillaume en copilote, on part direction Cairns, où nous allons passer la nuit. Meghan m’a donné l'adresse de la maison ou quelques-uns passeront la soirée.
+À la nuit tombée, après avoir demandé deux fois la route, nous arrivons à la maison où quelques personnes du Rainbow passaient la soirée. Terrasse en hauteur perchée sous les palmiers, une dizaine de personnes, bonne ambiance.
 
-A la nuit tombée, et après avoir demandé 2 fois la route, nous arrivons. La maison avec une terrasse en hauteur perchée sous les palmiers et autres arbres exotiques, est remplie d'une dizaine de personnes du Rainbow.
+Tout le monde a pu se laver — avec du savon, s'il vous plaît — et nous avons fait un bon repas. Il y avait même de la viande, chose qu'on n'avait pas vue au Rainbow.
 
-Tout le monde a pu se laver, avec du savon s'il vous plaît, et nous avons fait un bon petit repas. Il y avait même de la viande, chose que l'on n'a jamais vue au Rainbow.
-
-Après avoir nettoyé mon pied sous la douche, et dans de l'eau chaude salée, je me suis fait un bon bandage pour soigner cette blessure qui n'est pas belle à voir.
-
-Petit à petit, tout le monde s'endort sur la terrasse, en repensant à la belle aventure que nous avons vécue.
+Petit à petit, tout le monde s'endort sur la terrasse en repensant à la belle aventure vécue.
 
 ### Photos
 
@@ -1052,19 +1065,19 @@ Petit à petit, tout le monde s'endort sur la terrasse, en repensant à la belle
 
 ## </div>
 
-## **Noah Beach, Cap Tribulations.**
+## **Noah Beach, Cap Tribulation.**
 
-Aujourd'hui direction Noah Beach.
+Aujourd'hui, direction Noah Beach.
 
-Avant de partir, on fait un arrêt à la laverie pour nettoyer les habits qui nous rappellent trop le Rainbow par l'odeur qu'ils dégagent.
+Avant de partir, arrêt à la laverie pour nettoyer les vêtements qui portaient encore trop bien la mémoire olfactive du Rainbow.
 
-La route qui nous mène à Noah Beach est magnifique. Elle longe le bord de la cote sur les premiers kilomètres. Nous nous arrêtons sur une plage pour pic niquer rapidement. Guillaume qui n'a vu de l'Australie que le Rainbow, découvre petit à petit les autres merveilleux décors dont regorge ce pays. Il ne peut pas résister à une petite baignade avant de repartir.
+La route qui mène à Noah Beach est magnifique. Elle longe le bord de mer sur les premiers kilomètres. Nous nous arrêtons sur une plage pour pique-niquer rapidement. Guillaume, qui n'a découvert de l'Australie que le Rainbow, commence à voir les autres merveilleux décors de ce pays et ne résiste pas à une petite baignade avant de repartir.
 
-A notre gauche, le soleil se couche lentement derrière les montagnes, tandis qu'à droite, la mer change petit à petit de couleur, laissant apparaître au loin les premières étoiles. Nous arrivons à l'embarcadère du bac qui traverse la Daintree Rain Forest river, pour nous plonger lentement dans la forêt tropicale humide. La nuit est tombée, et maintenant, les immenses feuilles et la hauteur des arbres, nous plonge dans le noir le plus complet, la route slalom entre les arbres, comme si elle s'y frayait un chemin. Après quelques passages difficiles à 4 dans le van, nous arrivons enfin au point de rendez-vous.
+À notre gauche, le soleil descend lentement derrière les montagnes ; à droite, la mer change doucement de couleur en laissant apparaître les premières étoiles. Nous arrivons à l'embarcadère du bac qui traverse la rivière de la Daintree Rainforest, nous plongeant dans la forêt tropicale humide. La nuit est tombée, et maintenant les immenses feuillages et la hauteur des arbres nous enveloppent dans un noir complet. La route slalome entre les arbres comme si elle s'y frayait un passage. Après quelques passages difficiles à quatre dans le van, nous arrivons enfin.
 
-Nous allons rester dans un genre de camping qui ne coûte que 4$ par nuit. L'aménagement est très rudimentaire. Il y a des WC, sans douche ni eau potable, et des emplacements pour les tentes et les camping-cars.
+Nous allons rester dans un camping rudimentaire à seulement 4 $ par nuit. Toilettes, pas de douche ni d'eau potable, emplacements pour tentes et camping-cars.
 
-Mes 3 compagnons de route montent leur tente, il est tard, alors nous allons juste faire à manger, et nous coucher.
+Mes trois compagnons montent leur tente. Il est tard — on mange et on se couche.
 
 ### Photos
 
@@ -1080,41 +1093,33 @@ Mes 3 compagnons de route montent leur tente, il est tard, alors nous allons jus
 
 ## **J'en rêvais, l'Australie l'a fait.**
 
-Réveil tranquille ce matin, le van est complètement a l'ombre grâce aux immenses feuillages des arbres tropicaux qui nous entourent. Je découvre de jour le site sur lequel nous nous trouvons, la forêt est omniprésente, pendant le «P’tit Déj», nous apercevons même des Iguanes d'au moins 1,5 mètres qui se baladent autour des tentes.
+Réveil tranquille. Le van est complètement à l'ombre grâce aux immenses feuillages des arbres tropicaux. Je découvre de jour le site : la forêt est omniprésente. Pendant le petit déjeuner, nous apercevons même des lézards monitors d'au moins 1,5 mètre qui se baladent autour des tentes.
 
-Après la rivière au Rainbow, ici c'est la mer qui fait office de lave-vaisselle. C'est la fête pour les poisons, avec qui je partage les restes du «P’tit Déj» lors du nettoyage à l'eau salée, sans produit vaisselle bien sûr, toujours au vinaigre.
+Après la rivière du Rainbow, ici c'est la mer qui fait office de lave-vaisselle — bonheur pour les poissons à qui je partage les restes.
 
-La magnifique plage de sable blanc bordée par la forêt a été notre lieu de vie du matin au soir. Avec guillaume, nous avons commencé par une baignade, suivie d'une séance de freezbee. Après toute cette énergie dépensée, retour au van pour prendre le frais, et jouer de la guitare avec les quelques personnes autour qui s'entraînent au Tin Wistle.
+La magnifique plage de sable blanc bordée par la forêt a été notre lieu de vie du matin au soir. Guillaume et moi avons commencé par une baignade puis une session de frisbee. Retour au van pour se rafraîchir et jouer de la guitare avec quelques personnes qui s'entraînent au tin whistle.
 
-Quelle n'est pas ma surprise, lorsque je vois arriver Adam qui est toujours dans le coin, et qui reste dans un camping une plage plus haut. Il embarque sa planche de surf et nous retournons sur la plage.
+Quelle n'est pas ma surprise quand j'aperçois arriver Adam, toujours dans le coin, qui loge dans un camping une plage plus au nord avec sa planche de surf. Frisbee, surf, bronzette — notre journée est bien remplie. Vient l'heure de manger.
 
-Le freezbee, le surf, la bronzette ont bien remplis notre journée, il est temps d'aller manger.
+Toujours dans le même esprit, nous mangeons tous ensemble sur la plage autour d'un feu de camp.
 
-Toujours dans le même esprit nous mangeons tous ensembles sur la plage, où nous avons fait un feu de camp.
+Je viens de finir un château de sable avec Ochina, une petite de quatre ou cinq ans dont la mère était au Rainbow. Les guitares, percussions et didgeridoos se posent petit à petit autour du feu. La nuit tombe.
 
-Je viens de finir un château de sable avec Ochina, une petite de 4 ou 5 ans qui était avec sa mère au Rainbow.
-
-Les guitares, percussions et didgeridoo se posent petit à petit autour du feu. La nuit tombe. Sous mes yeux, je vois apparaître la copie conforme de l'image que je me faisais de l'Australie, il y a quelques mois dans le froid de Dublin.
-
-Je m'imaginais être sur une plage paradisiaque, jouer de la guitare avec pleins de potes assis autour du feu sous un ciel couvert d'étoiles, et bien j'y étais, tout était parfait. J'en rêvais l'Australie la fait.
+Sous mes yeux apparaît la copie conforme de l'image que je me faisais de l'Australie, quelques mois plus tôt dans le froid de Dublin. Je m'imaginais sur une plage paradisiaque, jouer de la guitare avec plein de potes assis autour d'un feu sous un ciel couvert d'étoiles. Et bien j'y étais, tout était parfait. J'en rêvais — l'Australie l'a fait.
 
 ## **Fini les vacances.**
 
-Ces derniers jours passés sur la plage de Noah Beach ont été plus que reposants. J'ai passé mes journées sur la plage à me baigner, joué au freezbee, et surtout à jouer de la guitare. Il y avait toujours quelqu'un pour jammer, que ce soit des mandolines, des guitares, des perçus ou des chanteurs. Un soir, des aborigènes sont venus nous rendre visite. L'après-midi ils ont parlé de la manière dont ils vivent, et ensuite, ils ont joué de la guitare avec nous. Le soir autour du feu, ils nous ont expliqués comment survivre dans le bush, les dangers, et les précautions indispensables pour ne pas prendre trop de risques, dans cet environnement hostile et sauvage.
+Ces derniers jours à Noah Beach ont été plus que reposants. Baignades, frisbee et surtout guitare toute la journée — il y avait toujours quelqu'un pour jammer, que ce soit mandoline, guitare, percussions ou voix. Un soir, des aborigènes sont venus nous rendre visite. L'après-midi, ils ont parlé de leur façon de vivre, puis joué de la guitare avec nous. Le soir, autour du feu, ils nous ont expliqué comment survivre dans le bush, les dangers et les précautions essentielles dans cet environnement hostile et sauvage.
 
-Bien qu'il reste toujours quelques tribus qui vivent de manière très sauvage, la plupart ont été rattrapées par la société moderne, et comme chez les indiens d'Amérique, l'alcool fait des ravages dans leur communauté. En voilà une arme "pacifique" qui a bien aidé à conquérir le pays.
+Bien qu'il existe encore quelques tribus vivant de manière très traditionnelle, la plupart ont été rattrapées par la société moderne — et comme chez les Amérindiens, l'alcool fait des ravages dans leurs communautés. Voilà une arme bien « pacifique » qui a bien aidé à conquérir le pays.
 
-J'ai été très déçu de voir à quel point ils étaient "amochés" en fin de soirée. Une chose aussi m'a beaucoup choqué, c‘est la relation qu'on les Australiens avec les aborigènes. Ils restent ébahis devant les aborigènes, même s'ils sont ivres morts, et qu'ils racontent n'importe quoi. Je ne pense pas que de les conforter dans leur déclin soit le meilleur moyen de rétablir un équilibre social entre les communautés, ni une manière de se faire pardonner les dérives du passé.
+J'ai été très déçu de voir à quel point certains étaient abîmés en fin de soirée. Une chose m'a aussi beaucoup choqué : la relation que les Australiens ont avec les aborigènes. Ils restent ébahis devant eux, même ivres morts, à valider n'importe quoi. Je ne pense pas que les conforter dans leur déclin soit le meilleur moyen de rétablir un équilibre social, ni une façon sincère de se faire pardonner les dérives du passé.
 
-Samedi soir nous sommes tous repartis pour Cairns pour une soirée dans la maison où nous étions restés quelques jours plutôt.
+Samedi soir, retour à Cairns pour une soirée dans la maison où nous étions quelques jours plus tôt. Après avoir branché le PC sur des enceintes de 200 watts, nous avons fait la fête tous ensemble. Quand la soirée a dérivé vers la techno, je suis sorti préserver mes oreilles en jouant de la guitare.
 
-Après avoir branché le PC sur des enceintes de plus de 200Watts, nous avons fait la fête tous ensembles.
+Un guitariste professionnel m'a rejoint. Son style principal est le jazz manouche — mon niveau ne me permettait pas de le suivre dans ses envolées, mais il m'a montré quelques suites d'accords sympas. Nous avons ensuite improvisé sur des morceaux de jazz et, pour finir, joué de bons vieux blues qu'il a enrichis de quelques accords tordus.
 
-Quand la soirée a commencé à dévier en soirée techno, je suis sorti préserver mes oreilles en jouant de la guitare.
-
-Un guitariste ma rejoint un peu plus tard, il est guitariste professionnel, nous avons tape le bœuf ensemble. Son style principal est le Jazz manouche, mais mon niveau ne me permettait pas de le suivre dans cet envole musical. Il m'a néanmoins montré quelques suites d'accords sympas. Nous avons ensuite improvisé sur des morceaux de jazz que je connaissais, et pour terminer, bien sûr, nous avons joué des bons vieux blues, qu'il a tout de même enrichis de quelques accords tordus.
-
-Le lendemain, nous avons profité du dimanche pour nous reposer, et jouer un peu de guitare pour changer. La mère d'Ochina a beaucoup aimé un de mes morceaux, et m'a demandé de lui apprendre. C'est un morceau que je joue tout le temps, je l'ai composé en Irlande, et à chaque fois que je rencontre quelqu'un qui joue de la guitare il me demande de lui apprendre. J'essaye de l'apprendre au plus de personnes possibles comme ça peut être qu'un jour je rencontrerai quelqu'un qui joue ce morceau sans savoir que c'est le mien. Adam l'a appris lorsque nous étions à Airlie Beach, dès que je pourrai en faire un enregistrement correct, je le mettrai en ligne sur le site, il s’appellera **Rainbow**.
+Le lendemain, repos dominical et guitare. La mère d'Ochina a beaucoup aimé un de mes morceaux — une composition que j'ai faite en Irlande — et m'a demandé de lui apprendre. À chaque fois que je rencontre quelqu'un qui joue de la guitare, il me demande de lui apprendre ce morceau. J'essaie de le transmettre au plus de personnes possible — peut-être qu'un jour je rencontrerai quelqu'un qui le joue sans savoir que c'est le mien. Adam l'a appris à Airlie Beach. Dès que j'aurai pu en faire un bon enregistrement, je le mettrai en ligne sur le site. Il s'appellera **Rainbow**.
 
 <iframe id="ytplayer" type="text/html" width="480" height="270" src="https://www.youtube.com/embed/SqI9cLTqla8" frameborder="0" allowfullscreen></iframe>
 
@@ -1131,118 +1136,105 @@ Le lendemain, nous avons profité du dimanche pour nous reposer, et jouer un peu
 
 ## **Plus un sou en poche, il est temps de travailler.**
 
-Voilà un mois jour pour jour que je voyage, et comme j'étais parti d'Airlie Beach avec seulement 300 $ je n'ai vraiment plus un sou en poche.
+Voilà un mois jour pour jour que je voyage, et comme j'étais parti d'Airlie Beach avec seulement 300 $, je n'ai vraiment plus un sou en poche.
 
-Le temps passé au Rainbow ne m'a rien coûté, et tellement apporter, mais maintenant le retour à la réalité est très dur.
+Le temps passé au Rainbow ne m'a rien coûté mais m'a tellement apporté. Le retour à la réalité est dur.
 
-J'ai dû demander à mes parents qu’ils me donnent un coup de pouce financier pour me permettre de vivre le temps de trouver un boulot. Ils m'ont vire 150 E sur mon compte français que je savais débiteur de 50 E. J'ai retiré 40 $ pour acheter un peu de nourriture et de l'essence pour le van. Lorsque j'ai regardé mon compte sur Internet, j'ai eu la mauvaise surprise de voir qu'un prélèvement de 90 E avait été fait par l'assurance que j'ai prise avant de partir. Je ne me rappelais plus que j'avais un débit tous les mois. Il est donc urgent que je trouve n'importe quel boulot au plus vite.
+J'ai dû demander à mes parents un coup de pouce financier. Ils m'ont viré 150 € sur mon compte français — que je savais débiteur de 50 €. J'ai retiré 40 $ pour acheter un peu de nourriture et d'essence. Mais en consultant mon compte en ligne, mauvaise surprise : un prélèvement de 90 € venait d'être débité par l'assurance souscrite avant le départ — j'avais oublié ce prélèvement mensuel. Urgent de trouver du travail.
 
-J'ai alors remis mes chaussures, que je n'avais pas portées depuis plus d'un mois, et je suis parti au centre-ville de Cairns avec 3 potes qui cherchent eux aussi du boulot. Bianca et Tina 2 allemandes, et Russell un Australien. Les filles veulent travailler dans des fermes équines, ou faire du fruit picking. Je ne suis pas bien chaud pour ce genre de boulot qui ne rapporte pas tant que ça, et te casse en deux en rien de temps. Ce sera vraiment une option si je ne trouve rien dans les prochains jours. J'ai donc fait le tour des restaurants, des auberges de jeunesses et des agences d'emplois de la ville.
+J'ai remis mes chaussures — que je n'avais pas portées depuis plus d'un mois — et suis parti en centre-ville avec trois amis qui cherchaient eux aussi du boulot : Bianca et Tina, deux Allemandes, et Russell, un Australien. Les filles voulaient travailler dans des fermes équines ou faire du fruit picking. Je n'étais pas très chaud pour ce genre de travail — casse-dos et pas très rentable. Mais ce serait une option si je ne trouve rien dans les prochains jours. J'ai donc fait le tour des restaurants, auberges et agences d'emploi.
 
-En moins de 2 heures, j'ai trouvé un boulot de nuit dans un Kebab Turc, paye 10$ de l'heure pour 7h00 de travail par jour. Le patron est un peu louche, il veut me payer en liquide une partie de mes heures, ce qui fait que je ne pourrais pas récupérer les taxes dessus en partant d'Australie. Mais je dois vraiment bosser, alors je commence à 16h00 pour un test.
+En moins de deux heures, j'ai trouvé un boulot de nuit dans un kebab turc — 10 $ de l'heure pour 7 heures de travail. Le patron est un peu louche, voulant me payer une partie en liquide, ce qui m'empêcherait de récupérer les taxes en partant. J'ai continué à chercher et trouvé un autre job dans le restaurant d'un pub. Le chef n'était pas là, mais je devais revenir le lendemain.
 
-J'ai tout de même continué à chercher, et j'ai trouvé un autre job dans le restaurant d'un Pub. Le même genre qu'à Airlie Beach. Le chef n'est pas là, mais je dois revenir demain pour voir avec lui.
+En fin d'après-midi, je commençais à me sentir très mal : fièvre, maux de tête, bras et jambes engourdis. Pas en état de travailler 7 heures à faire des kebabs. Je suis retourné annuler mais le patron n'était pas là — un autre responsable m'a dit de revenir le lendemain.
 
-Depuis ce matin je ne me sens pas très bien, et en fin d'après-midi, je commence à me sentir très mal. Fièvre, mal à la tête, les bras et les jambes engourdies, je ne me sens pas de travailler 7h00 à faire des Kebabs. Je retourne donc au Kebab pour annuler le RDV de 16h00. Le patron n'est pas là, mais un autre responsable me dit de revenir demain.
+Sur le chemin, arrêt dans une agence pour déposer un dossier.
 
-Sur le chemin je suis passé devant une agence ou j'ai rempli un dossier, mais vu comme j'ai l'air malade, je ne me fais pas d'illusion.
+En fin de journée, l'agence m'a rappelé. La personne m'a proposé un job de kitchen hand dans un centre de vacances à 45 minutes de Cairns, à commencer le lendemain à 8h00.
 
-En fin de journée nous nous sommes tous retrouvés, au parking ou nous étions garés, pour un petit casse-croûte.
+Je suis retourné à l'agence en essayant d'avoir une tête présentable. Petit entretien pour tester mon anglais et m'expliquer le poste. Rémunération : 15 $/h en semaine, 19 $/h le week-end, avec logement gratuit pour les premières semaines. Il n'y a plus qu'à espérer ne pas être malade demain.
 
-J'ai reçu un coup de téléphone de l'agence ou je venais juste de remplir le dossier. La personne au téléphone m'a proposé un job de Kitchen Hand dans un centre de vacances, à 45 minutes de Cairns, je dois commencer le lendemain matin à 8h00.
-
-Je suis retourné à l'agence en essayant d'avoir une tête correcte pour ne pas montrer que je suis malade. J'ai eu un petit entretien pour tester mon anglais, et pour me donner les détails concernant le boulot.
-
-Je serai payé 15 $/h en semaine, et 19$/h le week-end. Je devrai même avoir le logement gratuit pour les 1premières semaines. Maintenant il n'y a plus qu'à espérer que je ne sois pas malade demain.
-
-Nous retournons à la maison, où ils me donnent un antibiotique naturel, du « Silver Colio » puis, je suis parti me coucher.
+De retour à la maison, on m'a donné un antibiotique naturel, le _Silver Colloid_, puis je suis allé me coucher.
 
 ## **Thala Beach Lodge.**
 
-6h00 du mat, je me réveille en pleine forme. L'antibiotique naturel a très bien fonctionné. Je prends une douche, remplis les papiers pour l'agence que je n'avais pas pu remplir la veille, pour les déposer au passage.
+6h00 du matin — je me réveille en pleine forme. L'antibiotique naturel a très bien fonctionné. Douche, papiers remplis pour l'agence, et je pars.
 
-Pour aller à Thala j'ai besoin d'essence, Bianca ma prêtée 20$ ce qui devrait juste suffire.
+J'ai besoin d'essence — Bianca m'a prêté 20 $, juste assez.
 
-Je suis arrivé à 7h00 avec le réservoir d'essence vide. Je me présente à l'accueil, et je commence de suite.
+Arrivé à 7h00 avec le réservoir vide. Je me présente à l'accueil et commence immédiatement.
 
-Me revoilà dans l'ambiance cuisine, après avoir passé 1 mois dehors, dont 15 jours dans les bois, sans électricité, ni eau courante. Je me retrouve enferme dans une cuisine immense, au moins 4 fois celle du resto à Airlie Beach.
+Me revoilà dans l'ambiance cuisine, après un mois dehors dont quinze jours dans les bois sans électricité ni eau courante. Je me retrouve enfermé dans une cuisine immense — au moins quatre fois celle d'Airlie Beach.
 
-A midi je finis de bosser, je mange avec les autres employés de la cuisine. Enfin un vrai repas, assis à une table.
+À midi, repas avec les autres employés. Enfin un vrai repas assis à une table.
 
-Le cuistot me dit d'aller à la réception pour demander une chambre afin d'attendre 17h30, l'heure où je recommence à bosser.
+Le cuistot me dit d'aller à la réception demander une chambre pour patienter jusqu'à 17h30. La réceptionniste me donne une clé en me disant de la rendre avant 17h00. J'explique que je n'ai pas de logement — elle passe un coup de fil et me dit finalement que je peux rester ce soir.
 
-La réceptionniste me donne la clef, et me dit de la ramener avant 17h00, je lui explique que je n'ai pas de logement, elle donne alors un coup de téléphone, pour finalement me dire que je peux rester ce soir.
+Et là, le bonheur : une chambre immense avec frigo rempli, télévision, salle de bain avec douche et... baignoire !
 
-Me voilà parti à mon bungalow, et là, le bonheur ! Une immense chambre avec frigo rempli, télévision, salle de bain avec douche, et … baignoire !!!
+Je ne résiste pas — un bon bain pour me décrasser des restes du Rainbow.
 
-Je ne résiste pas, et me prends un bon bain pour me décrasser à fond des restes du Rainbow.
+À 17h00, retour en cuisine jusqu'à 23h00.
 
-Ensuite, avant de faire une petite sieste, je suis passé à mon van pour prendre quelques affaires, et ma guitare.
+En cuisine nous sommes six ou sept, dont Heinz, un Suisse alémanique, qui a l'air très sympa. Il vit en Australie depuis quelques années et m'a dit qu'il ne voudrait retourner en Europe pour rien au monde. Il y a aussi Dean, l'air bien cool.
 
-A 17h00, je suis retourné en cuisine, où nous avons eu encore un repas, avant de bosser jusqu'à 23h00.
+Le cuistot du matin, Paul, a l'air d'être un vrai con — mais on verra.
 
-En cuisine nous sommes 6 ou 7, dont un Suisse allemand, Heinz qui a l'air super sympa. Il vit en Australie depuis quelques années maintenant, et m'a dit qu'il ne voudrait retourner en Europe pour rien au monde. Il y a un autre cuistot, Dean qui a l'air bien cool aussi.
+À la fin de la journée, je me suis fait deux gros sandwichs avec tout ce que j'ai trouvé dans le frigo, puis je suis retourné au bungalow. J'allume la télé — chose que je n'avais pas faite depuis des mois — et tombe sur un concert d'Éric Bibb, un guitariste de blues acoustique que j'adore. J'ai englouti mes sandwichs et me suis endormi confortablement, bercé par le concert d'Éric Bibb.
 
-Le cuistot du matin, Paul, a l'air d'être un vrai con, mais on verra bien comment ça va se passer.
+Demain, travail à 8h00. Le pire, c'est de remettre des chaussures toute la journée — je n'en avais pas porté depuis plus d'un mois et j'ai des ampoules partout.
 
-A la fin de la journée, je me suis fait 2 beaux gros sandwiches, avec tous les types de viandes que j'ai pu trouver dans le frigo, puis je suis retourné à mon Bungalow. J'ai allumé la TV, chose que je n'avais pas fait depuis quelques mois, et là, je tombe sur un concert d’Éric Bibb, un guitariste de blues acoustique que j'adore. Après avoir englouti mes sandwiches je me suis endormi, confortablement installé dans mon lit, en regardant le concert d’Éric Bibb.
+Les mois se suivent mais ne se ressemblent pas, c'est le moins qu'on puisse dire.
 
-Demain je bosse à 8h00, c'est dur de se remettre à vivre avec des horaires, mais le pire, c'est de porter des chaussures toute la journée, je n'en ai pas porté depuis plus d'un mois, et je choppe des ampoules de partout.
+## **Du bush au luxe.**
 
-Les mois se suivent mais ne se ressemblent pas, c'est le moins que l'on puisse dire...
+7h00, le réveil sonne, mais je me prélasse jusqu'à 7h40. J'avais oublié à quel point c'est bon de dormir dans un vrai lit avec des draps.
 
-## **Du Bush au Luxe.**
+À 8h00, je commence tranquillement car il n'y a pas beaucoup de monde en ce moment.
 
-7h00, le réveil sonne, mais je me prélasse dans mon lit jusqu'à 7h40. J'avais oublié comme c'est bon de dormir dans un vrai lit avec des draps.
+À 10h00, vrai petit déjeuner — fini le riz aux raisins secs avec du lait de soja du Rainbow. Croissants, viennoiseries, fruits exotiques. J'ai même appris à faire le chocolat chaud avec la machine à mousse. Fini aussi l'eau de la rivière : je jongle maintenant entre le jus d'ananas, d'orange, de pommes et surtout de mangue.
 
-A 8h00, je commence le boulot tranquillement, car il n'y a pas beaucoup de monde en ce moment.
+À 12h00, déjeuner : saumon fumé en entrée, roast beef.
 
-A 10h00 je me fais un vrai «P’tit Déj», fini le riz au raisin sec avec du lait de soja du Rainbow. Croissants, viennoiseries, boonies et fruits exotiques composent maintenant mon «P’tit Déj» J'ai même appris à faire le chocolat chaud avec la machine qui fait la mousse sur le dessus. Fini aussi l'eau de la rivière, désormais, je jongle entre le jus d'ananas, d'orange, de pommes, mais surtout, de mangue.
+Vers 12h30, sieste, puis guitare. Je commence à bien maîtriser le chant sur _Tomorrow Morning_ de Jack Johnson. Demain, j'apprendrai les paroles de _Since I've Been Around_ des Waifs.
 
-A 12h00, lunch time, aujourd'hui, saumon fumé en entrée, suivi de roasted beef.
+À 17h30, retour au boulot, mais avant, une bonne assiette de spaghettis bolognaise. En discutant avec Dean, j'apprends que les bungalows coûtent 300 $ la nuit. Il n'en revient pas que l'agence m'ait proposé ce job en premier — normalement ils réservent ça à des gens qu'ils ont déjà « testés ». Je pense que l'agence a dû appeler le cuistot d'Airlie Beach que j'avais mis en référence. Ou peut-être que j'ai juste beaucoup de chance.
 
-Vers 12h30, je retourne à ma chambre pour une petite sieste, pour récupérer les heures de sommeil de ce matin, puis après je joue un peu de guitare. Je commence à bien maîtriser le chant sur « Tomorrow morning » de [Jack Johnson](#groupe). Demain, je vais apprendre les parole de « Since I've been around » de [The Waifs](#groupe). (Voir la page musique sur le site pour plus d'infos.)
+À 23h00, fin du boulot. Deux sandwichs, dont un au saumon fumé, et retour au bungalow.
 
-A 17h30, retour au boulot, mais avant, je me prends une bonne assiette de spaghetti bolognaise. En discutant avec Dean, j'apprends que les bungalows ou je suis logé coûtent 300$ la nuit. Il ne croit pas que c'est le 1er emploi que l'agence me propose, car normalement ils gardent ce job pour des personnes qu'ils ont déjà « testé ». Je pense que l'agence a dû appeler le cuistot de Airlie Beach que j'avais mis en référence sur le dossier que j'ai rempli, ou peut-être que j'ai juste beaucoup de chance…….
+Voilà une journée type au Thala Beach Lodge. Pas très palpitant, mais il faut bien passer par là. On ne peut pas vivre d'amour et d'eau fraîche tout le temps.
 
-A 23h00 je finis le boulot. Comme d'habitude je me fais mes 2 sandwiches avec de la charcuterie, mais ce soir, je m'en fais un au saumon fumé. Je retourne ensuite à mon bungalow pour une bonne nuit de repos. Pour le moment ils me laissent dormir ici gratos, pourvu qu'ça dure !
+J'espère pouvoir travailler ici plusieurs semaines — rien n'est sûr car l'agence peut me demander d'aller ailleurs à tout moment. Tant que je travaille ici, c'est le jackpot : pas de logement à payer, nourriture à volonté, et un salaire de 15,94 $/h en semaine et 19,16 $/h le week-end. Même avec 30 % de taxes — que je récupère en partant d'Australie — je devrais pouvoir bien économiser. Le chef m'a dit qu'il pouvait me donner beaucoup d'heures : je vais viser 10h00 par jour six jours sur sept pendant plusieurs semaines.
 
-Voilà donc une journée type au Thala Beach Lodge, pas très passionnant, mais bon, faut bien passer par là. On ne peut pas vivre d'amour et d'eau fraîche tout le temps.
+Pour vous donner une idée de l'endroit où je vis, allez faire un tour sur [http://www.thalabeach.com.au](http://www.thalabeach.com.au/) — il y a même une version française.
 
-J'espère pouvoir travailler ici plusieurs semaines, mais rien n'est sûr, car mon employeur c'est l'agence, et ils peuvent me demander de travailler ailleurs à tout moment. Tant que je travaille ici, c'est le jackpot, pas de logement à payer pour le moment. Heureusement, à 300 E la nuit, nourriture à volonté, et salaire plus que raisonnable, 15,94$/h en semaine et 19.16/h le week-end, même si j'ai dans les 30% de taxe, que je récupère en partant d'Australie, je devrais pouvoir pas mal économiser. Le chef m'a dit qu'il pouvait me faire bosser beaucoup d'heures si je voulais, je vais essayer de faire dans les 10h00 de boulot par jour, 6 jours par semaines, pendant plusieurs semaines.
+## **Fini le boulot, à moi les vacances !**
 
-Ici c'est l'endroit parfait pour se reposer, et économiser, car … y a rien d ‘autre à faire. C'est perdu dans la forêt, à quelques mètres de la plage, mais y a rien d'autre, si ce n'est des bungalows remplis de "bourges" qui payent 300 $ la nuit, et mangent au resto des menus à 100 $.
+Voilà six semaines de passées au Thala Beach Lodge en tant que kitchen hand. Heureusement que j'étais bien payé, sinon j'aurais pété les plombs.
 
-Pour vous donner une idée de l'endroit où je vis, vous pouvez aller faire un tour sur le site [http://www.thalabeach.com.au](http://www.thalabeach.com.au/) et y a même une version en Français [http://www.thala.com/fr](http://www.thala.com/fr).
+Bien que dans un resort cinq étoiles, ce n'était pas vraiment le paradis.
 
-## **Fini le boulot à moi les vacances !!!**
+Mes journées étaient toutes identiques. J'avais l'impression de revivre la même journée en boucle. Je n'avais de contact qu'avec les cuisiniers, tous à l'autre bout de la cuisine, ce qui limitait vraiment les échanges. Heureusement, Heinz était vraiment quelqu'un de bien, il prenait le temps de discuter avec beaucoup d'intérêt.
 
-Voilà 6 semaines de passées à Thala Beach Lodge ou j'ai travaillé en tant que kitchen Hand. Et bien heureusement que j'étais bien payé, sinon j'aurai pété les plombs.  
-Bien que je fusse dans un centre de vacances 5 étoiles, ce n'était pas vraiment le Paradis……
+Heinz s'occupait surtout de la pâtisserie — et sachant à quel point je suis gourmand, j'ai passé six semaines à finir les glaces, les mousses au chocolat, les coulis en tous genres. Le week-end c'était Noël : mariages, repas d'entreprises, et il me gardait toujours des parts de gâteaux ou de pièces montées. Il me préparait des sandwichs avec le pain frais qu'il venait de faire cuire.
 
-Mes journées étaient toutes les mêmes. J'avais l'impression de revivre la même journée en boucle. Je n'avais de contact qu'avec les cuistots qui se trouvaient tous à l'autre bout de la cuisine, ce qui limitait vraiment la discussion. Heureusement, Heinz, le Suisse Allemand, était vraiment quelqu'un de bien, il prenait le temps de discuter avec beaucoup d'intérêt.  
-Heinz s'occupait le plus souvent de la pâtisserie, et sachant comme je suis gourmand, je vous laisse imaginer….. A chaque fois qu'il préparait un dessert, il en laissait plus au fond des plats, qu'il n'aurait dû. J'ai passé 6 semaines à finir les glaces, les mousses au chocolat, les coulis en tous genres. Le week-end, c'était à chaque fois Noël, car il y avait les mariages, ou autres repas d'entreprises, et il me gardait toujours des parts de gâteaux, ou de pièces montées. Pour manger après le boulot, il me préparait des sandwiches avec le pain frais qu'il venait juste de faire cuire.
+À la carte du restaurant il y avait de la meringue, et quand il en préparait, je la partageais avec Trish, une serveuse d'une soixantaine d'années vraiment sympa. Ça me faisait de la peine de la voir travailler presque tous les jours, y compris le dimanche. À son âge, cette pauvre femme devrait plutôt jouer avec ses petits-enfants au lieu de servir des clients fortunés. Voilà donc à peu près les seules personnes sympathiques de mon environnement de travail. Le cuistot du matin, Paul, était bien tel que je l'avais cerné dès les premiers jours.
 
-A la carte du restaurant il y avait de la meringue, et quand il en préparait, je la partageais avec Trish, une serveuse d'une soixantaine d'années qui était vraiment sympa. Ca me faisait de la peine de la voir "trimer" presque tous les jours, y compris le dimanche. A son âge, cette pauvre femme devrait plutôt passer ses week-ends à jouer avec ses petits-enfants, au lieu de servir des "bourges". Voilà donc à peu près les seules personnes sympathiques avec qui je travaillais. Le cuistot du matin, Paul, était bien tel que je l'avais cerné les premiers jours, un vrai con.
+Je ne vais pas m'étendre sur le sujet, mais c'est le genre de personne qui se fout d'avoir de bonnes relations avec ses collègues, qui te parle comme à un chien, te confie tous les travaux les plus ingrats — comme laver un four le dimanche dix minutes avant la fin de la matinée.
 
-Je ne vais pas m'étendre sur le sujet, mais c'est le genre de personne qui s'en fout d'avoir de bonnes relations avec ses collègues de travail, qui te parle comme à un chien, te demande de faire tous les travaux les plus pourris, comme laver un four le dimanche, 10 minutes avant la fin de la matinée.  
-Plus tard, j'ai su que c'était pour ça qu'il travaillait le matin, car il n'y a besoin que d'un seul cuistot, et il ne sait pas travailler avec les autres.  
-Herbert le chef de la cuisine était quelqu'un de pas facile à vivre. Déjà j'ai horreur des "You know what I mean ?" qui veut dire " Tu vois ce que je veux dire ?". Il le répétait sans cesse à chaque fin de phrase, c'était un tic. La première semaine il était super sympa, et une fois la période d'essai terminée, il a changé complètement d'attitude. Au début, les boissons étaient à volonté, il me les proposait lui-même, mais après il nous demandait de ne boire que l'eau du robinet, mais néanmoins avec des glaçons, car il faisait entre 40 et 45°C dans la cuisine. Plus de jus de fruit, plus de chocolat chaud, plus de croisant, la misère.  
-Il va même jusqu'à utiliser du café Leader Price pour les employés. Un jour, il s'est trompé dans la préparation d'un plat, et il était prêt à le jeter, si un cuistot ne lui avait pas dit de me le donner pour mon repas. J'ai alors entendu un sifflement du fond de la cuisine, comme si quelqu'un appelait un chien, et bien sûr, je ne me suis pas retourné, sachant que c'était pour moi. Il a alors crié " Ho ! Guillaume ! Tu le veux ça, ou je le jette ? " Là, j'étais dans une position très délicate, ma fierté ne disait de ne pas le prendre, mais quand j'ai vu cette assiette garnie de légumes, et surtout d'un magnifique pavé de bœuf, mon ventre a été le plus fort, et j'ai accepté avec un beau sourire d'hypocrite.  
-Sur les 6 semaines où j'ai travaillé là-bas, j'ai vu 3 cuistots démissionner suite à des engueulades. Une des serveuses m'a dit qu'il bossait ici depuis 8 ans, et que c'était tout le temps comme ça. Je lui ai demandé s'il était réputé pour sa cuisine, et elle m'a dit, bien au contraire, il n'a pas changé les menus depuis 8ans, et la nourriture n'est pas si bonne que ça. Lorsque je lui ai demandé pourquoi ils le gardaient, elle ma répondue " It's a mister ". Tout ça pour dire que mon expérience dans la cuisine d'un restaurant 4 étoiles a été beaucoup moins sympathique que celle d'un restaurant de Backpacker.  
-Après avoir passé 10 à 11h00 en cuisine, je retournais à mon Bungalow.  
-Mon temps libre de 12h30 à 17h00, je le passais à rattraper les heures de sommeil qui me manquaient.
+Herbert, le chef de cuisine, n'était pas non plus quelqu'un de facile à vivre. Il avait ce tic insupportable de ponctuer chaque phrase d'un « You know what I mean ? » La première semaine, il était très sympa ; passée la période d'essai, il a complètement changé d'attitude. Plus de boissons à volonté — que de l'eau du robinet avec des glaçons, par 40–45 °C en cuisine. Plus de jus de fruits, plus de chocolat chaud, plus de croissants.
 
-Le Bungalow était perdu dans la forêt, et il y avait une quinzaine de magnifiques perroquets qui chantaient sans arrêt, assez fort pour les entendre, même avec les fenêtres fermées.  
-Vous les entendrez sur l'enregistrement qui se trouve ici.  
-C'est un enregistrement que j'ai fait avec Adam, un des jours ou je ne travaillais pas. C'est sur un morceau de Jack Johnson qui s'appelle Rodéo clown. Dans cette forêt, il n'y avait pas que des oiseaux, j'ai eu quelques jours la visite d'un Gecko, une sorte de lézard vert fluo, avec des gros yeux noirs (voir photo), Il m'a fallu 3 jours avant de le trouver. Je l'entendais chanter et bouger tous les soirs quand j'allais me coucher, j'en ai d'ailleurs écrit une chanson, mais je n'ai pas encore mis de musique dessus.  
-Un jour, j'ai eu la visite d'un Iguane qui est venu fouiller dans ma poubelle que j'avais laissée sur la terrasse. Je l'ai filmé, car j'ai enfin pu acheter un nouvel appareil photo numérique. Cela a été mon plaisir du mois. J'ai vu plusieurs modèles, mais j'ai craqué pour le Canon IXU50. C'est, je crois, le même que Rémy avait, il est robuste, et de bonne qualité. Je n'ai pas acheté le nouveau modèle, il était à 100$ de plus, et avait les mêmes fonctions, mais un écran plus grand, et donc plus fragile, c'est-à-dire pas bon pour moi.
+Un jour, il s'est trompé dans la préparation d'un plat et était prêt à le jeter. Un cuistot lui a dit de me le donner. J'ai entendu un sifflement depuis le fond de la cuisine — comme on appelle un chien. Je ne me suis pas retourné. Il a alors crié : « Ho ! Guillaume ! Tu le veux ça, ou je le jette ? » J'étais dans une position délicate — ma fierté me disait non, mais quand j'ai vu ce beau pavé de bœuf avec ses légumes, mon ventre a été le plus fort. J'ai accepté avec un sourire d'hypocrite.
 
-Roberto, un serveur qui vivait dans le bungalow à cote de moi, était la seule personne avec qui je pouvais vraiment parler, et j'étais la seule personne avec qui il parlait, car nous étions les uniques employés à dormir sur place. Comme il n'y avait rien pour cuisiner dans les bungalows, je lui apportais un sandwich tous les soirs vers 23h30 / 00h00, après le boulot. C'était le moment de détente de la journée.  
-Roberto est un Backpacker aussi, il vient de l'ile de Malte ou je suis allé en 1984, mais je ne m'en rappelle plus, je n'avais que 5 ans. Il travaillait en tant que serveur, et me remplaçait, les jours de repos ou je ne travaillais pas.  
-Il m'a rassuré lorsqu'il est revenu le 1er matin, et ma confirmé ce que je pensais de Paul.  
-Le soir, il ne voulait plus faire les remplacements, car il s'était engueulé avec le Chef Herbert.  
-Je vais descendre sur Cairns pour essayer de vendre mon van au meilleur prix Roberto est parti pour Darwin, mais après 1000kms, il a cassé le moteur de son van. C'était le même modèle que le mien, et le garagiste lui a racheté 100$...
+Sur les six semaines, j'ai vu trois cuisiniers démissionner suite à des engueulades. Une serveuse m'a dit qu'il travaillait là depuis huit ans et que c'était toujours comme ça. Ni bonne réputation culinaire, ni menus renouvelés depuis huit ans. Quand je lui ai demandé pourquoi ils le gardaient, elle a répondu : « It's a mystery. »
+
+Mon bungalow était perdu dans la forêt, entouré d'une quinzaine de magnifiques perroquets qui chantaient sans arrêt. Vous les entendrez sur l'enregistrement que j'ai fait avec Adam un jour de repos — un morceau de Jack Johnson, _Rodeo Clown_. Dans cette forêt, il n'y avait pas que des oiseaux : un gecko, une sorte de lézard vert fluo aux gros yeux noirs, m'a rendu visite quelques jours. Il m'a fallu trois jours pour le trouver — je l'entendais bouger chaque soir au moment de me coucher. J'en ai même écrit une chanson, mais sans musique encore.
+
+Un jour, un iguane est venu fouiller dans ma poubelle sur la terrasse. Je l'ai filmé — j'ai enfin pu acheter un nouvel appareil photo numérique. Un Canon IXUS 50 : robuste, bonne qualité. Je n'ai pas pris le nouveau modèle, 100 $ de plus pour un écran plus grand et plus fragile — pas bon pour moi.
+
+Roberto, un serveur qui logeait dans le bungalow à côté, était la seule personne avec qui je pouvais vraiment parler, et vice versa. Je lui apportais un sandwich tous les soirs vers 23h30 après le boulot — notre moment de détente quotidien. Roberto est un backpacker de l'île de Malte. Il m'a rassuré dès son premier jour de remplacement en confirmant ce que je pensais de Paul. Puis un soir, il ne voulait plus faire les remplacements — il s'était engueulé avec le chef Herbert.
+
+Je vais descendre à Cairns pour essayer de vendre le van au meilleur prix. Roberto est parti pour Darwin — mais après 1 000 km, il a cassé le moteur de son van, identique au mien. Le garagiste lui en a donné 100 $.
 
 ### Photos
 
@@ -1302,81 +1294,49 @@ Je vais descendre sur Cairns pour essayer de vendre mon van au meilleur prix Rob
 
 ---
 
-## **Adieu Big banana !**
+## **Adieu Big Banana !**
 
-Lundi 7 Novembre à 23h00, j'ai quitté la cuisine pour la dernière fois.  
-Le chef m'a dit au revoir très furtivement, alors que Heinz m'a souhaité bonne chance pour la suite de mon voyage, en me disant que ça avait été un plaisir de travailler avec moi.  
-Trish aussi est venue me dire au revoir.  
-C'est toujours agréable de se sentir apprécié par des gens qu'on aime bien.  
-Je suis donc retourné à mon Bungalow avec le sourire jusqu'aux oreilles.  
-Roberto qui doit rester jusqu'à vendredi m'a rejoint pour notre dernier casse-croute.  
-Demain, c'est lui qui me remplacera à 8h00 en cuisine.
+Lundi 7 novembre, à 23h00, j'ai quitté la cuisine pour la dernière fois.
+Le chef m'a dit au revoir très furtivement. Heinz, lui, m'a souhaité bonne chance pour la suite, en me disant que ça avait été un plaisir de travailler avec moi. Trish aussi est venue me dire au revoir. C'est toujours agréable de se sentir apprécié par des gens qu'on aime bien.
 
-Le lendemain matin je me suis levé vers les 9h00, pour rendre ma clef et les draps.  
-Big banana ne voulait pas démarrer, je me suis vu bloqué sur le parking, avec un Van à "foutre à la poubelle".  
-Après près d'une demie heure, j'ai réussi à le faire partir, je pense que ce n'était que parce que le parking était vraiment en pente, et le "carbu" avait dû se noyer.
+Je suis retourné à mon bungalow avec le sourire jusqu'aux oreilles. Roberto, qui reste jusqu'à vendredi, m'a rejoint pour notre dernier casse-croûte. Demain matin, c'est lui qui me remplacera en cuisine.
 
-Une fois arrivé à Cairns, je me suis garé sur un parking gratuit, et j'ai contacté ceux de mes potes qui étaient encore là.  
-Après 6 semaines, presque tout le monde est parti, mais il restait Russell, et Bianca qui partait le lendemain pour Melbourne.
+Le lendemain, levé vers 9h00, rendu la clé et les draps.
+Big Banana ne voulait pas démarrer — je me suis vu bloqué sur le parking avec un van à mettre à la casse. Après presque une demi-heure, j'ai réussi à le faire partir. Je pense que le parking était vraiment en pente et que le carbu s'était noyé.
 
-Le soir j'ai pu dormir dans le Park, derrière la maison Rainbow, mais je ne pouvais pas rester plus longtemps, car les agents de la commune auraient pu leur faire des ennuis.  
-J'ai donc cherché un coin sur Cairns pour la 2ème nuit.  
-Je me suis garé à l'Esplanade, où il y avait déjà quelques vans stationnés.  
-Le matin, nous avions tous un avertissement de la commune, nous interdisant de camper ici.  
-Je continue la collection, et je l'ai rangé avec celui que j'avais reçu il y a quelques semaines.
+Arrivé à Cairns, garé sur un parking gratuit, j'ai contacté les amis encore sur place. Après six semaines, presque tout le monde était parti, mais Russell était là, et Bianca — qui repartait le lendemain pour Melbourne.
 
-De toute façon, il fallait que je trouve un camping pour pouvoir faire le ménage dans le van, et mettre toutes les chances de mon côté, pour en tirer le meilleur prix possible.  
-J'avais également fait des affiches que j'avais collées sur tous les panneaux d'affichage de la ville.  
-J'avais regardé le prix des autres vans à vendre, et constaté que les prix étaient beaucoup plus élevés qu'à Brisbane, là où j'avais acheté le mien.  
-Les 1er prix étaient aux alentours des 4000$ Aus, et ils n'étaient souvent pas aussi beaux que Big Banana.  
-Je n'avais pas de contrôle technique, car il ne passait pas, et les réparations avoisineraient les 1500$.  
-Mais ici, beaucoup de vans circulent sans le contrôle technique.  
-J'ai donc affiché le prix à 3700$, car je pensais que l'acheteur normal voudrait faire descendre le prix d'au moins 1000$, si ce n'est pas plus.  
-Si la vente devait me prendre trop de temps, je le laisserai partir à 2500 ou 2000$.  
-Sachant que je l'avais acheté 2700$ il y a 4 mois, à 2000$, et que ça me ferait encore une location pas chère du tout.
+Le soir, j'ai pu dormir dans le park derrière la maison Rainbow, mais je ne pouvais pas rester plus longtemps.
+J'ai cherché un coin pour la deuxième nuit et me suis garé à l'esplanade, où d'autres vans étaient stationnés. Le matin, nous avions tous un avertissement de la commune nous interdisant de camper là. Je l'ai rangé avec le précédent.
 
-Maintenant, les affiches sont posées, il ne me reste plus qu'à attendre un coup de fil, et à faire le ménage.
+Il fallait de toute façon trouver un camping pour faire le ménage dans le van et mettre toutes les chances de mon côté pour en tirer le meilleur prix possible. J'avais également posé des affiches dans toute la ville.
 
-Je suis retourné au camping le Sun Land, où j'avais été avec Adam, avant le Rainbow.  
-Les gérants sont vraiment très gentils, la dame s'est même rappelée de moi.
+En regardant les autres vans à vendre, j'ai constaté que les prix étaient bien plus élevés qu'à Brisbane où j'avais acheté le mien. Les premiers prix avoisinaient 4 000 $ — et ils n'étaient souvent pas aussi bien que Big Banana.
+Je n'avais pas de contrôle technique, mais beaucoup de vans circulent sans à Cairns. J'ai donc affiché le prix à 3 700 $, sachant que l'acheteur voudrait sans doute négocier d'au moins 1 000 $. Si la vente traînait, je pourrais descendre à 2 000–2 500 $. À ce prix, l'achat de 2 700 $ il y a quatre mois aurait quand même été une location pas chère du tout.
 
-J'ai payé 15$ la nuit, pour un site avec le courant électrique, c'est correct.  
-A côté de moi, il y avait 3 français bien sympas.  
-Le soir nous avons joué un peu de guitare, et le matin, ils sont partis très tôt.  
-Pour ma part, je me suis levé vers les 10h00, et j'ai commencé le grand nettoyage de Big Banana.  
-A 14h00, alors que tout était étalé dehors autour du Van, j'ai reçu un coup de téléphone de 2 anglais.  
-Le gars a commencé à discuter le prix au téléphone.  
-Je lui ai néanmoins fixé un RDV à 15h30, pour voir le Van, et parler du prix.  
-J'ai du tout ranger à grande vitesse, et je suis parti à une station d'essence pour acheter de l'huile, et faire les niveaux.  
-Ils ont fait le tour du Van, et l'ont bien aimé, mais n'ont pas voulu l'acheter, à cause du contrôle technique qui n'était pas fait.  
-Je suis alors retourné au camping, désespéré, et j'ai repris mon ménage.  
-Le lendemain, j'ai quitté le Camping, car il se trouvait à 15 minutes du centre, et ce n'est pas facile pour faire visiter le Van, surtout si les clients n'ont pas de moyen de locomotion.
+Affiches posées, il ne restait plus qu'à attendre un coup de fil et faire le ménage.
 
-J'ai donc pris une chambre pour la semaine au Leo's Backpacker qui se trouve être l'ancienne armée du salut.  
-Les bâtiments ont été réaménagés, et il y a même une piscine.  
-Les chambres sont très correctes pour un prix 80$ la semaine, lorsque les autres auberges annoncent des 20 ou 25 $ la nuit.
+Je suis retourné au camping Sun Land, où j'avais été avec Adam avant le Rainbow. Les gérants sont vraiment très gentils — la dame s'est même souvenue de moi. 15 $ la nuit avec courant électrique, c'est correct.
 
-Aujourd'hui, j'ai reçu un autre appel pour le van, encore un anglais, je lui ai donné rendez-vous devant son auberge, et il est immédiatement tombé amoureux du van !!!  
-Après avoir fait un tour, il m'a dit aussitôt qu'il le prenait.  
-Et là, tenez-vous bien, il n'a même pas négocié le prix, il me le prend à 3700$, soit 1000$ de plus que le prix que je l'ai payé il y a 4 mois.  
-Je n'allais pas lui demander de négocier le prix, alors que l'affaire était déjà conclue.  
-Comme cela avait été le cas pour moi lors de mon achat, il a besoin de quelques jours, pour le transfert de l'argent depuis son compte anglais.  
-Quand j'aurai l'argent, il aura le Van.  
-Je ne crie pas victoire tant que les 3700$ ne sont pas sur mon compte.  
-Malheureusement, j'ai cassé le chargeur de mon téléphone.  
-Cela a été un vrai problème, car j'attendais son coup de fil de confirmation.  
-Je commençais à être très inquiet, mais comme par magie, je l'ai rencontré en ville.  
-Après avoir tourné 2h00 en ville, j'ai enfin trouvé un magasin qui avait un chargeur de téléphone pour Smartphone.  
-J'en ai profité pour acheter aussi une batterie de rechange pour mon appareil photo.
+À côté, trois Français sympas. Le soir, un peu de guitare ensemble. Le matin, ils sont partis très tôt.
 
-Le lendemain, après avoir vidé le van de mes dernières affaires, je suis allé faire le plein d'essence, et je suis allé le retrouver à son auberge.  
-Coup de sueur froide lorsqu'il m'a demandé le document du contrôle technique, je lui ai donné celui que j'avais, mais qui datait d'un an.  
-Il a aussi voulu remplir un imprimé de transfert de véhicule.  
-Au fond de moi, je savais bien que ces papiers n'avaient aucune valeur, car le van était toujours au nom des allemands.  
-De toute façon, c'était eux qui étaient hors la loi, et ni moi, ni le nouveau proprio.  
-Après ces formalités, je lui ai donné les clefs, et il m'a donné les 3700$ en liquide.  
-Je ne faisais pas le malin dans la rue en allant à la banque.  
-J'ai tout de suite réservé un billet d'avion pour le jour même, direction Brisbane, départ à 20h00, arrivée à 10h00 le lendemain, pour 129$.
+À 14h00, tout étalé dehors autour du van, j'ai reçu un coup de fil de deux Anglais. Le gars a commencé à négocier au téléphone. Je lui ai tout de même fixé un rendez-vous à 15h30. Ils ont bien aimé le van, mais n'ont pas voulu l'acheter à cause du contrôle technique. Je suis retourné au camping, désespéré, et ai repris le ménage.
+
+Le lendemain, j'ai pris une chambre pour la semaine au Leo's Backpacker — l'ancienne Armée du Salut réaménagée, avec piscine — pour 80 $ la semaine.
+
+Et là, nouveau coup de fil pour le van — encore un Anglais. Je lui donne rendez-vous devant son auberge. Il est immédiatement tombé amoureux du van. Après un tour, il m'a dit aussitôt qu'il le prenait.
+
+Et tenez-vous bien : il n'a même pas négocié le prix. Il me le prend à 3 700 $ — soit 1 000 $ de plus que ce que je l'ai payé il y a quatre mois. Je n'allais certainement pas lui suggérer de négocier.
+
+Comme lors de mon propre achat, il a besoin de quelques jours pour le virement depuis son compte anglais. Quand j'aurai les 3 700 $, il aura le van. Je ne crie pas victoire tant que l'argent n'est pas sur mon compte.
+
+Malheureusement, j'ai cassé le chargeur de mon téléphone. Vrai problème : j'attendais sa confirmation. Je commençais à m'inquiéter quand, comme par magie, je l'ai croisé en ville après deux heures de déambulation. Après avoir tourné partout, j'ai finalement trouvé un magasin avec un chargeur pour mon téléphone. J'en ai profité pour acheter aussi une batterie de rechange pour l'appareil photo.
+
+Le lendemain, van vidé de mes dernières affaires, plein d'essence fait, et je suis allé le retrouver à son auberge. Coup de sueur froide quand il m'a demandé le document de contrôle technique — je lui ai donné le seul que j'avais, daté d'un an. Il a aussi voulu remplir un formulaire de transfert de véhicule. Au fond de moi, je savais que ces papiers n'avaient aucune valeur, le van étant toujours au nom des Allemands. Mais c'était eux qui étaient hors la loi, pas moi ni le nouveau propriétaire.
+
+Après ces formalités, je lui ai donné les clés, il m'a donné les 3 700 $ en liquide. Je ne me promenais pas sereinement dans la rue en allant à la banque.
+
+J'ai aussitôt réservé un billet d'avion pour le jour même, direction Brisbane : départ à 20h00, arrivée à 10h00 le lendemain, pour 129 $.
 
 ### Photos
 
@@ -1410,35 +1370,26 @@ J'ai tout de suite réservé un billet d'avion pour le jour même, direction Bri
 
 ## </div>
 
-## Ma vie de baroudeur a pris fin avec la vente de Big Banana.
+## **Ma vie de baroudeur a pris fin avec la vente de Big Banana.**
 
-Fini les réveils par la police, les pannes en tous genres, mais c'est aussi la fin du voyage libre, de l'assurance d'un toit, même lorsque on est fauché, au même titre que la découverte des merveilleux paysages au volant de Big Banana.  
-Pour mettre définitivement fin à cette période, je suis passé chez le coiffeur, me suis rasé, et j'ai quitté mon look "pseudo Hippie" que j'avais depuis le Rainbow.
+Fini les réveils par la police, les pannes en tous genres. Mais c'est aussi la fin du voyage libre, de l'assurance d'un toit même quand on est fauché, et de la découverte des merveilleux paysages au volant de Big Banana.
+Pour marquer définitivement la fin de cette période, je suis passé chez le coiffeur, me suis rasé et ai quitté le look pseudo-hippie que j'avais depuis le Rainbow.
 
-Et bien un van c'est plus gros qu'un sac à dos !!!!  
-Pour porter mes affaires, maintenant je n'ai que mon pauvre dos, et en arrivant à l'embarquement je me suis rendu compte que j'avais 45kg à transporter.  
-A 5$ par kg supplémentaire, "ça le faisait pas trop", j'ai dû virer de la bouffe pour me rapprocher des 20 kg, mais j'ai gardé le pot de Nutella.  
-Ne faut pas pousser quand même.  
-Je suis arrivé à réduire jusqu'à 40kg, mais l'hôtesse ne m'a fait payer que 40 $ au lieu de 100$, c'est gentil !
+Un van c'est plus gros qu'un sac à dos !
+Pour porter mes affaires, maintenant je n'ai que mon pauvre dos. À l'embarquement, je me suis rendu compte que j'avais 45 kg à transporter. À 5 $ le kilo supplémentaire, j'ai dû alléger — j'ai gardé le Nutella, faut pas pousser. J'ai réussi à descendre à 40 kg, et l'hôtesse n'a prélevé que 40 $ au lieu de 100 $. Sympa.
 
-Après quelques orages pas super sympas, je suis enfin arrivé à Brisbane, j'ai récupéré mes affaires, et j'ai pris le bus pour le centre-ville, ou j'ai réservé une chambre au Billy Backpacker pour 25$ la nuit.  
-Au 2ème arrêt, une fille avec une guitare est montée dans le bus, je lui ai demandé si elle connaissait une auberge moins chère. Elle reste au Bulk Backpacker pour 18$ la nuit.  
-Je suis donc parti avec elle.  
-Mélanie est Française, elle joue un peu de guitare et chante.  
-Elle a même bossé un peu sur Melbourne, où elle a passé les 2 derniers mois.  
-En arrivant au Bulk, nous avons retrouvé un pote à elle, Julien, qui finit son aventure Australienne, après 12 mois de voyage.
+Après quelques orages pas sympas, j'arrive enfin à Brisbane, récupère mes affaires et prends le bus pour le centre-ville où j'ai réservé une chambre au Billy Backpacker pour 25 $ la nuit.
+Au deuxième arrêt, une fille avec une guitare monte dans le bus. Je lui demande si elle connaît une auberge moins chère. Elle reste au Bulk Backpacker pour 18 $ la nuit. Je suis donc parti avec elle.
 
-Apres avoir posé les sacs, nous sommes sortis dans un pub, le Down Under.  
-Après ces derniers mois sauvages au Tropic, le fait de me retrouver en ville avec un climat tempéré m'a fait bizarre.  
-J'ai froid, et je suis obligé de porter des chaussures tout le temps.
+Mélanie est Française, elle joue un peu de guitare et chante. Elle a même travaillé à Melbourne ces deux derniers mois. En arrivant au Bulk, nous avons retrouvé Julien, un ami à elle qui termine son aventure australienne après douze mois de voyage.
 
-L'ambiance Pub dance techno, ce n’est pas trop mon truc, mais nous sommes tout de même rentrés à 3h30 du mat.
+Après avoir posé les sacs, nous sommes sortis dans un pub, le Down Under. Après ces derniers mois sauvages sous les tropiques, le fait de me retrouver en ville avec un climat tempéré m'a fait bizarre. J'ai froid et suis obligé de porter des chaussures en permanence.
 
-Aujourd'hui je suis allé à la gare des bus, pour prendre mon ticket pour Lismore, là où je dois retrouver Adam.  
-Le départ n'est que pour demain matin, alors nous avons été faire un tour sur le Lagon au River Side.
+L'ambiance dance-techno du pub n'est pas trop mon truc, mais nous sommes tout de même rentrés à 3h30 du matin.
 
-Le soir nous avons joués un peu de guitare à l'auberge.  
-Deux ou trois personnes nous ont rejointes, dont un anglais qui a chanté toute la soirée, bien aidé par la bière je pense…
+Le lendemain, je suis allé à la gare routière prendre mon ticket pour Lismore, où je dois retrouver Adam. Le départ n'est que le lendemain matin — nous avons donc été faire un tour au lagon du Riverside.
+
+Le soir, guitare à l'auberge. Deux ou trois personnes nous ont rejoints, dont un Anglais qui a chanté toute la soirée, bien aidé par la bière je pense.
 
 ### Photos
 
@@ -1468,35 +1419,20 @@ Deux ou trois personnes nous ont rejointes, dont un anglais qui a chanté toute 
 
 </div>
 
-Mardi 17 novembre 11h00 Am, je monte pour la 1er fois dans le Bus pour une longue distance.  
-Quel changement après 4 mois en van.  
-J'arrive 4h00 plus tard à Lismore.  
-Il est 16h00, car ici il y a 1h00 de décalage.  
-Me voilà dans un nouvel état, fini le Queensland, c'est le New South Wales.
+Mardi 17 novembre, 11h00, je monte pour la première fois dans un bus longue distance. Quel changement après quatre mois en van.
+J'arrive quatre heures plus tard à Lismore. Il est 16h00 — il y a ici une heure de décalage. Me voilà dans un nouvel État : fini le Queensland, c'est le New South Wales.
 
-Cet état est le plus peuplé, il abrite la plus grande ville d'Australie, Sydney.  
-Le climat y est tempéré.  
-Les températures descendent rarement en dessous des 10°C et peuvent atteindre les 40°C en été.  
-L'état est divisé en plusieurs régions : Côtières avec les belles plages et les parcs nationaux.  
-Les Blue Montains, et Snowy Montains, ainsi qu'une région plate qui recouvre les 2/3 de l'état.
+Cet État est le plus peuplé d'Australie, il abrite Sydney. Le climat y est tempéré. L'État se divise en plusieurs régions : côtières avec plages et parcs nationaux, les Blue Mountains et les Snowy Mountains, et une région plate qui couvre les deux tiers de l'État.
 
-Adam est venu me chercher dans la 405 Peugeot de sa mère.  
-Il habite le Chanon, dans une grande maison de bois posée sur le haut de la colline, avec une vue sur la plaine et les montagnes.  
-Il m'a fait faire le tour du propriétaire dans le Gator, une sorte de Quad à 6 roues, qui passe presque partout. (Voir photos).
+Adam est venu me chercher dans la 405 de sa mère. Il habite à Channon, dans une grande maison en bois perchée sur la colline avec une vue sur la plaine et les montagnes. Il m'a fait faire le tour du propriétaire dans le Gator, une sorte de quad à six roues tout-terrain.
 
-De retour à la maison, nous sommes passés à table...  
-La mère d'Adam est Anglaise, et les bonnes manières étaient de mise lors du repas.  
-Tout d'abord elle nous a placés autour de la table, dans un ordre prévu stratégiquement au préalable.  
-Ensuite, tout le long du repas, j'ai dû rester concentré pour ne pas faire de faux pas, en me trompant de verre, d'assiette ou de couverts, et surtout en gardant bien la bonne position.  
-Bref, un repas offert avec beaucoup de gentillesse, mais où l'on n'est pas du tout à l'aise.  
-J'avais l'impression de manger chez des futurs beaux-parents pour la 1ère fois…
+De retour à la maison, passons à table.
+La mère d'Adam est anglaise, et les bonnes manières étaient de mise. Elle nous a placés stratégiquement, et tout au long du repas, j'ai dû rester concentré pour ne pas faire de faux pas — mauvais verre, mauvaise fourchette, mauvaise posture. Un repas offert avec beaucoup de gentillesse, mais où l'on n'est pas du tout à l'aise. J'avais l'impression de dîner chez des futurs beaux-parents pour la première fois.
 
-Le soir j'ai été dormir dans un bungalow pour invités qui se trouve dans le jardin.
+Le soir, j'ai dormi dans un bungalow pour invités dans le jardin.
 
-J'ai finalement passé la semaine chez Adam.  
-Il m'a fait visiter la région, nous sommes allés dans endroits magnifiques qui ne sont pas touristiques, avec des chutes d'eau, des rivières, des falaises, des creeks, etc...  
-Lorsque nous restions à la maison, nous jouions de la guitare, ou alors nous allions nous balader en Gator, ou encore en moto cross.  
-J'avais l'impression d'être dans le décor du Seigneur des anneaux, il y avait même les grands arbres, mais ceux-là ne parlaient pas, ni ne marchaient.
+J'ai finalement passé la semaine chez Adam. Il m'a fait visiter la région : des endroits magnifiques et non touristiques — chutes d'eau, rivières, falaises, creeks... Quand nous restions à la maison, nous jouions de la guitare ou partions en balade en Gator ou en moto-cross.
+J'avais l'impression d'être dans le décor du _Seigneur des Anneaux_ — jusqu'aux grands arbres, mais ceux-là ne parlaient ni ne marchaient.
 
 ### Photos
 
@@ -1552,35 +1488,33 @@ J'avais l'impression d'être dans le décor du Seigneur des anneaux, il y avait 
 
 ## </div>
 
-## Byron Bay
+## **Byron Bay.**
 
-Après avoir passé la semaine chez Adam, nous sommes descendus sur Byron Bay.
+Après une semaine chez Adam, nous sommes descendus sur Byron Bay.
 
-J'avais entendu parler d'un Backpacker vraiment bien sur Byron Bay qui s'appelle l'Art Factory. Adam ma donc conduit jusqu'à ce fameux Backpacker, et j'ai pris une nuit en dortoir.
+J'avais entendu parler d'un backpacker vraiment bien à Byron Bay : l'Arts Factory. Adam m'y a conduit et j'ai pris une nuit en dortoir.
 
-Maintenant que je voyage en Backpacker je commence par ne prendre qu'une seule nuit, de façon à tester l'endroit, et si ça me plait je "book" ensuite pour plusieurs nuits. Cela évite les mauvaises surprises.
+Depuis que je voyage en backpacker, je commence toujours par une nuit pour tester l'endroit. Si ça me plaît, je réserve plusieurs nuits. Cela évite les mauvaises surprises.
 
-L'Art Factory c'est plus qu'un Backpacker c'est un complexe qui regroupe Backpacker, camping, cinéma, restaurant, pub, Tropic Spa ...  
-A l’ origine L'arts Factory a été créé par des artistes dans les années 70, et il est devenu une référence pour la scène rock, depuis les années 80.  
-Le Backpacker ne se limite pas à de simples dortoirs, il est aussi possible de dormir dans des Tepees indiens, des bungalows d'Islande, des chambres avec des lits à 3 étages, ou dans un bus à 2 étages, etc...  
-Mais ce qui m'a vraiment plu là-bas c'est : l'ambiance relaxante et tranquille grâce à un lac au milieu et la forêt qui nous entoure, les différentes animations telles que le volley Ball, le tennis de table, le jonglage, les leçons de deedgeridoo, que l'on peut aussi fabriquer soit même.... Ce que j'ai tout particulièrement aimé, c'est le fait de se retrouver avec beaucoup de gens qui aiment la musique, et qui se rencontrent pour jouer ensemble.
+L'Arts Factory, c'est plus qu'un backpacker : un complexe regroupant hébergement, camping, cinéma, restaurant, pub, spa... À l'origine créé par des artistes dans les années 70, il est devenu une référence de la scène rock depuis les années 80. On peut dormir en dortoir classique, mais aussi dans des tipis indiens, des bungalows islandais, des lits à trois étages ou dans un bus à deux niveaux.
 
-En fin de compte je suis resté là-bas 3 ou 4 semaines, et j'ai passé le plus gros de mon temps à jouer de la guitare, à me relaxer sur les hamacs ou à la piscine. Il y avait même un Jacuzzi.  
-Tous les mardis soir, il y a le Talent Show qui permet à ceux qui le veulent, de jouer sur scène, ça peut-être de la musique, de la danse, du jonglage, ou encore même des comiques...  
-Jimmy un hollandais avec qui je jouais souvent est un habitué du talent show. Il y joue tous les mardis depuis les 2 mois qu'il est à l'Arts Factory. J'ai fait une vidéo d'une de ces prestations, c'est une compo perso.  
-Bien que je sois bien plus à l'aise maintenant pour jouer devant des amis, ou du public, lorsque l'on tape le bœuf, je ne me sentais pas encore prêt à jouer sur une scène.
+Ce que j'ai vraiment adoré : l'atmosphère relaxante autour d'un lac au milieu de la forêt, les animations (volley, ping-pong, jonglage, cours de didgeridoo qu'on peut aussi fabriquer soi-même), et surtout le fait de se retrouver avec des gens qui aiment la musique et jouent ensemble.
 
-Un jour où je jouais tranquillement devant mon tepee, Mary, une Allemande, est venue me demander si je voulais faire un morceau avec elle au talent show.  
-Je n'étais pas bien chaud, surtout qu'elle est venue me le demander 3 heures avant que le talent show ne commence, et avec une chanson que je ne connaissais pas.  
-Je lui ai malgré tout proposé d'essayer, et que si ça ne "sonnait" pas trop mal, on le jouerait. Elle est donc partie chercher son lecteur CD, et j'ai écouté le morceau en question.  
-C'est un titre interprété par la chanteuse qui s'appelle "Joss Stone", et le morceau "Fell in love with a boy" c'est un genre de soul musique, j'ai été chanceux car il n'y a que 3 accords. Mais choisir un morceau de Soul music pour le jouer uniquement avec une guitare et une voix, ce n'est pas très facile à bien faire "sonner". Après quelques essais, nous avons néanmoins réussis à le faire bien tourner, et nous avons décidé de le jouer au Talent show.
+En fin de compte, je suis resté trois à quatre semaines. J'ai passé l'essentiel de mon temps à jouer de la guitare, me relaxer dans les hamacs ou à la piscine. Il y avait même un jacuzzi.
 
-L'expérience a été intéressante, mais frustrante et stressante. Je ne suis pas encore assez à l'aise sur une scène. Bien que nos potes nous aient dit que c'était bien, je n'étais pas très content de moi. Je sais que sur scène ce n'est jamais aussi bien qu'en répétition, mais c'est le stress qui fait que ça ne sonne pas aussi bien que normalement.  
-C'est en forgeant qu'on devient forgeron, alors à la prochaine occasion de jouer sur scène, ou devant du public, je n'hésiterais pas, en espérant cette fois que j'aurais un peu plus de quelques heures pour apprendre et répéter le morceau.
+Tous les mardis soir, le Talent Show permet à qui le veut de monter sur scène — musique, danse, jonglage, comédie...
+Jimmy, un Hollandais avec qui je jouais souvent, est un habitué depuis les deux mois qu'il est à l'Arts Factory. J'ai filmé une de ses prestations — une compo personnelle.
+
+Bien que je me sente maintenant plus à l'aise pour jouer devant des gens, je ne me sentais pas encore prêt pour monter sur scène.
+
+Un jour où je jouais tranquillement devant mon tipi, Mary, une Allemande, est venue me demander de faire un morceau avec elle au Talent Show — trois heures avant le début. Pas très chaud au départ, mais je lui ai proposé d'essayer, et si ça sonnait bien on jouerait.
+Le morceau : _Fell in Love with a Boy_ de Joss Stone, genre soul, seulement trois accords. Jouer de la soul uniquement avec une guitare et une voix, ce n'est pas facile à faire sonner. Mais après quelques essais, ça tournait, et nous avons décidé de le jouer.
+
+L'expérience a été intéressante mais frustrante — je n'étais pas assez à l'aise sur scène. Bien que nos amis nous aient dit que c'était bien, je n'étais pas content de moi. Le stress fait que ça ne sonne jamais aussi bien qu'en répétition. C'est en forgeant qu'on devient forgeron — à la prochaine occasion, je n'hésiterai pas.
 
 <iframe id="ytplayer" type="text/html" width="480" height="270" src="https://www.youtube.com/embed/1mO0P-AxALE?si=aAcrUz1aT40TEd5q" frameborder="0" allowfullscreen></iframe>
 
-En résumé l'Arts Factoy a été vraiment une excellente expérience, grâce au lieu un peu magique, mais aussi au contact des personnes que j'ai pu y rencontrer. Alors si vous y allez, n'hésitez pas à camper plutôt que de rester dans un dortoir. La vrai bonne ambiance se trouve du côté camping. Il y a beaucoup moins de buveurs, bringueurs, et beaucoup plus de personnes qui savent apprécier les vraies bonnes choses.
+En résumé, l'Arts Factory a été une excellente expérience, grâce au lieu un peu magique et aux personnes rencontrées. Si vous y allez, optez plutôt pour le camping que le dortoir — la vraie ambiance est de ce côté-là, beaucoup moins tournée vers l'alcool, et bien plus vers les choses qui comptent vraiment.
 
 ### Photos
 
@@ -1648,19 +1582,21 @@ En résumé l'Arts Factoy a été vraiment une excellente expérience, grâce au
 
 ## </div>
 
-## **RAINBOW TEMPLE**
+## **Rainbow Temple.**
 
-Après l'Arts Factory, je suis parti au "Rainbow Temple" avec Alex, un Franco-allemand.  
-En route, nous nous sommes arrêtés pour nous baigner dans plusieurs chutes d'eau magnifiques, puis nous sommes descendus au grand marché du "Chanon".  
-Au marché, nous avons recherché des personnes qui pourraient nous indiquer la direction du "Rainbow Temple". Un Temple qui se trouve à Rosebank, au nord de Byron Bay.
+Après l'Arts Factory, je suis parti au Rainbow Temple avec Alex, un Franco-Allemand.
+En route, nous nous sommes arrêtés nous baigner dans plusieurs chutes d'eau magnifiques, puis sommes descendus au grand marché de Channon.
+Au marché, nous avons cherché quelqu'un qui pourrait nous indiquer le Rainbow Temple — un temple situé à Rosebank, au nord de Byron Bay.
 
-Ce Temple est un lieu très particulier. Vous ne trouverez aucune brochure, ni info dans les livres touristiques. Ce temple n'est connu que par le "bouche à oreille".  
-Vous pouvez y séjourner pour 20$ par jour, avec nourriture comprise, ou encore ne payer que 10$, mais en faisant quelques tâches ménagères, ou encore en préparant les repas. Si vous n'avez vraiment pas d'argent, vous pouvez rester sans payer, mais effectuer des travaux en échange.  
-Lorsque nous sommes arrivés, Guy le gérant, nous a dit que ce qu'il préférait, c'était que l'on paye 10 $, et qu'on l'aide à faire à manger, ou le nettoyage.  
-Il se trouve qu'Alex est Charpentier, alors lorsqu'il a proposé ses services à Guy, il a été vraiment enchanté. Nous avons ainsi travaillé sur le temple, où un des piliers était un peu vieux, et devait être changé.  
-Au temple l'ambiance y est vraiment tranquille. Nous avons passé 1 jour 1/2 à changer ce pilier, qui n'aurait dû nous prendre qu'une seule demie journée de travail en réalité, mais le Rainbow Temple c'est ça, c'est vraiment de vivre tranquille, sans prise de tête, et cela, dans une ambiance familiale.  
-Nous avons ainsi passé 3 jours au Temple, avant de retourner sur Byron Bay.  
-J'ai ensuite pris le bus pour Brisbane, et Alex est parti dans le sud, pour passer le nouvel an prés de Perth.
+Ce temple est un lieu très particulier. Vous n'en trouverez aucune brochure ni aucune info dans les guides touristiques. Il ne se transmet que par le bouche-à-oreille.
+On peut y séjourner pour 20 $ par jour nourriture comprise, ou 10 $ en participant aux tâches ménagères ou à la cuisine. Et si vous n'avez vraiment pas d'argent, vous pouvez rester en échange de travaux.
+
+Quand nous sommes arrivés, Guy le gérant nous a dit qu'il préférait qu'on paye 10 $ et qu'on aide à cuisiner ou à nettoyer.
+Alex étant charpentier, il a proposé ses services et Guy était ravi. Nous avons donc travaillé sur le temple : l'un des piliers était vieux et devait être changé.
+
+Au Rainbow Temple, l'ambiance est vraiment tranquille. Nous avons passé un jour et demi à changer ce pilier — travail qui n'aurait dû prendre qu'une demi-journée — mais c'est ça, le Rainbow Temple : vivre tranquillement, sans prise de tête, dans une ambiance familiale.
+
+Nous avons passé trois jours au temple avant de retourner à Byron Bay. J'ai ensuite pris le bus pour Brisbane, et Alex est parti vers le sud passer le nouvel an près de Perth.
 
 ### Photos
 
@@ -1694,32 +1630,25 @@ J'ai ensuite pris le bus pour Brisbane, et Alex est parti dans le sud, pour pass
 
 ## </div>
 
-## **Merry Christmas, et Joyeux Noël !**
+## **Merry Christmas et Joyeux Noël !**
 
-Après avoir passé 3 jours de relaxation au Rainbow Temple, nous sommes retournés sur Byron Bay, le jeudi 14 décembre.  
-Je suis, bien sûr, repassé à l'Arts Factory, où j'ai retrouvé mes amis Canadiens. Simon m'a dit qu'ils partaient pour Wood Ford, où un festival de musique aura lieu sur 5 jours, du 27/12 au 2/01. Ils partent là-bas pour travailler aux préparatifs et à l'installation, ainsi, l'entrée aux concerts leur sera offerte en échange.  
-Pour le nouvel an, j'ai prévu d'aller à Sydney, rejoindre Adam, mais auparavant, pour Noël, je vais aller à Brisbane rejoindre des amis, avec qui j'étais en collocation l'an dernier à Dublin en Irlande. Ce sera ainsi le 3ème Noël que nous passerons ensemble.  
-Jeudi matin, j'ai pris le bus pour Brisbane, et je suis retourné au "City Backpacker". Le soir, Jess est venu me chercher, et nous sommes allés chez les parents de Kristy qui organisaient une soirée pour Noël.  
-Cette soirée était une Garden Party pour les employés du père à Kristy.  
-Il y avait un groupe de musique Irlandaise, l'ambiance était très sympathique, malgré que je me sois un peu cru un jour de 14 juillet à l'Elysée.  
-J'ai rencontré quelques-uns des amis d'enfance de Jess et Kristy, car elles se connaissent depuis longtemps.  
-Plus tard, Jess est moi sommes partis jouer de la guitare, au bord de la Brisbane River. Nous n'avions pas joué ensemble depuis Dublin, c'est-à-dire depuis plus de 6 mois.
+Après trois jours de relaxation au Rainbow Temple, nous sommes retournés à Byron Bay le jeudi 14 décembre.
+Je suis bien sûr repassé à l'Arts Factory où j'ai retrouvé mes amis canadiens. Simon m'a dit qu'ils partaient pour Woodford, un festival de musique de cinq jours du 27 décembre au 2 janvier. Ils y vont pour travailler à l'installation — l'entrée aux concerts leur sera offerte en échange.
 
-Le lendemain, je suis parti m'installer chez Kristy. Elle m'a encore très gentiment accueillit, comme elle l'avait déjà fait en juillet, lorsque Rémy et moi venions juste d'arriver en Australie.  
-Je suis resté chez elle 6 jours, et les 6 autres jours chez Jess, ou j'ai passé Noël avec sa famille.  
-Pendant les quelques jours précédant Noël, Kristy, Jess et moi, nous sommes retrouvés pour quelques Pic Nic, Barbecue, et surtout pour jouer de la guitare, ce qui nous a rappelé quelques bons moments Irlandais.  
-Les barbecues à la période de Noël, avec des températures avoisinant les 40C, c'est bien spécifique à l'Australie.  
-Je ne vous cache pas que je n'ai pas du tout l'impression d'être en Décembre, et je ne me rends pas bien compte que bientôt, c'est une nouvelle année qui commence.  
-Comme en Irlande, ici on ne fête pas Noël le 24 au soir, mais le 25 décembre.  
-Toute la famille de Jess s'est retrouvée dans sa maison, d'abord autour du sapin de Noël à l'intérieur, avec la climatisation à fond, car dehors il faisait plus de 40C, et plus tard dans la soirée quand la température était devenue plus supportable, nous sommes allés sur la terrasse, pour un excellent repas que le père de Jess avait cuisiné au Barbecue.  
-Voilà donc mon Noël Australien.
+Pour le nouvel an, j'avais prévu d'aller à Sydney rejoindre Adam, mais d'abord pour Noël, je vais à Brisbane retrouver des amis avec qui j'étais en colocation l'an dernier à Dublin. Ce sera notre troisième Noël ensemble.
 
-Maintenant nous approchons du nouvel an. L'idée du festival de Woodford me trottait dans la tête depuis quelques jours, et j'ai alors décidé de ne pas aller à Sydney. Premièrement parce qu'il est presque impossible de trouver une auberge de jeunesse, et aussi à cause des tarifs des avions, ou des bus qui sont extrêmement élevés.  
-Et puis 5 jours de festival en plein air, avec entre autres, le célèbre Éric Bibb (voir le récit Thala Beach Lodge.) ont suffi à me décider.  
-Je suis donc parti acheter une tente et un matelas, car là-bas, il n'y a que le camping comme solution d'hébergement.  
-Jess et Kristy ont décidées de venir au festival pour quelques jours, Kristy qui à une voiture va donc nous conduire jusqu'à Wood Ford.
+Jeudi matin, bus pour Brisbane, retour à la City Backpacker. Le soir, Jess est venu me chercher et nous sommes allés chez les parents de Kristy pour une soirée de Noël. C'était une garden party pour les employés du père de Kristy — groupe de musique irlandaise, ambiance très sympa. Un peu l'impression d'être un 14 juillet à l'Élysée.
+J'ai rencontré quelques amis d'enfance de Jess et Kristy. Plus tard, Jess et moi sommes allés jouer de la guitare au bord de la Brisbane River — nous n'avions pas joué ensemble depuis Dublin, soit plus de six mois.
 
-Si vous voulez des infos sur le Festival allez faire un tour sur le site web suivant :
+Le lendemain, je me suis installé chez Kristy qui m'a encore très gentiment accueilli, comme elle l'avait fait en juillet. Je suis resté six jours chez elle et six jours chez Jess, où j'ai passé Noël en famille.
+Pendant ces jours, Kristy, Jess et moi nous sommes retrouvés pour des pique-niques, des barbecues et beaucoup de guitare — quelques bons souvenirs irlandais en prime.
+
+Les barbecues à Noël par 40 °C, c'est vraiment typiquement australien. Je n'ai pas du tout l'impression d'être en décembre.
+Comme en Irlande, Noël se fête le 25 au matin et non le 24 au soir. Toute la famille de Jess s'est retrouvée chez elle — d'abord autour du sapin sous la climatisation à fond, car il faisait plus de 40 °C dehors, puis en soirée sur la terrasse pour un excellent repas que le père de Jess avait cuisiné au barbecue. Voilà mon Noël australien.
+
+En approchant du nouvel an, le festival de Woodford me trottait dans la tête. J'ai finalement décidé de ne pas aller à Sydney — impossible de trouver un backpacker, et les tarifs de transport étaient exorbitants. Et puis, cinq jours de festival en plein air avec notamment Éric Bibb, ça valait largement. Je suis donc parti acheter une tente et un matelas.
+
+Jess et Kristy ont décidé de venir pour quelques jours. Kristy, qui a une voiture, nous a conduits jusqu'à Woodford.
 
 [http://www.woodfordfolkfestival.com](http://www.woodfordfolkfestival.com/)
 
@@ -1769,57 +1698,40 @@ Si vous voulez des infos sur le Festival allez faire un tour sur le site web sui
 
 ## **Woodford Folk Festival.**
 
-Que dire d'autre à propos du festival, si ce n'est que c'était "BLOODY WICKED" !!!!!!!!!!!!!!!!!!!! (Traduction : "Trop de la balle" en Aussies.)  
-Whoua ! Si tous mes nouvel-ans pouvaient être comme celui-là, ce serait le vrai bonheur.  
-Pour commencer, Kristy est venue nous chercher chez Jess. Nous avons tassé les sacs dans sa petite voiture, branché le IPod sur le poste de radio, et nous sommes partis, direction Woodford.
+Que dire d'autre, si ce n'est que c'était _bloody wicked_ !!! (Traduction : « trop de la balle » en australien.)
 
-Une fois arrivés, les filles sont parties monter leur tente du côté camping, pour les personnes qui ne restent que quelques jours, et moi, je suis allé au camping destiné à ceux qui restent 5 jours.  
-J'ai commencé par me balader un peu partout, mais je ne trouvais aucun endroit qui me plaisait. Après quelques minutes, guidés par le son délicat provenant de la scène blues, j'ai trouvé LE spot parfait, sur la colline qui surplombe le plateau Blues.  
-J'ai alors monté ma tente pour la 1ère fois. J'ai essayé de voir d'où venait le soleil, mais je n'ai pas pu trouver un endroit assez à l'ombre. Ce n'est pas grave, de toute façon j'ai prévu de me lever tôt, pour profiter des concerts qui commencent chaque jour vers les 10h00, pour finir vers les 1h30 ou 2h00 du mat.
+Kristy est venue nous chercher chez Jess. Sacs tassés dans sa petite voiture, iPod branché sur la radio, direction Woodford.
 
-Une fois ma tente montée, je suis descendu ... à la scène blues, rejoindre Jess and Kristy. Nous avons commencé à écouter un groupe de blues Australien "The Big Easy" qui a gagné plusieurs Awards. Le guitariste était un fan de Stevie Ray Vaughan, ce qui était parfait pour moi. Il a même écrit une chanson sur le défunt musicien.  
-Après ce groupe, toujours à la scène blues, nous avons vu un autre australien "Ash Grunwald". Il interprète ce que j'appelle le nouveau blues, il est seul sur scène, joue de la guitare, et en même temps se sert de ses pieds en guise de percussions.  
-Ça m'a vraiment fait plaisir, de voir une scène remplie d'un public de 13 à 70 ans, qui dansait et appréciait du delta blues, "nouvelle sauce".  
-Le groupe suivant était un genre de style Gospel, avec une chanteuse qui se la jouait un peu, sans en avoir les moyens.  
-Nous sommes donc partis faire un tour sur le site du festival. Mais laissez-moi-vous présenter un peu le Woodford Festival :  
-\- Le festival de Woodford est un événement d'importance Internationale, qui dure six jours et six nuits. Il présente plus de 2000 interprètes, et 400 événements, avec des concerts, danses, ateliers, forum, théâtre de rue, festival de film, classes de comédie, un festival d'enfants, des ateliers d'art , cabarets, et autres événements spéciaux, dont un spectacle de feu.  
-Ce festival comporte des interprètes australiens et Internationaux. Il s'étend sur plus de 140 Hectares, avec plus de 20 scènes, et plus de 150 000 spectateurs.  
-Voilà pour vous donner une petite idée. Il ne faut pas oublier qu'ici c'est l'été, et que le festival se termine par le nouvel an, alors tout cela apporte quelque chose d'assez magique.
+Une fois arrivés, les filles sont parties monter leur tente côté camping courte durée, et moi au camping longue durée. Après avoir cherché sans trouver d'endroit à l'ombre, guidé par le son délicat d'une scène blues, j'ai trouvé le spot parfait sur la colline qui surplombe le plateau Blues. J'ai monté ma tente pour la première fois de ma vie.
 
-Comme souvent en Australie, une ambiance Hippie planait sur le festival. Les gens étaient tous relax, et gentils. Je n'ai pas vu une seule personne en colère pendant les 6 jours, il n'y avait pas un papier au sol, aucune détérioration des structures.  
-Seulement 3 ou 4 policiers se baladaient tranquillement. La plupart des stands pour la nourriture étaient Biologiques. Tous recyclaient leurs déchets, et il n'y avait pas de stand de multinationales, telles que Mc Donalds et compagnie. L'Australie est un autre pays pour nous Européens, mais parfois je me demande si ce n’est pas carrément un autre monde.
+Puis direction la scène blues avec Jess et Kristy. Premier groupe : _The Big Easy_, un groupe blues australien multi-récompensé. Le guitariste est clairement un fan de Stevie Ray Vaughan — parfait pour moi. Il a même écrit une chanson en hommage au défunt musicien.
+Ensuite, _Ash Grunwald_ — ce que j'appelle le nouveau blues. Seul sur scène, guitare et percussions avec les pieds. Un vrai bonheur de voir une scène remplie d'un public de 13 à 70 ans qui danse et apprécie du delta blues sauce nouvelle génération.
 
-Donc, après notre petite balade découverte du Village du festival, nous sommes partis vers la scène appelée le Big Top, où il y avait un groupe de musique Africaine "Afro Dizzi Act ".  
-Ensuite, tout le monde s'est rapproché de l'Amphithéâtre pour la cérémonie d'ouverture du Festival, dans un spectacle de jeux de lumières, et de marionnettes géantes.
+Permettez-moi de vous présenter le festival :
+Le Woodford Folk Festival est un événement d'envergure internationale sur six jours et six nuits, avec plus de 2 000 interprètes et 400 événements — concerts, danses, ateliers, forum, théâtre de rue, festival de film, cours de comédie, festival enfants, ateliers d'art, cabarets, et un spectacle de feu. Plus de 20 scènes sur 140 hectares, avec 150 000 spectateurs.
 
-Et le moment tant attendu est arrivé très vite, un peu avant 20h00, direction la scène Blues, pour assister à la performance musicale de "Éric Bibb". Pour ceux qui ne le connaissent pas, et il en reste encore, Éric Bibb est un guitariste, chanteur de blues, américain, exilé en Angleterre. Il joue ce que j'aime appeler, du "Happy Blues".  
-Seul sur scène, il s'habille simplement, et porte un chapeau. Il n'a pas besoin de plus, vu la forte présence qu'il a sur scène.  
-Tous les spectateurs ont été embarqués sur un bateau appelé Love ("A Ship Called Love», titre de son dernier album), conduit par les magnifiques mélodies jouées en figerpicking sur sa guitare acoustique, et surtout, bercés par sa voix de velours.  
-L'avantage des festivals comme celui-ci, c'est que le public ne se presse pas pour arriver au concert, j'ai donc pu m'installer idéalement juste devant la scène, et apprécier au maximum les 2h00 de cet excellent concert. (Voir photos.)  
-Pour plus d'infos sur Éric Bibb, allez faire un tour sur son site web : [http://www.ericbibb.com](http://www.ericbibb.com/).
+Une ambiance hippie planait sur tout le festival. Gens relax et gentils, pas un papier par terre, aucune dégradation, trois ou quatre policiers en balade. Stands bio, tri des déchets, pas de multinationales. L'Australie est un autre pays — parfois je me demande si ce n'est pas un autre monde.
 
-Après Éric Bibb, direction la scène Concert, pour écouter "Ember Swift" un groupe Canadien qui joue un mélange de folk, jazz, funk, punk, pop, classical, et reggae, sur des textes plus ou moins engagés. Ils sont trois très bons musiciens sur scène, dont une fille qui joue de la basse et du violon.  
-Pour finir cette 1ère soirée retour, a la scène blues pour écouter "Mia Dyson" une Australienne de 22 ans qui joue du blues rock sur guitare électrique, guitare steel, guitare slide et acoustique guitare super énergique sur scène c'est une belle découverte.
+Après notre balade découverte, direction le Big Top pour _Afro Dizzi Act_, puis l'amphithéâtre pour la cérémonie d'ouverture — jeux de lumières et marionnettes géantes.
 
-Les jours suivants ont été du même niveau, j'ai revu Éric Bibb 3 fois, et à chaque passage, il y avait de plus en plus de monde, grâce à l'effet de bouche à oreille du festival.  
-Tout au long du festival j'ai multiplié les concerts, et j'ai pu découvrir des dizaines de groupes, que je ne manquerai pas de revoir si l'occasion se présente.
+Et le moment tant attendu : un peu avant 20h00, scène Blues pour _Éric Bibb_. Pour ceux qui ne le connaissent pas, Éric Bibb est un guitariste-chanteur de blues américain exilé en Angleterre. Il joue ce que j'appelle du _Happy Blues_. Seul sur scène, simplement habillé avec un chapeau — une présence immense. Tous les spectateurs ont été embarqués par ses mélodies en fingerpicking et sa voix de velours. Deux heures de concert installé juste devant la scène. Voir son site : [http://www.ericbibb.com](http://www.ericbibb.com/).
 
-Voici une liste de quelques-uns d'entre eux, que j'ai particulièrement apprécié, et que je vous recommande d'aller voir s'ils passent en concert près de chez vous :  
-\- The Audreys, Jodi Martin, Fruit, Bomba, Josh Owen Band, The Kate Fagan Band, Jess McAvoy, The Dirty Three, etc...
+Ensuite, direction la scène Concert pour _Ember Swift_, un groupe canadien mêlant folk, jazz, funk, punk, pop, classique et reggae — trois très bons musiciens dont une fille à la basse et au violon.
+Pour finir la soirée, retour à la scène blues pour _Mia Dyson_, une Australienne de 22 ans qui joue du blues-rock en solo sur guitare électrique, steel guitar et slide. Super énergique — belle découverte.
 
-Le soir du nouvel an, tous les groupes qui jouaient ont été vraiment généreux par le spectacle qu'ils nous ont offerts, et surtout "Ember Swift" qui a produit une prestation incroyable surement, portés par la magie de ce festival. Il est vrai que les artistes ont tous été séduits par l'ambiance extraordinaire qu'il y régnait.
+Les jours suivants ont été du même niveau. J'ai revu Éric Bibb trois fois — à chaque passage, la foule grandissait. J'ai découvert des dizaines de groupes, dont je vous recommande quelques-uns si l'occasion se présente : _The Audreys_, _Jodi Martin_, _Fruit_, _Bomba_, _Josh Owen Band_, _The Kate Fagan Band_, _Jess McAvoy_, _The Dirty Three_...
 
-Entre 2 concerts, nous nous retrouvions dans l'atmosphère chaleureuse de la "Chai tente", où de jeunes artistes performaient, ou lors d'ateliers tels que des cours d'harmonica, de Yoga, ou encore pour des conférences sur des sujets aussi variés que la musique, l'environnement, etc...
+Le soir du nouvel an, les groupes se sont surpassés — surtout Ember Swift, portés par la magie du festival. Entre deux concerts, l'atmosphère chaleureuse de la tente chai pour des performances d'artistes ou des ateliers (harmonica, yoga, conférences sur la musique, l'environnement...).
 
-A la fin du festival, j'ai pris le Bus, puis le train pour Brisbane, car Kristy et Jess étaient parties quelques jours plus tôt.  
-Une fois de plus, je suis retourné au City Backpacker, mais je n'ai pu payer qu'une seule nuit, à cause de ma carte Visa, que je n'avais pas utilisée depuis 4 mois, et qui a été détruite par la banque, car la Caisse d'épargne l'a annulée, suite à trois erreurs de code Pin. . .  
-Voilà comment on se retrouve à l'autre bout du monde avec 45 cents en poche, et aucune autre possibilité de retirer de l'argent sur mon propre compte, pourtant bien approvisionné par mes salaires, et la vente de mon Van.  
-Je me suis vraiment vu dormir sous les ponts, au milieu des clochards du coin.
+À la fin du festival, bus puis train pour Brisbane, Kristy et Jess étant reparties quelques jours plus tôt.
 
-Au passage, le slogan de la caisse d'épargne c'est : "Et si une banque vous aidait à vivre mieux " ? ? ? No Comment...
+De retour à la City Backpacker, je n'ai pu payer qu'une nuit — ma carte Visa avait été désactivée par la Caisse d'Épargne suite à trois erreurs de code PIN. Me voilà à l'autre bout du monde avec 45 centimes en poche, sans accès à mon compte pourtant bien approvisionné. J'ai vraiment cru que j'allais dormir sous les ponts.
 
-En fin de compte, j'ai, une fois encore, dû faire appel à mon père, qui m’a envoyé de l'argent par la Western Union. Le seul problème, c'est qu'avec le décalage horaire, les agences en France ouvrent, quand celles d'Australie ferment. J'ai eu la chance, une nouvelle fois, de tomber sur quelqu'un de super aimable à l'agence. Il est resté pour moi jusqu'à 20h00, au lieu de 18h00, pour me permettre de recevoir l'argent venant de France.  
-Mais comme je n'avais plus de carte de crédit, je n'ai pas pu réserver d'avion sur le net, ce qui m'a fait perdre 3 jours. J'ai dû demander à Jess et Kristy si je pouvais rester chez l'une d'elles pour quelques jours. Jess qui était seule chez elle pour la semaine a donc pu m'accueillir, le temps que je réserve mon billet pour Sydney, ma prochaine destination.
+Au passage, le slogan de la Caisse d'Épargne : _« Et si une banque vous aidait à vivre mieux ? »_ No comment.
+
+J'ai une nouvelle fois fait appel à mon père, qui m'a envoyé de l'argent via Western Union. Le décalage horaire compliquait les choses, mais un agent vraiment aimable est resté jusqu'à 20h00 pour me permettre de recevoir le virement.
+
+Sans carte de crédit, impossible de réserver un billet en ligne — j'ai donc dû demander à Jess si je pouvais rester quelques jours chez elle, le temps de tout réserver pour ma prochaine destination : Sydney.
 
 ### Photos
 
@@ -1863,78 +1775,57 @@ Mais comme je n'avais plus de carte de crédit, je n'ai pas pu réserver d'avion
 
 ## </div>
 
-## **SYDNEY !**
+## **Sydney !**
 
-J'ai passé 2 jours chez Jess ce qui m’a permis d'aller au Flight Center, où j'ai pris un billet pour Sydney avec Virgin Blue, une des compagnies low cost d'Australie.  
-Lorsque je suis revenu de Cairns, mes bagages pesaient beaucoup trop lourd. J'ai alors décidé de laisser quelques affaires dont je ne me sers jamais chez Jess, car je devrais revenir à Brisbane prendre mon avion pour mon retour en France, en Juin - Juillet.  
-Jess m'a gentiment accompagnée à l'aéroport, ce qui m'a évité de prendre le bus avec mon sac à dos, ma guitare, et ma petite valise à roulettes.
+J'ai passé deux jours chez Jess pour aller au Flight Centre prendre un billet pour Sydney avec Virgin Blue, une des compagnies low-cost australiennes.
+En revenant de Cairns, mes bagages pesaient beaucoup trop lourd. J'ai décidé de laisser quelques affaires chez Jess, puisque je dois revenir à Brisbane en juin-juillet pour prendre mon vol retour en France.
+Jess m'a gentiment accompagné à l'aéroport — ce qui m'a évité le bus avec sac à dos, guitare et valise à roulettes.
 
-Après 2h30 de vol, je suis arrivé à Sydney. J'ai pris le train, puis le Ferry pour aller à Menly, ou je devais retrouver Adam.  
-Le Ferry passe juste devant le célèbre Opéra House de Sydney. C'est sans doute à cause du mauvais temps qu'il faisait à Sydney, mais ce jour-là, je n'ai pas trouvé ce bâtiment si beau que ça. J'ai tout de même pris des photos, car c'est un symbole Australien incontournable.
+Après deux heures et demie de vol, arrivée à Sydney. Train puis ferry pour Manly, où je devais retrouver Adam. Le ferry passe juste devant l'Opéra House — par temps gris, ce jour-là, je ne l'ai pas trouvé si beau que sa réputation. J'en ai quand même pris des photos : c'est un symbole incontournable.
 
-Arrivé à Menly, Adam est venu me chercher, et nous sommes partis en ville pour trouver un Backpacker. Adam, qui a toujours son van, dors chez un ami qui a une maison au bord de la plage. J'ai trouvé un Backpacker au centre-ville, à 5 minutes de la plage, qui coute 30$ la nuit. Il n'y a même pas de prise de courant dans la chambre pour recharger les batteries du téléphone, ou de l'appareil photo!!! Malgré tout, j'ai réservé pour le week-end, ce qui me donne le temps de visiter la ville.  
-Et bien Menly, c'est Nul. A part la plage avec les surfeurs qui "se la jouent" y'a rien ! Un pauvre Pub avec des écrans télé de partout, et des restaurants.  
-L'ambiance de vie n'est pas agréable du tout, la population et plutôt "bourge".  
-C'est à qui portera les plus chers vêtements, Quicksilver ou Billabong, et la voiture la plus "bof".  
-Après avoir passé le week-end à Menly, je suis allé à Bondi, rejoindre une copine que j'ai rencontrée au festival de Woodford. Elle m'a accueillie chez elle, ce qui m'à, par conséquent, fait économiser des nuits en Backpacker.  
-Bondi est une ville beaucoup plus sympa. Les gens sont plus relax et moins "Show Off". La ville est un peu plus grande et la plage beaucoup plus belle.  
-Ma copine m'a fait visiter les environs. Il y a une balade très sympa à faire le long de la cote, de la plage, puis sur les falaises qui surplombent la mer.
+Arrivé à Manly, Adam est venu me chercher. Il dort chez un ami qui a une maison en bord de mer. J'ai trouvé un backpacker en centre-ville à 30 $ la nuit. Pas même une prise de courant dans la chambre — mais j'ai réservé pour le week-end.
 
-Comme je n'avais pas pu avoir plus de 300$ lors du 1er transfert d'argent, j'ai dû redemander à mon père de me faire un virement, mais cette fois plus important, car je suis moins pressé de recevoir cet argent que l'autre fois ou c'était vital pour moi, et je peux aller dans une vraie agence Western-Union, et non dans un bureau de presse, dans lequel, je le rappelle au passage, le gérant m'avait vraiment bien aidé en acceptant d'attendre jusqu'à 20h00 que le transfert soit fait.
+Honnêtement, Manly, c'est décevant. Mis à part la plage et ses surfeurs qui font les beaux, il n'y a pas grand-chose. Un pub avec des écrans partout et des restaurants. La population est plutôt bourge — à qui aura le vêtement le plus cher et la voiture la plus voyante.
 
-Je n'ai finalement passé que 2 jours chez mon amie, car ne la connaissant que depuis quelques jours, je n'ai pas voulu abuser de son hospitalité, même si elle m'a dit que je pouvais rester tant que je voulais. . .
+Après le week-end à Manly, je suis allé à Bondi retrouver une amie rencontrée à Woodford. Elle m'a accueilli chez elle — économie de backpacker appréciable.
+Bondi est bien plus sympa. Les gens sont plus détendus, moins _show-off_. La ville est plus grande, la plage bien plus belle. Elle m'a fait visiter les environs — une balade très sympa le long de la côte, entre la plage et les falaises qui surplombent la mer.
 
-D'un autre côté, j'avais envie de passer quelques jours au centre de Sydney, car c'est quand même la plus grande ville d'Australie, et c'aurait été dommage de ne pas la visiter, surtout que je pense qu'il y a beaucoup à faire, et à voir.
+Comme je n'avais pu récupérer que 300 $ lors du premier transfert, j'ai redemandé un virement à mon père. Cette fois sans urgence, j'ai pu passer dans une vraie agence Western Union.
 
-Je suis donc parti mercredi pour le centre-ville, j'ai trouvé un Backpacker bien situé qui ne coûtait que 23$ la nuit.  
-Quelques jours plus tôt, Verena, une des Allemandes que Rémy et moi avions rencontrées à Harvey Bay, m'a envoyé un message pour la nouvelle année. Elle m'a dit qu'elle allait en direction de Sydney. Je lui ai donc envoyé un SMS, et il se trouve qu'elle arrive aujourd'hui même sur Sydney. Nous nous sommes donc retrouvés au même Backpacker.
+Après deux jours chez mon amie, je suis parti vers le centre-ville pour visiter vraiment Sydney.
 
-Nous avons été nous balader dans le China Town, où elle a pris un Bubble Tea.  
-C'est un thé chinois avec des boules gélatineuses que l'on boit avec une grosse paille. Ce n'est pas mauvais, mais assez particulier... (Voir photo) Après cela, nous sommes partis vers Darling Harbour, ou nous avons vu un spectacle de Digeridoo. Nous sommes aussi passés dans une exposition de meubles, qui en fait était une sorte de foire au meuble, mais où il n'y avait personne. Nous avons passés 1 heure à essayer les bureaux de ministres, les nouveaux canapés, les lits et les fauteuils nouvelle génération, etc... On s'amuse vraiment parfois follement avec rien. . .
+J'ai trouvé un backpacker bien placé pour 23 $ la nuit. Et ce jour-là, Verena, une des Allemandes rencontrées à Hervey Bay, m'a envoyé un message de bonne année en précisant qu'elle arrivait à Sydney. Nous nous sommes retrouvés dans le même backpacker — quelle coïncidence.
 
-En fin d'après-midi, nous avons été au Jardin Botanique, et nous avons trouvé un cinéma en plein air qui coûtait 22$ la séance, mais en faisant le tour, nous avons déniché un rocher bien placé qui nous permettait de voir le film gratuitement.  
-Mais un peu avant que le film ne commence, un orage a éclaté, et nous nous sommes retrouvés trempés jusqu'aux os en 5 minutes. Nous sommes alors rentrés au Backpacker sous la pluie.
+Nous sommes allés nous balader en Chinatown où elle a pris un _bubble tea_ — thé chinois avec des billes gélatineuses, goût particulier (voir photo). Puis Darling Harbour pour un spectacle de didgeridoo. Nous nous sommes glissés dans une exposition de meubles — une foire au salon déserte — et avons passé une heure à tester des bureaux de ministre, canapés dernier cri, lits et fauteuils nouvelle génération. On s'amuse vraiment de pas grand-chose parfois.
 
-Le lendemain, nous avons continué à visiter la ville, et le soir, comme il faisait beau, nous sommes retournés au cinéma en plein air, où nous avons pu voir le film en entier.
+En fin d'après-midi, le Jardin Botanique, puis un cinéma en plein air à 22 $ la séance. Mais en faisant le tour, nous avons déniché un rocher bien placé pour voir le film gratuitement. Un orage a éclaté juste avant que ça commence — trempés en cinq minutes, nous sommes rentrés sous la pluie.
 
-Samedi, nous sommes allés au Power House muséum, c'est un musée des inventions qui retrace les plus grandes inventions de l'histoire Internationale, et plus particulièrement Australienne.  
-Je vous propose de regarder mes photos et vidéos, car la plupart de ces inventions fonctionnent. J'ai filmé quelques machines à vapeur très intéressantes, et il y avait aussi une Guitare bien marrante.
+Le lendemain, suite de la visite, et le soir par beau temps, retour au cinéma en plein air — le film en entier cette fois.
 
-Après ça, Verena est retournée à l'auberge, mais moi je suis parti voir ce fameux Opéra House de plus près, et par beau temps.  
-J'ai alors trouvé cet édifice plus beau que lors de mon 1er passage sous la pluie. C'est finalement une belle Architecture qui arrive à se marier harmonieusement avec les immeubles, le parc, le pont (Harbour Bridge) et la mer qui l'entoure.
+Samedi, le Powerhouse Museum — musée des inventions retraçant les grandes découvertes internationales et australiennes. La plupart des machines fonctionnent. J'ai filmé quelques machines à vapeur fascinantes, et même une guitare insolite.
 
-Pour rentrer à l'auberge, j'ai emprunté le parc et le jardin botanique, et j'ai trouvé un endroit où les arbres étaient remplis de chauves-souris géantes. J'ai pris quelques photos de ces "vampires" faisant la sieste la tête en bas, en attendant la nuit pour s'envoler.  
-Au fil de ma balade dans le parc, je suis aussi passé près d'une scène de concert.
+Après ça, Verena est rentrée à l'auberge et moi je suis allé voir l'Opéra House de plus près, cette fois par beau temps. Je l'ai trouvé bien plus beau que sous la pluie — une belle architecture qui s'harmonise avec les immeubles, le parc, le Harbour Bridge et la mer.
 
-Le soir même nous y sommes allés, et nous avons assisté à un concert gratuit, dans le cadre du festival de Sydney. Le concert a commencé avec un groupe de Jazz new Orléans, je ne suis pas trop fan, mais ensuite, il y avait un groupe de musique Jazz zydeco mélangeant musique Cajun, reggae, et blues. Il y avait vraiment beaucoup de monde. Le public était venu très tôt pique-niquer au parc, mais le soir venu, tout le monde s'est mis à danser.  
-Comme d'habitude, et bien que nous soyons à Sydney, il n'y a eu aucun débordement. Tout le monde était respectueux des artistes et des autres spectateurs, et l'organisation parfaite. On s'habitue vite à la qualité des événements Australiens...
+En rentrant par le jardin botanique, j'ai découvert des arbres couverts de chauves-souris géantes. Photos de ces vampires faisant la sieste tête en bas. Plus loin, une scène de concert en plein air — nous y sommes retournés le soir.
 
-Mardi je suis passé dans une agence pour prendre mon billet d'avion, car je ne peux pas le réserver en ligne, vu que je n'ai plus de carte de crédit. . . L'agence avait un problème informatique, et je n'ai pas pu prendre mon billet pour Melbourne.
+Concert gratuit dans le cadre du festival de Sydney : d'abord un groupe de jazz nouvelle-Orléans, puis un groupe de jazz-zydeco mêlant cajun, reggae et blues. Beaucoup de monde — tout le monde dansait. Comme toujours, pas de débordements. On s'habitue vite à la qualité des événements australiens.
 
-Le soir, j'ai regardé sur leur site, il y avait encore des places, mais le lendemain, lorsque je suis retourné à l'agence, il ne restait des billets que pour samedi. Je dois donc rester 4 jours de plus à Sydney.
+Mardi, je suis passé à une agence pour mon billet vers Melbourne — problème informatique, impossible de le prendre. Le lendemain, plus que des places pour samedi. Quatre jours de plus à Sydney.
 
-Verena qui part pour la Nouvel Zélande reste jusqu'à jeudi. Nous avons donc passé 2 jours de plus à visiter la ville.  
-Malheureusement, le temps n'était pas avec nous, il n'a pas arrêté de pleuvoir.  
-Cela limite les activités gratuites, nous avons pu aller un autre soir au Cinéma en plein air, et aussi à l'Art Gallery qui n'était, au passage, vraiment pas très intéressante.
+Verena part pour la Nouvelle-Zélande jeudi. Nous avons encore deux jours de visite sous la pluie — cinéma en plein air et l'Art Gallery (pas très intéressante).
 
-Le reste du temps, nous sommes restés à l'auberge où il y a une bonne ambiance cette semaine. Beaucoup de voyageurs commencent leur visite de l'Australie par Sydney, et c'est un plaisir de discuter avec des personnes qui découvrent les joies du voyage et de la découverte.  
-L'auberge est surtout sympa parce que c'est une des moins chers de la ville, et elle n'est pas dans le quartier de King Cross qui se trouve être "le Bronx" de Sydney.
+Le reste du temps à l'auberge. Bonne ambiance cette semaine — beaucoup de voyageurs qui débutent leur découverte de l'Australie par Sydney. Sympa de discuter avec eux.
 
-Le côté beaucoup moins sympa, c'est que quelqu'un a ramené dans ses bagages des "Bed Bugs", qui sont une sorte de petits acariens qui se cachent dans les lits, et vous piquent tout le long du corps pendant la nuit. Le Gérant de l'auberge est venu passer du produit pour les éliminer, mais nous sommes déjà quelques-uns à avoir des petits boutons partout, et ça gratte !!!!
+Le côté moins sympa : quelqu'un a ramené des _bed bugs_ dans ses bagages — petits acariens qui se cachent dans les lits et vous couvrent de boutons pendant la nuit. Le gérant est venu traiter, mais nous sommes déjà quelques-uns à gratter.
 
-Le beau temps est revenu les deux derniers jours, j'ai pu en profiter pour visiter encore un peu la ville.  
-Je suis allé dans le quartier appelé "The Rock", c'est un coin vraiment sympa qui m'a rappelé l'Irlande. Fini les grattes ciels de partout, les voitures dans tous les sens qui roulent à toute allure. Ici, il n'y a que des petits immeubles. Les rues sont plus petites, avec des magasins, des galeries d'art, des petits "Pubs" ouvert sur la rue, et avec de la musique live.  
-Il y a aussi une très belle vue de l'opéra House. J'ai d'ailleurs pris une très belle photo de nuit.  
-Je suis aussi retourné au Botanic Garden, où j'ai trouvé un endroit avec des dizaines de perroquets blanc qui viennent vous manger dans la main.  
-Je suis aussi retourné ou j'ai vu toutes les chauves-souris dormir, mais cette fois, j'y suis allé à la tombée de la nuit pour les voir se réveiller.  
-Il y en a des milliers dans le ciel, et elles sont vraiment impressionnantes par leur taille.
+Les deux derniers jours de beau temps ont permis de visiter un peu plus.
+Le quartier _The Rocks_ — très sympa, qui m'a rappelé l'Irlande. Petits immeubles, rues à taille humaine, galeries d'art, petits pubs ouverts sur la rue avec musique live. Belle vue sur l'Opéra House — j'ai même pris une très belle photo de nuit.
+Retour au Botanique pour les perroquets blancs qui mangent dans la main. Et au crépuscule, revoir les chauves-souris se réveiller — des milliers dans le ciel, vraiment impressionnantes par leur taille.
 
-Vendredi soir, avec Adam, nous sommes sortis, et nous avons été au Pub L'Orient, dans le quartier The Rock. Il y a dans ce quartier, des pubs de tous les pays. Irlandais, Allemands, etc... Le soir en rentrant, j'ai longé le port d'où j'ai pu observer l'Opéra. Pas mal pour finir une bonne soirée.
+Vendredi soir, sortie avec Adam au pub The Orient dans The Rocks. En rentrant, j'ai longé le port pour admirer l'Opéra illuminé. Pas mal pour finir une bonne soirée.
 
-Samedi à 2h00, j'ai pris le bus pour l'aéroport, puis à 4h00, j'ai sauté dans mon avion, direction Melbourne.  
-Maintenant que je suis là, je vais devoir trouve un boulot au plus vite, car il ne me reste que 400$ en poche, et je n'ai toujours pas reçu ma carte bancaire...  
-J'ai beaucoup misé sur Melbourne, parce que depuis 6 mois, tout le monde ne m'en dit que du bien.  
-Il parait que c'est une ville multiculturelle, où la culture en général, est beaucoup plus présente. Vais-je trouver quelques personnes avec qui je pourrai faire de la musique ? C'est un peu mon souhait, mais on verra bien ce que la vie m'apportera...
+Samedi à 2h00, bus pour l'aéroport. À 4h00, dans l'avion direction Melbourne.
+À Melbourne, il va falloir trouver un boulot rapidement — il ne me reste que 400 $ et je n'ai toujours pas reçu ma nouvelle carte bancaire. Tout le monde m'a dit le plus grand bien de Melbourne depuis six mois. Vais-je y trouver des musiciens avec qui jouer ? C'est mon espoir — on verra ce que la vie m'apportera.
 
 ### Photos
 
@@ -1994,448 +1885,369 @@ Il parait que c'est une ville multiculturelle, où la culture en général, est 
 
 ## **Melbourne, Victoria.**
 
-Après le Queensland puis New South Wales, me voilà dans un nouvel état d'Australie, Victoria.  
-C'est le plus petit des Etats australiens (la Tasmanie exceptée). Cet Etat connaît quatre saisons comme en Europe, et les maisons style vieille Europe prêtent au Victoria une atmosphère toute anglaise.  
-Melbourne, la capitale de l'état de Victoria fut, de 1901 à 1927, la capitale du Commonwealth.  
-Place financière et foyer culturel, Melbourne fut aussi, en 1956, le temple du sport, en accueillant les Jeux olympiques.  
-Le centre-ville rectangulaire est un mélange de bâtiments gothiques et victoriens, sur fond de quelques buildings de verre et d'acier.  
-En matière d'art, Melbourne est indiscutablement la capitale de l'Australie.  
-C'est ici que se trouve le Victorian Arts Centre, coiffé d'une sorte de mini tour Eiffel rachitique que les Melbourniens qualifient de cornet de glace renversé.  
-Pour arriver, il m'a fallu 1h30 de vol avec la Qantas Airlines. Ce n'est pas une compagnie Low Cost, alors on a droit à un snack, et ils passent même des films.  
-Arrivé à Melbourne à 18h00, je vais prendre un ticket de bus pour la ville.  
-La femme assez désagréable oublie de me demander ou le chauffeur doit me déposer, je me suis dit qu'il fallait lui dire dans le bus. Je paye 20$, et attends le bus. Je vois alors une autre compagnie à 15$. Le bus arrive, j'embarque, et je dis au chauffeur que je veux aller au Eildon Mansion, un Backpacker que l'on m’a recommandé déjà 2 fois. Le chauffeur me dit qu'il ne dessert pas cette partie de la ville, et qu'il peut me laisser à un arrêt de tram. Un peu énervé d'avoir payé 20$ pour être déposé devant l'auberge, et de devoir prendre le tram, je demande au chauffeur de me laisser à une autre auberge de la ville.  
-Il me conduit au Flinders hôtel, en centre-ville, et me donne un bon pour une nuit gratuite.  
-A la réception, la personne me dit que je dois prendre 3 nuits, pour bénéficier du bon de réduction. Après un rapide calcul, j'accepte, car cela me fait la nuit à 19$ au lieu de 25$, et je ne trouverai pas une autre auberge à moins de 19 $.  
-Je m'installe dans la chambre de 8 personnes, où il y a 2 coréens, et bien sûr, des allemands.  
-Je pars faire un tour en ville pour découvrir Melbourne, il est 19h30.  
-En remontant Elizabeth Street, je vois un café internet avec un panneau, "Staff Wanted", je rentre, et demande s'ils cherchent toujours du Staff. Le gérant du magasin me dit qu'il cherche toujours, et qu'il a un bon feeling avec moi. Il me propose de revenir à 20h30 pour m'expliquer plus en détails.  
-Voilà à peine 2 heures que mon avion a atterrit, et j'ai déjà trouvé un boulot. Quel record !  
-Vu qu'il ne me reste que 300$ en poche, ce job va me permettre de vivre, et peut-être d'avoir le temps de chercher un autre travail, si celui-là ne me plait pas.  
-Apres le rendez-vous de 20h30 il me dit que je commence lundi à 13h00, pour un training de 4h00 avec Kara, une canadienne.  
-De retour à l'auberge qui est une vraie usine, 11 étages, une salle de concert au sous-sol, un bar au 1er, et je ne sais combien de personnes. Je me pose dans la salle commune pour écrire mon journal.  
-A cote de moi, il y a une fille qui écrit aussi son journal, et nous commençons à discuter. Elle me dit qu'elle a acheté une guitare il y a 5 jours. Elle s'appelle Alisja, et viens de Russie (Kurdistan). Elle voyage en Australie depuis 1 an déjà, et compte rester ici encore un an.  
-Nous décidons de trouver un coin tranquille, pour jouer, mais ici, ce n'est pas l'Arts Factory de Byron bay, nous sommes en plein centre-ville.  
-Nous essayons de jouer au fond de la salle internet, mais ça ne le fait pas, alors nous descendons dans la rue, et commençons à jouer à l'extérieur.  
-Je lui apprends "No Woman No Cry" de Bob Marley.  
-Mais nous n'avions pas pensé que nous étions Samedi soir, et vers minuit, la rue s'est couverte de monde, plus ou moins sobre, et notre jam session s'est vite transformée en busking. Les passants sont venus chanter et jouer avec nous, et au bout d'une heure, nous avions fait 30$, bien que nous leur ayons dit que nous n'étions pas là pour busker, mais que c'était le seul endroit que nous avions trouvé pour jouer de la guitare.  
-Quand tout le monde dépense de l'argent le samedi soir dans l'alcool, nous, nous en gagnons en jouant de la guitare, c'est beau la vie.  
-A 3h00 du mat, nous avons compté notre argent, et nous avons été mangés un bout avec cette contribution inattendue.  
-Dimanche, Alija et moi sommes parti à la plage de St Kilda, avec le vieux tram gratuit de Melbourne. Ici il y a plein de trams en ville, dans tous les sens. C'est bien plus sympa que les métros grisâtres sous terre.  
-Lundi je suis allé au café internet à 13h00, pour mes 4h00 de tests. Eddie le gérant n'était pas là, car il fait des études de droit dans le Queensland. Pour le remplacer il y avait ses parents qui eux n'étaient pas du tout au courant de mon arrivée. J'ai tout de même fait mes 4h00 de tests, avec Kara la canadienne.  
-Elle m'a montré comment faire les Smoothies, jus de fruits, etc. Que je dois faire aussi dans mon boulot. Vers 15h00 elle est partie, et c'est Paul qui l'a remplacé. Il m’a expliqué ce qui concerne l'informatique. A 16h00, il est parti aussi, et un Suédois est venu le remplacer. Il avait acheté un nouveau PC, et m'a demandé si je pouvais me débrouiller seul. J'ai donc travaillé seul, ce qui a été un bon test, et une bonne auto formation pour moi. Il était néanmoins à coté, au cas où j'ai besoin d'aide.  
-Un peu avant 17h00, le père d'Eddie est revenu. Contrairement à Eddie, je n'ai pas un très, très bon feeling avec lui. Il a été plutôt désagréable et froid, mais après tout, ce n’est pas lui mon patron.  
-Avant de partir, je lui ai demandé quand je devais revenir, et il m'a dit :  
-"ce n’est pas tes affaires, quelqu'un t'appellera", je connais la chanson...  
-Alors j'ai appelé Eddie qui m’a dit de voir demain les horaires disponible.  
-Le lendemain comme d'habitude personne n'était au courent et on me dit de revenir Jeudi car le manager sera là.  
-Tout c'est événement me décourage un peu surtout que toutes les personnes qui recherche un emploi que j'ai rencontré mon dit que ce n'était vraiment pas facile en ce moment.  
-Effectivement je n'ai vu aucune autre offre d'emplois en ville et j'ai envoyé près de 10 cv a des agences mais aucune ne m’a répondu ou pour me dire qu'ils avaient trop de demande et que cela prendrais du temps.  
-J'ai tout de même paye d'avance ma chambre à l'auberge pour 1 semaine afin d'être sûr de ne pas dormir dans la rue. A présent il ne me reste que 50$ que je vais garder pour acheter à manger pour la semaine.
+Après le Queensland puis la Nouvelle-Galles-du-Sud, me voilà dans un nouvel État : le Victoria.
+C'est le plus petit des États australiens (Tasmanie exceptée), avec quatre saisons comme en Europe. Les maisons de style victorien lui prêtent une atmosphère toute anglaise.
+Melbourne, capitale du Victoria, fut de 1901 à 1927 la capitale du Commonwealth d'Australie. Place financière et foyer culturel, elle accueillit les Jeux olympiques en 1956. Le centre-ville, aux bâtiments gothiques et victoriens ponctués de quelques tours de verre, est indiscutablement la capitale culturelle de l'Australie — avec notamment le Victorian Arts Centre coiffé d'une flèche que les Melbourniens comparent à un cornet de glace renversé.
 
-Si je n'ai pas de travail Mardi prochaine je n'aurai plus un sous et il me faudra alors trouver un moyen de retourne sur Brisbane pour prendre mon avion de retour en France, ce sera la fin de mon aventure Australienne.
+Après 1h30 de vol avec Qantas, arrivée à Melbourne à 18h00. Bus pour la ville — une femme assez désagréable oublie de me demander ma destination. Je paye 20 $, monte dans le bus, et le chauffeur m'apprend qu'il ne dessert pas le quartier de l'Eildon Mansion. Il me dépose devant le Flinders Hotel en centre-ville et me donne un bon pour une nuit gratuite.
 
-Mercredi je suis allé faire un tour autour du stade de Melbourne ou se déroule en ce moment l'Open de tennis d'Australie. Je n'ai pu voir que les alentours car le prix des billets est exorbitant.  
-Pour retourner à l'auberge je suis passe par un Park et je suis tombe sur le Bowl Stage, c'est une scène de concert en plein air permanente. Il n'y avait pas de concert mais c'était ouvert alors je me suis posse sur la scène pour jouer un peu de guitare, j'avais une scène rien que pour moi quel bonheur.
+À la réception, on m'explique qu'il faut réserver trois nuits pour bénéficier du bon. Calcul rapide : 19 $ la nuit au lieu de 25 $. J'accepte.
 
-Apres quelques heures de guitare je suis retourne à l'auberge et je suis allé faire des courses pour la semaine, je n'ai dépensé que 25$ mais mes repas vont ce limité à des sandwichs des pâtes et des soupes chinoisent.
+Je sors faire un tour en ville. En remontant Elizabeth Street, j'aperçois un cybercafé avec un panneau « Staff Wanted ». Le gérant me dit qu'il cherche toujours et qu'il a un bon feeling. Rendez-vous à 20h30.
 
-Le soir j'ai reçu un coup de fil d’Éric un Français qui était dans la même auberge que moi à Sydney. Je l'ai retourne au Pub de son auberge ou il était avec quelques amis, je ne veux pas reste enfermer à regarder des films sous prétexte que je n'ai pas d'argent, je ne suis pas obliger de dépensé des sous pour faire la fêtes.  
-Apres 2 ou 3 parti de billard nous sommes parti en ville pour chercher un pub plus anime, heureusement que j'ai gagné au billard car je n'aurais pas pu payer de parti.  
-Éric, Alexia, une copine a lui et moi sommes parti à la découverte de Melbourne by night, et bien pour la ville soit disant culturel d'Australie nous n'avons pas trouvé un seul pub ouvert gratuit, pas un seul pub avec de la musique live.  
-Pour finir nous sommes allés au pub de mon auberge qui s'embler être le meilleur choix, nous y sommes tout de même resté jusqu'à 5h00 du mat.
+Voilà deux heures que mon avion a atterri et j'ai déjà trouvé un boulot. Record personnel.
 
-Jeudi je me suis lever à 11h00 et je suis allé voir ce fameux manager pour être enfin fixer sur mon avenir. Et bien lorsque je suis arrivé pas de manager et personne pour m'aider!!! J'ai pris mon téléphone et j'ai appelé Eddie pour la énième fois mais il n'était pas là j'ai donc laissé un message. Il ma rappeler plus tard pour me dire de voir avec Kara la canadienne et enfin j'ai pu avoir mes horaires de travail. Je vais tout de même continuer de chercher un boulot car je ne suis pas bien confiant avec ce boulot vu l'organisation catastrophique qui y règne.
+Après le rendez-vous de 20h30, il me dit de commencer lundi à 13h00 pour une formation de quatre heures avec Kara, une Canadienne.
 
-L'après-midi Éric m’a dit qu'il aller à l'open de tennis et qu'il avait un moyen d'entrer gratuitement. Il m'a dit qu'il fallait trouver une personne qui sortait du stade et qui voulais bien donner son ticket. Une fois arrive au stade j'ai appelé Éric qui se trouver alors a 2iem l'entrer, je lui ai dit que l'on se retrouver à l'intérieur si on pouvait avoir des tickets.  
-J'ai donc cherché une personne avec une bonne tête et dès le 1er coup j'ai récupérer un ticket. Je suis passé à l'entrer, le gardien ma poser des questions tel que : a quel heure est tu rentrer ce matin, qui a tu vu, a quel entrer est tu rentrer... je n'en avais aucune idée mais j'y suis allé au bluff et je suis rentré.
+De retour à l'auberge, je m'installe dans la salle commune pour écrire mon journal. À côté de moi, une fille qui écrit aussi le sien. Elle s'appelle Alija et vient de Russie (Kurdistan). Voyageuse en Australie depuis un an. Elle a acheté une guitare il y a cinq jours.
 
-Me voilà donc dans le stade de l'Open de tennis d'Australie en possession d'un ticket d'entrer d'une valeur de 95$, presque 4 fois la sommes d'argent qui me reste pour vivre....
+Nous cherchons un coin tranquille pour jouer. Pas l'Arts Factory ici — nous sommes en plein centre-ville. Nous finissons dans la rue, et nous voilà à jouer à l'extérieur un samedi soir. Je lui apprends _No Woman No Cry_ de Bob Marley.
 
-J'ai appelé Éric mais il n’a pu avoir de ticket et il est rentré à son auberge, qu'à cela ne tienne, je suis à l'intérieur, je vais assister au match. Je ne sais pas du tout qui joue mais je rentre sur le terrain central et là je vois Amélie Mauresmo qui s'apprête à disputer la semi final, parfait je trouve une bonne place juste à droite d'Amélie et assiste au match. J'ai même failli 2 fois de suite recevoir sur la tête la balle d'Amélie.
+En moins d'une heure, la rue s'est remplie, notre session jam s'est transformée en busking improvisé. Les passants venaient chanter, jouer avec nous, laisser quelques pièces. Nous leur avons bien dit que nous n'étions pas là pour ça — mais ils ont quand même donné. Au bout d'une heure, 30 $ en caisse.
 
-Le soir à la tombe de la nuit je suis allé voir le feu d'artifice car aujourd'hui c'est l'Australian Day, la fête nationale. Apres je suis allé rejoindre Éric et Alexia a leurs auberge, c'est leur dernier soirée ici il reparte faute de boulot.
+Quand tout le monde dépense son argent le samedi soir dans l'alcool, nous, on en gagne en jouant de la guitare. C'est beau, la vie.
 
-Voilà donc une semaine de passe à Melbourne, j'ai déjà travaille 3 jours et tout ce passe bien. Les clients sont plutôt sympa et le travail pas trop pénible.  
-Je ai juste a donné un numéro de pc et encaisser l'argent lorsque ils ont fini, je dois aussi faire des smoothies, sorte de jus de fruit avec de la glace et aussi des cafés. Je ne bois pas de café alors je ne sais pas si ils sont bon ou pas mais pour le moment personne ne sait pleins et les tasses sont vide.  
-Dans le magazine ont joué des mp3, j'ai apporté une sélection personnel que je joue toute la journée, Keb Mo, Éric Bibb, Clapton, Diana Krall, Jack Johnson, The Waifs, ect... C'est l'occasion parfaite pour moi de faire découvrir de nouveaux artistes au plus grand nombre, ça les change de la même soupe que l'on passe à longueur de journée à la radio.  
-Aujourd'hui 2 personnes mon fait des remarques très positive sur la musique, exactement ce qu'il me fallait pour continuer ma propagande musical.
+À 3h00 du matin, nous avons compté l'argent et sommes allés manger.
 
-Au magasin il y a un client régulier qui est un schizophrène, il se met à crie si il est contrarie, il a des prix réduit sur tous les produits et je ne le savais pas au début mais maintenant je fais bien attention et aujourd'hui il m’a fait un sourire, j'espère que ça va bien ce passe avec lui.
+Dimanche, Alija et moi à la plage de St Kilda en vieux tram gratuit.
 
-Pour le moment je suis toujours à l'auberge mais je commence à faire des recherches pour un appartement pour m'installer 1 ou 2 mois le temps de faire des économies pour finir mon voyage. L'auberge me coute 150$ par semaines et se trouve à 5 minutes de mon boulot donc si les apparts me coute plus cher ou est trop loin je resterai à l'auberge qui est propre et confortable.
+Lundi à 13h00, formation au cybercafé. Eddie le gérant était absent — ses parents, là pour le remplacer, n'étaient pas au courant de mon arrivée. J'ai quand même fait mes quatre heures de formation avec Kara sur les smoothies, jus de fruits, etc. À 16h00, un Suédois m'a laissé gérer seul — bon test d'auto-formation. À la fin, le père d'Eddie est revenu, plutôt froid et désagréable. Ce n'est pas mon patron, alors je reste zen.
 
-## **Loneliness in Melbourne.**
+J'ai appelé Eddie qui m'a dit de voir les horaires le lendemain. Le lendemain, même histoire — revenir jeudi pour voir le manager.
 
-Hi everyone, Today it's a sunny day in Melbourne not too hot and my good mood is back.  
-Yesterday I was thinking of leaving Melbourne and going to Perth or going back to Sydney because Melbourne was very boring to me.
+Ces rebondissements me découragent un peu. Toutes les personnes qui cherchent du travail que j'ai rencontrées m'ont dit que c'était vraiment difficile en ce moment. Je n'ai vu aucune autre offre d'emploi et ai envoyé une dizaine de CV à des agences sans réponse.
 
-I'm staying in a horrible hostel of 11 floors where the people are not attractive at all. They are drinking the all day and they are not the kind of people I want to hang out with.
+J'ai quand même payé ma chambre à l'auberge pour une semaine entière pour être sûr de ne pas dormir dehors. Il ne me reste que 50 $.
 
-But I've met a girl where I work, she's not working with me she's a customer and work in the cafe next door.
+Si je n'ai pas de travail mardi prochain, il me faudra trouver un moyen de rentrer à Brisbane pour prendre mon avion de retour en France. Ce sera la fin de mon aventure australienne.
 
-She's German and her name is Nicola, we see each other almost every day and I can say she's my only friend in Melbourne, that a weird feeling because since 7 months now that I'm traveling Down under it's the first time that I don't have a "Crew".
+Mercredi, tour autour du stade de Melbourne pour l'Open de tennis d'Australie. Billets hors de prix, donc juste les alentours. En rentrant, je suis passé par un parc et suis tombé sur le Bowl Stage — une scène de concert en plein air permanente, ouverte. Je me suis installé sur la scène pour jouer de la guitare tout seul. Une scène rien que pour moi.
 
-Yesterday she gave me her phone number and I think we'll go out some time probably on Saturday.
+Après quelques heures de guitare, courses pour la semaine — 25 $ pour sandwichs, pâtes et soupes chinoises.
 
-What are the odd!!?? It's been a week that I'm lonely and yesterday, again, I met Rachel a friend of mine from the Arts Factory in Byron Bay, she stays at a friend house out of the town but we planned to meet later in the week.
+Le soir, Éric, un Français croisé à Sydney, m'a appelé. Retrouvailles au pub de son auberge, quelques parties de billard — heureusement que j'ai gagné. Puis à la découverte de Melbourne by night avec Éric et Alexia. Pour une ville soi-disant si culturelle, pas un pub ouvert gratuit, pas un seul avec de la musique live. Nous avons fini au pub de mon auberge jusqu'à 5h00 du matin.
 
-So it's becoming better and better every day and I'll see how it goes but I very hopeful for the next weeks in Melbourne and I'll need time to know the city but it can be a lot of fun.
+Jeudi, levé à 11h00 et direction le cybercafé pour enfin être fixé. Pas de manager, personne pour m'aider. J'ai appelé Eddie qui m'a finalement orienté vers Kara. J'ai eu mes horaires. 22 heures par semaine, soit 220 $ — pas beaucoup, mais de quoi payer le loyer et la nourriture tout en cherchant mieux.
 
-Today, I applied to work as a volunteer at the Blues and Roots Festival in Byron Bay in April the lineup is amazing and I really want to go it's going to be a lot of fun again.
+L'après-midi, Éric m'a dit qu'il allait à l'Open de tennis par un moyen gratuit : trouver quelqu'un qui sort et qui donne son ticket. Dès le premier essai, j'ai récupéré un ticket. À l'entrée, le gardien m'a posé des questions — à quelle heure tu es entré, par quelle porte... Aucune idée, mais j'y suis allé au bluff et j'ai passé.
 
-## **I love Melbourne!!!**
+Me voilà donc dans le stade de l'Open de Tennis d'Australie avec un billet à 95 $ — soit presque quatre fois l'argent qui me reste pour vivre.
 
-Finally!!!! I found the Melbourne I wanted to see.
+Éric n'a pas eu de ticket et est rentré. Qu'à cela ne tienne, je suis à l'intérieur. Je ne sais pas qui joue, mais j'entre sur le court central — et je découvre qu'Amélie Mauresmo s'apprête à disputer la demi-finale. Je trouve une bonne place juste à côté du filet du côté d'Amélie. J'ai même failli recevoir sa balle deux fois de suite.
 
-Yesterday, Rachel asked me out and we've been to a PUB in Brunswick Street, the Bar Open.  
-First of all Brunswick Street it's the street to go if you want to have fun. It's like 15 minutes’ walk from the city center, no more big buildings, here you can see the sky, 2 or 3 floors pretty old and dirty, just how I like it.
+Le soir, feu d'artifice pour l'Australian Day — fête nationale. Puis retrouvailles avec Éric et Alexia pour leur dernière soirée, ils repartent faute de travail.
 
-Music everywhere and the people are not the same drunk, show off, boring people that I've seen in the city center. So I've been to this PUB, first I thought I’ll have to pay, like in every PUB I’ve tried to go in town, not at all, they didn't ask me for my ID.  
-Once inside a Live Band playing some kind of Ska, Funky, Reggae, and Rock, very nice. 9 People in the band around twenty something. So I found Rachel and her Friends, 1 guy and 1 girl who come from Melbourne. So I've asked them some information about Melbourne and the guy told me to find the BIG Magazine which is the Bible of Music in Melbourne. There are all the bands in town for the week by genre and place and he told me that I can find people to play with, and that what I wanted.
+Voilà une semaine à Melbourne. Trois jours de travail et tout va bien. Je donne un numéro de poste, j'encaisse, je fais des smoothies et des cafés. J'ai apporté ma propre sélection musicale — Keb Mo, Éric Bibb, Clapton, Diana Krall, Jack Johnson, The Waifs... C'est l'occasion de faire découvrir de nouveaux artistes. Deux clients ont déjà fait des remarques très positives sur la musique.
 
-So I’m not in a Band yet but I’ll try and do everything I can to play, play, play, play and play.
+Il y a un client régulier, schizophrène, qui crie quand il est contrarié — il bénéficie de tarifs réduits que je ne connaissais pas au début. Maintenant je fais bien attention. Aujourd'hui il m'a fait un sourire, ça m'a mis de bonne humeur.
 
-## **Day off at St Kilda.**
+Je commence à chercher un appartement pour m'installer un ou deux mois et économiser. L'auberge à 150 $ la semaine est à cinq minutes du boulot — si les apparts coûtent plus cher ou sont trop loin, je resterai à l'auberge.
 
-Another day in Melbourne, but the days are followed but do not resemble.
+## **Solitude à Melbourne.**
 
-I was off and that's a good thing because I don't really have the time to visit the city when I work.
+Bonjour à tous. Aujourd'hui il fait beau à Melbourne, pas trop chaud, et mon moral est revenu.
 
-My shifts are from 3h00 pm to 9h00 pm, I know you're thinking, he has the all morning but you know me, I'm pretty lazy on the morning and I like to chilled out on the night so I usually go to bed pretty late and wake up just in time to go to work.
+Hier je pensais à quitter Melbourne pour Perth ou retourner à Sydney — Melbourne me semblait très ennuyeuse.
 
-Well today it was different. I've planned a late breakfast with Nicola so I got up at 11h30 and met her at the train station then we caught the tram to St Kilda, which is the beach side of Melbourne.
+Je logeais dans un horrible backpacker de onze étages où les gens ne m'attiraient pas. Ils buvaient à longueur de journée.
 
-When we got there we've been to a little restaurant and ordered a breakfast, egg Josephine for her and French toast for me. Once we were full, we've been to the beach where it was a beach volley competition after that we've been to a café on the beach side.
+Mais j'ai rencontré une fille là où je travaille — pas une collègue, une cliente qui travaille dans le café d'à côté. Elle s'appelle Nicola, est allemande. Nous nous voyons presque tous les jours et je peux dire qu'elle est ma seule vraie amie à Melbourne. Drôle de sensation, parce que depuis sept mois que je voyage, c'est la première fois que je n'ai pas de groupe autour de moi.
 
-Well that's not the interesting part of the day. The think is we've been very close the all day, like holding our hands, having the smiles... you know what I'm talking about, but we didn't kissed.
+Hier, elle m'a donné son numéro et je pense qu'on sortira samedi.
 
-I kind of love those moments, where both knows that something's going on but none what's to go further, we're just enjoying this moment. Later on, we've been to a park; we lay down on the grass next to each other but nothing more just being well.
+Quelle coïncidence — ça fait une semaine que je me sens seul et hier, j'ai recroisé Rachel, une amie de l'Arts Factory de Byron Bay. Elle loge chez un ami en dehors de la ville. Nous avons prévu de nous voir cette semaine.
 
-In fact we've spend the day like this and it was really nice, we went back to the city center of Melbourne around 5pm because she's been invited by a family friend to go to a classical concert.
+Les choses s'améliorent de jour en jour. Melbourne, je commence à y croire.
 
-Before we leave each other we stayed a bit at the train station and we had our first kiss, it was so natural. Then she left to the train and I went to my backpacker.
+Aujourd'hui, j'ai aussi postulé pour être bénévole au Byron Bay Blues and Roots Festival en avril. La programmation est incroyable.
 
-To be continued ... sorry I've got to meet her now because she arrived too late at the concert, such a shame.
+## **J'adore Melbourne !**
 
-We've been to the Cinema and we watched the movie North Country, it's a true story about a woman who returns to her hometown with her 2 children after a failed marriage. She's got a job in the iron mines in northern Minnesota, but she discovered she was working with men who were uncomfortable working with women; the story is about sexual harassment.
+Enfin ! J'ai trouvé la Melbourne que je voulais voir.
 
-That was my Sunday, pretty nice I reckon. I've got sunburns on my face but it doesn't really matter I will sleep well tonight.
+Hier, Rachel m'a emmené dans un pub de Brunswick Street, le Bar Open.
+Brunswick Street, c'est la rue à ne pas rater si vous voulez vous amuser. À quinze minutes à pied du centre — fini les gratte-ciel, on voit le ciel, deux ou trois étages d'immeubles anciens et crasseux comme je les aime.
 
-## **I fired somebody :'(**
+Musique partout et des gens bien différents de ceux que j'avais croisés en centre-ville. Le pub n'avait pas de droit d'entrée.
 
-A new week start today, and I hope this one is going to be as nice as the last one.
+À l'intérieur : un groupe live qui jouait du ska-funk-reggae-rock, très bien. Neuf musiciens d'une vingtaine d'années. J'ai retrouvé Rachel et ses amis, dont un Melbournien qui m'a dit de me procurer le magazine BIG — la bible de la musique à Melbourne. Il y a toutes les infos sur les groupes, les lieux, par genre, et on peut y trouver des musiciens pour jammer. C'est exactement ce dont j'avais besoin.
 
-This week I've got to find a flat because I can't live anymore in a Backpacker, it's too expensive 150$ /week and it's not really relax at all, I need my space.
+Je ne suis pas encore dans un groupe, mais je vais tout faire pour jouer, jouer et encore jouer.
 
-The thing is that I just earn 300$ a week if I work 5 days a week which is not a lot so I need to find another job in part time or ask for more money.
+## **Journée off à St Kilda.**
 
-Today there's one guy who came back from holiday and I was worry about losing my full time job and being just in part time because we are 4 people to work. Tonight my boss asks me to call one girl and to fire her. My boss is Korean and don't really speak English.
+Un autre jour à Melbourne, mais les jours se suivent et ne se ressemblent pas.
 
-So I did, I had no choose, I felt bad for her because she is a backpacker as well and I wouldn't like to be fired but in the other hand it was good for me because now I will have more working hours.
+J'avais congé, ce qui est une bonne chose car je n'ai pas vraiment le temps de visiter la ville quand je travaille. Mes horaires : 15h00–21h00. Je sais ce que vous pensez : il a la matinée — mais vous me connaissez, je ne suis pas du matin. Je vais me coucher tard et me lève juste à temps pour aller travailler.
 
-## **She drives me crazy!!!!!**
+Aujourd'hui, petit déjeuner tardif avec Nicola à la station puis tram jusqu'à St Kilda, le quartier balnéaire de Melbourne.
 
-Today I got angry against the mother of my boss, she's taking care of the shop while my boss is in Queensland to study law.
+Arrivés là-bas, petit restaurant, _eggs Josephine_ pour elle et _French toast_ pour moi. Une fois rassasiés, direction la plage — un tournoi de beach-volley, puis café en terrasse.
 
-She doesn't speak English and that's fine I can understand but she's never happy. I know the way I work and I do my job very well. She always has something bad to say, Kara the Canadian girl who work here told me that she's a bit weird but MAN!!! She’s more than that.
+Ce qui était intéressant, c'est que nous étions très proches toute la journée — mains jointes, sourires — mais sans que ça aille plus loin. J'aime ces moments où les deux savent qu'il se passe quelque chose, sans que personne ne franchisse le pas, juste pour savourer l'instant. Puis un parc, allongés sur l'herbe côte à côte.
 
-Anyway I try to keep my control because I need my job but it's a shame because the job is nice and the customer are very nice and happy with me.
+Vers 17h00, elle avait un concert de musique classique chez des amis de la famille. Avant de se séparer à la station, nous avons eu notre premier baiser, tout naturellement. Elle est partie vers son train, et moi vers mon backpacker.
 
-There is one who learn to speak French and he comes every day to ask me to read some sentences and words, is very kind and sometimes he gives me some cookies, chocolate and stuff.  
-There's a couple of girls who fancy me it's funny, I looooove it.
+À suivre... désolé, je dois aller la retrouver maintenant — elle est arrivée trop tard au concert.
 
-That's it for today, now I'm going to the cinema with Nicola and tomorrow I'm off so I have to get up early and find a flat.
+Nous sommes allés au cinéma voir _North Country_, l'histoire vraie d'une femme qui retourne dans sa ville natale avec ses deux enfants après un mariage raté. Elle trouve du travail dans les mines de fer du Minnesota et découvre un environnement hostile au travail féminin. Une histoire de harcèlement sexuel.
 
-Ho yes today it's a big day because I received my Mp3 player with 40GO of music and videos, it’s so good to listen my music.
+Belle journée. J'ai un coup de soleil sur le visage mais peu importe — je vais bien dormir ce soir.
 
-Byebye everyone and leave a comment I'll reply.
+## **J'ai dû licencier quelqu'un.**
 
-## **Enough with the Backpacks!!!!**
+Nouvelle semaine. J'espère qu'elle sera aussi bien que la précédente.
 
-Hi, I don't know if many people read my blog but it doesn't matter I don't give up and keep on writing.
+Cette semaine, je dois trouver un appartement — je ne peux plus vivre en backpacker à 150 $ la semaine sans vraiment m'installer. Je gagne 300 $ par semaine sur cinq jours, ce qui n'est pas suffisant pour économiser. Il faut soit plus d'heures, soit un deuxième job à mi-temps.
 
-Yesterday I was off and the target of the day was to find a flat or at least visit a flat.  
-I've called something like 25 people and just 5 answered the phone to tell what the flats were already rented and for the others I left a message on the answering machine.
+Aujourd'hui, un employé est revenu de vacances — je m'inquiétais de perdre des heures. Ce soir, mon patron m'a demandé d'appeler une fille pour la licencier. Mon patron est Coréen et parle très peu l'anglais.
 
-Actually one answered and I went to visit the flat. The flat is close to Brunswick street, well close on the map because it took me 45 minutes to get there and once there the guy told me that it was available on the 28th of February, a way to far for me I don't want to stay in a backpack for 3 others weeks.
+Je l'ai fait — je n'avais pas le choix. Je me suis senti mal pour elle car elle est aussi backpacker, et je n'aimerais pas être à sa place. D'un autre côté, ça voulait dire plus d'heures pour moi.
 
-I came back to the hostel and decide to move to another hostel. I've packed my stuff to be ready for the day after. Then I went to a backpack 2 blocks away from where I work. It's cheaper, 133$ for a week.
+## **Elle me rend fou !**
 
-Back at the backpack, I received 2 phone calls and I'm going to visit 2 flat, one on Saturday and one on Sunday. They both closer than the one I've seen today and quit close to my work.
+Aujourd'hui, j'en ai eu marre de la mère de mon patron. Elle s'occupe du magasin pendant qu'Eddie est au Queensland pour ses études.
 
-I hope they are going to be nice because I really want to move and be installed, and then I will have time to visit the city and get a social live in Melbourne.
+Elle ne parle pas anglais — je comprends — mais elle n'est jamais contente. Je sais comment faire mon travail et je le fais bien. Kara, la Canadienne, m'a dit qu'elle est un peu bizarre, mais franchement c'est bien plus que ça.
 
-Today I moved to the other backpack, I've booked for a whole week, thus I hope it's not going to be awful.
+Je garde mon calme car j'ai besoin de ce boulot. C'est dommage parce que le job en lui-même est sympa — les clients aussi, gentils et contents.
 
-At work everything is fine, just the old lady who's always angry, but Kara told me that she doesn't like boys.
+Il y en a un qui apprend le français. Il vient tous les jours me faire lire des phrases et des mots. Il me donne parfois des biscuits et du chocolat. Il y a aussi deux ou trois filles qui me font de l'œil — j'adooooore.
 
-There is a customer who's a schizophrenic and he screams when he doesn't like something and today I asked him to repeat what he wanted and he said stop to do you're smart ass!!! Well that wasn't very nice but he's sick so I just let it go.
+Aujourd'hui c'est aussi un grand jour : j'ai reçu mon lecteur MP3 de 40 Go avec musique et vidéos. C'est tellement bien d'écouter ma propre musique.
 
-Ho and one lady told me that my coffee is very nice, that's cool because I don't drink coffee so I didn't know how it was, but I'm sure Jess your coffee is MUUUUCH better than mine.
+Au revoir, et laissez un commentaire — je vous répondrai.
 
-That's it for today but feel free to send comments if you have any questions.
+## **Marre des backpackers !**
 
-## **From bad to worst.**
+Hier, congé. Objectif de la journée : trouver un appartement ou du moins en visiter un.
+J'ai appelé une vingtaine de personnes — cinq ont répondu pour me dire que c'était déjà loué. Pour les autres j'ai laissé des messages.
 
-That's a nice title, "From bad to worst" so positive!!! No it's a bite dramatic as Kristy would say, but it's kind of true. Yesterday I've moved to another backpacker because the one I was since 3 weeks was horrible.
+Une seule m'a rappelé. J'ai visité l'appartement. Proche de Brunswick Street sur la carte, mais 45 minutes en transport. Le locataire m'a dit que c'était disponible à partir du 28 février — beaucoup trop tard.
 
-Well the new one, the kitchen closes at 10pm when I finish to work at 9 - 9h15 it's not cool and usually I stay with Nicola for a while to wait for her train so I can't eat.
+De retour à l'auberge, j'ai décidé de changer de backpacker. J'ai aussi reçu deux coups de fil pour visiter des appartements : l'un samedi, l'autre dimanche, tous deux plus proches.
 
-The room 16 people, just guys and guys smell that a sad reality, last night I've start itching myself, thought they were bed bugs again!!! This morning I went to the reception and ask to move to an eight beds dorm just for 5 days instead of 7 days.
+J'ai changé d'auberge — 133 $ la semaine pour ce nouvel endroit.
 
-So I went to my new room and there was a man on his bed smoking a joint and watching a movie, I said, "Hi, my name is Guillaume and he said, "Salut, moi c'est Thomas", he's French!!!! Ho my god what am I doing here??
+Au travail, tout va bien — juste la vieille dame toujours énervée, mais Kara m'a dit qu'elle n'aime pas les hommes.
 
-Well it's not so bad, he's cool and he has a computer so I can download some movies on my player, that's cool, I'm such a profiteer sometime.
+Il y a un client schizophrène qui m'a dit d'arrêter de faire le malin quand je lui ai demandé de répéter sa commande. Il est malade, donc je laisse passer.
 
-Then for the rest of my day I did my laundry, thanks to the Australian washing machine who don't wash, I've got 2 cloths who are still dirty I can't get of the dirt, and I went to work it was bloody busy, 2 or 3 customers told me " How can you work on your own here it's so busy you have to be everywhere" that true, I have to make the coffee, the smoothies, the juices, the hotdog, help the people with the computer to burn, to print, to find the website they want, to send they pictures by mail, etc... That’s a busy job but I like it.
+Une cliente m'a dit que mon café était très bon — sympa, parce que je n'en bois pas, donc je ne savais pas s'il était bon. Mais les tasses sont vides et les gens sourients — j'en déduis que c'est correct.
 
-The days are going fast, I can drink the rest of the shakers when I make smoothies or a juice, I listen my music, I meet a lot of people, I don't have a boss with me all the time, and I have free internet.
+Pour finir, bises à tous et n'hésitez pas à commenter.
 
-Today the Manager, Tristan, who was supposed to come back 3 weeks ago, came to the shop for 5 minutes, checked his mails and left, so I don't know what's going on but I hope I'll talk to him later, rather the angry old lady, to know about my roster, and the rest.
+## **De mal en pis.**
 
-I'm off tomorrow and I'm going to see 2 flats one far and one close to where I work, but the one I really want I'm going to see it on Sunday.
+Hier soir après le boulot, j'ai couru vers le backpacker pour arriver avant la fermeture de la cuisine à 22h00 — je finissais à 21h00–21h15, et je devais en plus passer voir Nicola attendre son train.
 
-I will let you know, bye.
+De retour au backpacker : chambre de seize personnes, que des hommes, et les hommes qui sentent, c'est une triste réalité. Cette nuit, je me suis mis à me gratter — des bed bugs de nouveau. Ce matin, je suis allé à la réception demander à changer pour un dortoir de huit lits pour cinq nuits au lieu de sept.
 
-## **Positive thoughts it's the solution!!! Really? Bullshit!!**
+En entrant dans la nouvelle chambre, il y avait un homme dans son lit en train de fumer un joint en regardant un film. Il m'a dit : « Salut, je m'appelle Thomas. » Français ! Que fais-je là ?
 
-Last night after work I ran to my backpack before 10pm to have the time to quickly cook something. After that I went back to work to go online and check for more room to rent.
+Bon, il a l'air sympa et il a un ordi — je peux télécharger des films. Tant mieux.
 
-Around 12 I went back to the backpack and I went to have a look in the Pub downstairs if me French roommate was there but I didn't find him.
+Pour le reste de la journée : lessive avec la machine australienne qui ne lave pas vraiment — deux vêtements sont encore tachés. Puis au boulot, c'était très chargé. Des clients m'ont dit : « Comment tu fais tout seul ici, c'est fou le nombre de trucs à gérer — café, smoothies, jus, hotdogs, aide informatique, impressions, envoi de photos... » Oui, c'est un boulot chargé, mais j'aime ça.
 
-I was on my way to go to bed when somebody called me. It was a girl who comes to the shop sometimes and I don't really know her but I've talked to her once. She's a bit... different, She has piercing, tattoo, cloth that I don't even know the name in French but she seems nice and friendly so I went back to the Pub and we had a chat and a drink.
+Les journées passent vite. Je goûte les restes des smoothies, j'écoute ma musique, je rencontre plein de gens, pas de patron derrière moi en permanence, et Internet gratuit.
 
-Tonight in the Pub it's a Drag queen's night and the girl is a friend of the drag queens. It was very funny and it was the first time that I had the opportunity to talk with a drag queen.
+Aujourd'hui le manager Tristan — censé revenir il y a trois semaines — est passé cinq minutes, a regardé ses mails et est reparti. Je ne sais pas ce qui se passe, mais j'espère lui parler bientôt.
 
-At 1:30 am the girl left and I was on my second way to go to bed when I met my roommate. I stayed with him and his 10+ French friends and I went to bed around 2:30.
+Congé demain — je vais voir deux appartements, dont celui que je veux vraiment dimanche. À vous bientôt.
 
-Today, I woke up at 9:30 because I'm going to see a flat in Parham, which is pretty far. At 10:00 I went to the kitchen to make myself a breakfast and a sandwich for my lunch so I won't have to come back here and I can see more flats. Thank the backpacker!!! You asshole the kitchen was close. 10:00 to 11:00 perfect time to clean!!!
+## **La pensée positive, c'est la solution ! Vraiment ? Foutaises !**
 
-So I bought a nice breakfast, donuts and cold milk and try to find the tram to go to the flat, off course I got lost but I wasn't very late, I've visited the flat. It's a nice little house and the people, a couple, seem to be nice, they are calling me to give me an answer. The house to far from where I work I've got to take to trams and it takes 45 minutes if I don't miss one.
+Hier soir après le boulot, j'ai couru pour arriver avant 22h00 avec le peu de temps pour cuisiner. Puis retour au cybercafé pour chercher des logements. Vers minuit, retour au backpacker. J'ai cherché Thomas dans le pub du sous-sol sans le trouver.
 
-As I was on the area I've called another person, I had to take a tram that I've just missed then I walked because on Saturday there is a tram every 30 minutes. I got there late and the people told me that they are looking for someone for a year but I just want to stay here for 2 or 3 months max.
+Je montais me coucher quand quelqu'un m'a appelé — une fille que je croise parfois au boulot, un peu différente avec ses piercings et tatouages, mais sympa. Nous avons discuté au pub et avons passé la soirée avec ses amis drag-queens. C'était drôle — ma première vraie conversation avec des drag-queens.
 
-After that visit I've called the other person that I have to see at 3pm but he told me that he was busy and to email him to arrange another visit.
+À 1h30 du matin, la fille est partie. Sur mon deuxième chemin vers le lit, j'ai croisé Thomas. Je suis resté avec lui et ses dix amis français. Coucher à 2h30.
 
-Tonight I've printed more flats and I will call them and go to do some visits tomorrow. Anyway I've got that visit tomorrow and the flat seems very nice so finger cross.
+Ce matin, levé à 9h30 pour visiter un appartement à Prahran. Départ pour la cuisine : fermée de 10h00 à 11h00 pour nettoyage. J'ai dû acheter un petit déjeuner dehors — donuts et lait froid.
 
-What a crap day, I seek to go ahead in everything, to do the most I can to make my life as well as I wish.
+J'ai visité l'appartement. Chouette petite maison, les occupants, un couple, ont l'air sympas. Mais c'est trop loin — deux trams et 45 minutes de trajet.
 
-I'm always thinking positive but it's been so hard and demoralizing this past few months that I don't know if I want to keep on trying.  
-It might be a sign; it's maybe time for me to stop traveling.
+En chemin, j'ai appelé une autre personne. Raté le tram, donc j'ai marché. Arrivé en retard — ils cherchaient quelqu'un pour un an et moi je veux rester deux ou trois mois maximum.
 
-For the last 3 years I live so many awesome experiences, I laughed, cried, loved, learned, grow up, I have lived a filled life and now I feel like it’s time to use those knowledge by putting together a long-term life.
+Ce soir, je dois voir un appartement demain par email — il a l'air vraiment bien.
 
-I still have dreams, thoughts and hopes that fit with the traveler's life that I'm experiencing now. It's probably the right time for me to combine those dreams, thoughts and hopes in another way of living.
+Quelle journée nulle. J'essaie toujours d'aller de l'avant, de faire le maximum pour que ma vie soit comme je le souhaite. Je pense positif, mais c'est tellement dur et décourageant depuis deux mois que je ne sais plus si je veux continuer.
 
-## **The fog is gone, I can see clear.**
+C'est peut-être un signe. Peut-être que c'est le moment d'arrêter de voyager.
 
-Yesterday I was off and I've called, again, heaps of flat and went to visit but they all want somebody for 12 months. I decide that I have to forget about the flat.
+Depuis trois ans j'ai vécu tant d'expériences extraordinaires — ri, pleuré, aimé, appris, grandi. J'ai vécu une vie bien remplie, et maintenant j'ai l'impression qu'il est temps d'utiliser tout ça autrement.
 
-But the most important problem was the job because, the lady is horrible and unprofessional so I don't know if I still work there now that the manager came back, I don't know if I'm working part or full time, the roster is never made in advance, I know if work day by day; I can't make any plans or get another part time job if I need.
+J'ai encore des rêves, des projets, des espoirs qui s'accordent avec la vie de voyageur que je vis. Mais c'est peut-être le bon moment de les exprimer différemment.
 
-I went to visit the flat that I really wanted close to the city to where I work, perfect. Once I was there the flat mate told me that they wanted a person for a year, I left depressed.
+## **Le brouillard se dissipe, j'y vois plus clair.**
 
-I was walking slowly going back to the hostel doing a brain masturbation trying to find a solution when my phone rang, it was Kara my workmate asking me if I could work at 5pm until 7pm because the manager was sick.
+Hier, congé, et j'ai encore appelé plein de propriétaires — tous veulent quelqu'un pour douze mois. L'appartement, c'est terminé.
 
-Off course I've said yes, I need money and nothing else to do.
+Mais le vrai problème, c'était le boulot : la dame est horrible et peu professionnelle, je ne sais pas si je travaille encore maintenant que le manager est revenu, si c'est du temps plein ou partiel, le planning n'est jamais fait à l'avance. Impossible de faire des projets.
 
-I've worked and at 7 or 8 o'clock the manager came to the shop and asked me to work until 9pm, excellent. But I ask him if he had 5 minutes to talk about the roster and stuff.
+J'ai visité l'appartement que je voulais vraiment — le meilleur, proche de la ville et du boulot. Mais les colocataires voulaient quelqu'un pour un an. Je suis reparti déprimé.
 
-I've started to ask him what was wrong with this lady, because I do everything well and she's never happy. He told me that she was angry against her son because he hired me without asking her.
+Je marchais lentement en me creusant la tête quand mon téléphone a sonné. Kara me demandait de travailler de 17h00 à 19h00 — bien sûr j'ai dit oui. Et le manager, qui était malade, est venu et m'a demandé de rester jusqu'à 21h00.
 
-The day I've applied for the job it was the son and he told me that he had a good feeling with me and he hired me, that was cool but her mother didn't liked it, well not my fault.
+J'en ai profité pour lui parler. Il m'a expliqué que la dame était en colère contre son fils de l'avoir embauché sans la consulter. Pas ma faute.
 
-The Manager told me as well that she's old, afraid and doesn't really speak English, clearly, she's lost but she's the one who got the money so she's the one who control the shop.
+Il m'a aussi dit que ce serait uniquement du temps partiel — deux personnes à temps plein, Kara et Paul, c'était suffisant. Au moins maintenant je sais où j'en suis. Il m'a fait un planning pour la semaine : 22 heures, soit 220 $. Pas beaucoup, mais de quoi payer le loyer et la nourriture en cherchant mieux.
 
-When he said that I thought, well I'm going to be fired, I asked him about the shifts and he said that it's not going to be possible for me to work on a fulltime because there is already 2 persons in fulltime, Kara and Paul and it's enough they just need another person in part-time.
+À 21h30, retour au backpacker avec 330 $ en poche pour la semaine. J'ai cuisiné, puis suis descendu voir Thomas.
 
-At least now I know where I'm, I'm not in the incertitude anymore which is the worst because you can't really make plan because you don't even know what you're going to do the day after.
+Nous avons décidé de jouer de la guitare sur le toit — fermé à 23h00. Nous avons trouvé le balcon de la salle commune. Guitare jusqu'à 2h30 du matin.
 
-He made the roster for the week and I've got 22 hours which is 220$, it's not a lot but that permits me to pay my rent and my food and gives me the time to look for another part-time or a better fulltime job.
+Thomas apprend la guitare et veut jouer plus. C'est largement suffisant pour décider de rester dans ce backpacker encore un peu.
 
-At 9:30, after work, I went back to the backpack with in my pocket my last week salary 330$ in cash. I cooked something and I went in the basement where the pub and the communal room are.
+Problème : ma chambre coûte 165 $ la semaine (dortoir 6 lits), les moins chères sont à 133 $ (16 lits). J'ai négocié ce matin à la réception — finalement la chambre à 6 lits pour le prix de celle à 16 lits. Et nous sommes seulement deux dans la chambre. Parfait.
 
-I met the French guy who's in my room and we decided to play guitar, he told me that there is a big roof on the top of the building with the BBQ and we can play. We tried to go there but its close at 11pm, instead we went to the balcony of the communal room and we played guitar until 2:30 on the morning.
+La situation se clarifie : 20+ heures par semaine à 10 $, logement à 130 $/semaine, 70 $ pour vivre. Pas de quoi économiser, mais assez pour subsister.
 
-Thomas, my roommate doesn't really play guitar but is learning and wants to play more, which is enough for me to decide to stay in this backpack for a while.
+## **Plus de stress, je peux profiter de la vie à nouveau.**
 
-The problem is that my room cost 165$ for a week because I'm in a 6 beds dorms and the cheapest dorms are the 16 beds at 133$.
+Je suis maintenant résident permanent du Backpack Hostel à Melbourne ! Ce n'est pas aussi bien qu'un appartement, mais j'y prends mes marques.
 
-I thought about it last night and this morning I went to the reception and ask to book for another week in this room, first she said it's 165$ but after discussing a bit she gave me the 6 beds room for the price of a 16 beds, cool, I'm happy with that, even more happier because we are just two persons in the room and it's pretty cozy for a backpacker's room.
+Dans ma chambre, juste Thomas et moi — comme partager une chambre avec un ami. Le backpacker est du genre où les gens boivent et cherchent à draguer à toute heure, ce n'est pas vraiment mon truc, mais je m'en accommode.
 
-The situation now is clearer and better, I'm working 20+ hours a week at 10$ which is 200$ and I'm staying in a backpacker at 130$ a week, I've got 70$ for food and life expenses. It's not enough to save but enough to live and wait to get a better situation.
+Tous les soirs, Thomas et moi montons à la terrasse de la salle commune, près du pub, pour jouer de la guitare. C'est peut-être un peu trop proche du pub — des gens débarquent tout le temps.
 
-## **No more stress, I can enjoy my life again.**
+Quand c'est des gens sympas, c'est cool — on parle, on jame. Mais la plupart du temps, ce sont des ivrognes.
 
-I'm now a permanent resident of the "Backpack Hostel" in Melbourne!!, It's not as good as a flat but I making my space and start getting comfortable.
+« Hey ! Joue-moi un truc ! Tu connais Oasis ? Metallica ? Je peux jouer un truc ? Vas-y. »
 
-In my room just Thomas and I, it’s like sharing a room with a friend. The backpack is a kind of backpack where the people drink and try to score, any day and time of the week, it's not my "cup of tea" but I can manage to have a good time.
+Je devrais faire une liste : 10 _Oasis_, 18 _Metallica_, 20 _Come as You Are_ et 55 987 fois l'intro de _Stairway to Heaven_.
 
-Every night, Thomas and I are going to the terrace in the communal space, close to the Pub and we play guitar. It's a bit too close to the pub consequently there are heaps of people coming around all the time.
+Le bon côté : la guitare est un vrai _girl magnet_. Le mauvais côté : les filles sont aussi de vrais _drunkard magnets_. Désolé pour vous les filles — parfois je suis content d'être un homme, parce que ces types sont vraiment pénibles. Au bout de deux soirs, ils ont compris qu'ils ne marqueraient pas ici, parce que les filles qui restent ne s'intéressent pas aux ivrognes.
 
-If the people are nice it's a cool to talk with them, even jamming but most of the time it's the drunkest that come around.
+Petit à petit, nous avons créé notre propre atmosphère dans le backpacker. C'est sympa — les gens ont autre chose à faire que boire. J'aime vraiment ça.
 
-"Hey! Play me a tune; do you know "Oasis", "Metallica"? Can I play you a tune? Yes go head".
+Hier soir, nous avions prévu de monter sur le toit — plus calme et plus agréable pour enseigner quelques morceaux à Thomas. Mais le manager m'a appelé pour travailler, ce qui m'a valu 29 heures au lieu de 22. Avec un peu de chance, encore plus.
 
-I should make a list with all the songs that people play, we've got 10 "Oasis", 18 "Metallica", 20 "Come as you are" and 55987 times the intro of "Stairway to heaven".
+Maintenant que je suis plus serein, je vais chercher des bons pubs avec de la musique live, et peut-être des musiciens avec qui jammer. Je passe la plupart de mon temps à enseigner mais personne ne m'apprend quoi que ce soit — je voudrais rencontrer quelqu'un qui puisse me montrer de nouveaux morceaux, des techniques de chant, etc.
 
-The cool thing is that playing guitar it's definitely a "Girl magnet" but the bad thing is that girls are also definitely «Drunkard magnets".
+Bref, je suis heureux maintenant et je veux découvrir le côté caché de Melbourne — celui qu'on ne voit pas quand on n'est que backpacker de passage.
 
-I'm so sorry for you girls, sometimes I'm happy to be a man because these guys are so annoying. After 2 nights they start to understand that they won't score in here because the "sluts" are into the pub trying to get a rut and the girls who stay are not interested in drunken folks.
+Mon boulot n'est pas idéal pour économiser, mais il est sympa — beaucoup de contact avec les gens, pas trop physique, pas de démarrage aux aurores, et je peux sortir le soir.
 
-Little by little, we made our proper atmosphere in the backpack and it's pretty nice now. It's funny how it changes the atmosphere of the place; it's more relaxing and more living. It's like the people have something else to do than drinking and getting pissed. I really like that.
+Vous vous demandez peut-être ce qu'il en est de Nicola. On se voit encore mais je ne ressens rien de particulier pour elle. Elle est gentille — c'est peut-être le problème, pas assez spontanée. Et chaque petite chose devient un obstacle. Par exemple, elle a un appartement mais ne veut pas que je vienne à cause de ses colocataires — du coup nos sorties se limitent au cinéma ou à prendre un verre. C'est bien mais ça devient monotone après trois semaines. On verra si elle s'investit davantage.
 
-Yesterday, we’ve planned to go to the roof, which is a nice, and quite place to play. I want to teach a few songs to Thomas and it's not really easy when we are downstairs with all the people around. But yesterday I worked again; the manager called me and asked me to work. That's nice because instead of 22 hours I will work 29 hours, and maybe more if they need me.
+## **Relax, c'est bien. Flemmard, c'est non.**
 
-Now that I'm more relaxed I can start to find some nice pub to listen some live music and maybe look for people to play with. I like Jamming in the backpack but
+Trois jours sans écrire sur mon blog. Que s'est-il passé ?
 
-I've realized that I spend the most of my time teaching and nobody teaches me, I want to meet somebody who can show me some stuff, some new songs, some tips for singing, etc...
+Ma vie est plus sereine. Je travaille presque tous les jours — le manager m'appelle dès qu'il a besoin de quelqu'un. J'ai fait plus de 30 heures cette semaine, soit 100 $ de plus. Ça m'a rendu heureux.
 
-In short, I'm happy now and I want to discover the hidden side of Melbourne, the one you don't see when you're just a backpacker for few days.  
-My job it's not the best to save but it's a nice job because I'm in contact with a lot of people, it's not very hard and I don't start early on the morning which is an important point for me because then I'm tired the whole day, with these shifts I can do a lot and stay awake on the night and that the life I like.
+Au backpacker c'est sympa aussi. Nous sommes toujours deux dans la chambre, et le soir en bas nous jouons de la guitare. Juste une soirée sans guitare — pour voir. Ça s'est révélé d'un ennui mortel : tout le monde fumait et buvait en silence. Je ne regrette pas de jouer tous les soirs.
 
-You maybe wonder, "What's happened to Nicola?" Because she's not really present in my stories, well it's because I don't really feel anything special for her. She's a nice girl and maybe that the problem, she's not enough wild for me, and she likes me but every little thing is a problem.
+Mais je travaille et joue sans aller chercher des pubs avec de la musique live — mauvais point. Ce soir j'essaierai.
 
-For example she has a flat and she doesn't want me to go there because she doesn't feel comfortable with her housemates, it's old for that reasons she doesn't want to stay there.
+Désolé, pas inspiré aujourd'hui. Je vais travailler et continuerai plus tard. Bye.
 
-In consequence our relations are limited by going to the cinema, for a drink, this kind of stuff, it's nice but become unexciting after 3 weeks.
+## **La vie comme un fleuve tranquille.**
 
-Afterward, I'm still with her but I don't really see her often and not for very long, maybe she will change her mind and being more engaged in the relationship.
+Je prends les choses comme elles viennent — voilà où j'en suis. J'ai quelques options pour la suite du voyage.
 
-## **Relax its nice lazy it’s not.**
+1. Rester à Melbourne jusqu'à mi-avril, et si j'ai assez économisé, aller au Blues and Roots Festival de Byron Bay, puis partir en Australie-Occidentale un ou deux mois.
 
-3 days and I didn't write on my blog, what's happen?
+2. Rester à Melbourne jusqu'à mi-avril, aller au festival, puis rester à Brisbane ou à l'Arts Factory jusqu'au vol de retour en France.
 
-Well, my life is more relax now. I'm working almost every day, every time the manager needs somebody he call me. I've worked more than 30hours this weeks that just 100$ more but its huge when usually you earn just 20$.
+3. Rester à Melbourne, aller voir Keb Mo en concert ici, puis partir en Australie-Occidentale un ou deux mois.
 
-So that makes me happy, and the backpacker it’s quite nice.
+4. Rester à Melbourne, voir Keb Mo, puis retour à Brisbane ou à l'Arts Factory jusqu'au vol.
 
-We are still 2 in the room and downstairs we are playing guitar every night, there's just one night we didn't bring the guitars, I wanted to see how it was with music.
+Au backpacker, j'ai fait la connaissance de Paula, une Irlandaise vraiment sympa. Aujourd'hui elle a un entretien d'embauche et cherche un appartement avec une amie. Peut-être que nous le chercherons à plusieurs — plus facile à trois ou quatre.
 
-It was so boring, nobody talks or does something, and they are just smoking and drinking.
+Côté boulot, j'essaie de dépasser 20 heures — j'en ai fait 33 la semaine dernière, pas un temps plein mais bien mieux. Je vais essayer de trouver un deuxième mi-temps.
 
-So, I don't feel bad playing guitar every night.
+Plus de grands discours — je vis et j'attends tranquillement de rentrer en France en juillet. J'ai vécu six mois extraordinaires et je ne peux pas m'attendre à revivre exactement la même chose. Je vis simplement, et si une belle occasion se présente, je la saisir. Sinon, j'ai déjà assez de bonheur en tête.
 
-But I'm working and playing and I didn't look for Pubs with live music, which is a bad thing so tonight I'll try to go.
+## **Je me suis fait licencier à nouveau !**
 
-Sorry, I don't feel like writing today, I'm going to work and continue later. Bye.
+Ça devait arriver — la vieille dame avait fini par me l'avoir.
 
-## **Life is like a quiet river.**
+Ce qui m'a mis hors de moi, ce n'est pas d'avoir été licencié — c'est qu'elle a prétendu que j'avais volé de l'argent dans la caisse. Ce qui est évidemment faux. J'en ai parlé au manager qui m'a dit : « Elle a déjà fait ça avant... »
 
-I take it easy, that how I am now. I have got few options for the rest of my trip.
+Quoi qu'il en soit, je vais la voir ce soir — il n'est pas juste de me faire licencier via le manager avec une fausse accusation. Je veux qu'elle me regarde dans les yeux et le dise elle-même.
 
-1. I'm staying in Melbourne until mid-April and if I saved enough I go to the blues and roots festival in Byron Bay, after I go to WA for 1 or 2 months.
+La vie continue. Je ne vais pas la laisser gâcher la suite de mon voyage.
 
-2. I'm staying in Melbourne until mid-April and if I saved enough I go to the blues and roots festival in Byron Bay, after I stay in Brisbane or The Arts Factory until I go back to France.
+Il faut maintenant chercher du travail — la pire partie de ce voyage, mais impossible de s'arrêter.
 
-3. I'm staying in Melbourne and go to see Keb Mo in Melbourne and after that I go to WA for 1 or 2 months.
+Je me suis amusé à repenser à mes quatre expériences de travail en Australie — et à constater que chaque fois que quelque chose de mauvais se passait, quelque chose de bien suivait.
 
-4. I'm staying in Melbourne and go to see Keb Mo in Melbourne and after that I go to Brisbane or The Arts Factory until I go back to France.
+Le premier boulot, une seule nuit au Tivoli Theater Restaurant à Brisbane, avant de partir sur la route avec Rémy et Big Banana. Excellent choix en rétrospective : des aventures incroyables.
 
-At the backpacker I made a friend, her name is Paula she's Irish she's a very nice lad. Today she has an interview for a job and she wants to get a flat with a friend of her, maybe we'll get a flat all together, it might be easier to find a house for 3 or 4 people than just a room.
+Le deuxième, kitchen hand aux Beaches Backpacker d'Airlie Beach. Malgré le licenciement, j'y ai rencontré Adam — mon meilleur ami du voyage — et Verena, et c'est Émeric qui m'a parlé du Rainbow Gathering.
 
-About my job I try to work more than 20 hours, last week I worked 33 hours, it's not a full time but its better. I'll try anyway to get another part time job.
+Le troisième, kitchen hand au Thala Beach Lodge à Port Douglas. Le meilleur pour économiser — 3 000 $ en six semaines. J'ai quitté de moi-même car je perdais mon temps dans ce faux paradis. Et j'ai vendu Big Banana 3 700 $ à Cairns, soit 1 000 $ de bénéfice.
 
-No more no less to say I'm just waiting relax to go back to France in July, I had an amazing time for 6 months and I can't try to live the same thing again, I'm just living my life and if I've got the opportunity to live something as nice as I did I will otherwise I have enough happiness in my head.
+Avec cet argent, l'Arts Factory à Byron Bay — Jimmy le Hollandais, Simon le Canadien, Mary l'Allemande, la magie de ce lieu.
+Puis Brisbane pour retrouver Jess et Kristy, le festival Woodford pour le nouvel an de mes rêves — Jess et Kristy m'ont accompagné quelques jours. Sydney avec Adam et Verena. Puis Melbourne.
 
-## **I got fired again!!!!!!!!!!**
+Tout ça pour réaliser que les bons et les mauvais moments arrivent constamment, et que sur le coup on peut être triste ou en colère, mais la vie est un miracle, imprévisible, et _B.E.A.Utiful_. Je continue à y aller avec espoir, rêves, joie et amour.
 
-It had to happen, the bitch had me.
+Je n'ai pas écrit depuis _La vie comme un fleuve tranquille_, mais jour après jour il y a de plus en plus de gens dans ce fleuve autour de moi : Thomas, Chloé — une Française vraiment sympa — et un couple de gars sympas. J'ai aussi rencontré trois Espagnoles, parties deux semaines pour une ferme faire de la cueillette de melon, mais qui reviennent bientôt.
 
-The problem it’s not that she fired me the problem is that she said I stole money in the till, which is obviously untrue. I've talked to the manger and he was sorry for me, he told me " She did that before..."
+Mais la meilleure arrivée, c'est Simon, le Canadien de l'Arts Factory à Byron Bay. Un jour, il est passé au backpacker cinq minutes pour son boulot, et par hasard je l'ai aperçu. Le lendemain, nous avons passé une soirée incroyable dans un pub de Brunswick Street — et il connaissait Chloé depuis Sydney. Comme on dit : les grandes âmes se rencontrent.
 
-Anyway I'm going to see her tonight because it’s not fair to ask the manger to fired me with a wrong reason, I want her to have some courage and looking at me in my eyes and say that I have steal money.
+Simon est quelqu'un de vraiment bien, il apporte une énergie formidable. Nous jouons de la guitare et il veut aller jammer avec une amie à lui — une fille qui joue de la trompette dans le groupe que nous avons vu à Brunswick Street.
 
-Anyway, life goes on, I don't want to let her ruin my dreams and the rest of my trip down under.
+Alija, la fille russo-allemande avec qui j'avais joué dans la rue mon premier soir à Melbourne, est aussi de retour pour peu de temps. Pas si mal.
 
-Now I've got to look for a job, which is the worst part of my journey, but I can't stop thinking of the fact that I worked 4 times in Australia and all my jobs finished badly.
+Bref, aujourd'hui licencié, avec 350 $ en poche — mais des amis autour de moi, du beau temps et une vie qui continue.
 
-For the first on, I worked one night as a kitchen hand at the Tivoli Theater Restaurant in Brisbane and after one shift I realized that I wanted to go on the road with Remy and big banana.  
-Afterward it was a very good thing because I had an awesome time and when I was broke I got a job in Airlie Beach, I stayed there more than a month; I met Adam the best friend I made on my trip, Verena with who I had a very good time in Airlie and later in Sydney, I also met Emrique, which is the person who told me about the Hippy Rainbow Gathering.
+## **Bonjour tout le monde !**
 
-For my second job, I worked as a kitchen hand at the Beaches Backpacker Restaurant in Airlie. Even if I was good in my job as the head chef said to the boss:  
-"He's the best kitchen hand we ever had", I got fired for the first time of my life but I accepted it because it was fare. Afterward it was a very good thing because I went to Cairns with Adam and we found the Rainbow Gathering where I met so many nice people and I lived an adventure that changed the rest of my trip and a lot in my life.
+Ça fait un moment que je n'ai pas posté.
 
-For the third job, I worked as a Kitchen Hand at the Thala Beach Lodge Restaurant in Port Douglas. This job was the best to save money, lost in the rainforest, hosted in a bungalow at 300$ a night with free food, I had just to work and save some cash. I made 3000$ in 6 weeks by working 6 days a week between 10 and 12 hours a day paid 15 or 18$ per hour. I haven't been fired this time but I quit because I felt that I was wasting my time in this fake paradise. I had to sell Big Banana because he was sick, and instead of selling my van for a misery as I expected I made a ground by selling it in Cairns for 3700$.
+Je n'ai toujours pas de boulot, mais j'ai déposé quelques CV et j'ai un test dans un restaurant mardi en tant que kitchen hand.
 
-With that money I went to Byron bay at the Art Factory and lived there for a couple of weeks. I met Jimmy, the Dutch and Simon the Canadian with who I was playing guitar all the time, I played at the "Talent Show" with Mary the German girl and every day, minute, second in this palace was magical.  
-I even clean the kitchens for free accommodation once but I haven't really worked for 2 months.
+En attendant, j'ai joué de la musique — et c'était fantastique.
 
-Before Christmas I moved to Brisbane to see Jess and Kristy. I went to the Woodford Festival for a week in a musical dream; Jess and Kristy were there for few days and joined me for my first new year’s eve in Australia. A new year started, I moved down to Sydney to see Adam and it was just when Verena was there so I spend a week with her.
+Simon a emménagé avec Thomas et moi au Hotel Backpack. Jouer avec lui est vraiment un plaisir — il a son propre style, pas toujours facile à suivre car il change les rythmes et les accords quand ça lui chante, mais c'est un excellent exercice.
 
-All that story to realize that good and bad things happen all the time and you might be upset, angry, and sad on the time but life is a miracle, life is so unpredictable, life is so B.E.A.Utiful, and life is how you make it. I'll keep on going into it with hope, dreams, joy and love because I've got joy and love.
+Vendredi soir, nous avons été au Night Cat de Brunswick Street pour le concert de Rob Longstaff Band — déjà vu à Woodford. Un genre de reggae-blues-jazz, chanteur à la voix incroyable, musiciens très talentueux.
 
-I haven't written since "Life is like a quiet river" but day after day there is more and more people in that river around me, Thomas the French guy, we are in the same room and play guitar all the time, Chloe a very nice French girl and a couple of cool guys. I also met 3 Spanish girls, they left for 2 weeks to work in a farm doing melon picking but they are coming back soon.
+Avant le concert, Simon a invité Gabby, une amie qui joue de la trompette dans le groupe du Night Cat. Nous avons joué sur le toit et elle nous a rejoints pour une session impro. Si vous voulez savoir comment c'était — j'ai récupéré mon lecteur MP3, donc je peux enregistrer. La qualité n'est pas parfaite mais ça donne une bonne idée.
 
-But from far the best boat who floats in this river came few days ago its Simon the Canadian guy from the Arts Factory in Byron.  
-One day he went to the backpack just for 5 minutes for is job and by chance I've seen him, the day after we went to a pub in Brunswick Street, we had an amazing night and what are the odds he knew Chloe from Sydney, as we say in French "The great minds meet."
+J'ai eu le job au Red Tongue Restaurant de Brunswick Street — temps plein, horaires 17h00 jusqu'à la fermeture vers 23h00–1h00. Je peux peut-être trouver un second mi-temps qui finit à 15h00.
 
-Simon is a very good person and he brings such a good energy with him, we played guitar and he wants to go to jam with a friend of him, she's a girl and plays trumpet in the band we've seen in Brunswick St.
+Moins de quatre mois pour économiser assez pour le Blues and Roots Festival et l'Australie-Occidentale — c'est un défi, mais j'y vais.
 
-Another person came back Ally, the German-Russian girl with who I played in the street for my first night in Melbourne. She's not staying for long but it's nice to have her back for a while and thanks god she's not French, Melbourne is so full of French... like me ... okay whatever.
+## **Melbourne, les rêves qui s'envolent.**
 
-Well, today I've got fired, I've got 350$ in my pocket but in the other hand I've got friends around me, the weather is nice so life goes on!!!
+Blues and Roots Festival, Keb Mo, Australie-Occidentale, concerts et sessions de jeu — tous ces rêves se sont envolés. Dois-je pleurer ou rire ? Je ne sais pas, mais j'ai essayé.
 
-## **Hello everybody!!!!**
+J'ai raté Melbourne ou Melbourne m'a raté — je ne sais plus vraiment.
 
-It's been a while since I posted my last message.
+Le boulot au Red Tongue ? J'y ai travaillé deux fois, et la manager m'a dit qu'elle avait trouvé quelqu'un qui voulait rester un an. Elle garde quand même mon numéro « au cas où ». Peu importe, madame — ça ne change pas grand-chose.
 
-I still don't have a job but I gave a few resumes and I've got a test in a restaurant on Tuesday to work as a kitchen hand.
+Me voilà avec 50 $. En ajoutant les deux jours travaillés au Red Tongue, peut-être 170 $. Je suis riche !
 
-In the mean time I've been playing music and it was amazing.
+Hier, j'ai cherché du travail — rien. J'ai rempli un formulaire à l'agence du backpacker, mais le gars m'a dit qu'il me faudrait des chaussures de sécurité pour travailler. Comment les acheter avec 50 $ ?
 
-Simon, the Canadian guy I've met at the Arts Factory moved with Thomas and me at the Hotel Backpack. I really enjoy playing with him, he has his own style, it not always easy to follow him because he changes the rhythms or the chords when he want to but it's a nice exercise for me.
+Je me suis usé ici. J'ai beaucoup maigri, je suis fatigué, sans espoir. Il n'y a plus de raison de continuer à creuser dans la boue quand on sait que plus bas c'est encore de la boue.
 
-On Friday night we went to the Night Cat in Brunswick Street for the concert of Rob Longstaff Band. I have seen the band at the Woodford festival, it's a kind of reggae blues jazz, the singer has an amazing voice and the musicians, rather young, are all very talented.
+Mon auberge est payée jusqu'à vendredi. Je pourrais peut-être faire le ménage en échange d'un ou deux jours supplémentaires. Si je ne trouve pas un vrai boulot d'ici là, je retourne à Brisbane chez Jess et Kristy, en attendant juin pour rentrer en France. J'espère y trouver du travail pour économiser un peu et profiter de mes dernières semaines avec mes amis avant de reprendre une vie « normale » en France.
 
-Before the concert Simon invited a friend of him, Gabby. She plays trumpet in the band we've seen last week at the Night cat.
+## **Je suis de retour en Australie !**
 
-We were playing on the roof with Simon and Thomas and she joined us for a jamming session. If you want to know how well it was just listen it!!! Yes I've got my mp3 player back so now I can record. The sound is not the best sometime but it doesn't really matter.
+Juste un message rapide pour dire bonjour et donner des nouvelles.
 
-I had the job at the Red Tongue Restaurant in Brunswick Street. It's a full time job but I didn't ask how many hours a week and how much I'm going to be pay. The shift is 5pm to close, which is around 11 and 1am. I reckon I can get a supplementary job because I can find a job that finishes at 3pm.
+J'ai quitté Melbourne et tous ses tracas.
+Je suis à nouveau sur la route — dans un van, comme au bon vieux temps de Big Banana. Je voyage avec Thomas et Chloé, mes amis de Melbourne. Le temps est bien meilleur — Melbourne m'avait semblé aussi froide et grise que Dublin.
 
-I've got less than 4 months to save enough money to go to the Blues and Roots Festival and traveling the Western Australia, that kind of a challenge, I go for it and try to do as much as I can because I'm not going to come back in Australia that soon.
+Aujourd'hui nous roulons sur la péninsule d'Eyre en direction de la côte ouest pour du fruit picking. Il y a très peu de cybercafés ici, donc je ne donnerai des nouvelles que quand je pourrai.
 
-## **Melbourne the unreachable dreams.**
+À bientôt.
 
-Blues and Roots festival, Keb Mo, Western Australia, concerts and jamming, all those dreams are gone for good, should I cry, should I laugh, I don't know but I've tried.
+## **Australie-Occidentale.**
 
-I've failed Melbourne or Melbourne failed me I don't really know.
+Juste un message rapide pour dire que je vais bien. Je suis maintenant à Margaret River. Je prévois de prendre l'avion pour Darwin, voyager en bus jusqu'à Alice Springs, puis voler jusqu'à Brisbane pour dire au revoir à Jess et Kristy, avant de rentrer en France — pour combien de temps, je ne sais pas encore.
 
-As Jess would say it's just the traveler's blues it will be gone soon, I'd love to believe you my friend but this time I reckon I've crossed the line too far.
+J'attends vos messages car je ne peux pas tout écrire ici — le temps est limité et en Australie-Occidentale, il y a plus de kangourous que de cybercafés.
 
-What about the job at the Red Tongue you'd ask me, well I've worked there twice and today the manager told me that she found somebody who wants to stay for a year but!!! She keeps my phone number in case she needs a backup... whatever M'dame it doesn't change much to me.
-
-Here I am with 50$, I still got to go to the Red tongue to get my money for the days I've worked so I might have something like 170$, man I'm rich!!!
-
-Yesterday I've looked for jobs but there's zilch, I filled up an application at the job agency of the backpack but the guy said that I need boots to work, how I can buy them you prick!?!?!
-
-I feel like I'm in trouble since 2 months and I really don't feel like keep on looking for a job, living with 50$ a week, having no fun at all, what's the point really.
-
-I'm killing myself here, I've lost so much weight, I feel so tired, so hopeless there's no point of keep on digging in the shit when you know that deeper it's just more shit.
-
-My hostel is booked until Friday, I might clean the kitchen for free accommodation maybe 1 or 2 times so if I don't find a real, sure and proper job until there I'm going back to Brisbane to Jess and Kristy and wait until June to go back to France. Hopefully I'll get a job in Brisbane to save a bit of money to have a good time with my friends and getting ready to start a "normal" life in France...
-
-## **I'm Back in Australia**
-
-Hi everyone, just a short message to say Hi and to give some news.
-
-I've left Melbourne with all the troubles I had in this town.  
-Now I'm on the road again and in a Van like the good old time with Big Banana. I'm traveling with two friends the ones I've met in Melbourne Thomas and Chloe, The weather is better here Melbourne was so cold I felt like I was Back in Dublin, even the city and the people are very European.
-
-Today we are riding on the Eire Peninsula and heading to the West Coast to do some fruit picking. There's is no many internet shop here, there's nothing here, so I'm not going to give news every day but as often as I can.
-
-See you.
-
-## **Western Australia.**
-
-Hi every one,  
-Just another short message to say Hi to you all and I'm doing well in here I hope I'll have enough time to finish my trip around Oz, I'm now in Margaret River and I've planned to fly to Darwin Travel down to Alice Spring in Bus and Fly to Brisbane to say bye to Jess and Cri and then going back home for how long I don't really know.
-
-I AM WAITING YOU MESSAGES because I can't really tell everything here I don't have much time and in WA there is more kangaroo than the Internet cafe.
-
-See you all I wish you the best bye-bye
+À bientôt à tous. Je vous souhaite le meilleur.
 
 ### Photos
 
@@ -2503,19 +2315,22 @@ See you all I wish you the best bye-bye
 
 ## </div>
 
-## **This is the end....**
+## **This is the end...**
 
-Hello my dear Friends,  
-This is it, I'm here in Darwin the sun is shining, the sky is blue, the air conditioning is too cold and I've got mosquito bites everywhere.
+Bonjour à tous mes chers amis,
 
-Tonight I'm going back to Brisbane my last journey Down under, the adventure will be over soon.
+Ça y est. Je suis à Darwin — le soleil brille, le ciel est bleu, la climatisation est trop froide et les piqûres de moustiques couvrent mes bras.
 
-To be honest I don't know if I'm happy or sad about it, one year traveling around this huge country, I've tried almost all the imaginable ways like Plane, Bus, Campervans, Cars, Tours, Lift, Hitchhiking, etc… I've slept in backpackers, tents, houses, beach, 5stars resort, balcony, teepee, under the stars in the bush, etc...
+Ce soir, je prends l'avion pour Brisbane — mon dernier trajet ici. L'aventure sera bientôt terminée.
 
-I've lived so many experiences that my head is full of unforgettable memories I will need at least a couple of days to clear everything out and hopefully I'll soon write the final résumé of the adventure.
+Honnêtement, je ne sais pas si je suis heureux ou triste. Un an à voyager dans ce pays immense — j'ai essayé presque tous les modes de déplacement imaginables : avion, bus, vans, voitures, tours organisés, autostop... J'ai dormi dans des backpackers, des tentes, des maisons, sur la plage, dans un resort cinq étoiles, sur des balcons, dans des tipis, sous les étoiles dans le bush...
 
-## **Bye Australia Hello France.**
+J'ai vécu tant d'expériences que ma tête déborde de souvenirs inoubliables. Il me faudra certainement quelques jours pour tout démêler, et j'espère écrire bientôt le résumé final de cette aventure.
 
-This is it!!! The Oz adventure is over, back to reality, back to France. The experience was amaaaaaaaaaaazing, magical, full of joy I'd like to thanks all the people I've met on the road, for being so nice and now I'm sure now that in a journey the most important it's the people you meet.
+## **Bye Australia, Hello France.**
 
-> **«The most beautiful trip, it is the one you did not do yet. » (Loick Peyron)**
+C'est fait ! L'aventure australienne est terminée. Retour à la réalité, retour en France. L'expérience a été incroyable, magique, pleine de joie.
+
+Je voudrais remercier tous les gens rencontrés sur la route pour leur gentillesse — cette aventure m'a confirmé que dans un voyage, le plus important, ce sont les gens que l'on rencontre.
+
+> **« Le plus beau voyage, c'est celui que l'on n'a pas encore fait. » (Loïck Peyron)**

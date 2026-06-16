@@ -18,3 +18,11 @@ export const ArticleStrictSchema = z.object({
   tags: z.array(z.string()).optional(),
   draft: z.boolean().optional(),
 });
+
+export const TablatureStrictSchema = z.object({
+  title: z.string({ message: "Le titre est obligatoire" }),
+  date: z.coerce.date({ message: "La date doit être valide" }),
+  description: z.string().optional(),
+  tags: z.array(z.string()).optional(),
+  draft: z.boolean().optional(),
+});

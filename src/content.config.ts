@@ -48,8 +48,23 @@ const articles = defineCollection({
   }),
 });
 
+{
+  /* La collection "tablatures" est définie de manière similaire, avec des champs adaptés aux articles de blog. */
+}
+const tablatures = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/tablatures" }),
+  schema: z.object({
+    title: z.string(),
+    date: z.coerce.date(),
+    tags: z.array(z.string()).optional(),
+    description: z.string().optional(),
+    draft: z.boolean().optional(),
+  }),
+});
+
 export const collections = {
   projects,
   voyages,
   articles,
+  tablatures,
 };

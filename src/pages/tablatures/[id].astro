@@ -1,54 +1,63 @@
 ---
 import { getCollection, render } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
-import { VoyageStrictSchema } from "../../schema";
-import TravelMap from "../../components/TravelMap.astro";
-import { australiaItinerary } from "../../data/australiaItinerary";
+import { TablatureStrictSchema } from "../../schema";
 
 export async function getStaticPaths() {
-  const voyages = await getCollection("voyages");
-  return voyages.map((voyage) => ({
-    params: { id: voyage.id },
-    props: { voyage: voyage },
+  const tablatures = await getCollection("tablatures");
+  return tablatures.map((tablature) => ({
+    params: { id: tablature.id },
+    props: { tablature },
   }));
 }
 
-const { voyage } = Astro.props;
-const validation = VoyageStrictSchema.safeParse(voyage.data);
-const { Content } = await render(voyage);
+const { tablature } = Astro.props;
+const validation = TablatureStrictSchema.safeParse(tablature.data);
+const { Content } = await render(tablature);
+
+// Formatage propre de la date pour l'en-tête (ex: 15 janvier 2026)
+const formattedDate = validation.success
+  ? new Date(validation.data.date).toLocaleDateString("fr-FR", {
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+    })
+  : "";
 ---
 
 <Layout title={validation.success ? validation.data.title : "Erreur de configuration"}>
   {
     !validation.success ? (
+      /* ÉCRAN D'ERREUR HARMONISÉ */
       <div class="p-4 bg-[#ffebe9] border border-[#rgba(248,81,73,0.4)] rounded-md text-[#cf222e] space-y-2">
         <h1 class="text-lg font-semibold flex items-center gap-2">⚠️ Frontmatter Invalide</h1>
         <p class="text-sm">
-          Le fichier de ce voyage ne peut pas être rendu correctement car des variables obligatoires
-          sont absentes :
+          Le fichier de cet tablature ne peut pas être rendu correctement car des variables
+          obligatoires sont absentes ou invalides :
         </p>
         <ul class="list-disc pl-5 text-xs font-mono bg-white p-3 border border-[#d0d7de] rounded">
-          {validation.error.issues.map((issue) => (
+          {validation.error.issues.map((issue: { path: any[]; message: unknown }) => (
             <li>
               {issue.path.join(".")}: {issue.message}
             </li>
           ))}
         </ul>
         <p class="text-xs pt-2">
-          <a href="/voyages" class="text-[#0969da] hover:underline">
+          <a href="/tablatures" class="text-[#0969da] hover:underline">
             ← Retour à la liste
           </a>
         </p>
       </div>
     ) : (
-      <article class="space-y-6">
+      /* RENDER DE L'ARTICLE STYLE VOYAGE / GITHUB */
+      <tablature class="space-y-6">
         <header class="pb-5 border-b border-[#d0d7de]">
           <div class="flex flex-wrap items-center gap-2 text-sm text-[#636c76] mb-2">
-            <a href="/voyages" class="text-[#0969da] hover:underline">
-              Voyages
+            <a href="/tablatures" class="text-[#0969da] hover:underline">
+              Tablatures
             </a>
             <span>/</span>
-            <span class="font-semibold text-[#1f2328]">{voyage.id}</span>
+            <span class="font-semibold text-[#1f2328]">{tablature.id}</span>
           </div>
 
           <h1 class="text-2xl font-semibold text-[#1f2328] tracking-tight">
@@ -56,9 +65,7 @@ const { Content } = await render(voyage);
           </h1>
 
           <div class="mt-2 flex flex-wrap items-center gap-3 text-sm text-[#57606a]">
-            <p class="text-sm text-[#57606a] mt-1">
-              {validation.data.country} · {validation.data.period}
-            </p>
+            <span class="font-medium text-[#1f2328]">{formattedDate}</span>
             {validation.data.tags && validation.data.tags.length > 0 && (
               <>
                 <span>•</span>
@@ -73,17 +80,11 @@ const { Content } = await render(voyage);
             )}
           </div>
         </header>
-        {/* 3. Affichage conditionnel de la carte de votre voyage */}
-        {voyage.id === "road-trip-en-australie-2005-2006" && (
-          <div class="my-6">
-            <h2 class="text-lg font-semibold text-[#1f2328] mb-3">Tracé de l'itinéraire</h2>
-            <TravelMap locations={australiaItinerary} />
-          </div>
-        )}
-        <div class="prose prose-sm max-w-none markdown-body">
+
+        <div class="prose prose-sm max-w-none text-[#1f2328] space-y-4 markdown-body">
           <Content />
         </div>
-      </article>
+      </tablature>
     )
   }
 </Layout>
