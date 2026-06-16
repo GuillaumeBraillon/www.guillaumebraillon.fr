@@ -249,19 +249,19 @@ Mais bon ça peut pas être les vacances tous les jours, quoique …
 
 <div class="gallery">
 
-![Miami 053](./images/miami-053.jpg)
+![Miami 053](./images/Miami-053.jpg)
 
-![Miami 092](./images/miami-092.jpg)
+![Miami 092](./images/Miami-092.jpg)
 
-![Miami 104](./images/miami-104.jpg)
+![Miami 104](./images/Miami-104.jpg)
 
-![Miami 105](./images/miami-105.jpg)
+![Miami 105](./images/Miami-105.jpg)
 
-![Miami 005](./images/miami-005.jpg)
+![Miami 005](./images/Miami-005.jpg)
 
-![Miami 015](./images/miami-015.jpg)
+![Miami 015](./images/Miami-015.jpg)
 
-![Miami 045](./images/miami-045.jpg)
+![Miami 045](./images/Miami-045.jpg)
 
 </div>
 Etes vous allez à Miami vous en gardez de bons souvenir ?
