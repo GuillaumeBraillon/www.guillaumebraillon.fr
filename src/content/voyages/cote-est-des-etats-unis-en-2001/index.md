@@ -5,6 +5,7 @@ country: "USA"
 period: "Mai 2001"
 description: "Carnet de voyage de mon premier voyage seul à l'étranger, de New York à Chicago en passant par la côte Est."
 tags: ["Carnets de voyages"]
+thumbnail: "02.jpg"
 ---
 
 _Carnet de voyage de mon 1er voyage seul à l'étranger. Je suis parti à New York en mai 2001, puis j'ai bougé sur la côte Est, de Washington à Chicago, en passant par Saint-Louis, Memphis et plein d'autres villes..._

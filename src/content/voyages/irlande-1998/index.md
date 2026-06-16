@@ -6,6 +6,7 @@ period: "Septembre 1998"
 description: "Récit d'un voyage en Irlande en septembre 1998, entre paysages sauvages et ambiance studio de blues sur la route."
 categories: ["Voyages"]
 tags: ["Carnets de voyages"]
+thumbnail: "map9.png"
 ---
 
 _Récit réalisé par Jean-Claude Braillon._

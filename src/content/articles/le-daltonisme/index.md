@@ -3,6 +3,7 @@ title: "Le daltonisme"
 date: 2014-08-23
 tags: ["Divers"]
 description: "Explication du daltonisme, une anomalie visuelle affectant la perception des couleurs due à un défaut des cônes de la rétine."
+thumbnail: "Ishihara_111-1024x1024.png"
 ---
 
 # Le daltonisme

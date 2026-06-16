@@ -3,6 +3,7 @@ title: "Biographie musicale."
 date: 2021-07-18
 tags: ["Musique", "Guitare"]
 description: "Mon parcours de guitariste depuis 1994, des influences blues et jazz jusqu'aux sessions en groupe et au home studio."
+thumbnail: "Guillaume 2000.JPG"
 ---
 
 > Depuis ma première guitare reçue à Noël 1994 jusqu'aux jam sessions lyonnaises, la musique a toujours accompagné les grandes étapes de ma vie.

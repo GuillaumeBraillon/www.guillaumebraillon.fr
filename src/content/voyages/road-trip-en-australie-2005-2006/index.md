@@ -6,6 +6,7 @@ period: "2005 - 2006"
 duration: "1 an"
 date: 2006-08-01
 tags: ["Carnets de voyages", "BackPacking", "Musique"]
+thumbnail: "images/100_7448.jpg"
 ---
 
 ## **Mercredi 29 juin.**

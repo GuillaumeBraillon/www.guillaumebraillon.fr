@@ -3,6 +3,7 @@ title: "Mon matos"
 date: 2012-07-18
 tags: ["Musique", "Guitare"]
 description: "Présentation de mes instruments et équipements musicaux, de la Fender Stratocaster SRV à mes amplis favoris."
+thumbnail: "Repete-Altjala-0961.jpg"
 ---
 
 # Mon matos
@@ -21,7 +22,7 @@ Le modèle n'a pratiquement pas évolué depuis sa première mouture, exception 
 
 L'autre atout majeur réside dans son set de **micros Custom Shop Texas Special**. Ces micros à simple bobinage délivrent des sonorités riches et détaillées grâce à des médiums très présents. Ils s'avèrent plus mordants et réactifs que les standards de la marque, notamment le micro chevalet qui excelle sur des niveaux de saturation élevés.
 
-![Fender Stratocaster SRV](./Repete-Altjala-096-199x300.jpg)
+![Fender Stratocaster SRV](./Repete-Altjala-0961.jpg)
 
 #### Spécifications techniques
 
@@ -89,7 +90,7 @@ L'amPlug est une solution d'amplification nomade ultra-compacte qui se branche d
 
 Le modèle **AP2-AC** simule les circuits analogiques du légendaire canal _Top Boost_ de l'ampli à lampes **Vox AC30**. Ses circuits 100 % analogiques restituent fidèlement le grain britannique riche en harmoniques de cette époque. Cette version intègre également un effet trémolo complet (2 modes) ainsi que 9 effets numériques intégrés (3 types de chorus, 3 types de delay et 3 types de réverbe).
 
-![Vox amPlug V2 AC30](./ccc9d7d4-9200-4129-8e80-d969647f989b.__CR54010911091_PT0_SX300_V1___.webp)
+![Vox amPlug V2 AC30](./ccc9d7d4-9200-4129-8e80-d969647f989b.__CR54010911091_PT0_SX300_V1___.jpg)
 
 ---
 
@@ -103,7 +104,7 @@ Introduite à la fin des années 70 sous la déclinaison TS808, cette pédale d'
 
 La TS808 a été remplacée en 1982 par la **TS9**, puis par la TS10 (1986) et la TS5 (1990), avant qu'Ibanez ne relance la production de ses modèles vintage face à la demande.
 
-![Ibanez TS9](./HOSHINOTS9-181x300.webp)
+![Ibanez TS9](./HOSHINOTS9.jpg)
 
 ---
 
@@ -116,7 +117,7 @@ Logée dans le boîtier compact standard de la marque, la RC-2 est une _Loop Sta
 - **Fonctions avancées :** Intègre les outils _Rhythm Guide_ (guide de rythmes), _Auto Start_ (déclenchement automatique), _Tap Tempo_, _Loop Quantize_ (quantification de la boucle au tempo) et les commandes d'annulation _Undo/Redo_.
 - **Intégration :** Son format compact respecte scrupuleusement les dimensions des pédaliers de la série Boss BCB.
 
-![Boss RC-2](./2011-10-01_03-265x300.jpg)
+![Boss RC-2](./2011-10-01_03.jpg)
 
 ---
 
@@ -124,7 +125,7 @@ Logée dans le boîtier compact standard de la marque, la RC-2 est une _Loop Sta
 
 La Jim Dunlop Cry Baby demeure la pédale de Wah-wah la plus populaire et la plus vendue au monde. Devenue un outil d'expression incontournable dans l'histoire de la guitare électrique, elle doit son succès aux artistes majeurs qui l'ont adoptée. Jimi Hendrix en reste le maître absolu, notamment à travers l'introduction historique du morceau _Voodoo Child (Slight Return)_, tout comme Slash qui possède désormais son propre modèle signature chez le fabricant.
 
-![Jim Dunlop Cry Baby](./81fvqpeEdSL._AC_SL1500_-1024x326.webp)
+![Jim Dunlop Cry Baby](./81fvqpeEdSL._AC_SL1500_.jpg)
 
 ---
 
@@ -134,7 +135,7 @@ Le GP-8 est une unité de traitement en rack de la fin des années 80 combinant 
 
 L'appareil propose un total de 31 paramètres modifiables répartis sur ses 8 effets, sauvegardables au sein de 128 patchs (organisés en groupes A/B de 8 sous-groupes). Le système supporte les sauvegardes et transferts de configurations via les protocoles MIDI Bulk Dump.
 
-![Roland GP8 + FC100 + EV5](http://medias.audiofanzine.com/images/normal/roland-gp-8-212371.jpg)
+![Roland GP8 + FC100 + EV5](./roland-gp-8-212371.jpg)
 
 #### Analyse des effets embarqués
 

@@ -31,6 +31,7 @@ const voyages = defineCollection({
     cover: z.string().optional(),
     categories: z.array(z.string()).optional(),
     tags: z.array(z.string()).optional(),
+    thumbnail: z.string().optional(),
   }),
 });
 
@@ -45,6 +46,7 @@ const articles = defineCollection({
     tags: z.array(z.string()).optional(),
     description: z.string().optional(),
     draft: z.boolean().optional(),
+    thumbnail: z.string().optional(),
   }),
 });
 

@@ -1,8 +1,19 @@
 ---
-import { getCollection } from "astro:content";
+import { getCollection, type CollectionEntry } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 
 const articles = await getCollection("articles");
+
+const images: Record<string, ImageMetadata> = import.meta.glob(
+  "/src/content/articles/**/*.{jpg,jpeg,png,webp,JPG,JPEG,PNG,WEBP}",
+  { eager: true, import: "default" }
+);
+
+const getImage = (article: CollectionEntry<"articles">) => {
+  const file = article.data.thumbnail;
+  const basePath = `/src/content/articles/${article.id}/${file}`;
+  return images[basePath] ?? images["/src/content/articles/default-thumbnail.png"];
+};
 
 // Tri robuste : gère les dates complètes et les années seules
 const sortedArticles = articles.sort((a, b) => {
@@ -24,49 +35,62 @@ const sortedArticles = articles.sort((a, b) => {
 
   <div class="divide-y divide-[#d0d7de]">
     {
-      sortedArticles.map((article) => (
-        <div class="py-4 flex flex-col sm:flex-row sm:items-start justify-between gap-4">
-          <div class="space-y-1 max-w-3xl">
-            <div class="flex items-center gap-2">
-              <a
-                href={`/articles/${article.id}`}
-                class="text-lg font-semibold text-[#0969da] hover:underline flex items-center gap-2"
-              >
-                <svg
-                  class="text-[#636c76]"
-                  viewBox="0 0 16 16"
-                  width="16"
-                  height="16"
-                  fill="currentColor"
-                >
-                  <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 1 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 0 1 1-1h8z" />
-                </svg>
-                {article.data.title}
-              </a>
-            </div>
-
-            {article.data.description && (
-              <p class="text-[14px] text-[#57606a] leading-normal">{article.data.description}</p>
+      sortedArticles.map((article) => {
+        const img = getImage(article);
+        return (
+          <div class="py-4 flex flex-col sm:flex-row sm:items-start gap-4">
+            {img && (
+              <img
+                src={img.src}
+                width={img.width}
+                height={img.height}
+                alt={article.data.title}
+                class="w-24 h-24 object-cover rounded"
+                loading="lazy"
+              />
             )}
+            <div class="space-y-1 max-w-3xl">
+              <div class="flex items-center gap-2">
+                <a
+                  href={`/articles/${article.id}`}
+                  class="text-lg font-semibold text-[#0969da] hover:underline flex items-center gap-2"
+                >
+                  <svg
+                    class="text-[#636c76]"
+                    viewBox="0 0 16 16"
+                    width="16"
+                    height="16"
+                    fill="currentColor"
+                  >
+                    <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 1 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 0 1 1-1h8z" />
+                  </svg>
+                  {article.data.title}
+                </a>
+              </div>
 
-            <div class="pt-2 flex flex-wrap gap-1.5">
-              <span class="text-[11px] text-[#636c76] bg-[#f6f8fa] px-2 py-0.5 rounded-full font-medium border border-[#d0d7de]">
-                {article.data.date.toLocaleDateString("fr-FR", {
-                  year: "numeric",
-                  month: "long",
-                  day: "numeric",
-                })}
-              </span>
-              {article.data.tags &&
-                article.data.tags.map((tag) => (
-                  <span class="text-[11px] text-[#0969da] bg-[#ddf4ff] px-2 py-0.5 rounded-full font-medium">
-                    {tag}
-                  </span>
-                ))}
+              {article.data.description && (
+                <p class="text-[14px] text-[#57606a] leading-normal">{article.data.description}</p>
+              )}
+
+              <div class="pt-2 flex flex-wrap gap-1.5">
+                <span class="text-[11px] text-[#636c76] bg-[#f6f8fa] px-2 py-0.5 rounded-full font-medium border border-[#d0d7de]">
+                  {article.data.date.toLocaleDateString("fr-FR", {
+                    year: "numeric",
+                    month: "long",
+                    day: "numeric",
+                  })}
+                </span>
+                {article.data.tags &&
+                  article.data.tags.map((tag) => (
+                    <span class="text-[11px] text-[#0969da] bg-[#ddf4ff] px-2 py-0.5 rounded-full font-medium">
+                      {tag}
+                    </span>
+                  ))}
+              </div>
             </div>
           </div>
-        </div>
-      ))
+        );
+      })
     }
   </div>
 </Layout>

@@ -9,6 +9,7 @@ export const VoyageStrictSchema = z.object({
   duration: z.string().optional(),
   cover: z.string().optional(),
   tags: z.array(z.string()).optional(),
+  thumbnail: z.string().optional(),
 });
 
 export const ArticleStrictSchema = z.object({
