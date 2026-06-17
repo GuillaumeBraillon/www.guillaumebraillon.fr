@@ -1,5 +1,6 @@
-import { defineCollection, z } from "astro:content";
+import { defineCollection } from "astro:content";
 import { glob } from "astro/loaders";
+import { z } from "astro/zod";
 
 const projects = defineCollection({
   loader: glob({ pattern: "**/[^_]*.md", base: "./src/content/projects" }),
@@ -8,7 +9,7 @@ const projects = defineCollection({
     description: z.string({ message: "La description est obligatoire" }),
     tech: z.array(z.string()).optional(),
     date: z.coerce.date().optional(),
-    githubUrl: z.string().url({ message: "L'URL GitHub doit être valide" }),
+    githubUrl: z.url({ message: "L'URL GitHub doit être valide" }),
     featured: z.boolean().optional(),
   }),
 });
@@ -22,10 +23,9 @@ const voyages = defineCollection({
     period: z.string({ message: "La période est obligatoire" }),
     description: z.string({ message: "La description est obligatoire" }),
     duration: z.string().optional(),
-    cover: z.string().optional(),
-    categories: z.array(z.string()).optional(),
     tags: z.array(z.string()).optional(),
     thumbnail: z.string().optional(),
+    itinerary: z.enum(["australia"]).optional(),
   }),
 });
 
@@ -35,7 +35,6 @@ const articles = defineCollection({
     title: z.string({ message: "Le titre est obligatoire" }),
     date: z.coerce.date({ message: "La date doit être valide" }),
     tags: z.array(z.string()).optional(),
-    categories: z.array(z.string()).optional(),
     description: z.string().optional(),
     draft: z.boolean().optional(),
     thumbnail: z.string().optional(),

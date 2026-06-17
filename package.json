@@ -8,11 +8,14 @@
   "scripts": {
     "dev": "LANG=en_US.UTF-8 LC_ALL=en_US.UTF-8 astro dev",
     "build": "astro build",
+    "check": "astro check",
+    "fix": "npm run format && npm run lint:fix && npm run tsc && npm run check",
     "preview": "astro preview",
     "astro": "astro",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
-    "format": "prettier . --write"
+    "format": "prettier . --write",
+    "tsc": "tsc --noEmit"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.9",

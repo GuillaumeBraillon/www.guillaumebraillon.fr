@@ -1,8 +1,6 @@
 ---
 title: "Mes clips vidéos"
-slug: mes-vidos-youtube
 date: 2012-07-19
-categories: ["Musique"]
 tags: ["montage-videos"]
 description: "Découvrez mes compositions originales à la guitare, sessions de loop et performances live enregistrées en Irlande et en Australie."
 ---

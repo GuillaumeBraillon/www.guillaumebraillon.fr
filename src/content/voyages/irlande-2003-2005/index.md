@@ -4,7 +4,6 @@ date: 2003-08-01
 country: "Irlande"
 period: "2003 - 2005"
 description: "Le début d'une aventure irlandaise au long cours, commençant par une traversée mouvementée et des bivouacs improvisés."
-categories: ["Voyages"]
 tags: ["Carnets de voyages"]
 ---
 
@@ -16,7 +15,7 @@ Je suis parti avec mon oncle jusqu'à Paris où il va camper avec sa famille que
 Arrivé à Paris j’ai rendez vous avec des amis qui pourront m’héberger jusqu’au 04 Août, date à laquelle je prend le ferry pour l’Irlande.  
 Nous sommes arrivé à Paris vers 12 H 30, nous allons au Camping du bois de Boulogne où ils ont réservé un emplacement, moi je n’arrive pas à joindre mes amis. En attendent je les aide à installer les tentes.  
 Plus tard, sans nouvelle de mes amis je décide de rester avec mon oncle, en attendant de les joindre.  
-Nous sommes donc allés visiter le château de Versailles, nous avons visité les jardins du château. Pascale (la compagne de mon oncle) et son fils sont allé visiter l’intérieur du château, et je suis resté avec mon oncle.  
+Nous sommes donc allés visiter le château de Versailles, nous avons visité les jardins du château. Pascale (la compagne de mon oncle) et son fils sont allé visiter l’intérieur du château, et je suis resté avec mon oncle.
 Le soir nous sommes rentré au camping, je n’ai toujours pas de nouvelles de mes amis. Je vais donc rester avec mon oncle au camping, mais comme je n’avais pas prévu de camper, je vais être obligé de dormir dans la voiture.
 
 **_Le 2 Août 2003._**

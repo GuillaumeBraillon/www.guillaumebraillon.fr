@@ -4,7 +4,6 @@ date: 2004-10-02
 country: "USA"
 period: "Octobre 2004"
 description: "Départ pour Miami Beach entre nuits blanches à Paris et incertitudes après le passage des ouragans en Floride."
-categories: ["Voyages"]
 tags: ["Carnets de voyages"]
 thumbnail: "images/mercredi-06-10-04-003.jpg"
 ---

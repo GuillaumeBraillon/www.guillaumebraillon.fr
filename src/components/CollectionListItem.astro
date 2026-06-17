@@ -1,0 +1,61 @@
+---
+import RepoIcon from "./RepoIcon.astro";
+
+interface Thumbnail {
+  src: string;
+  width: number;
+  height: number;
+}
+
+interface Props {
+  href: string;
+  title: string;
+  description?: string;
+  thumbnail?: Thumbnail;
+  thumbnailAlt?: string;
+  wrapperClass?: string;
+}
+
+const {
+  href,
+  title,
+  description,
+  thumbnail,
+  thumbnailAlt = title,
+  wrapperClass = "",
+} = Astro.props as Props;
+---
+
+<div class={`py-4 flex flex-col sm:flex-row sm:items-start gap-4 ${wrapperClass}`.trim()}>
+  {
+    thumbnail && (
+      <img
+        src={thumbnail.src}
+        width={thumbnail.width}
+        height={thumbnail.height}
+        alt={thumbnailAlt}
+        class="w-24 h-24 object-cover rounded"
+        loading="lazy"
+      />
+    )
+  }
+
+  <div class="space-y-1 max-w-3xl min-w-0">
+    <div class="flex items-center gap-2 min-w-0 flex-wrap">
+      <a
+        href={href}
+        class="text-lg font-semibold text-[#0969da] hover:underline flex items-center gap-2 min-w-0"
+      >
+        <RepoIcon class="text-[#636c76]" />
+        <span class="truncate">{title}</span>
+      </a>
+      <slot name="titleBadge" />
+    </div>
+
+    {description && <p class="text-[14px] text-[#57606a] leading-normal">{description}</p>}
+
+    <div class="pt-2 flex flex-wrap gap-1.5">
+      <slot name="meta" />
+    </div>
+  </div>
+</div>

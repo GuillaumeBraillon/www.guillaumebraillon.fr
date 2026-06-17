@@ -1,8 +1,11 @@
 ---
+import Badge from "../../components/Badge.astro";
+import ContentHeader from "../../components/ContentHeader.astro";
+import MarkdownImages from "../../components/MarkdownImages.astro";
 import { render } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import TravelMap from "../../components/TravelMap.astro";
-import { australiaItinerary } from "../../data/australiaItinerary";
+import { itineraries } from "../../data/itineraries";
 import { getPublishedCollection } from "../../lib/content";
 
 export async function getStaticPaths() {
@@ -20,47 +23,29 @@ const { Content } = await render(voyage);
 
 <Layout title={data.title}>
   <article class="space-y-6">
-    <header class="pb-5 border-b border-[#d0d7de]">
-      <div class="flex flex-wrap items-center gap-2 text-sm text-[#636c76] mb-2">
-        <a href="/voyages" class="text-[#0969da] hover:underline"> Voyages </a>
-        <span>/</span>
-        <span class="font-semibold text-[#1f2328]">{voyage.id}</span>
-      </div>
-
-      <h1 class="text-2xl font-semibold text-[#1f2328] tracking-tight">
-        {data.title}
-      </h1>
-
-      <div class="mt-2 flex flex-wrap items-center gap-3 text-sm text-[#57606a]">
-        <p class="text-sm text-[#57606a] mt-1">
-          {data.country} · {data.period}
-        </p>
-        {
-          data.tags && data.tags.length > 0 && (
-            <>
-              <span>•</span>
-              <div class="flex flex-wrap gap-1.5 items-center">
-                {data.tags.map((tag: string) => (
-                  <span class="text-[11px] text-[#0969da] bg-[#ddf4ff] px-2 py-0.5 rounded-full font-medium">
-                    {tag}
-                  </span>
-                ))}
-              </div>
-            </>
-          )
-        }
-      </div>
-    </header>
+    <ContentHeader href="/voyages" label="Voyages" current={voyage.id} title={data.title}>
+      <span slot="meta" class="text-sm text-[#57606a]">{data.country} · {data.period}</span>
+      {
+        data.tags &&
+          data.tags.length > 0 &&
+          data.tags.map((tag: string) => (
+            <Badge slot="meta" variant="tag">
+              {tag}
+            </Badge>
+          ))
+      }
+    </ContentHeader>
     {
-      voyage.id === "road-trip-en-australie-2005-2006" && (
+      data.itinerary && itineraries[data.itinerary] && (
         <div class="my-6">
           <h2 class="text-lg font-semibold text-[#1f2328] mb-3">Tracé de l'itinéraire</h2>
-          <TravelMap locations={australiaItinerary} />
+          <TravelMap locations={itineraries[data.itinerary]} />
         </div>
       )
     }
     <div class="prose prose-sm max-w-none markdown-body">
       <Content />
     </div>
+    <MarkdownImages />
   </article>
 </Layout>

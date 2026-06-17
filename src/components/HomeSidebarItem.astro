@@ -1,0 +1,38 @@
+---
+interface Thumbnail {
+  src: string;
+  width: number;
+  height: number;
+}
+
+interface Props {
+  href: string;
+  title: string;
+  thumbnail?: Thumbnail;
+  thumbnailAlt?: string;
+}
+
+const { href, title, thumbnail, thumbnailAlt = title } = Astro.props as Props;
+---
+
+<a href={href} class="gh-sidebar-item flex items-center gap-3 px-4 py-2.5 group transition-colors">
+  {
+    thumbnail && (
+      <img
+        src={thumbnail.src}
+        width={thumbnail.width}
+        height={thumbnail.height}
+        alt={thumbnailAlt}
+        class="w-12 h-12 object-cover rounded shrink-0"
+        loading="lazy"
+      />
+    )
+  }
+
+  <div class="flex items-center justify-between gap-2 min-w-0 flex-1">
+    <span class="text-[13px] font-medium gh-text gh-group-link truncate">
+      {title}
+    </span>
+    <slot name="badge" />
+  </div>
+</a>

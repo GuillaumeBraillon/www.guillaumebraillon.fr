@@ -1,0 +1,17 @@
+---
+import Badge from "./Badge.astro";
+
+interface Props {
+  title: string;
+  count: number;
+}
+
+const { title, count } = Astro.props as Props;
+---
+
+<div class="pb-4 mb-2 gh-divider-bottom">
+  <h1 class="text-xl font-semibold gh-text flex items-center gap-2">
+    {title}
+    <Badge variant="home" class="gh-badge--count">{count}</Badge>
+  </h1>
+</div>

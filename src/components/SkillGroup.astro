@@ -1,0 +1,25 @@
+---
+interface Props {
+  title: string;
+  skills: string[];
+  tone?: "info" | "success" | "muted" | "mono";
+}
+
+const { title, skills, tone = "info" } = Astro.props as Props;
+
+const badgeClasses: Record<NonNullable<Props["tone"]>, string> = {
+  info: "gh-badge gh-badge--tag border border-[rgba(9,105,218,0.2)]",
+  success: "gh-badge gh-badge--success border border-[rgba(26,127,55,0.2)]",
+  muted: "gh-badge gh-badge--count border border-[#d0d7de]",
+  mono: "gh-badge gh-badge--date border border-[#d0d7de] font-mono",
+};
+---
+
+<section class="gh-card overflow-hidden">
+  <div class="gh-surface-muted gh-divider-bottom px-4 py-2">
+    <span class="text-xs font-semibold gh-text">{title}</span>
+  </div>
+  <div class="p-3 flex flex-wrap gap-1.5">
+    {skills.map((skill) => <span class={badgeClasses[tone]}>{skill}</span>)}
+  </div>
+</section>

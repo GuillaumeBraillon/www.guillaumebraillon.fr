@@ -1,0 +1,22 @@
+---
+interface Props {
+  variant?: "default" | "tag" | "date" | "country" | "public" | "home" | "success";
+  class?: string;
+}
+
+const { variant = "default", class: className = "" } = Astro.props as Props;
+
+const styles: Record<NonNullable<Props["variant"]>, string> = {
+  default: "gh-badge",
+  tag: "gh-badge gh-badge--tag",
+  date: "gh-badge gh-badge--date",
+  country: "gh-badge gh-badge--country text-[12px] font-medium",
+  public: "gh-badge gh-badge--public text-[12px]",
+  home: "gh-badge gh-badge--home text-xs font-normal",
+  success: "gh-badge gh-badge--success",
+};
+---
+
+<span class={`${styles[variant]} ${className}`.trim()}>
+  <slot />
+</span>

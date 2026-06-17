@@ -1,0 +1,82 @@
+---
+import RepoIcon from "./RepoIcon.astro";
+
+interface Thumbnail {
+  src: string;
+  width: number;
+  height: number;
+}
+
+interface Props {
+  href: string;
+  title: string;
+  description: string;
+  thumbnail?: Thumbnail | null;
+  thumbnailAlt?: string;
+  variant?: "featured" | "compact";
+}
+
+const {
+  href,
+  title,
+  description,
+  thumbnail,
+  thumbnailAlt = title,
+  variant = "featured",
+} = Astro.props as Props;
+
+const wrapperClass =
+  variant === "featured"
+    ? "gh-card p-4 hover:border-[#0969da] transition-colors group flex gap-4"
+    : "gh-card p-3.5 flex gap-3 hover:border-[#0969da] transition-colors";
+
+const imageClass = variant === "featured" ? "w-24 h-24" : "w-16 h-16";
+const titleClass = variant === "featured" ? "text-[14px]" : "text-[14px]";
+const metaClass =
+  variant === "featured"
+    ? "mt-4 flex items-center gap-3 text-[12px] text-[#636c76]"
+    : "mt-3 text-[12px] text-[#636c76] flex items-center gap-1.5";
+---
+
+<article class={wrapperClass}>
+  {
+    thumbnail && (
+      <img
+        src={thumbnail.src}
+        width={thumbnail.width}
+        height={thumbnail.height}
+        alt={thumbnailAlt}
+        class={`${imageClass} object-cover rounded shrink-0`}
+        loading="lazy"
+      />
+    )
+  }
+
+  <div class="flex-1 min-w-0">
+    <div class="flex items-start justify-between gap-2 min-w-0">
+      <a
+        href={href}
+        class={`${titleClass} font-semibold gh-link hover:underline flex items-center gap-1.5 min-w-0`}
+      >
+        <RepoIcon class="gh-text-subtle" />
+        <span class="truncate">{title}</span>
+      </a>
+
+      {Astro.slots.has("titleBadge") && <slot name="titleBadge" />}
+    </div>
+
+    <p
+      class={`mt-${variant === "featured" ? "2" : "1"} text-[12px] gh-text-muted leading-normal line-clamp-2`}
+    >
+      {description}
+    </p>
+
+    {
+      Astro.slots.has("meta") && (
+        <div class={metaClass}>
+          <slot name="meta" />
+        </div>
+      )
+    }
+  </div>
+</article>

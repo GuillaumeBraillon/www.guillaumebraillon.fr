@@ -7,6 +7,7 @@ duration: "1 an"
 date: 2006-08-01
 tags: ["Carnets de voyages", "BackPacking", "Musique"]
 thumbnail: "images/100_7448.jpg"
+itinerary: "australia"
 ---
 
 ## **Mercredi 29 juin.**
