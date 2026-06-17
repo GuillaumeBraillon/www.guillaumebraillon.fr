@@ -1,7 +1,39 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import { getCollection } from "astro:content";
-import type { CollectionKey } from "astro:content";
+import type { CollectionEntry, CollectionKey } from "astro:content";
+
+const articleImages: Record<string, ImageMetadata> = import.meta.glob(
+  "/src/content/articles/**/*.{jpg,jpeg,png,webp,JPG,JPEG,PNG,WEBP}",
+  { eager: true, import: "default" }
+);
+
+const voyageImages: Record<string, ImageMetadata> = import.meta.glob(
+  "/src/content/voyages/**/*.{jpg,jpeg,png,webp,JPG,JPEG,PNG,WEBP}",
+  { eager: true, import: "default" }
+);
+
+const projectImages: Record<string, ImageMetadata> = import.meta.glob(
+  "/src/content/projects/**/*.{jpg,jpeg,png,webp,JPG,JPEG,PNG,WEBP}",
+  { eager: true, import: "default" }
+);
+
+const getArticleImage = (article: CollectionEntry<"articles">) => {
+  const file = article.data.thumbnail;
+  const basePath = `/src/content/articles/${article.id}/${file}`;
+  return articleImages[basePath] ?? articleImages["/src/content/articles/default-thumbnail.png"];
+};
+
+const getVoyageImage = (voyage: CollectionEntry<"voyages">) => {
+  const file = voyage.data.thumbnail;
+  const basePath = `/src/content/voyages/${voyage.id}/${file}`;
+  return voyageImages[basePath] ?? voyageImages["/src/content/voyages/default-thumbnail.png"];
+};
+
+const getProjectImage = (project: CollectionEntry<"projects">) => {
+  const basePath = `/src/content/projects/${project.id}.png`;
+  return projectImages[basePath] ?? projectImages["/src/content/projects/default-thumbnail.png"];
+};
 
 // 1. Chargement des projets (statique car structure d'affichage spécifique au centre)
 const projects = await getCollection("projects");
@@ -22,6 +54,8 @@ const otherProjects = projects
     return dateB - dateA;
   })
   .slice(0, 4);
+
+const featuredProjectImage = featuredProject ? getProjectImage(featuredProject) : null;
 
 // 2. GÉNÉRATION DYNAMIQUE DE LA LOGIQUE DES COLLECTIONS LATÉRALES
 const sidebarCollectionsConfig: {
@@ -78,7 +112,7 @@ const sidebarSections = await Promise.all(
       <div class="flex gap-2 shrink-0">
         <a
           href="/cv"
-          class="px-3 py-1.5 text-xs font-semibold text-[#24292f] bg-[#f6f8fa] border border-[#d0d7de] rounded-md shadow-sm hover:bg-[#f3f4f6] hover:border-[#c8d1d9] transition-colors"
+          class="px-3 py-1.5 text-xs font-semibold text-white bg-[#1f883d] border border-[rgba(27,31,36,0.15)] rounded-md shadow-sm hover:bg-[#1a7f37] active:bg-[#186c31] transition-colors"
         >
           Mon CV
         </a>
@@ -94,38 +128,50 @@ const sidebarSections = await Promise.all(
         </div>
         {
           featuredProject ? (
-            <div class="border border-[#d0d7de] rounded-md bg-white p-4 hover:border-[#0969da] transition-colors group">
-              <div class="flex items-start justify-between">
-                <a
-                  href={`/projects/${featuredProject.id}`}
-                  class="text-[14px] font-semibold text-[#0969da] hover:underline flex items-center gap-1.5"
-                >
-                  <svg
-                    class="text-[#636c76]"
-                    viewBox="0 0 16 16"
-                    width="16"
-                    height="16"
-                    fill="currentColor"
+            <div class="border border-[#d0d7de] rounded-md bg-white p-4 hover:border-[#0969da] transition-colors group flex gap-4">
+              {featuredProjectImage && (
+                <img
+                  src={featuredProjectImage.src}
+                  width={featuredProjectImage.width}
+                  height={featuredProjectImage.height}
+                  alt={featuredProject.data.title}
+                  class="w-24 h-24 object-cover rounded shrink-0"
+                  loading="lazy"
+                />
+              )}
+              <div class="flex-1 min-w-0">
+                <div class="flex items-start justify-between">
+                  <a
+                    href={`/projects/${featuredProject.id}`}
+                    class="text-[14px] font-semibold text-[#0969da] hover:underline flex items-center gap-1.5"
                   >
-                    <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 1 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 0 1 1-1h8z" />
-                  </svg>
-                  {featuredProject.data.title}
-                </a>
-                <span class="text-[12px] text-[#636c76] px-1.5 py-0.2 border border-[#d0d7de] rounded-full bg-[#f6f8fa]">
-                  Public
-                </span>
-              </div>
-              <p class="mt-2 text-[12px] text-[#57606a] leading-normal line-clamp-2">
-                {featuredProject.data.description}
-              </p>
-              {featuredProject.data.tech && featuredProject.data.tech.length > 0 && (
-                <div class="mt-4 flex items-center gap-3 text-[12px] text-[#636c76]">
-                  <span class="flex items-center gap-1.5">
-                    <span class="w-2.5 h-2.5 rounded-full bg-[#3178c6]" />{" "}
-                    {featuredProject.data.tech[0]}
+                    <svg
+                      class="text-[#636c76]"
+                      viewBox="0 0 16 16"
+                      width="16"
+                      height="16"
+                      fill="currentColor"
+                    >
+                      <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 1 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 0 1 1-1h8z" />
+                    </svg>
+                    {featuredProject.data.title}
+                  </a>
+                  <span class="text-[12px] text-[#636c76] px-1.5 py-0.2 border border-[#d0d7de] rounded-full bg-[#f6f8fa]">
+                    Public
                   </span>
                 </div>
-              )}
+                <p class="mt-2 text-[12px] text-[#57606a] leading-normal line-clamp-2">
+                  {featuredProject.data.description}
+                </p>
+                {featuredProject.data.tech && featuredProject.data.tech.length > 0 && (
+                  <div class="mt-4 flex items-center gap-3 text-[12px] text-[#636c76]">
+                    <span class="flex items-center gap-1.5">
+                      <span class="w-2.5 h-2.5 rounded-full bg-[#3178c6]" />{" "}
+                      {featuredProject.data.tech[0]}
+                    </span>
+                  </div>
+                )}
+              </div>
             </div>
           ) : (
             <p class="text-xs text-[#636c76]">Aucun projet configuré.</p>
@@ -141,35 +187,50 @@ const sidebarSections = await Promise.all(
         <div class="grid gap-3 sm:grid-cols-2">
           {
             otherProjects.length > 0 ? (
-              otherProjects.map((p) => (
-                <div class="border border-[#d0d7de] rounded-md bg-white p-3.5 flex flex-col justify-between hover:border-[#0969da] transition-colors">
-                  <div>
-                    <a
-                      href={`/projects/${p.id}`}
-                      class="text-[14px] font-semibold text-[#0969da] hover:underline flex items-center gap-1.5"
-                    >
-                      <svg
-                        class="text-[#636c76]"
-                        viewBox="0 0 16 16"
-                        width="14"
-                        height="14"
-                        fill="currentColor"
-                      >
-                        <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 1 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 0 1 1-1h8z" />
-                      </svg>
-                      {p.data.title}
-                    </a>
-                    <p class="mt-1 text-[12px] text-[#57606a] line-clamp-2 leading-normal">
-                      {p.data.description}
-                    </p>
-                  </div>
-                  {p.data.tech && p.data.tech.length > 0 && (
-                    <div class="mt-3 text-[12px] text-[#636c76] flex items-center gap-1.5">
-                      <span class="w-2.5 h-2.5 rounded-full bg-[#f1e05a]" /> {p.data.tech[0]}
+              otherProjects.map((p) => {
+                const img = getProjectImage(p);
+                return (
+                  <div class="border border-[#d0d7de] rounded-md bg-white p-3.5 flex gap-3 hover:border-[#0969da] transition-colors">
+                    {img && (
+                      <img
+                        src={img.src}
+                        width={img.width}
+                        height={img.height}
+                        alt={p.data.title}
+                        class="w-16 h-16 object-cover rounded shrink-0"
+                        loading="lazy"
+                      />
+                    )}
+                    <div class="flex flex-col justify-between min-w-0 flex-1">
+                      <div>
+                        <a
+                          href={`/projects/${p.id}`}
+                          class="text-[14px] font-semibold text-[#0969da] hover:underline flex items-center gap-1.5"
+                        >
+                          <svg
+                            class="text-[#636c76]"
+                            viewBox="0 0 16 16"
+                            width="14"
+                            height="14"
+                            fill="currentColor"
+                          >
+                            <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 1 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 0 1 1-1h8z" />
+                          </svg>
+                          {p.data.title}
+                        </a>
+                        <p class="mt-1 text-[12px] text-[#57606a] line-clamp-2 leading-normal">
+                          {p.data.description}
+                        </p>
+                      </div>
+                      {p.data.tech && p.data.tech.length > 0 && (
+                        <div class="mt-3 text-[12px] text-[#636c76] flex items-center gap-1.5">
+                          <span class="w-2.5 h-2.5 rounded-full bg-[#f1e05a]" /> {p.data.tech[0]}
+                        </div>
+                      )}
                     </div>
-                  )}
-                </div>
-              ))
+                  </div>
+                );
+              })
             ) : (
               <p class="text-xs text-[#636c76] col-span-2">Pas d'autres projets à afficher.</p>
             )
@@ -191,23 +252,37 @@ const sidebarSections = await Promise.all(
                   </a>
                 </div>
                 <div class="divide-y divide-[#d0d7de]">
-                  {section.items.map((item: any) => (
-                    <a
-                      href={`/${section.id}/${item.id}`}
-                      class="block px-4 py-2.5 hover:bg-[#f6f8fa] group transition-colors"
-                    >
-                      <div class="flex items-center justify-between gap-2">
-                        <span class="text-[13px] font-medium text-[#1f2328] group-hover:text-[#0969da] truncate">
-                          {item.data.title}
-                        </span>
-                        {item.data.country && (
-                          <span class="text-[11px] text-[#636c76] bg-[#eaeef2] px-1.5 py-0.5 rounded shrink-0">
-                            {item.data.country}
-                          </span>
+                  {section.items.map((item: any) => {
+                    const img =
+                      section.id === "articles" ? getArticleImage(item) : getVoyageImage(item);
+                    return (
+                      <a
+                        href={`/${section.id}/${item.id}`}
+                        class="flex items-center gap-3 px-4 py-2.5 hover:bg-[#f6f8fa] group transition-colors"
+                      >
+                        {img && (
+                          <img
+                            src={img.src}
+                            width={img.width}
+                            height={img.height}
+                            alt={item.data.title}
+                            class="w-12 h-12 object-cover rounded shrink-0"
+                            loading="lazy"
+                          />
                         )}
-                      </div>
-                    </a>
-                  ))}
+                        <div class="flex items-center justify-between gap-2 min-w-0 flex-1">
+                          <span class="text-[13px] font-medium text-[#1f2328] group-hover:text-[#0969da] truncate">
+                            {item.data.title}
+                          </span>
+                          {item.data.country && (
+                            <span class="text-[11px] text-[#636c76] bg-[#eaeef2] px-1.5 py-0.5 rounded shrink-0">
+                              {item.data.country}
+                            </span>
+                          )}
+                        </div>
+                      </a>
+                    );
+                  })}
                 </div>
               </section>
             )
