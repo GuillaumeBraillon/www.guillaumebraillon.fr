@@ -23,7 +23,7 @@ export const australiaItinerary: Array<{
     date: "Courant Juillet 2005",
     location: "Brisbane (Centre-ville et Stade), QLD, Australie",
     coords: [-27.4698, 153.0251],
-    anchor: "apres-quelques-jours",
+    anchor: "après-quelques-jours",
     details:
       "Je cherche un logement et un travail à Brisbane, mais échoue à décrocher un job au stade. Je commence à chercher un van.",
   },
@@ -32,7 +32,7 @@ export const australiaItinerary: Array<{
     date: "Courant Juillet 2005 (Premier week-end)",
     location: "Brisbane (The Valley et Tivoli Theater Restaurant), QLD, Australie",
     coords: [-27.4565, 153.0347],
-    anchor: "bientot-prets-pour-laventure",
+    anchor: "bientôt-prêts-pour-laventure",
     details:
       "J'achète un van Toyota à Brisbane, retrouve Kristy, et commence mon premier job comme aide-cuisinier au Tivoli Theater Restaurant.",
   },
@@ -41,6 +41,7 @@ export const australiaItinerary: Array<{
     date: "Courant Juillet 2005",
     location: "Gold Coast (Southport, Main Beach, Burleigh, Surfers Paradise), QLD, Australie",
     coords: [-28.0876, 153.4504],
+    anchor: "bientôt-prêts-pour-laventure",
     details:
       "Je teste le van sur la Gold Coast, découvre quelques soucis mécaniques et profite des plages et de l'ambiance festive de Surfers Paradise.",
   },
@@ -49,6 +50,7 @@ export const australiaItinerary: Array<{
     date: "Courant Juillet 2005",
     location: "Lone Pine Koala Sanctuary, Fig Tree Pocket, QLD, Australie",
     coords: [-27.5332, 152.9688],
+    anchor: "1er-contact-avec-les-koalas",
     details:
       "Je visite le Lone Pine Koala Sanctuary, approche des kangourous en liberté et observe les koalas.",
   },
@@ -57,7 +59,7 @@ export const australiaItinerary: Array<{
     date: "Courant Juillet 2005",
     location: "Maroochydore, Sunshine Coast, QLD, Australie",
     coords: [-26.6622, 153.1022],
-    anchor: "cest-parti-direction-cairns-1-600-km",
+    anchor: "cest-parti-direction-cairns--1-600-km",
     details:
       "Je commence la remontée vers Cairns malgré des soucis mécaniques, profite d'un barbecue en montagne et dors à Maroochydore.",
   },
@@ -66,6 +68,7 @@ export const australiaItinerary: Array<{
     date: "2005-07-19",
     location: "Noosa National Park, Sunshine Coast, QLD, Australie",
     coords: [-26.3802, 153.1118],
+    anchor: "noosa-national-park",
     details:
       "Je fais une randonnée au Noosa National Park, traversant forêt tropicale et plages, et admire le coucher de soleil sur l'océan.",
   },
@@ -74,6 +77,7 @@ export const australiaItinerary: Array<{
     date: "Fin Juillet 2005",
     location: "Hervey Bay, QLD, Australie",
     coords: [-25.2986, 152.8535],
+    anchor: "hervey-bay",
     details:
       "Je fais étape à Hervey Bay pour préparer l'excursion à Fraser Island, rencontre des voyageurs et assiste à un briefing 4x4.",
   },
@@ -91,6 +95,7 @@ export const australiaItinerary: Array<{
     date: "Début Août 2005",
     location: "Bruce Highway (Mackay / Airlie Beach), QLD, Australie",
     coords: [-21.1424, 149.1868],
+    anchor: "à-la-recherche-dun-boulot-dans-le-nord",
     details:
       "Je traverse le Queensland en convoi, tente de trouver du travail, campe souvent et arrive à Airlie Beach.",
   },
@@ -99,6 +104,7 @@ export const australiaItinerary: Array<{
     date: "Courant Août 2005",
     location: "Bowen, QLD, Australie",
     coords: [-20.0135, 148.2475],
+    anchor: "la-chance-nest-pas-vraiment-avec-nous",
     details:
       "Je tente ma chance à Bowen pour du fruit picking, mais rencontre des problèmes mécaniques et aucun travail n'est disponible.",
   },
@@ -107,7 +113,7 @@ export const australiaItinerary: Array<{
     date: "Fin Août 2005",
     location: "Airlie Beach (Beaches Backpacker et Paddy's Pub), QLD, Australie",
     coords: [-20.2678, 148.7153],
-    anchor: "la-1ere-semaine-a-airlie-beach",
+    anchor: "la-1ère-semaine-à-airlie-beach",
     details:
       "Je décroche un emploi stable comme kitchen hand à Airlie Beach, me fais des amis et profite de la vie locale.",
   },
@@ -116,6 +122,7 @@ export const australiaItinerary: Array<{
     date: "2005-09-03",
     location: "Airlie Beach (Magnums Backpacker et Coral Beach), QLD, Australie",
     coords: [-20.2671, 148.7161],
+    anchor: "fin-de-saison-à-airlie-beach",
     details:
       "Je perds mon emploi à Airlie Beach, dors dans mon van, puis profite d'une soirée guitare et camping à Coral Beach.",
   },
@@ -124,6 +131,7 @@ export const australiaItinerary: Array<{
     date: "Début Septembre 2005",
     location: "Whitsunday Island, QLD, Australie",
     coords: [-20.2811, 149.0437],
+    anchor: "whitsunday-island",
     details:
       "J'explore Whitsunday Island en zodiac, nage avec les poissons tropicaux, observe baleines et tortues, et marche sur une plage de silice.",
   },
@@ -132,6 +140,7 @@ export const australiaItinerary: Array<{
     date: "Mi-Septembre 2005",
     location: "Bruce Highway (Townsville, Ingham, El Arish), QLD, Australie",
     coords: [-17.8239, 145.9839],
+    anchor: "on-the-road-again",
     details:
       "Je découvre que mon van est en mauvais état, mais poursuis vers Cairns en covoiturant un couple d'Anglais et campe à El Arish.",
   },
@@ -140,6 +149,7 @@ export const australiaItinerary: Array<{
     date: "Mi-Septembre 2005",
     location: "Josephine Falls / Holloways Beach, Cairns, QLD, Australie",
     coords: [-17.4332, 145.8584],
+    anchor: "welcome-to-cairns",
     details:
       "J'arrive près de Cairns, me baigne à Josephine Falls, puis m'installe à Holloways Beach. Mon van a tenu tout le trajet depuis Brisbane.",
   },
@@ -148,6 +158,7 @@ export const australiaItinerary: Array<{
     date: "Mi-Septembre 2005",
     location: "Cairns (Lagon municipal et Sun Land Camping), QLD, Australie",
     coords: [-16.9203, 145.771],
+    anchor: "welcome-to-cairns",
     details:
       "Je découvre Cairns, profite du lagon artificiel, m'installe au camping Sun Land et repère Johno's Blues Bar.",
   },
@@ -156,6 +167,7 @@ export const australiaItinerary: Array<{
     date: "Fin Septembre 2005 (Pleine lune et 10 jours suivants)",
     location: "Irvinebank (Rainbow Gathering), Région d'Atherton, QLD, Australie",
     coords: [-17.4281, 145.2036],
+    anchor: "le-rainbow-gathering-rassemblement-de-larc-en-ciel",
     details:
       "Je rejoins le Rainbow Gathering à Irvinebank, vis 10 jours en autarcie et compose mon morceau 'Rainbow'.",
   },
@@ -164,6 +176,7 @@ export const australiaItinerary: Array<{
     date: "Début Octobre 2005",
     location: "Noah Beach, Cap Tribulation (Daintree Rainforest), QLD, Australie",
     coords: [-16.1419, 145.4491],
+    anchor: "noah-beach-cap-tribulation",
     details:
       "Je pars camper à Noah Beach dans la forêt de Daintree, partage le trajet avec d'autres voyageurs et alterne surf, frisbee et musique.",
   },
@@ -172,6 +185,7 @@ export const australiaItinerary: Array<{
     date: "Courant Octobre 2005",
     location: "Cairns / Thala Beach Lodge, Port Douglas Road, QLD, Australie",
     coords: [-16.5915, 145.5165],
+    anchor: "thala-beach-lodge",
     details:
       "Je retourne à Cairns, improvise avec un guitariste, tombe à sec, puis trouve un emploi de kitchen hand au Thala Beach Lodge.",
   },
@@ -180,6 +194,7 @@ export const australiaItinerary: Array<{
     date: "2005-11-07",
     location: "Thala Beach Lodge, Port Douglas Road, QLD, Australie",
     coords: [-16.5915, 145.5165],
+    anchor: "fini-le-boulot-à-moi-les-vacances-",
     details: "Je termine mon travail au Thala Beach Lodge et fais mes adieux à l'équipe.",
   },
   {
@@ -187,6 +202,7 @@ export const australiaItinerary: Array<{
     date: "2005-11-08",
     location: "Cairns Esplanade, Cairns, QLD, Australie",
     coords: [-16.9186, 145.7761],
+    anchor: "adieu-big-banana-",
     details:
       "Je reviens à Cairns, retrouve des amis et dors sur l'Esplanade où je reçois un avertissement pour camping.",
   },
@@ -195,6 +211,7 @@ export const australiaItinerary: Array<{
     date: "Début Novembre 2005",
     location: "Sun Land Leisure Park, Cairns, QLD, Australie",
     coords: [-16.9382, 145.7422],
+    anchor: "adieu-big-banana-",
     details:
       "Je prépare la vente de mon van à Cairns, nettoie et affiche l'annonce, mais le premier acheteur refuse.",
   },
@@ -203,6 +220,7 @@ export const australiaItinerary: Array<{
     date: "Mi-Novembre 2005",
     location: "Leo's Backpacker, Cairns, QLD, Australie",
     coords: [-16.9304, 145.7681],
+    anchor: "adieu-big-banana-",
     details:
       "Je vends mon van à Cairns à un Anglais au prix demandé, la transaction est rapide et simple.",
   },
@@ -211,6 +229,7 @@ export const australiaItinerary: Array<{
     date: "Mi-Novembre 2005",
     location: "Bulk Backpacker, Brisbane, QLD, Australie",
     coords: [-27.4675, 153.015],
+    anchor: "ma-vie-de-baroudeur-a-pris-fin-avec-la-vente-de-big-banana",
     details:
       "Je vole de Cairns à Brisbane, change de look et retrouve une auberge où je rencontre de nouveaux amis.",
   },
@@ -219,6 +238,7 @@ export const australiaItinerary: Array<{
     date: "Mi-Novembre 2005",
     location: "Down Under Bar / South Bank Parklands, Brisbane, QLD, Australie",
     coords: [-27.477, 153.0211],
+    anchor: "ma-vie-de-baroudeur-a-pris-fin-avec-la-vente-de-big-banana",
     details:
       "Je passe une soirée au Down Under Bar, puis me détends au lagon de Riverside avant de partir pour Lismore.",
   },
@@ -227,6 +247,7 @@ export const australiaItinerary: Array<{
     date: "2005-11-17",
     location: "The Channon, Lismore, NSW, Australie",
     coords: [-28.6754, 153.2286],
+    anchor: "byron-bay",
     details:
       "J'arrive à The Channon chez Adam pour une semaine de repos avec balades en Gator, moto et guitare.",
   },
@@ -235,6 +256,7 @@ export const australiaItinerary: Array<{
     date: "Fin Novembre 2005",
     location: "The Arts Factory Backpackers, Byron Bay, NSW, Australie",
     coords: [-28.649, 153.6152],
+    anchor: "byron-bay",
     details:
       "Je séjourne à l'Arts Factory de Byron Bay, découvre l'ambiance musicale et monte pour la première fois sur scène lors d'un Talent Show.",
   },
@@ -243,6 +265,7 @@ export const australiaItinerary: Array<{
     date: "Début Décembre 2005",
     location: "The Channon Craft Market, The Channon, NSW, Australie",
     coords: [-28.6678, 153.2619],
+    anchor: "rainbow-temple",
     details:
       "Je me rends au Rainbow Temple avec Alex, fais halte au marché de Channon et profite des cascades locales.",
   },
@@ -251,6 +274,7 @@ export const australiaItinerary: Array<{
     date: "Mi-Décembre 2005",
     location: "Rainbow Temple, Rosebank, NSW, Australie",
     coords: [-28.6185, 153.3855],
+    anchor: "rainbow-temple",
     details:
       "Je passe trois jours au Rainbow Temple, aide à un chantier et découvre ce lieu caché.",
   },
@@ -259,6 +283,7 @@ export const australiaItinerary: Array<{
     date: "2005-12-15",
     location: "City Backpacker / Maison de Kristy et Jess, Brisbane, QLD, Australie",
     coords: [-27.4668, 153.0178],
+    anchor: "merry-christmas-et-joyeux-noël-",
     details:
       "Je retourne à Brisbane pour Noël, retrouve Jess et Kristy, et fête le 25 décembre en famille sous la chaleur.",
   },
@@ -267,6 +292,7 @@ export const australiaItinerary: Array<{
     date: "2005-12-27",
     location: "Woodford Folk Festival, Woodford, QLD, Australie",
     coords: [-26.9602, 152.7606],
+    anchor: "woodford-folk-festival",
     details:
       "J'assiste au Woodford Folk Festival, campe sur place et profite de nombreux concerts dont Éric Bibb et Ash Grunwald.",
   },
@@ -275,6 +301,7 @@ export const australiaItinerary: Array<{
     date: "Début Janvier 2006",
     location: "City Backpacker / Agence Western Union, Brisbane, QLD, Australie",
     coords: [-27.4668, 153.0178],
+    anchor: "sydney-",
     details:
       "Ma carte bancaire est bloquée à Brisbane, je suis sauvé par un virement familial et loge chez Jess avant de partir pour Sydney.",
   },
@@ -283,7 +310,7 @@ export const australiaItinerary: Array<{
     date: "Début Janvier 2006",
     location: "Manly, Sydney, NSW, Australie",
     coords: [-33.7971, 151.2872],
-    anchor: "sydney",
+    anchor: "sydney-",
     details:
       "J'arrive à Manly près de Sydney, retrouve Adam, mais suis déçu par l'ambiance du quartier.",
   },
@@ -292,6 +319,7 @@ export const australiaItinerary: Array<{
     date: "Début Janvier 2006",
     location: "Bondi Beach, Sydney, NSW, Australie",
     coords: [-33.8915, 151.2767],
+    anchor: "sydney-",
     details:
       "Je séjourne à Bondi Beach chez une amie, profite de l'ambiance détendue et fais une randonnée côtière.",
   },
@@ -300,6 +328,7 @@ export const australiaItinerary: Array<{
     date: "Courant Janvier 2006",
     location: "Chinatown / Jardin Botanique, Sydney, NSW, Australie",
     coords: [-33.8732, 151.2071],
+    anchor: "sydney-",
     details:
       "Je découvre Sydney centre, retrouve Verena, visite Chinatown, le Jardin Botanique et assiste à des concerts gratuits.",
   },
@@ -308,6 +337,7 @@ export const australiaItinerary: Array<{
     date: "Mi-Janvier 2006",
     location: "The Rocks, Sydney, NSW, Australie",
     coords: [-33.8599, 151.209],
+    anchor: "sydney-",
     details:
       "Je visite le quartier The Rocks à Sydney, sors dans les pubs et reste bloqué quatre jours de plus à cause d'un bug informatique.",
   },
@@ -316,7 +346,7 @@ export const australiaItinerary: Array<{
     date: "Fin Janvier 2006",
     location: "Flinders Hotel / Elizabeth Street, Melbourne, VIC, Australie",
     coords: [-37.8174, 144.9657],
-    anchor: "melbourne-les-reves-qui-senvolent",
+    anchor: "melbourne-les-rêves-qui-senvolent",
     details:
       "J'arrive à Melbourne, trouve un emploi dans un cybercafé et joue de la musique dans la rue avec Alija.",
   },
@@ -325,6 +355,7 @@ export const australiaItinerary: Array<{
     date: "Fin Janvier / Début Février 2006",
     location: "Cybercafé, Elizabeth Street, Melbourne, VIC, Australie",
     coords: [-37.814, 144.9642],
+    anchor: "solitude-à-melbourne",
     details:
       "Je travaille au cybercafé à Melbourne, fais face à des difficultés et à un contrat réduit, ce qui me décourage.",
   },
@@ -333,6 +364,7 @@ export const australiaItinerary: Array<{
     date: "Fin Janvier 2006 (Australia Day)",
     location: "Melbourne Park / Sidney Myer Music Bowl, Melbourne, VIC, Australie",
     coords: [-37.8226, 144.98],
+    anchor: "jadore-melbourne-",
     details:
       "Je joue sur la scène ouverte du Bowl Stage, assiste gratuitement à l'Open d'Australie et profite du feu d'artifice de l'Australia Day.",
   },
@@ -341,6 +373,7 @@ export const australiaItinerary: Array<{
     date: "Début Février 2006",
     location: "Bar Open, Brunswick Street, Fitzroy, VIC, Australie",
     coords: [-37.8011, 144.9778],
+    anchor: "jadore-melbourne-",
     details:
       "Je retrouve Rachel à Melbourne, découvre Brunswick Street et le Bar Open, et cherche des musiciens pour jammer.",
   },
@@ -349,6 +382,7 @@ export const australiaItinerary: Array<{
     date: "Courant Février 2006",
     location: "St Kilda Beach / Cinéma, Melbourne, VIC, Australie",
     coords: [-37.868, 144.9739],
+    anchor: "journée-off-à-st-kilda",
     details:
       "Je passe une journée à St Kilda avec Nicola, profite de la plage et partage un moment complice.",
   },
@@ -357,6 +391,7 @@ export const australiaItinerary: Array<{
     date: "Mi-Février 2006",
     location: "Backpack Hostel, Melbourne, VIC, Australie",
     coords: [-37.8136, 144.9631],
+    anchor: "marre-des-backpackers-",
     details:
       "Je m'installe au Backpack Hostel à Melbourne, partage une chambre avec Thomas et poursuis mes sessions musicales.",
   },
@@ -365,6 +400,7 @@ export const australiaItinerary: Array<{
     date: "Fin Février 2006",
     location: "Cybercafé, Elizabeth Street, Melbourne, VIC, Australie",
     coords: [-37.814, 144.9642],
+    anchor: "je-me-suis-fait-licencier-à-nouveau-",
     details:
       "Je perds mon emploi au cybercafé à Melbourne malgré une situation qui semblait stable.",
   },
@@ -373,6 +409,7 @@ export const australiaItinerary: Array<{
     date: "Début Mars 2006",
     location: "Hotel Backpack / The Night Cat, Brunswick Street, Melbourne, VIC, Australie",
     coords: [-37.7968, 144.9793],
+    anchor: "plus-de-stress-je-peux-profiter-de-la-vie-à-nouveau",
     details:
       "Simon rejoint notre colocation à Melbourne, on partage des sessions musicales et assistons à un concert au Night Cat.",
   },
@@ -381,6 +418,7 @@ export const australiaItinerary: Array<{
     date: "Mars 2006",
     location: "Red Tongue Restaurant, Brunswick Street, Fitzroy, VIC, Australie",
     coords: [-37.7993, 144.9784],
+    anchor: "la-pensée-positive-cest-la-solution--vraiment--foutaises-",
     details:
       "Je trouve un travail au Red Tongue Restaurant à Melbourne, mais il s'arrête après seulement deux services.",
   },
@@ -389,6 +427,7 @@ export const australiaItinerary: Array<{
     date: "Mi-Mars 2006",
     location: "Hotel Backpack, Melbourne, VIC, Australie",
     coords: [-37.8136, 144.9631],
+    anchor: "melbourne-les-rêves-qui-senvolent",
     details:
       "Je n'arrive plus à trouver de travail à Melbourne, m'épuise physiquement et prépare mon retour à Brisbane.",
   },
@@ -415,6 +454,7 @@ export const australiaItinerary: Array<{
     date: "Juin 2006",
     location: "Alice Springs, NT, Australie",
     coords: [-23.698, 133.8807],
+    anchor: "this-is-the-end",
     details:
       "Je traverse l'Outback en bus jusqu'à Alice Springs, suivant mon itinéraire de retour.",
   },
@@ -423,6 +463,7 @@ export const australiaItinerary: Array<{
     date: "Fin Juin / Début Juillet 2006",
     location: "Darwin, NT, Australie",
     coords: [-12.4634, 130.8456],
+    anchor: "this-is-the-end",
     details:
       "Je fais halte à Darwin, dresse le bilan de mon année de voyage, puis me prépare à rentrer à Brisbane.",
   },
@@ -431,6 +472,7 @@ export const australiaItinerary: Array<{
     date: "Juillet 2006",
     location: "Aéroport de Brisbane, QLD, Australie / France",
     coords: [-27.4668, 153.0178],
+    anchor: "bye-australia-hello-france",
     details:
       "Je termine mon aventure australienne par un passage à Brisbane pour saluer Jess et Kristy avant de rentrer en France.",
   },

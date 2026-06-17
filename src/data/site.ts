@@ -5,7 +5,7 @@ export const site = {
   home: {
     badge: "Full Stack JS",
     description:
-      "React, Node.js, Astro et Supabase. J’aime créer des outils simples, rapides et utiles.",
+      "Passionné par le développement depuis 2001, j’ai exploré plusieurs langages, du PHP au JavaScript en passant par le Java. Développeur curieux, autodidacte et expérimenté, je me spécialise aujourd'hui dans l'écosystème JavaScript moderne et l'intégration de solutions d'IA agentique ou d'automatisation de processus.",
   },
 } as const;
 
