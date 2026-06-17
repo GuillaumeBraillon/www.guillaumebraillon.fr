@@ -1,15 +1,8 @@
 ---
-import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
+import { formatDateFr, getPublishedCollection, sortByDateDesc } from "../../lib/content";
 
-const tablatures = await getCollection("tablatures");
-
-// Tri robuste : gère les dates complètes et les années seules
-const sortedTablatures = tablatures.sort((a, b) => {
-  const dateA = a.data.date instanceof Date ? a.data.date : new Date(a.data.date);
-  const dateB = b.data.date instanceof Date ? b.data.date : new Date(b.data.date);
-  return dateB.getTime() - dateA.getTime();
-});
+const tablatures = sortByDateDesc(await getPublishedCollection("tablatures"));
 ---
 
 <Layout title="Tablatures">
@@ -24,7 +17,7 @@ const sortedTablatures = tablatures.sort((a, b) => {
 
   <div class="divide-y divide-[#d0d7de]">
     {
-      sortedTablatures.map((tablature) => (
+      tablatures.map((tablature) => (
         <div class="py-4 flex flex-col sm:flex-row sm:items-start justify-between gap-4">
           <div class="space-y-1 max-w-3xl">
             <div class="flex items-center gap-2">
@@ -51,11 +44,7 @@ const sortedTablatures = tablatures.sort((a, b) => {
 
             <div class="pt-2 flex flex-wrap gap-1.5">
               <span class="text-[11px] text-[#636c76] bg-[#f6f8fa] px-2 py-0.5 rounded-full font-medium border border-[#d0d7de]">
-                {tablature.data.date.toLocaleDateString("fr-FR", {
-                  year: "numeric",
-                  month: "long",
-                  day: "numeric",
-                })}
+                {formatDateFr(tablature.data.date)}
               </span>
               {tablature.data.tags &&
                 tablature.data.tags.map((tag) => (

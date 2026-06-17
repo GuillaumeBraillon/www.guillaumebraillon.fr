@@ -1,21 +1,13 @@
 ---
 import "../styles/global.css";
+import { navItems, site, socialLinks } from "../data/site";
 
 interface Props {
   title?: string;
 }
 
-const { title = "Guillaume Braillon" } = Astro.props;
+const { title = site.defaultTitle } = Astro.props;
 const currentPath = Astro.url.pathname;
-
-const navItems = [
-  { href: "/", label: "Accueil" },
-  { href: "/projects", label: "Projets" },
-  { href: "/tablatures", label: "Tablatures" },
-  { href: "/voyages", label: "Voyages" },
-  { href: "/articles", label: "Articles" },
-  { href: "/cv", label: "CV" },
-];
 ---
 
 <html lang="fr" class="scroll-smooth">
@@ -37,7 +29,7 @@ const navItems = [
           href="/"
           class="flex items-center gap-1.5 font-semibold text-[#1f2328] hover:text-[#0969da] transition-colors text-xs tracking-tight"
         >
-          <span>Mes passions...</span>
+          <span>{site.tagline}</span>
         </a>
 
         <nav class="flex items-center gap-0.5">
@@ -77,21 +69,21 @@ const navItems = [
         class="max-w-5xl mx-auto px-4 py-4 flex items-center justify-between text-[12px] text-[#636c76]"
       >
         <div class="flex items-center gap-2">
-          <span>© {new Date().getFullYear()} Guillaume Braillon</span>
+          <span>© {new Date().getFullYear()} {site.name}</span>
         </div>
         <nav class="flex gap-3">
-          <a
-            href="https://github.com/GuillaumeBraillon"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="text-[#0969da] hover:underline">GitHub</a
-          >
-          <a
-            href="https://www.linkedin.com/in/guillaumebraillon"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="text-[#0969da] hover:underline">LinkedIn</a
-          >
+          {
+            socialLinks.map((link) => (
+              <a
+                href={link.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="text-[#0969da] hover:underline"
+              >
+                {link.label}
+              </a>
+            ))
+          }
         </nav>
       </div>
     </footer>

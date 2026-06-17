@@ -1,26 +1,9 @@
 ---
-import { getCollection, type CollectionEntry } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
+import { formatDateFr, getPublishedCollection, sortByDateDesc } from "../../lib/content";
+import { getThumbnail } from "../../lib/images";
 
-const articles = await getCollection("articles");
-
-const images: Record<string, ImageMetadata> = import.meta.glob(
-  "/src/content/articles/**/*.{jpg,jpeg,png,webp,JPG,JPEG,PNG,WEBP}",
-  { eager: true, import: "default" }
-);
-
-const getImage = (article: CollectionEntry<"articles">) => {
-  const file = article.data.thumbnail;
-  const basePath = `/src/content/articles/${article.id}/${file}`;
-  return images[basePath] ?? images["/src/content/articles/default-thumbnail.png"];
-};
-
-// Tri robuste : gère les dates complètes et les années seules
-const sortedArticles = articles.sort((a, b) => {
-  const dateA = a.data.date instanceof Date ? a.data.date : new Date(a.data.date);
-  const dateB = b.data.date instanceof Date ? b.data.date : new Date(b.data.date);
-  return dateB.getTime() - dateA.getTime();
-});
+const articles = sortByDateDesc(await getPublishedCollection("articles"));
 ---
 
 <Layout title="Articles">
@@ -35,8 +18,8 @@ const sortedArticles = articles.sort((a, b) => {
 
   <div class="divide-y divide-[#d0d7de]">
     {
-      sortedArticles.map((article) => {
-        const img = getImage(article);
+      articles.map((article) => {
+        const img = getThumbnail("articles", article);
         return (
           <div class="py-4 flex flex-col sm:flex-row sm:items-start gap-4">
             {img && (
@@ -74,11 +57,7 @@ const sortedArticles = articles.sort((a, b) => {
 
               <div class="pt-2 flex flex-wrap gap-1.5">
                 <span class="text-[11px] text-[#636c76] bg-[#f6f8fa] px-2 py-0.5 rounded-full font-medium border border-[#d0d7de]">
-                  {article.data.date.toLocaleDateString("fr-FR", {
-                    year: "numeric",
-                    month: "long",
-                    day: "numeric",
-                  })}
+                  {formatDateFr(article.data.date)}
                 </span>
                 {article.data.tags &&
                   article.data.tags.map((tag) => (

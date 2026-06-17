@@ -1,32 +1,26 @@
 import { defineCollection, z } from "astro:content";
 import { glob } from "astro/loaders";
 
-{
-  /* La collection "projects" est définie avec un schéma qui inclut des champs tels que "title", "description", "tech", "date", "githubUrl" et "featured". */
-}
 const projects = defineCollection({
   loader: glob({ pattern: "**/[^_]*.md", base: "./src/content/projects" }),
   schema: z.object({
-    title: z.string(),
-    description: z.string(),
+    title: z.string({ message: "Le titre est obligatoire" }),
+    description: z.string({ message: "La description est obligatoire" }),
     tech: z.array(z.string()).optional(),
     date: z.coerce.date().optional(),
-    githubUrl: z.string().url(),
+    githubUrl: z.string().url({ message: "L'URL GitHub doit être valide" }),
     featured: z.boolean().optional(),
   }),
 });
 
-{
-  /* La collection "voyages" est définie de manière similaire à "projects", mais avec des champs spécifiques aux voyages. */
-}
 const voyages = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/voyages" }),
   schema: z.object({
-    title: z.string(),
-    date: z.coerce.date(),
-    country: z.string(),
-    period: z.string(),
-    description: z.string().optional(),
+    title: z.string({ message: "Le titre est obligatoire" }),
+    date: z.coerce.date({ message: "La date doit être valide" }),
+    country: z.string({ message: "Le pays est obligatoire" }),
+    period: z.string({ message: "La période est obligatoire" }),
+    description: z.string({ message: "La description est obligatoire" }),
     duration: z.string().optional(),
     cover: z.string().optional(),
     categories: z.array(z.string()).optional(),
@@ -35,29 +29,24 @@ const voyages = defineCollection({
   }),
 });
 
-{
-  /* La collection "articles" est définie de manière similaire, avec des champs adaptés aux articles de blog. */
-}
 const articles = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/articles" }),
   schema: z.object({
-    title: z.string(),
-    date: z.coerce.date(),
+    title: z.string({ message: "Le titre est obligatoire" }),
+    date: z.coerce.date({ message: "La date doit être valide" }),
     tags: z.array(z.string()).optional(),
+    categories: z.array(z.string()).optional(),
     description: z.string().optional(),
     draft: z.boolean().optional(),
     thumbnail: z.string().optional(),
   }),
 });
 
-{
-  /* La collection "tablatures" est définie de manière similaire, avec des champs adaptés aux articles de blog. */
-}
 const tablatures = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/tablatures" }),
   schema: z.object({
-    title: z.string(),
-    date: z.coerce.date(),
+    title: z.string({ message: "Le titre est obligatoire" }),
+    date: z.coerce.date({ message: "La date doit être valide" }),
     tags: z.array(z.string()).optional(),
     description: z.string().optional(),
     draft: z.boolean().optional(),

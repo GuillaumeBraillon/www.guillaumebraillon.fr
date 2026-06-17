@@ -1,5 +1,7 @@
+import { site } from "./site";
+
 export const profile = {
-  name: "Guillaume Braillon",
+  name: site.name,
   title: "Développeur Full Stack | JavaScript & IA",
   subtitle: "React · Node.js · Supabase · Angular",
   website: "www.guillaumebraillon.fr",

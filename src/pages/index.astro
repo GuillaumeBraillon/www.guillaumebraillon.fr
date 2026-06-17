@@ -1,95 +1,29 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import { getCollection } from "astro:content";
-import type { CollectionEntry, CollectionKey } from "astro:content";
+import { site } from "../data/site";
+import { getPublishedCollection, sortByDateDesc } from "../lib/content";
+import { getThumbnail } from "../lib/images";
 
-const articleImages: Record<string, ImageMetadata> = import.meta.glob(
-  "/src/content/articles/**/*.{jpg,jpeg,png,webp,JPG,JPEG,PNG,WEBP}",
-  { eager: true, import: "default" }
-);
+const projects = sortByDateDesc(await getPublishedCollection("projects"));
 
-const voyageImages: Record<string, ImageMetadata> = import.meta.glob(
-  "/src/content/voyages/**/*.{jpg,jpeg,png,webp,JPG,JPEG,PNG,WEBP}",
-  { eager: true, import: "default" }
-);
+const featuredProject = projects.find((p) => p.data.featured === true) || projects[0];
 
-const projectImages: Record<string, ImageMetadata> = import.meta.glob(
-  "/src/content/projects/**/*.{jpg,jpeg,png,webp,JPG,JPEG,PNG,WEBP}",
-  { eager: true, import: "default" }
-);
+const otherProjects = projects.filter((p) => p.id !== featuredProject?.id).slice(0, 4);
 
-const getArticleImage = (article: CollectionEntry<"articles">) => {
-  const file = article.data.thumbnail;
-  const basePath = `/src/content/articles/${article.id}/${file}`;
-  return articleImages[basePath] ?? articleImages["/src/content/articles/default-thumbnail.png"];
-};
+const featuredProjectImage = featuredProject ? getThumbnail("projects", featuredProject) : null;
 
-const getVoyageImage = (voyage: CollectionEntry<"voyages">) => {
-  const file = voyage.data.thumbnail;
-  const basePath = `/src/content/voyages/${voyage.id}/${file}`;
-  return voyageImages[basePath] ?? voyageImages["/src/content/voyages/default-thumbnail.png"];
-};
-
-const getProjectImage = (project: CollectionEntry<"projects">) => {
-  const basePath = `/src/content/projects/${project.id}.png`;
-  return projectImages[basePath] ?? projectImages["/src/content/projects/default-thumbnail.png"];
-};
-
-// 1. Chargement des projets (statique car structure d'affichage spécifique au centre)
-const projects = await getCollection("projects");
-
-const featuredProject =
-  projects.find((p) => p.data.featured === true) ||
-  projects.sort((a, b) => {
-    const dateA = a.data.date ? new Date(a.data.date).getTime() : 0;
-    const dateB = b.data.date ? new Date(b.data.date).getTime() : 0;
-    return dateB - dateA;
-  })[0];
-
-const otherProjects = projects
-  .filter((p) => p.id !== featuredProject?.id)
-  .sort((a, b) => {
-    const dateA = a.data.date ? new Date(a.data.date).getTime() : 0;
-    const dateB = b.data.date ? new Date(b.data.date).getTime() : 0;
-    return dateB - dateA;
-  })
-  .slice(0, 4);
-
-const featuredProjectImage = featuredProject ? getProjectImage(featuredProject) : null;
-
-// 2. GÉNÉRATION DYNAMIQUE DE LA LOGIQUE DES COLLECTIONS LATÉRALES
-const sidebarCollectionsConfig: {
-  id: CollectionKey;
-  label: string;
-  maxItems: number;
-}[] = [
-  { id: "articles", label: "Articles récents", maxItems: 3 },
-  { id: "voyages", label: "Voyages", maxItems: 3 },
+const sidebarSections = [
+  {
+    id: "articles" as const,
+    label: "Articles récents",
+    items: sortByDateDesc(await getPublishedCollection("articles")).slice(0, 3),
+  },
+  {
+    id: "voyages" as const,
+    label: "Voyages",
+    items: sortByDateDesc(await getPublishedCollection("voyages")).slice(0, 3),
+  },
 ];
-
-const sidebarSections = await Promise.all(
-  sidebarCollectionsConfig.map(async (config) => {
-    try {
-      const items = await getCollection(config.id);
-      const sortedItems = items
-        .sort((a: any, b: any) => {
-          const dateA =
-            a.data.date instanceof Date ? a.data.date.getTime() : Number(a.data.date) || 0;
-          const dateB =
-            b.data.date instanceof Date ? b.data.date.getTime() : Number(b.data.date) || 0;
-          return dateB - dateA;
-        })
-        .slice(0, config.maxItems);
-
-      return {
-        ...config,
-        items: sortedItems,
-      };
-    } catch (e) {
-      return { ...config, items: [] };
-    }
-  })
-);
 ---
 
 <Layout>
@@ -97,15 +31,15 @@ const sidebarSections = await Promise.all(
     <div class="flex flex-col md:flex-row md:items-center justify-between gap-4">
       <div>
         <h1 class="text-2xl font-semibold text-[#1f2328] tracking-tight flex items-center gap-2">
-          Guillaume Braillon
+          {site.name}
           <span
             class="text-xs font-normal px-2 py-0.5 border border-[#d0d7de] text-[#636c76] rounded-full bg-[#f6f8fa]"
           >
-            Full Stack JS
+            {site.home.badge}
           </span>
         </h1>
         <p class="mt-2 text-[14px] text-[#57606a] max-w-2xl leading-relaxed">
-          React, Node.js, Astro et Supabase. J’aime créer des outils simples, rapides et utiles.
+          {site.home.description}
         </p>
       </div>
 
@@ -188,7 +122,7 @@ const sidebarSections = await Promise.all(
           {
             otherProjects.length > 0 ? (
               otherProjects.map((p) => {
-                const img = getProjectImage(p);
+                const img = getThumbnail("projects", p);
                 return (
                   <div class="border border-[#d0d7de] rounded-md bg-white p-3.5 flex gap-3 hover:border-[#0969da] transition-colors">
                     {img && (
@@ -252,37 +186,58 @@ const sidebarSections = await Promise.all(
                   </a>
                 </div>
                 <div class="divide-y divide-[#d0d7de]">
-                  {section.items.map((item: any) => {
-                    const img =
-                      section.id === "articles" ? getArticleImage(item) : getVoyageImage(item);
-                    return (
-                      <a
-                        href={`/${section.id}/${item.id}`}
-                        class="flex items-center gap-3 px-4 py-2.5 hover:bg-[#f6f8fa] group transition-colors"
-                      >
-                        {img && (
-                          <img
-                            src={img.src}
-                            width={img.width}
-                            height={img.height}
-                            alt={item.data.title}
-                            class="w-12 h-12 object-cover rounded shrink-0"
-                            loading="lazy"
-                          />
-                        )}
-                        <div class="flex items-center justify-between gap-2 min-w-0 flex-1">
-                          <span class="text-[13px] font-medium text-[#1f2328] group-hover:text-[#0969da] truncate">
-                            {item.data.title}
-                          </span>
-                          {item.data.country && (
-                            <span class="text-[11px] text-[#636c76] bg-[#eaeef2] px-1.5 py-0.5 rounded shrink-0">
-                              {item.data.country}
+                  {section.id === "articles"
+                    ? section.items.map((item) => {
+                        const img = getThumbnail("articles", item);
+                        return (
+                          <a
+                            href={`/articles/${item.id}`}
+                            class="flex items-center gap-3 px-4 py-2.5 hover:bg-[#f6f8fa] group transition-colors"
+                          >
+                            {img && (
+                              <img
+                                src={img.src}
+                                width={img.width}
+                                height={img.height}
+                                alt={item.data.title}
+                                class="w-12 h-12 object-cover rounded shrink-0"
+                                loading="lazy"
+                              />
+                            )}
+                            <span class="text-[13px] font-medium text-[#1f2328] group-hover:text-[#0969da] truncate">
+                              {item.data.title}
                             </span>
-                          )}
-                        </div>
-                      </a>
-                    );
-                  })}
+                          </a>
+                        );
+                      })
+                    : section.items.map((item) => {
+                        const img = getThumbnail("voyages", item);
+                        return (
+                          <a
+                            href={`/voyages/${item.id}`}
+                            class="flex items-center gap-3 px-4 py-2.5 hover:bg-[#f6f8fa] group transition-colors"
+                          >
+                            {img && (
+                              <img
+                                src={img.src}
+                                width={img.width}
+                                height={img.height}
+                                alt={item.data.title}
+                                class="w-12 h-12 object-cover rounded shrink-0"
+                                loading="lazy"
+                              />
+                            )}
+                            <div class="flex items-center justify-between gap-2 min-w-0 flex-1">
+                              <span class="text-[13px] font-medium text-[#1f2328] group-hover:text-[#0969da] truncate">
+                                {item.data.title}
+                              </span>
+                              <span class="text-[11px] text-[#636c76] bg-[#eaeef2] px-1.5 py-0.5 rounded shrink-0">
+                                {item.data.country}
+                              </span>
+                            </div>
+                          </a>
+                        );
+                      })}
                 </div>
               </section>
             )

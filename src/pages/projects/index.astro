@@ -1,18 +1,9 @@
 ---
-import { getCollection, type CollectionEntry } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
+import { getPublishedCollection, sortByDateDesc } from "../../lib/content";
+import { getThumbnail } from "../../lib/images";
 
-const projects = await getCollection("projects");
-
-const images: Record<string, ImageMetadata> = import.meta.glob(
-  "/src/content/projects/**/*.{jpg,jpeg,png,webp, JPG,JPEG,PNG,WEBP}",
-  { eager: true, import: "default" }
-);
-
-const getImage = (project: CollectionEntry<"projects">) => {
-  const basePath = `/src/content/projects/${project.id}.png`;
-  return images[basePath] ?? images["/src/content/projects/default-thumbnail.png"];
-};
+const projects = sortByDateDesc(await getPublishedCollection("projects"));
 ---
 
 <Layout title="Projets">
@@ -28,7 +19,7 @@ const getImage = (project: CollectionEntry<"projects">) => {
   <div class="divide-y divide-[#d0d7de]">
     {
       projects.map((project) => {
-        const img = getImage(project);
+        const img = getThumbnail("projects", project);
 
         return (
           <div class="py-4 flex flex-col sm:flex-row sm:items-start gap-4">

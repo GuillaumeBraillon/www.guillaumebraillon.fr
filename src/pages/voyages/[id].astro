@@ -1,89 +1,66 @@
 ---
-import { getCollection, render } from "astro:content";
+import { render } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
-import { VoyageStrictSchema } from "../../schema";
 import TravelMap from "../../components/TravelMap.astro";
 import { australiaItinerary } from "../../data/australiaItinerary";
+import { getPublishedCollection } from "../../lib/content";
 
 export async function getStaticPaths() {
-  const voyages = await getCollection("voyages");
+  const voyages = await getPublishedCollection("voyages");
   return voyages.map((voyage) => ({
     params: { id: voyage.id },
-    props: { voyage: voyage },
+    props: { voyage },
   }));
 }
 
 const { voyage } = Astro.props;
-const validation = VoyageStrictSchema.safeParse(voyage.data);
+const { data } = voyage;
 const { Content } = await render(voyage);
 ---
 
-<Layout title={validation.success ? validation.data.title : "Erreur de configuration"}>
-  {
-    !validation.success ? (
-      <div class="p-4 bg-[#ffebe9] border border-[#rgba(248,81,73,0.4)] rounded-md text-[#cf222e] space-y-2">
-        <h1 class="text-lg font-semibold flex items-center gap-2">⚠️ Frontmatter Invalide</h1>
-        <p class="text-sm">
-          Le fichier de ce voyage ne peut pas être rendu correctement car des variables obligatoires
-          sont absentes :
-        </p>
-        <ul class="list-disc pl-5 text-xs font-mono bg-white p-3 border border-[#d0d7de] rounded">
-          {validation.error.issues.map((issue) => (
-            <li>
-              {issue.path.join(".")}: {issue.message}
-            </li>
-          ))}
-        </ul>
-        <p class="text-xs pt-2">
-          <a href="/voyages" class="text-[#0969da] hover:underline">
-            ← Retour à la liste
-          </a>
-        </p>
+<Layout title={data.title}>
+  <article class="space-y-6">
+    <header class="pb-5 border-b border-[#d0d7de]">
+      <div class="flex flex-wrap items-center gap-2 text-sm text-[#636c76] mb-2">
+        <a href="/voyages" class="text-[#0969da] hover:underline"> Voyages </a>
+        <span>/</span>
+        <span class="font-semibold text-[#1f2328]">{voyage.id}</span>
       </div>
-    ) : (
-      <article class="space-y-6">
-        <header class="pb-5 border-b border-[#d0d7de]">
-          <div class="flex flex-wrap items-center gap-2 text-sm text-[#636c76] mb-2">
-            <a href="/voyages" class="text-[#0969da] hover:underline">
-              Voyages
-            </a>
-            <span>/</span>
-            <span class="font-semibold text-[#1f2328]">{voyage.id}</span>
-          </div>
 
-          <h1 class="text-2xl font-semibold text-[#1f2328] tracking-tight">
-            {validation.data.title}
-          </h1>
+      <h1 class="text-2xl font-semibold text-[#1f2328] tracking-tight">
+        {data.title}
+      </h1>
 
-          <div class="mt-2 flex flex-wrap items-center gap-3 text-sm text-[#57606a]">
-            <p class="text-sm text-[#57606a] mt-1">
-              {validation.data.country} · {validation.data.period}
-            </p>
-            {validation.data.tags && validation.data.tags.length > 0 && (
-              <>
-                <span>•</span>
-                <div class="flex flex-wrap gap-1.5 items-center">
-                  {validation.data.tags.map((tag: string) => (
-                    <span class="text-[11px] text-[#0969da] bg-[#ddf4ff] px-2 py-0.5 rounded-full font-medium">
-                      {tag}
-                    </span>
-                  ))}
-                </div>
-              </>
-            )}
-          </div>
-        </header>
-        {/* 3. Affichage conditionnel de la carte de votre voyage */}
-        {voyage.id === "road-trip-en-australie-2005-2006" && (
-          <div class="my-6">
-            <h2 class="text-lg font-semibold text-[#1f2328] mb-3">Tracé de l'itinéraire</h2>
-            <TravelMap locations={australiaItinerary} />
-          </div>
-        )}
-        <div class="prose prose-sm max-w-none markdown-body">
-          <Content />
+      <div class="mt-2 flex flex-wrap items-center gap-3 text-sm text-[#57606a]">
+        <p class="text-sm text-[#57606a] mt-1">
+          {data.country} · {data.period}
+        </p>
+        {
+          data.tags && data.tags.length > 0 && (
+            <>
+              <span>•</span>
+              <div class="flex flex-wrap gap-1.5 items-center">
+                {data.tags.map((tag: string) => (
+                  <span class="text-[11px] text-[#0969da] bg-[#ddf4ff] px-2 py-0.5 rounded-full font-medium">
+                    {tag}
+                  </span>
+                ))}
+              </div>
+            </>
+          )
+        }
+      </div>
+    </header>
+    {
+      voyage.id === "road-trip-en-australie-2005-2006" && (
+        <div class="my-6">
+          <h2 class="text-lg font-semibold text-[#1f2328] mb-3">Tracé de l'itinéraire</h2>
+          <TravelMap locations={australiaItinerary} />
         </div>
-      </article>
-    )
-  }
+      )
+    }
+    <div class="prose prose-sm max-w-none markdown-body">
+      <Content />
+    </div>
+  </article>
 </Layout>
