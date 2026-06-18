@@ -1,35 +1,595 @@
 ---
-import Badge from "../../components/Badge.astro";
-import CollectionListItem from "../../components/CollectionListItem.astro";
-import PageHeader from "../../components/PageHeader.astro";
 import Layout from "../../layouts/Layout.astro";
-import { formatDateFr, getPublishedCollection, sortByDateDesc } from "../../lib/content";
+import PageHeader from "../../components/PageHeader.astro";
+import tablatures from "../../data/tablatures.json";
 
-const tablatures = sortByDateDesc(await getPublishedCollection("tablatures"));
+const lettersSet = [...new Set(tablatures.map((t) => t.letter))].sort();
+
+// build grouped object without reduce
+type TabFile = {
+  name: string;
+  path: string;
+  letter: string;
+  extension: string;
+  index: number;
+};
+
+const grouped: Record<string, TabFile[]> = {};
+for (const t of tablatures) {
+  const letter = t.letter || "#";
+  if (!grouped[letter]) grouped[letter] = [];
+  grouped[letter].push(t);
+}
 ---
 
 <Layout title="Tablatures">
   <PageHeader title="Tablatures" count={tablatures.length} />
 
-  <div class="divide-y divide-[#d0d7de]">
-    {
-      tablatures.map((tablature) => (
-        <CollectionListItem
-          href={`/tablatures/${tablature.id}`}
-          title={tablature.data.title}
-          description={tablature.data.description}
+  <!-- Sticky index -->
+  <div class="sticky top-0 bg-white/95 backdrop-blur border-b border-[#d0d7de] z-10 py-2">
+    <div class="flex flex-wrap gap-2 text-xs">
+      {
+        lettersSet.map((letter) => (
+          <a
+            href={`#${letter}`}
+            data-letter={letter}
+            class="px-2 py-1 border rounded hover:bg-gray-100"
+          >
+            {letter}
+          </a>
+        ))
+      }
+    </div>
+
+    <div class="mt-2 space-y-2">
+      <div class="flex gap-2 text-xs">
+        <button
+          id="mode-hide"
+          type="button"
+          aria-pressed="true"
+          class="px-2 py-1 border rounded bg-gray-100"
         >
-          <Badge slot="meta" variant="date">
-            {formatDateFr(tablature.data.date)}
-          </Badge>
-          {tablature.data.tags &&
-            tablature.data.tags.map((tag) => (
-              <Badge slot="meta" variant="tag">
-                {tag}
-              </Badge>
-            ))}
-        </CollectionListItem>
-      ))
+          Cacher les autres
+        </button>
+
+        <button
+          id="mode-highlight"
+          type="button"
+          aria-pressed="false"
+          class="px-2 py-1 border rounded"
+        >
+          Mettre en évidence
+        </button>
+
+        <button
+          id="next-match"
+          type="button"
+          class="bg-black/90 hover:bg-black text-white text-sm px-4 rounded-full shadow-lg border border-white/10 backdrop-blur transition hidden"
+        >
+          Suivant <span id="match-counter">0 / 0</span>
+        </button>
+        <div id="hide-counter" class="text-xs text-gray-600 mt-1 hidden"></div>
+      </div>
+
+      <div class="relative">
+        <input
+          id="search"
+          type="text"
+          placeholder="Rechercher une tablature..."
+          class="w-full pr-10 px-3 py-2 border border-[#d0d7de] rounded-md text-sm"
+        />
+
+        <button
+          id="clear-search"
+          type="button"
+          class="absolute right-2 top-1/2 -translate-y-1/2 text-gray-500 hover:text-black text-sm"
+          aria-label="Effacer la recherche"
+        >
+          ✕
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Library -->
+  <div id="tab-library" class="mt-4 space-y-8">
+    {
+      Object.keys(grouped)
+        .sort()
+        .map((letter) => (
+          <section id={letter} style="scroll-margin-top: 120px;">
+            <h2 class="text-sm font-semibold mb-2 text-gray-700">{letter}</h2>
+
+            <div class="divide-y divide-[#d0d7de]">
+              {grouped[letter].map((file) => (
+                <div
+                  class="flex items-center justify-between tab-item"
+                  data-name={file.name.toLowerCase()}
+                >
+                  <a
+                    href={file.path}
+                    class="text-sm text-[#0969da] hover:underline"
+                    data-original-name={file.name}
+                    data-path={file.path}
+                    data-extension={file.extension.toLowerCase()}
+                  >
+                    {file.name}
+                  </a>
+
+                  <span class="text-xs text-gray-500 uppercase">{file.extension}</span>
+                </div>
+              ))}
+            </div>
+          </section>
+        ))
     }
   </div>
+
+  <!-- Tab viewer modal -->
+  <div
+    id="tab-modal"
+    class="fixed inset-0 z-50 hidden items-center justify-center bg-black/50 p-4"
+    role="dialog"
+    aria-modal="true"
+    aria-labelledby="tab-modal-title"
+  >
+    <div
+      class="flex max-h-[90vh] w-full max-w-3xl flex-col rounded-md border border-[#d0d7de] bg-white shadow-xl"
+    >
+      <!-- Header -->
+      <div class="flex items-center justify-between gap-2 border-b border-[#d0d7de] px-4 py-3">
+        <h2 id="tab-modal-title" class="truncate text-sm font-semibold text-gray-800"></h2>
+
+        <div class="flex items-center gap-1 text-xs">
+          <button
+            id="tab-zoom-out"
+            type="button"
+            class="px-2 py-1 border rounded hover:bg-gray-100"
+            aria-label="Réduire le texte"
+          >
+            A-
+          </button>
+          <button
+            id="tab-zoom-in"
+            type="button"
+            class="px-2 py-1 border rounded hover:bg-gray-100"
+            aria-label="Agrandir le texte"
+          >
+            A+
+          </button>
+          <a
+            id="tab-open-new-tab"
+            href="#"
+            target="_blank"
+            class="px-2 py-1 border rounded hover:bg-gray-100"
+          >
+            Ouvrir ↗
+          </a>
+          <button
+            id="tab-modal-close"
+            type="button"
+            class="px-2 py-1 border rounded hover:bg-gray-100"
+            aria-label="Fermer"
+          >
+            ✕
+          </button>
+        </div>
+      </div>
+
+      <!-- Body -->
+      <div id="tab-modal-body" class="overflow-y-auto p-4">
+        <p id="tab-loading" class="text-sm text-gray-500">Chargement...</p>
+
+        <pre
+          id="tab-text-content"
+          class="hidden whitespace-pre font-mono leading-relaxed text-gray-900"
+          style="font-size: 14px;">
+        </pre>
+
+        <img id="tab-image-content" class="hidden mx-auto max-w-full" alt="" />
+
+        <div id="tab-fallback" class="hidden text-center text-sm text-gray-600">
+          <p>Aperçu non disponible pour ce format.</p>
+        </div>
+      </div>
+    </div>
+  </div>
 </Layout>
+<script>
+  const search = document.getElementById("search") as HTMLInputElement | null;
+  const items = Array.from(document.querySelectorAll(".tab-item")) as HTMLElement[];
+  const sections = Array.from(document.querySelectorAll("section")) as HTMLElement[];
+  const clearBtn = document.getElementById("clear-search") as HTMLButtonElement | null;
+  const modeHideBtn = document.getElementById("mode-hide") as HTMLButtonElement | null;
+  const modeHighlightBtn = document.getElementById("mode-highlight") as HTMLButtonElement | null;
+  const nextBtn = document.getElementById("next-match") as HTMLButtonElement | null;
+  const counter = document.getElementById("match-counter") as HTMLElement | null;
+  const hideCounter = document.getElementById("hide-counter") as HTMLElement | null;
+
+  let mode: "hide" | "highlight" = "hide";
+  let currentMatches: HTMLElement[] = [];
+  let currentIndex = -1;
+
+  // Pré-calcule, une fois pour toutes, les items + lien d'index appartenant à chaque section.
+  // Évite de refaire un querySelectorAll par section à chaque frappe.
+  const sectionInfo = sections.map((section) => ({
+    section,
+    items: Array.from(section.querySelectorAll(".tab-item")) as HTMLElement[],
+    link: document.querySelector(`[data-letter="${section.id}"]`) as HTMLElement | null,
+  }));
+
+  // Cache le texte original de chaque item pour éviter de relire le DOM à chaque frappe.
+  const itemCache = items.map((item) => {
+    const anchor = item.querySelector("a") as HTMLAnchorElement | null;
+    return {
+      item,
+      anchor,
+      name: item.dataset.name ?? "",
+      original: anchor?.dataset.originalName ?? "",
+    };
+  });
+
+  function escapeRegExp(str: string) {
+    return str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  }
+
+  function escapeHtml(str: string) {
+    return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+  }
+
+  function renderMarkdown(text: string, basePath: string) {
+    const dir = basePath.substring(0, basePath.lastIndexOf("/") + 1);
+
+    // Définition des fichiers cibles pour le rendu des accords en ligne
+    const isApologieFile = basePath.toLowerCase().includes("apologie");
+    const isMultiChordsFile = basePath.toLowerCase().includes("open tuning");
+    const useInlineChords = isApologieFile || isMultiChordsFile;
+
+    // 1. Échappement initial pour la sécurité
+    let html = escapeHtml(text);
+
+    // Traitement spécifique pour aligner horizontalement les lignes d'accords successives
+    if (useInlineChords) {
+      // Détecte une image de fin de ligne suivie d'un saut de ligne et d'un autre accord
+      // Remplace le saut de ligne (\n) par 4 espaces pour forcer l'alignement horizontal dans le <pre>
+      html = html.replace(/\!\[(.*?)\]\((.*?)\)\s*\n\s*(?=\S+\s*\!\[)/g, "![$1]($2)    ");
+    }
+
+    // 2. Rendu des images ![alt](url)
+    const imgRegex = /!\[(.*?)\]\((.*?)\)/g;
+    html = html.replace(imgRegex, (_, alt, src) => {
+      const decodedSrc = decodeURIComponent(src);
+      const fullSrc =
+        decodedSrc.startsWith("http") || decodedSrc.startsWith("/")
+          ? decodedSrc
+          : `${dir}${decodedSrc}`;
+
+      if (useInlineChords) {
+        return `<img src="${fullSrc}" alt="${escapeHtml(alt)}" style="display: inline-block !important; vertical-align: middle !important; height:  5em !important; width: auto !important; max-width: none !important; margin: 0 4px !important; float: none !important;" />`;
+      } else {
+        return `<img src="${fullSrc}" alt="${escapeHtml(alt)}" style="display: block; max-width: 100%; height: auto; margin: 0 auto;" />`;
+      }
+    });
+
+    // 3. Rendu des titres (du # au ######)
+    const headerRegex = /^(#{1,6})\s+(.+)$/gm;
+    html = html.replace(headerRegex, (_, hashes, title) => {
+      const level = hashes.length;
+      const fontSize = level === 1 ? "1.4em" : level === 2 ? "1.25em" : "1.1em";
+
+      let borderStyle = "";
+      if (level === 2) {
+        borderStyle = "border-top: 1px solid #d0d7de; padding-top: 0.5rem; margin-top: 0.5rem;";
+      } else {
+        borderStyle = "margin-top: 0;";
+      }
+
+      return `<span style="display: block; font-size: ${fontSize}; font-weight: 700; color: #1f2328; ${borderStyle} margin-bottom: 0;">${title}</span>`;
+    });
+
+    // 4. Rendu du texte en gras (**texte**)
+    html = html.replace(
+      /\*\*(.*?)\*\*/g,
+      '<strong style="font-weight: 700; color: #24292f;">$1</strong>'
+    );
+
+    return html;
+  }
+
+  function highlight(text: string, query: string) {
+    const safe = escapeHtml(text);
+    if (!query) return safe;
+    const regex = new RegExp(`(${escapeRegExp(query)})`, "gi");
+    return safe.replace(regex, "<mark>$1</mark>");
+  }
+
+  /**
+   * Point d'entrée unique du filtrage : calcule une seule fois la correspondance
+   * de chaque item, puis met à jour items, sections, index de lettres et compteurs.
+   */
+  function applyFilter(rawValue: string) {
+    const v = rawValue.toLowerCase().trim();
+    const matches: HTMLElement[] = [];
+
+    for (const { item, anchor, name, original } of itemCache) {
+      const match = !v || name.includes(v);
+      if (match) matches.push(item);
+
+      if (!v) {
+        item.style.display = "";
+        item.style.opacity = "1";
+        if (anchor) anchor.textContent = original;
+        continue;
+      }
+
+      if (mode === "hide") {
+        item.style.display = match ? "" : "none";
+        item.style.opacity = "1";
+      } else {
+        item.style.display = "";
+        item.style.opacity = match ? "1" : "0.25";
+      }
+
+      if (anchor) anchor.innerHTML = highlight(original, rawValue);
+    }
+
+    currentMatches = v ? matches : [];
+    currentIndex = -1;
+
+    // Sections + index sticky : une seule passe, réutilise les items déjà filtrés au-dessus.
+    for (const { section, items: sItems, link } of sectionInfo) {
+      const showSection = mode !== "hide" || !v || sItems.some((i) => i.style.display !== "none");
+      section.style.display = showSection ? "" : "none";
+      if (link) link.style.display = showSection ? "" : "none";
+    }
+
+    updateCounter(v);
+    updateActionButtons(v);
+  }
+
+  function updateCounter(value: string) {
+    if (mode === "highlight") {
+      if (!counter) return;
+      const total = currentMatches.length;
+      const current = currentIndex >= 0 ? currentIndex + 1 : 0;
+      counter.textContent = `${current} / ${total}`;
+      return;
+    }
+
+    const visibleCount = value ? currentMatches.length : items.length;
+    if (hideCounter)
+      hideCounter.textContent = `${visibleCount} résultat${visibleCount > 1 ? "s" : ""}`;
+  }
+
+  function updateActionButtons(value: string) {
+    if (clearBtn) clearBtn.style.display = value ? "block" : "none";
+
+    if (mode === "hide") {
+      hideCounter?.classList.toggle("hidden", !value);
+      counter?.parentElement?.classList.add("hidden");
+    } else {
+      hideCounter?.classList.add("hidden");
+      counter?.parentElement?.classList.toggle("hidden", !value);
+    }
+
+    if (nextBtn) {
+      const showNext = mode === "highlight" && value !== "" && currentMatches.length > 0;
+      nextBtn.classList.toggle("hidden", !showNext);
+    }
+  }
+
+  function scrollToMatch(index: number) {
+    const el = currentMatches[index];
+    if (!el) return;
+
+    currentIndex = index;
+    updateCounter(search?.value.toLowerCase().trim() ?? "");
+
+    el.scrollIntoView({
+      behavior: "smooth",
+      block: "center",
+    });
+  }
+
+  function updateModeUI() {
+    if (!modeHideBtn || !modeHighlightBtn) return;
+
+    const base = "px-2 py-1 border rounded";
+    const active = "bg-gray-900 text-white ring-2 ring-offset-2 ring-black";
+
+    modeHideBtn.className = mode === "hide" ? `${base} ${active}` : base;
+    modeHighlightBtn.className = mode === "highlight" ? `${base} ${active}` : base;
+
+    modeHideBtn.setAttribute("aria-pressed", String(mode === "hide"));
+    modeHighlightBtn.setAttribute("aria-pressed", String(mode === "highlight"));
+  }
+
+  function setMode(newMode: "hide" | "highlight") {
+    mode = newMode;
+    updateModeUI();
+    applyFilter(search?.value ?? "");
+
+    if (mode === "highlight" && currentMatches.length) {
+      currentIndex = 0;
+      requestAnimationFrame(() => scrollToMatch(0));
+    }
+  }
+
+  // --- Init ---
+  updateModeUI();
+  applyFilter("");
+
+  // --- Events ---
+  modeHideBtn?.addEventListener("click", () => setMode("hide"));
+  modeHighlightBtn?.addEventListener("click", () => setMode("highlight"));
+
+  // Léger debounce pour éviter de recalculer le filtre à chaque keystroke sur une grosse liste.
+  let debounceTimer: ReturnType<typeof setTimeout>;
+  search?.addEventListener("input", () => {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => {
+      applyFilter(search.value);
+      if (mode === "highlight" && currentMatches.length) scrollToMatch(0);
+    }, 120);
+  });
+
+  search?.addEventListener("keydown", (e) => {
+    if (e.key !== "Enter") return;
+    e.preventDefault();
+
+    if (mode === "highlight" && currentMatches.length) {
+      currentIndex = (currentIndex + 1) % currentMatches.length;
+      scrollToMatch(currentIndex);
+    }
+  });
+
+  clearBtn?.addEventListener("click", () => {
+    if (!search) return;
+    search.value = "";
+    applyFilter("");
+    search.focus();
+  });
+
+  nextBtn?.addEventListener("click", () => {
+    if (!currentMatches.length) return;
+    currentIndex = (currentIndex + 1) % currentMatches.length;
+    scrollToMatch(currentIndex);
+  });
+
+  // --- Tab viewer modal ---
+
+  const modal = document.getElementById("tab-modal") as HTMLElement | null;
+  const modalTitle = document.getElementById("tab-modal-title") as HTMLElement | null;
+  const modalClose = document.getElementById("tab-modal-close") as HTMLButtonElement | null;
+  const modalOpenNewTab = document.getElementById("tab-open-new-tab") as HTMLAnchorElement | null;
+  const loadingEl = document.getElementById("tab-loading") as HTMLElement | null;
+  const textContentEl = document.getElementById("tab-text-content") as HTMLElement | null;
+  const imageContentEl = document.getElementById("tab-image-content") as HTMLImageElement | null;
+  const fallbackEl = document.getElementById("tab-fallback") as HTMLElement | null;
+  const zoomInBtn = document.getElementById("tab-zoom-in") as HTMLButtonElement | null;
+  const zoomOutBtn = document.getElementById("tab-zoom-out") as HTMLButtonElement | null;
+
+  // Extensions qu'on tente d'afficher comme du texte brut.
+  const TEXT_EXTENSIONS = new Set(["txt", "md"]);
+  const IMAGE_EXTENSIONS = new Set(["jpg", "jpeg", "png", "gif", "webp"]);
+
+  const MIN_FONT_SIZE = 10;
+  const MAX_FONT_SIZE = 28;
+  let textFontSize = 14;
+
+  function resetModalContent() {
+    if (loadingEl) loadingEl.classList.remove("hidden");
+    textContentEl?.classList.add("hidden");
+    imageContentEl?.classList.add("hidden");
+    fallbackEl?.classList.add("hidden");
+    if (textContentEl) textContentEl.textContent = "";
+    if (imageContentEl) imageContentEl.src = "";
+  }
+
+  function applyTextFontSize() {
+    if (textContentEl) textContentEl.style.fontSize = `${textFontSize}px`;
+  }
+
+  async function openTabModal(name: string, path: string, extension: string) {
+    if (!modal) return;
+
+    resetModalContent();
+    if (modalTitle) modalTitle.textContent = name;
+    if (modalOpenNewTab) modalOpenNewTab.href = path;
+
+    modal.classList.remove("hidden");
+    modal.classList.add("flex");
+    document.body.style.overflow = "hidden";
+
+    if (IMAGE_EXTENSIONS.has(extension)) {
+      if (imageContentEl) {
+        imageContentEl.onload = () => loadingEl?.classList.add("hidden");
+        imageContentEl.onerror = () => showFallback();
+        imageContentEl.alt = name;
+        imageContentEl.src = path;
+        imageContentEl.classList.remove("hidden");
+      }
+      return;
+    }
+
+    if (TEXT_EXTENSIONS.has(extension)) {
+      try {
+        const res = await fetch(path);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+
+        const text = await res.text();
+        if (textContentEl) {
+          if (extension === "md") {
+            // Utilisation du parser léger pour injecter les balises images reconstruites
+            textContentEl.innerHTML = renderMarkdown(text, path);
+          } else {
+            // Reste en texte brut pour les fichiers .txt classiques
+            textContentEl.textContent = text;
+          }
+          applyTextFontSize();
+          textContentEl.classList.remove("hidden");
+        }
+      } catch {
+        showFallback();
+      } finally {
+        loadingEl?.classList.add("hidden");
+      }
+      return;
+    }
+
+    // Format non géré en aperçu (pdf, doc, ...) : fallback "ouvrir dans un nouvel onglet".
+    loadingEl?.classList.add("hidden");
+    showFallback();
+  }
+
+  function showFallback() {
+    loadingEl?.classList.add("hidden");
+    textContentEl?.classList.add("hidden");
+    imageContentEl?.classList.add("hidden");
+    fallbackEl?.classList.remove("hidden");
+  }
+
+  function closeTabModal() {
+    if (!modal) return;
+    modal.classList.add("hidden");
+    modal.classList.remove("flex");
+    document.body.style.overflow = "";
+  }
+
+  // Délégation d'événement : un seul listener pour tous les liens de tablature,
+  // au lieu d'un listener par item (moins coûteux, fonctionne aussi pour du contenu futur ajouté dynamiquement).
+  document.getElementById("tab-library")?.addEventListener("click", (e) => {
+    const link = (e.target as HTMLElement).closest("a[data-path]") as HTMLAnchorElement | null;
+    if (!link) return;
+
+    e.preventDefault();
+
+    const name = link.dataset.originalName ?? link.textContent ?? "";
+    const path = link.dataset.path ?? "";
+    const extension = link.dataset.extension ?? "";
+
+    openTabModal(name, path, extension);
+  });
+
+  modalClose?.addEventListener("click", closeTabModal);
+
+  modal?.addEventListener("click", (e) => {
+    if (e.target === modal) closeTabModal();
+  });
+
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && modal && !modal.classList.contains("hidden")) {
+      closeTabModal();
+    }
+  });
+
+  zoomInBtn?.addEventListener("click", () => {
+    textFontSize = Math.min(MAX_FONT_SIZE, textFontSize + 2);
+    applyTextFontSize();
+  });
+
+  zoomOutBtn?.addEventListener("click", () => {
+    textFontSize = Math.max(MIN_FONT_SIZE, textFontSize - 2);
+    applyTextFontSize();
+  });
+</script>

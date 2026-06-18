@@ -8,8 +8,9 @@
   "scripts": {
     "dev": "LANG=en_US.UTF-8 LC_ALL=en_US.UTF-8 astro dev",
     "build": "astro build",
-    "check": "astro check",
     "fix": "npm run format && npm run lint:fix && npm run tsc && npm run check",
+    "generate-tablatures": "node src/scripts/generate-tablatures.js",
+    "check": "astro check",
     "preview": "astro preview",
     "astro": "astro",
     "lint": "eslint .",
