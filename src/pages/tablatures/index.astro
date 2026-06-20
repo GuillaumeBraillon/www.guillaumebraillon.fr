@@ -240,20 +240,34 @@ for (const t of tablatures) {
   function renderMarkdown(text: string, basePath: string) {
     const dir = basePath.substring(0, basePath.lastIndexOf("/") + 1);
 
-    // Définition des fichiers cibles pour le rendu des accords en ligne
-    const isApologieFile = basePath.toLowerCase().includes("apologie");
-    const isMultiChordsFile = basePath.toLowerCase().includes("open tuning");
-    const useInlineChords = isApologieFile || isMultiChordsFile;
-
     // 1. Échappement initial pour la sécurité
     let html = escapeHtml(text);
 
-    // Traitement spécifique pour aligner horizontalement les lignes d'accords successives
-    if (useInlineChords) {
-      // Détecte une image de fin de ligne suivie d'un saut de ligne et d'un autre accord
-      // Remplace le saut de ligne (\n) par 4 espaces pour forcer l'alignement horizontal dans le <pre>
-      html = html.replace(/\!\[(.*?)\]\((.*?)\)\s*\n\s*(?=\S+\s*\!\[)/g, "![$1]($2)    ");
+    // Une image est considérée "groupée" (à afficher en ligne, comme une
+    // suite de grilles d'accords) si elle est sur une ligne strictement
+    // consécutive à une autre image (un seul saut de ligne, sans paragraphe
+    // vide entre les deux). Du texte est autorisé avant l'image sur la ligne
+    // suivante (ex: "Ab ![accords](...)"), mais pas de ligne vide intercalée
+    // — sinon un mot seul ("E", "A"...) au-dessus d'un groupe d'images se
+    // retrouverait fusionné avec le groupe suivant.
+    // Détection purement structurelle : ne dépend ni du nom du fichier ni de
+    // son contenu textuel, donc s'applique à n'importe quel fichier .md.
+    // On capture la paire complète (src courant + src suivant) pour marquer
+    // les deux images des deux côtés de chaque paire consécutive, sinon la
+    // dernière image d'un groupe de 3+ ne serait jamais marquée.
+    const pairRegex = /!\[.*?\]\((.*?)\)[ \t]*\n[ \t]*(?=[^\n]*?!\[.*?\]\((.*?)\))/g;
+    const isPartOfGroup = new Set<string>();
+
+    let pairMatch: RegExpExecArray | null;
+    while ((pairMatch = pairRegex.exec(html)) !== null) {
+      isPartOfGroup.add(pairMatch[1]); // image courante
+      isPartOfGroup.add(pairMatch[2]); // image suivante
     }
+
+    // Remplace le saut de ligne entre deux images groupées par des espaces,
+    // pour forcer leur alignement horizontal dans le <pre>.
+    const lineBreakRegex = /!\[(.*?)\]\((.*?)\)[ \t]*\n[ \t]*(?=[^\n]*?!\[)/g;
+    html = html.replace(lineBreakRegex, "![$1]($2)    ");
 
     // 2. Rendu des images ![alt](url)
     const imgRegex = /!\[(.*?)\]\((.*?)\)/g;
@@ -264,7 +278,9 @@ for (const t of tablatures) {
           ? decodedSrc
           : `${dir}${decodedSrc}`;
 
-      if (useInlineChords) {
+      const isGrouped = isPartOfGroup.has(src);
+
+      if (isGrouped) {
         return `<img src="${fullSrc}" alt="${escapeHtml(alt)}" style="display: inline-block !important; vertical-align: middle !important; height:  5em !important; width: auto !important; max-width: none !important; margin: 0 4px !important; float: none !important;" />`;
       } else {
         return `<img src="${fullSrc}" alt="${escapeHtml(alt)}" style="display: block; max-width: 100%; height: auto; margin: 0 auto;" />`;
@@ -296,10 +312,9 @@ for (const t of tablatures) {
     return html;
   }
 
-  function highlight(text: string, query: string) {
+  function highlight(text: string, regex: RegExp | null) {
     const safe = escapeHtml(text);
-    if (!query) return safe;
-    const regex = new RegExp(`(${escapeRegExp(query)})`, "gi");
+    if (!regex) return safe;
     return safe.replace(regex, "<mark>$1</mark>");
   }
 
@@ -310,6 +325,9 @@ for (const t of tablatures) {
   function applyFilter(rawValue: string) {
     const v = rawValue.toLowerCase().trim();
     const matches: HTMLElement[] = [];
+    // Une seule compilation de regex par frappe, réutilisée pour tous les items
+    // (au lieu d'une compilation par item matché).
+    const highlightRegex = v ? new RegExp(`(${escapeRegExp(rawValue)})`, "gi") : null;
 
     for (const { item, anchor, name, original } of itemCache) {
       const match = !v || name.includes(v);
@@ -325,12 +343,22 @@ for (const t of tablatures) {
       if (mode === "hide") {
         item.style.display = match ? "" : "none";
         item.style.opacity = "1";
+
+        // Inutile de reconstruire le innerHTML (regex + parsing HTML) d'un
+        // élément masqué : ça ne s'affiche pas, donc on ne le touche pas.
+        if (!match) continue;
+        if (anchor) anchor.innerHTML = highlight(original, highlightRegex);
       } else {
         item.style.display = "";
         item.style.opacity = match ? "1" : "0.25";
-      }
 
-      if (anchor) anchor.innerHTML = highlight(original, rawValue);
+        if (anchor) {
+          // Pas de surlignage à calculer sur un non-match : on remet le texte
+          // brut (plus rapide que innerHTML + regex pour rien).
+          if (match) anchor.innerHTML = highlight(original, highlightRegex);
+          else anchor.textContent = original;
+        }
+      }
     }
 
     currentMatches = v ? matches : [];
