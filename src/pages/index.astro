@@ -7,6 +7,32 @@ import Layout from "../layouts/Layout.astro";
 import { site } from "../data/site";
 import { getPublishedCollection, sortByDateDesc } from "../lib/content";
 import { getThumbnail } from "../lib/images";
+import tablaturesData from "../data/tablatures.json";
+
+// Sélection de 3 tablatures
+const targetNames = [
+  "Special - Jack Johnson Songs By Guillaume Braillon.pdf",
+  "Jean Jacques Goldman - On Ira.pdf",
+  "Queen - I Want To Break Free.pdf",
+  "AaRON - U-Turn Lili.pdf",
+  "Alexandre Kinn - Aude.pdf",
+  "Eric Clapton - Change The World.pdf",
+  "Eric Clapton - Nobody Knows You When Youre Down And Out (Unplugged).pdf",
+  "Graeme Allwright - Jusqu'a  La Ceinture.pdf",
+  "Kaolin - Partons Vite.pdf",
+  "Keb Mo - Loola Loo1.pdf",
+  "Lilicub - Voyage En Italie.pdf",
+  "Paul Personne - Encore A L'essai.pdf",
+  "Renaud - Mistral Gagnant.pdf",
+  "Serge Gainsbourg - Je Suis Venu Te Dire Que Je M'en Vais.pdf",
+  "Telephone - Cendrillon.pdf",
+  "Waifs (The) - Haircut.pdf",
+  "Waifs (The) - London Still.pdf",
+];
+
+const shuffledTargets = [...targetNames].sort(() => Math.random() - 0.5).slice(0, 5);
+
+const featuredTablatures = tablaturesData.filter((tab) => shuffledTargets.includes(tab.name));
 
 const projects = sortByDateDesc(await getPublishedCollection("projects"));
 
@@ -130,21 +156,27 @@ const recentVoyagesWithImages = await Promise.all(
 
     <div class="space-y-6">
       {
-        recentArticlesWithImages.length > 0 && (
-          <section class="border border-[#d0d7de] rounded-md bg-white overflow-hidden">
+        featuredTablatures.length > 0 && (
+          <section class="border border-[#d0d7de] rounded-md bg-white overflow-hidden mt-4">
             <div class="bg-[#f6f8fa] border-b border-[#d0d7de] px-4 py-2 flex items-center justify-between">
-              <span class="text-xs font-semibold text-[#1f2328]">Articles récents</span>
-              <a href="/articles" class="text-[11px] text-[#0969da] hover:underline">
+              <span class="text-xs font-semibold text-[#1f2328]">Tablatures</span>
+              <a href="/tablatures" class="text-[11px] text-[#0969da] hover:underline">
                 Tout voir
               </a>
             </div>
             <div class="divide-y divide-[#d0d7de]">
-              {recentArticlesWithImages.map(({ item, img }) => (
+              {featuredTablatures.map((tab) => (
                 <HomeSidebarItem
-                  href={`/articles/${item.id}`}
-                  title={item.data.title}
-                  thumbnail={img ?? undefined}
-                />
+                  href={`/tablatures?path=${encodeURIComponent(tab.path)}`}
+                  title={tab.name.replace(/\.[^/.]+$/, "")}
+                >
+                  <span
+                    slot="badge"
+                    class="text-[11px] text-[#636c76] bg-[#eaeef2] px-1.5 py-0.5 rounded shrink-0 uppercase font-mono"
+                  >
+                    {tab.extension}
+                  </span>
+                </HomeSidebarItem>
               ))}
             </div>
           </section>
@@ -173,6 +205,27 @@ const recentVoyagesWithImages = await Promise.all(
                     {item.data.country}
                   </span>
                 </HomeSidebarItem>
+              ))}
+            </div>
+          </section>
+        )
+      }
+      {
+        recentArticlesWithImages.length > 0 && (
+          <section class="border border-[#d0d7de] rounded-md bg-white overflow-hidden">
+            <div class="bg-[#f6f8fa] border-b border-[#d0d7de] px-4 py-2 flex items-center justify-between">
+              <span class="text-xs font-semibold text-[#1f2328]">Articles récents</span>
+              <a href="/articles" class="text-[11px] text-[#0969da] hover:underline">
+                Tout voir
+              </a>
+            </div>
+            <div class="divide-y divide-[#d0d7de]">
+              {recentArticlesWithImages.map(({ item, img }) => (
+                <HomeSidebarItem
+                  href={`/articles/${item.id}`}
+                  title={item.data.title}
+                  thumbnail={img ?? undefined}
+                />
               ))}
             </div>
           </section>

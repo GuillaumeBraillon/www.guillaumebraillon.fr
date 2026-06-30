@@ -488,6 +488,29 @@ for (const t of tablatures) {
     scrollToMatch(currentIndex);
   });
 
+  // Au chargement de la page, vérification si un paramètre 'path' est présent dans l'URL
+  document.addEventListener("DOMContentLoaded", () => {
+    const urlParams = new URLSearchParams(window.location.search);
+    const tabPath = urlParams.get("path");
+
+    if (tabPath) {
+      // Cast explicite en HTMLAnchorElement pour satisfaire TypeScript
+      const targetLink = document.querySelector(
+        `a[data-path="${CSS.escape(tabPath)}"]`
+      ) as HTMLAnchorElement | null;
+
+      if (targetLink) {
+        const name = targetLink.dataset.originalName ?? targetLink.textContent ?? "";
+        const extension = targetLink.dataset.extension ?? "";
+
+        // Appel de votre fonction existante
+        openTabModal(name, tabPath, extension);
+
+        targetLink.scrollIntoView({ behavior: "smooth", block: "center" });
+      }
+    }
+  });
+
   // --- Tab viewer modal ---
 
   const modal = document.getElementById("tab-modal") as HTMLElement | null;
