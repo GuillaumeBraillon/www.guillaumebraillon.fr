@@ -41,20 +41,8 @@ const articles = defineCollection({
   }),
 });
 
-const tablatures = defineCollection({
-  loader: glob({ pattern: "**/*.md", base: "./src/content/tablatures" }),
-  schema: z.object({
-    title: z.string({ message: "Le titre est obligatoire" }),
-    date: z.coerce.date({ message: "La date doit être valide" }),
-    tags: z.array(z.string()).optional(),
-    description: z.string().optional(),
-    draft: z.boolean().optional(),
-  }),
-});
-
 export const collections = {
   projects,
   voyages,
   articles,
-  tablatures,
 };
