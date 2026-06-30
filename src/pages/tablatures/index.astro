@@ -165,6 +165,16 @@ for (const t of tablatures) {
           >
             Ouvrir ↗
           </a>
+
+          <button
+            id="tab-share"
+            type="button"
+            class="px-2 py-1 border rounded bg-gray-50 hover:bg-gray-100 font-medium text-[#0969da] flex items-center gap-1"
+            aria-label="Partager la tablature"
+          >
+            Partager
+          </button>
+
           <button
             id="tab-modal-close"
             type="button"
@@ -528,6 +538,7 @@ for (const t of tablatures) {
   const fallbackEl = document.getElementById("tab-fallback") as HTMLElement | null;
   const zoomInBtn = document.getElementById("tab-zoom-in") as HTMLButtonElement | null;
   const zoomOutBtn = document.getElementById("tab-zoom-out") as HTMLButtonElement | null;
+  const shareBtn = document.getElementById("tab-share") as HTMLButtonElement | null;
 
   // Extensions qu'on tente d'afficher comme du texte brut.
   const TEXT_EXTENSIONS = new Set(["txt", "md"]);
@@ -537,6 +548,7 @@ for (const t of tablatures) {
   const MIN_FONT_SIZE = 10;
   const MAX_FONT_SIZE = 28;
   let textFontSize = 14;
+  let currentTabPath = "";
 
   function resetModalContent() {
     loadingEl?.classList.remove("hidden");
@@ -572,6 +584,9 @@ for (const t of tablatures) {
 
   async function openTabModal(name: string, path: string, extension: string) {
     if (!modal) return;
+
+    // On mémorise le path de la tablature en cours
+    currentTabPath = path;
 
     resetModalContent();
 
@@ -674,6 +689,43 @@ for (const t of tablatures) {
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape" && modal && !modal.classList.contains("hidden")) {
       closeTabModal();
+    }
+  });
+
+  shareBtn?.addEventListener("click", async () => {
+    if (!currentTabPath) return;
+
+    // Construction dynamique de l'URL absolue (s'adapte à localhost ou à votre domaine de prod)
+    const shareUrl = `${window.location.origin}/tablatures?path=${encodeURIComponent(currentTabPath)}`;
+    const title = modalTitle?.textContent ? `Tablature : ${modalTitle.textContent}` : "Tablature";
+
+    // 1. Utilisation de l'API de partage native si disponible (Mobile)
+    if (navigator.share) {
+      try {
+        await navigator.share({
+          title: title,
+          url: shareUrl,
+        });
+      } catch (err) {
+        // L'utilisateur a pu annuler le partage, on ignore l'erreur silencieusement
+      }
+    } else {
+      // 2. Fallback : Copie dans le presse-papiers (Desktop)
+      try {
+        await navigator.clipboard.writeText(shareUrl);
+
+        // Changement temporaire du texte du bouton pour feedback visuel
+        const originalText = shareBtn.innerHTML;
+        shareBtn.innerHTML = "Copié ! ✓";
+        shareBtn.classList.replace("text-[#0969da]", "text-green-600");
+
+        setTimeout(() => {
+          shareBtn.innerHTML = originalText;
+          shareBtn.classList.replace("text-green-600", "text-[#0969da]");
+        }, 2000);
+      } catch (err) {
+        console.error("Impossible de copier le lien : ", err);
+      }
     }
   });
 
