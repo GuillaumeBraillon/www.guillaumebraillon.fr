@@ -1,0 +1,146 @@
+Ensemble (Jean-Jacques Goldman) 
+
+
+
+Attention !! : JJG utilise une guitare accordee un ton plus bas 
+pour jouer les arpeges. 
+Pour etre dans la tonalite du disque, accordez votre guitare 
+en : DGCFAD 
+
+Il y a 2 guitares qui font 2 arpeges differents en meme temps. 
+Pour la guitare 1, il faut a chaque fois egrener les accords D et G/B. 
+
+Entre parenthese sont ecrit les accords tenant compte de la 
+transposition 
+
+Intro : 
+
+   C9(Bb9)     G(F)                 Em7(Dm7)        D(C)   G/B(F/A) 
+|--------------------------3------------------------2~~----3----| 
+|----------3-----------3-------3------------3-------3~~----3~~--| 
+|------0-----------0--------------------0-----------2~~----0~~--| 
+|-----------------------------------2-----------0---0~~---------| 
+|--3-------------------------------------------------------2~~--| 
+|--------------3------------------------------------------------| 
+
+
+
+Couplets : 
+
+
+Guitare 1 
+
+   C9(Bb9)     G(F)                Em7(Dm7)        D(C)   G/B(F/A) 
+|--------------------------3-----------------------2~~----3----| 
+|----------3-----------3-------3-----------3-------3~~----3~~--| 
+|------0-----------0-------------------0-----------2~~----0~~--| 
+|----------------------------------2-----------0---0~~---------| 
+|--3------------------------------------------------------2~~--| 
+|--------------3-----------------------------------------------| 
+
+
+Guitare 2 
+   C9(Bb9)     G(F)                Em7(Dm7)        D(C)   G/B(F/A) 
+|------------3---------------3---------------3-----2------3--| 
+|--------3---------------3---------------3---------3------3--| 
+|------0---0-----------0---0---0-------0---0-------2------0--| 
+|------------------0---------------2-----------0---0---------| 
+|--3------------------------------------------------------2--| 
+|--------------3---------------------------------------------| 
+
+
+Final :  
+
+  A    
+Ensemble, Ensemble, Ensemble, Ensemble 
+  F#m                 D 
+Ensemble, Ensemble, Ensemble, Ensemble 
+  A    
+Ensemble, Ensemble, Ensemble, Ensemble 
+  F#m                 D 
+Ensemble, Ensemble, Ensemble, Ensemble 
+  B 
+Ensemble, Ensemble, Ensemble, Ensemble 
+  G#m                 E 
+Ensemble, Ensemble, Ensemble, Ensemble 
+  B 
+Ensemble, Ensemble, Ensemble, Ensemble 
+
+
+
+
+
+
+Accords a jouer avec une guitare accordee 'standard' (EADGBE) 
+
+
+Intro : 
+Bb9 - F - Dm7 - C F/A 
+
+
+
+Couplets : 
+
+Bb9      F 
+Souviens-toi 
+Dm7      C      F/A 
+Etait-ce mai, novembre 
+ Bb9   F 
+Ici ou là ? 
+ Dm7        C    F/A 
+Etait-ce un lundi ? 
+   Bb9      F              Dm7   C 
+Je ne me souviens que d'un mur immense 
+F/A       Bb9      F 
+Mais nous étions ensemble 
+        Dm7    C       F/A 
+Ensemble, nous l'avons franchi 
+
+
+Bb9     F 
+Reviens-moi 
+Dm7      C     F/A 
+De tes voyages si loin 
+Bb9     F 
+Reviens-moi 
+     Dm7        C     F/A 
+Tout s'ajoute à ma vie 
+     Bb9       F           Dm7    C 
+J'ai besoin de nos chemins qui se croisent 
+F/A      Bb9           F 
+Quand le temps nous rassemble 
+        Dm7    C        F/A 
+Ensemble, tout est plus joli 
+
+
+
+
+Final : 
+
+  G 
+Ensemble, Ensemble, Ensemble, Ensemble 
+  Em7                 C 
+Ensemble, Ensemble, Ensemble, Ensemble 
+  G 
+Ensemble, Ensemble, Ensemble, Ensemble 
+  Em7                 C 
+Ensemble, Ensemble, Ensemble, Ensemble 
+  A    
+Ensemble, Ensemble, Ensemble, Ensemble 
+  F#m                 D 
+Ensemble, Ensemble, Ensemble, Ensemble 
+  A    
+Ensemble, Ensemble, Ensemble, Ensemble 
+
+
+
+   Bb9      F              Dm7   C 
+Je ne me souviens que d'un mur immense 
+F/A       Bb9      F 
+Mais nous étions ensemble 
+        Dm7    C       F/A 
+Ensemble, nous l'avons franchi 
+Bb9      F      Dm7         C       F/A 
+Souviens-toi, ensemble nous l'avons franchi 
+Bb9      F      Dm7         C       F/A       F 
+Souviens-toi, ensemble nous l'avons franchi 

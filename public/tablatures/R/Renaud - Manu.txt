@@ -1,0 +1,159 @@
+Renaud - ManuImportant : Veuillez noter que la tablature ci dessous 
+      repr?ente le fruit du travail de son auteur et ne peut en aucun cas faire 
+      l'objet d'une quelconque utilisation commerciale. 
+
+Manu interpr??par Renaud
+
+Renaud - Manu
+
+
+Intro
+ F#m                Bm              F#m               
+|----------9-------|---------------|----------9-------|
+|------------10----|--------7------|------------10----|
+|------11-------11-|----------7----|------11-------11-|
+|---11-------------|------9-----9--|---11-------------|
+|-9----------------|----9----------|-9----------------|
+|------------------|--7------------|------------------|
+
+ Bm              F#m7             Bm
+|---------------|----------7-----|--7========7--|
+|--------7------|------7-----10--|--7========7--|
+|----------7----|----7-----------|--7========7--|
+|------9-----9--|--9-----7-------|--9========9--|
+|----9----------|----------------|--9========9--|
+|--7------------|----------------|--7========7--|
+
+
+Couplet (?jouer 4 fois)
+ F#m                Bm            F#m                Bm
+|----------9-------|-------------|----------9-------|-------------|
+|------------10----|-------7-----|------------10----|-------7-----|
+|------11-------11-|---------7---|------11-------11-|---------7---|
+|---11-------------|-----9-----9-|---11-------------|-----9-----9-|
+|-9----------------|---9---------|-9----------------|---9---------|
+|------------------|-7-----------|------------------|-7-----------|
+
+ A/C#          D             A/C#          D
+|-------5-----|-------5-----|-------5-----|-------5-----|
+|-----2---2---|-----3---3---|-----2---2---|-----3---3---|
+|---2---------|---2-------2-|---2---------|---2-------2-|
+|-------------|-0-----------|-------------|-0-----------|
+|-4---------4-|-------------|-4---------4-|-------------|
+|-------------|-------------|-------------|-------------|
+
+
+                       Refrain
+                          |
+                          v
+ A/E           D/F#            A/E             D/F#
+|-------5-----|---------------|---------------|---------------|
+|-----2---2---|-----3-3p2-----|-----2-3p2-----|-----3-3p2-----|
+|---2-------2-|---2-------2---|---2-------2---|---2-------2---|
+|-2-----------|-4-----------4-|-2-----------2-|-4-----------4-|
+|-------------|---------------|---------------|---------------|
+|-------------|---------------|---------------|---------------|
+
+ F#            Bm            F#
+|-------2-----|-------2-----|-------2-----|
+|-----2---2---|-----3---3---|-----2---2---|
+|---3-------3-|---4-------4-|---3-------3-|
+|-4-----------|-------------|-4-----------|
+|-------------|-2-----------|-------------|
+|-------------|-------------|-------------|
+
+
+4?e fois al CODA
+|
+v
+ Em/B            A6/9          G7maj            Em7
+|-------3-------|-------7-5---|----------7-----|-7========7---|
+|---------5-----|-----7-----7-|--------7---7---|-8========8---|
+|-----4-----4-sld.--6---------|------7-------7-|-7========7---|
+|---2-----------|-7-----------|----9-----------|-9========9---|
+|-2-------------|-------------|-10-------------|-7========7---|
+|---------------|-------------|----------------|--------------|
+
+
+
+CODA
+ Bm                 F#
+|---------2--------|---------2--------|
+|-------3---3------|-------2---2------|
+|-----4-------4----|-----3-------3----|
+|------------------|---4--------------|
+|---2--------------|------------------|
+|------------------|------------------|
+
+
+
+Paroles : 
+
+
+Couplet 1 :
+           Eh Manu, rentre chez toi,
+           Y'a des larmes plein ta bi?e,
+           Le bistrot va fermer,
+           Puis tu gonfles la tauli?e,
+           J'croyais qu'un mec en cuir
+           Ca pouvait pas chialer,
+           J'pensais m?e que souffrir
+           Ca pouvait pas t'arriver.
+           J'oubliais qu'tes tatouages
+           Et ta lame de couteau,
+           C'est surtout un blindage,
+           Pour ton coeur d'artichaud.
+
+Couplet 2 :
+           On ?ait tous maqu?
+           Quand toi, t'?ais tout seul.
+           Tu disais : "J'me fais chier,
+           J'voudrais sauver ma gueule".
+           T'as crois?cette nana
+           Qu'?ait faite pour personne,
+           T'as dit : "Elle est pour moi,
+           Ou alors y'a maldonne".
+           T'as ??un peu vite
+           Pour tatouer son pr?om,
+           A l'endroit o?palpite
+           Ton grand coeur de grand con.
+
+Couplet 3 : 
+           J'vais t'dire on est des loup,
+           On est fait pour vivre en bande.
+           Et surtout pas en couple
+           Ou alors pas longtemps.
+           Nous autres ? fait un baille
+           Qu'on a largu?nos p'tites,
+           Toi t'es toujours en rade
+           Avec la tienne et tu flippes.
+
+Couplet 4 :
+           Elle est plus amoureuse, Manu,
+           Faut qu'tu t'arraches.
+           Elle peut pas ?re heureuse
+           Dans les bras d'un apache.
+           Quand tu lui dis "je t'aime"
+           Si elle te d'mande du feu
+           Si elle a la migraine
+           Et qu'elle est dans ton pieu,
+           Dis lui qu't'es d?ol?
+           Qu't'as d?d'gourrer d'trottoir
+           Quand tu l'as rencontr?,
+           T'as d?tromper d'histoire.
+
+
+
+Refrain :
+
+
+Eh d?onne pas Manu 
+{
+ 1. Va pas t'tailler les veines.     
+ 2. Ca sert ?rien la Haine.     
+ 3. C'est ?moi qu'tu fais d'la peine.
+}
+Une gonzesse de perdue,
+C'est dix copains qui r'viennent.
+
+

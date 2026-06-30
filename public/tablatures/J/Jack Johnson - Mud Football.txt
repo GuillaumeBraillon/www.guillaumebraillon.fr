@@ -1,0 +1,140 @@
+MUDFOOTBALL
+
+CHORDS
+
+Most of this song is just the G and D7 chords as shown below
+G    X 5 5 4 3 X
+D7   X 5 4 5 3 X
+
+I would reccomend holding the G with this fingering
+
+0 E_A_D_G_B_e
+1 |_|_|_|_|_|
+2 |_|_|_|_|_|
+3 T_|_|_|_1_1
+4 |_|_|_2_|_|
+5 |_3_4_|_|_|
+
+which means the thumb (T) mutes the low E string and the 
+1st finger mutes the high e string
+
+and the D7 chord should be fingered like this, allowing for 
+and easy transition between the two chords
+
+0 E_A_D_G_B_e
+1 |_|_|_|_|_|
+2 |_|_|_|_|_|
+3 T_|_|_|_1_1
+4 |_|_2_|_|_|
+5 |_3_|_4_|_|
+
+so that the only two fingers moving are the 2nd and 4th (middle and pinky)
+as they swap strings while staying on the same frets... easy
+
+the CHORUS has the following chords aswell
+E   0 2 2 1 0 0
+G   3 5 5 4 3 3
+C   X 3 5 5 5 3
+A   X 0 2 2 2 0
+
+
+the rythym for the intro is something like this
+
+G-x-x-G-x-x-G-x-x-G-x-x-G-x-x-G-x-x-G-x-x-G-x-x-G-x-x-G-x-x-
+D-x-x-D-x-x-D-x-x-D-x-x-D-x-x-D-x-x-D-x-x-D-x-x-D-x-x-D-x-x-
+repeated
+
+this basically means you keep your right hand going at a steady pace,
+striking the strings with equal power every time, but only squeezing with
+the left hand every third strum, so you get that feeling... just listen and
+you'll figure it out...
+
+
+then the VERSE (you can figure the rythym out here)
+G
+Saturday morning and it's time to go
+One of these could be the days but who could'a known
+D7
+Loadin' in the back of a pick-up truck
+Ridin' with the boys and pushing their luck
+G
+Singin' songs loud on the way to the game
+Wishing all the things could still be the same
+D7
+China's homeruns over the backstop
+Ke kua on the barb and soda pop
+
+CHORUS
+Em          Am
+We used to laugh a lot
+   C           
+But only because we thought
+G                    D7           G      D7      
+That everything good always would remain
+G                           D7          G        D7
+Nothing gonna change there's no need to complain
+
+(Repeat INTRO just once on each chord)
+
+G
+Sunday morning and this time they're going
+Been raining all night so everybody knows
+D7
+Over to the field for tackle football
+Big hits, big hats, yeah give me the ball
+G
+Rain is pouring, touchdown scoring
+Keep on rolling, never boring
+D7
+Karma, karma, karma chameleon
+We're talking kinda funny from helium
+
+(repeat CHORUS from above)
+We used to laugh a lot
+But only because we thought
+That everything good always would remain
+Nothing gonna change there's no need to complain
+
+---------------------------------
+---------------------------------
+-10-x-x-9-x-x-7-x-10-x-x-9-x-7-x-
+---------------------------------
+--8-x-x-7-x-x-5-x--8-x-x-7-x-5-x-
+---------------------------------
+
+--------------------------------------------
+--------------------------------------------
+-10-x-x-9-x-x-7-x-10-x-x-9-x-7-5-5\0----5\0-
+--------------------------------------------
+--8-x-x-7-x-x-5-x--8-x-x-7-x-5-5-5\0----5\0-
+--------------------------------------------
+
+G
+Monday morning and this time they're going
+Wet trunks and schoolbooks and sand on my toes
+D7
+Do anything you can to dodge the bus-stop blues
+They're driving a padidle with a burnt-out fuse
+G
+My best friend Kenny wants to go with you
+So meet him by the sugar mill after school
+D7
+My best friend Kimmy wants to go with you
+Meet her by the sugar mill after school
+
+(repeat CHORUS as before) 
+We used to laugh a lot
+But only because we thought
+That everything good always would remain
+(THEN)
+(CHORUS type 2)
+Em          Am
+We used to laugh a lot
+   C           
+But only because we thought
+A                     
+That everything good always would 
+C                            G       D7
+Everything good always would remain
+
+(repeat INTRO into fade out)

@@ -1,0 +1,75 @@
+Moonlight Drive
+The Doors
+
+Drop your low E down to D for this song, if you plan on playing the piano intro
+on your guitar.  To do this, tune down so that the seventh fret on your low E
+matches the fifth string A.  Robby lays a bunch of slides throughout the course
+of the song, unfortunately I have no technical knowledge of using a slide.
+
+With your low E down to D, the chords change to this structure:
+
+   G7               D7              
+ DADGBE           DADGBE
+ ||||||           x|||||
+ |o---o 3rd Fret  |o---o 5th Fret
+ |||o||           ||||||
+ oo||||           ||o|o|
+ 
+   A7               E7
+ DADGBE           DADGBE
+ ||||||           x|||||
+ |o---o 5th Fret  |o---o 7th Fret
+ |||o||           ||||||
+ oo||||           ||o|o|
+
+Piano intro (arr. for guitar)
+
+   G7
+e-------------------|----------------------||
+B-----------3---5---|------------6---5-----||
+G----(0)------------|------(0)-------------||
+D-(0)-------3---5---|---(0)------7---5-----||
+A-------------------|----------------------||
+D--0--5-------------|----0--5--------------||
+
+This is played 8 times, slide guitar comes in on the second, and vocals comes
+in on the fourth.
+
+Let's swim to the moon, uh huh.
+Let's climb thru the tide.
+Penetrate the evening that our 
+City sleeps to hide.
+
+     D7
+e---------------|
+B----5----5-5---|
+G---------------|
+D----5----5-5---|
+A---------------|
+D---------------|
+
+This is repeated 4 times over these lyrics:
+
+  Let's swim out 
+  Tonight, love.
+  It's our time 
+  To try.
+
+
+G7
+Parked beside the ocean 
+On our Moonlight Drive.
+A7
+Let's swim to the moon, uh huh
+Let's climb thru the tide
+Surrender to the waiting worlds
+That lap against our side.
+
+E7
+Nothin' left open and no
+Time to decide.
+We've stepped into a river
+On our moonlight drive.
+
+[Incomplete as of April 30, 1996 will complete later!]
+

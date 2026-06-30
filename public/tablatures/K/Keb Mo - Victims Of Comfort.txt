@@ -1,0 +1,107 @@
+Victims of Comfort by Keb' Mo' (off his self-titled debut album)
+Transcribed by Gilan Israel
+
+Keb' Mo' is a real gem on the scene of living, youngish bluesmen.  This is
+just one of dozens of his great songs.  I encourage all you blues fans to
+buy his albums, learn his tunes, and share with the class.  I can't include
+all the lyrics for copyright reasons, but you can find them easily enough.
+This file is entirely my work, based on my hearing of the song.
+
+This is my rough attempt at chording by ear.  I would be very pleased to be
+corrected.  I'm giving you one verse, one chorus, and the bridge.  The
+other choruses are slightly different lyrically, and the other verse is,
+well, another verse.  Listen to the song for rhythms and the little licks
+he throws in everywhere.
+
+Basic forms:
+   D  Bm7  G F#m7  A   F
+E--2 --2 --3 --2 --0 --1
+B--3 --3 --0 --2 --2 --1
+G--2 --2 --0 --2 --2 --2
+D--0 --4 --0 --2 --2 --3
+A--x --2 --2 --4 --0 --3
+E--x --x --3 --2 --x --1
+
+Variations:
+In the D chord in the chorus there's a slide (from D5 to E5/D?) which I
+play like this:
+E--5/7--7--5-5
+B--3/5--5--3-3
+G--2/4--4--2-2
+D--0-------0-0
+A-------------
+E-------------
+
+I pepper the Bm7 with some B7sus4 and Bm7/A action.  Here are just the
+chords:
+  B7sus4 Bm7/A
+E---2   --2
+B---5   --3
+G---2   --2
+D---4   --4
+A---2   --0
+E---x   --x
+
+And I vary the G in the chorus with a bit of G/F#:
+E--3
+B--0
+G--0
+D--0
+A--x
+E--2
+
+The D the bridge sounds like an actual slide, possibly on a second guitar.
+I do:
+E---2/10
+B---2/10
+G---3/11
+D-------
+A-------
+E-------
+
+The song:
+
+INTRO (same as Chorus)
+D     Bm7     G     D
+
+Verse
+F#m7    G                       D
+     No rocket's...
+        F#m7            G                   D
+There's no...
+      F#m7            G            F#m7           Bm7
+We've...
+G                                              A           G
+  Let's stop...
+      A           G
+Is it...
+
+CHORUS
+        D
+For the...
+    Bm7
+Got no...
+               G
+We're just...
+D
+Connosuiers...
+
+VERSE
+
+CHORUS
+
+BRIDGE
+F        G                 D
+  Oh and...
+F         G                   D
+  Yes and...
+        Bm7
+So lets...
+                  G
+Before we...
+                 A       G     A     G
+It's too...
+
+CHORUS (x2)
+
+There's a nice quiet lick at the end, but you can figure it out.

@@ -1,0 +1,215 @@
+Benfull7 : Quelqu'un m'a dit - Carla BruniTablature / Partition    
+        Quelqu'un m'a ditCarla Bruni> Retour  
+
+      Type : Accords   |  Version : Album  Imprimer  
+Quelqu'un m'a dit
+(Carla Bruni)
+Transcription: Flavien (Harm_Flav)
+
+
+A    : [0 0 2 2 2 0]
+E    : [0 2 2 1 0 0] 
+F#m  : [2 4 4 2 2 2]
+Dsus2: [0 0 0 2 3 0]
+
+Titre qui peut se jouer à deux comme vous avez certainement pu l'entendre. Un qui
+ joue l'arpège et, à partir du deuxième couplet, un autre joue les accords en
+ "complément". Aprés il peut y avoir un mix tout le long du morceau... Mais vous
+ verrez que dans cette tablature vous ne pourrez pas tout jouer en même temps,
+ c'est impossible tout seul. Par exemple, il y a des arpèges qui se jouent en même
+ temps que les accords...
+ Aussi, je vous conseille d'avoir le vrai morceau à vos côtés parce qu'il va
+ certainement y avoir ceratins passages que vous ne comprendrez pas. Pour ceux qui
+ n'ont pas le morceau, les accords principaux sont donc A E F#m et Dsus2 (Il y en
+ aura peut-être qui préfèreront D au lieu de Dsus2 mais moi je trouve que ça sonne
+ mieux avec Dsus2. En plus dans l'arpège c'est le Dsus2 qui est joué...). Aprés,
+ pour le rythme de l'arpège, c'est à vous de voir...
+
+
+Tab 1 (Capo 1)                 
+                               
+             A           3x          A                     E            \
+E||----------------------||---------------------|--------------------|   ||
+B||---------------2------||---------------2-----|--------------0-----|   ||
+G||*--------2--------2--*||---------2--------2--|--------1--------1--|   ||
+D||*-----2-----2--------*||------2-----2--------|-----2-----2--------|   ||
+A||---0------------------||---0-----------------|--------------------|   ||
+E||----------------------||---------------------|--0-----------------|   ||
+                                                                         ||
+                                                                         ||
+          F#m                   Dsus2                     A              || A
+E||--------------------|--------------0------||---------------------|    || R
+B||--------------2-----|--------3--------3---||---------------2-----|    || P
+G||-----------------2--|-----2-----2---------||*--------2--------2--|    || E
+D||--------4-----------|--0------------------||*----2-----2---------|    || G
+A||-----4-----4--------|---------------------||--0------------------|    || E
+E||--2-----------------|---------------------||---------------------|    ||
+                                                                         || A 
+                                                                         ||
+           E                    F#m                    Dsus2        2x   ||
+E||--------------------|---------------------|----------------------||   ||
+B||--------------0-----|--------------2------|---------3-----3------||   ||
+G||--------1--------1--|-----------------2---|------2-----2-----2--*||   ||
+D||-----2-----2--------|--------4------------|---0-----------------*||   ||
+A||--------------------|-----4-----4---------|----------------------||   ||
+E||--0-----------------|--2------------------|----------------------||   ||
+                                                                        //
+
+*****
+L'arpège A est joué au début de la chanson. Il est repris plusieurs fois dans le
+morceau.
+*****
+
+On me dit que nos vies ne valent pas grand-chose,       |
+                                                        |
+Qu'elles passent en un instant comme fânent les roses,  |
+                                                        | Arpège A
+On me dit que le temps qui glisse est un salaud,        |
+                                                        |
+Et que de nos chagrins il s'en fait des manteaux.       |
+                                                          Je ne suis pas
+                                                           trés sûr que
+                        A   E      F#m      Dsus2           l'arpège A soit
+Pourtant quelqu'un m'a dit que tu m'aimais encore,           vraiment joué ici
+                         A   E      F#m      Dsus2            il y est tellement
+C'est quelqu'un qui m'a dit que tu m'aimais encore,           | atténué...
+                     A   E   F#m   Dsus2   A   E   F#m  Dsus2 | 
+Serait-ce possible alors ?
+
+
+Tab (Capo 1)
+
+E||-----------------------------------------------5---||
+B||--10----9----7----5-----10----9----7----------7----||
+G||---------------------------------------------7-----||
+D||--------------------------------------------7------||
+A||-------------------------------------------5-------||
+E||------------------------------------------5--------||
+
+                  A                    E
+On dit que le destin se moque bien de nous,
+                     F#m                         Dsus2
+Qu'il ne nous donne rien, et qu'il nous promet tout,
+                 A                     E
+Paraît que le bonheur est à portée de main,
+                 F#m                     Dsus2
+Alors on tend la main et on se retrouve fou.
+
+                        A   E      F#m      Dsus2
+Pourtant quelqu'un m'a dit que tu m'aimais encore,
+                         A   E      F#m      Dsus2
+C'est quelqu'un qui m'a dit que tu m'aimais encore,
+                     A                E   F#m   Dsus2
+Serait-ce possible alors ? 
+                     A                E   F#m   Dsus2
+Serait-ce possible alors ?
+
+
+Tab (Capo 1)
+
+~ trémolo
+E||------------------------||
+B||--10~---9~---7~---5~----||___________________________
+G||------------------------||                           
+D||------------------------||                           |
+A||------------------------||                           | Une des guitares joue
+E||------------------------||                           | ces 4 petites notes
+                                                        |
+                         A                     E        |
+Mais qui est-ce qui m'a dit que toujours tu m'aimais? | |
+                   F#m                       Dsus2    |_/
+Je ne me souviens plus, c'était tard dans la nuit,    |
+                     A                               E   
+J'entends encore la voix, mais je ne vois plus les traits,
+                   F#m                                      Dsus2 
+"Il vous aime, c'est secret, ne lui dites pas que je vous l'ai dit."
+
+
+Tab (Capo 1)
+
+~ trémolo                   2x
+E||-------------------------||
+B||---10~---9~---7~---5~----||
+G||*-----------------------*||_______________________ 
+D||*-----------------------*||                       
+A||-------------------------||                       |
+E||-------------------------||                       |
+                                                     |
+                        A   E       F#m     Dsus2  | |
+Tu vois, quelqu'un m'a dit que tu m'aimais encore, | |
+                      A   E       F#m     Dsus2    |_/
+Me l'a-t'on vraiment dit que tu m'aimais encore,   |
+                     A                             |
+Serait-ce possible alors ?                         |
+
+mmmmhhhhhh... E   F#m   Dsus2   A   E   F#m   Dsus2
+
+
+Tab (Capo 1)
+                                                                           
+E||-------0--------------|----------------------|-------------------------|
+B||-----------------0----|--2----3----5----7----|--9----10----12----14----|
+G||--2---------2---------|----------------------|-------------------------|
+D||----------------------|----------------------|-------------------------|
+A||----------------------|----------------------|-------------------------|
+E||----------------------|----------------------|-------------------------|
+
+
+                    
+------------------||
+--15----17--------||
+------------------|| Aprés cet arpège il y a un petit passage vraiment sympathique
+------------------||   mais que je suis incapable de le trouver vu mon niveau... 
+------------------||   Si vous trouvez et bien merci et bravo!
+------------------||
+
+
+                    A                        E
+On me dit que nos vies ne valent pas grand chose,
+                         F#m                    Dsus2
+Qu'elles passent en un instant comme fânent les roses,
+                   A                       E
+On me dit que le temps qui glisse est un salaud,
+                 F#m                        Dsus2
+Et que de nos tristesses il s'en fait des manteaux.
+
+
+Tab (Capo 1)
+                                 3x
+E||------------------------------||
+B||---10----9----10----9----7----||
+G||*----------------------------*||____________________________________________
+D||*----------------------------*||                                            
+A||------------------------------||                                            |
+E||------------------------------||                                            |
+                                                                               |
+                        A   E       F#m     Dsus2                            | |
+Pourtant quelqu'un m'a dit que tu m'aimais encore,                           | |
+                         A   E      F#m      Dsus2                           |_/
+C'est quelqu'un qui m'a dit que tu m'aimais encore,                          |
+                     A       E   F#m   Dsus2   A   E   F#m   Dsus2           |
+Serait-ce possible alors?                                                    |
+                                                                             |
+mmmmhhhhhh... E   F#m   Dsus2   A   E   F#m   Dsus2                          |
+
+
+Tab (Capo 1)
+
+E||-------0----||
+B||------2-----||
+G||-----2------||
+D||----2-------||
+A||---0--------||
+E||--0---------||
+
+
+En plus d'être belle, Carla Bruni fait de belles chansons. Je vous conseille son
+album: c'est pur...
+
+-------
+Flavien le Rouennais est trés heureux de vous fournir cette tablature trouvée à l'oreille.
+@@@+++
+-------
+
+
+      > Retour  Destiné à un usage strictement personnel !> Retour  

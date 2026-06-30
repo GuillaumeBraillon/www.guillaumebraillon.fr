@@ -1,0 +1,28 @@
+Isis
+
+ 
+The chord pattern is the same for the whole song:
+A AAA G GGG D DDD A AAA
+I married Isis on the fifth day of May
+...
+A : open : x02220 (barre : 577655)
+G : open : 320003 (barre : 355433)
+D : open : xx0232 (barre : x57775)
+Two ways to play the main riff (sounds like Manic Depression) :
+e------------------------------
+B------------------------------
+G-----------------------0-1-2--
+D------2------0--0-1-2---------
+A--0-4------2------------------
+E---------3--------------------
+
+e------------------------------
+B------------------------------
+G------------------------------
+D-----------------------5-6-7--
+A----4-7----2-5--5-6-7---------
+E--5------3--------------------
+--------------------
+
+Isis tab made by Sam
+http://popachubby.free.fr

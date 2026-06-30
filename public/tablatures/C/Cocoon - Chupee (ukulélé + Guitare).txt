@@ -1,0 +1,137 @@
+Cocoon - Chupee* (ukulélé + guitare)Important : Veuillez noter que la 
+      tablature ci dessous repr�sente le fruit du travail de son auteur et ne 
+      peut en aucun cas faire l'objet d'une quelconque utilisation commerciale. 
+
+Chupee* (ukulélé + guitare) interpr�t� par Cocoon
+
+----------------------------------------------------------------------
+COCOON - Chupee
+Album : My Friends All Died In A Plane Crash
+----------------------------------------------------------------------
+Tab par : Robin Gullo alias granarc
+E-mail : granarc *at* free *dot* fr
+Retrouvez-moi sur http://playcocoon.free.fr pour
+les chansons, des vidéos, des covers, et plus encore sur Cocoon...
+
+Écouter Chupee : http://www.youtube.com/watch?v=ngzFeBj6bi4
+Apprendre Chupee en vidéo : http://www.youtube.com/watch?v=induGNbMerE
+
+
+-> Ukulélé : Accordage GCEA SANS CAPO
+   Guitare : Accordage standard SANS CAPO
+
+
+Le motif rythmique pour cette chanson peut sembler difficile pour certains.
+Cependant, c'est très simple quand on comprend comment ça marche.
+C'est un simple rythme ternaire (c'est-à-dire un peu "sautillé", pour les novices).
+Jouez ça en boucle, puis sur chaque second temps, relâchez la pression des doigts :
+cela donne un son étouffé comme un clic.
+Ré-appuyez vos doigts sur les autres temps.
+
+Vous passerez de ce rythme
+ | ' ' | ' ' | ' ' | ' '       chaque | represente un temps
+-0---0-0---0-0---0-0---0-      chaque ' represente un tiers de temps
+
+à celui-ci
+ | ' ' | ' ' | ' ' | ' '
+-0---0-x---0-0---0-x---0-      les x représentent le son étouffé
+
+Je vous conseille de vous aider de la vidéo, c'est plus clair (lien en haut).
+
+
+-> Accords
+
+      G    Em   Bm   D7   C    Am
+A||---2----2----2----3----3----3---|
+E||---3----3----2----2----0----0---| Ukulélé
+C||---2----4----2----2----0----0---|
+G||---4----4----4----2----0----2---|
+
+      G    Em   Bm   D7   C    Am
+e||---3----0----2----2----0----0---|
+B||---3----0----3----1----1----1---|
+G||---0----0----4----2----0----2---| Guitare
+D||---0----2----4----0----2----2---|
+A||---2----2----2----0----3----0---|
+E||---3----0----2---------0----0---|
+
+
+
+-> Intro / Couplet / Pont
+
+------------------------------
+|   G   |  Em  |  Bm  |  D7  | x2
+------------------------------
+
+
+-> Refrain
+
+-------------------------------
+|   C   |  Am  |   G   |  Bm  | x2
+-------------------------------
+
+
+
+-> Paroles + Accords
+
+Intro :
+G Em Bm D7
+G Em Bm D7
+
+G                     Em
+We have gone to the country
+          Bm     D7
+In your old car
+G                   Em
+We have lost our way
+      Bm       D7
+So many times
+
+C       Am
+Hello, hello
+  G                 Bm
+I take you on a trip
+C       Am
+Hello, hello
+  G                 Bm
+I take you on a trip
+
+Pont :
+G Em Bm D7
+G Em Bm D7
+
+G                     Em
+Eating your Chupa Chup
+  Bm                    D7
+A plane is making a loop
+    G                  Em
+The beavers are so cute !
+  Bm                  D7
+A tree gave me a fruit
+
+C       Am
+Hello, hello
+  G                 Bm
+I take you on a trip
+C       Am
+Hello, hello
+  G                 Bm
+I take you on a trip
+
+Pont :
+G Em Bm D7
+G Em Bm D7
+
+C       Am
+Hello, hello
+  G                 Bm
+I take you on a trip
+C       Am
+Hello, hello
+  G                 Bm
+I take you on a trip
+
+G Em Bm D7
+Hello, hello...
+
+Dernier accord : G

@@ -1,0 +1,1351 @@
+August Chords by Counting Crows, www.Ultimate-Guitar.Com
+
+#----------------------------------PLEASE NOTE---------------------------------#
+#This file is the author's own work and represents their interpretation of the #
+#song. You may only use this file for private study, scholarship, or research. #
+#------------------------------------------------------------------------------##
+From: Steve Vetter 
+
+Counting Crows - August And Everything After (and extras)
+18 March 1995
+
+------------------------------------------------------
+I have compiled all of the circulating files from the net into this one 
+overview file. If you have anything to add, mail it to me and I'll update
+it.  Original credit is left intact, much thanks to Ken McLeod who did 
+many of them and Paul Hutchinson for his trained ear and skillfull 
+corrections. If I have forgotton to name anyone that credit is due to, 
+please flame me. ;-)
+
+-Steve Vetter [vetters@vax1.elon.edu]
+
+Further Note - Steve's a bit busy at the moment, so I've finished and 
+tidied up the file myself. If anyone has any further corrections, I'll 
+accept them if necessary. Full credit to Steve and Ken who did most of 
+the work on this.
+
+-Paul Hutchinson
+------------------------------------------------------
+CONTENTS:
+---------
+
+   Round Here 
+   Omaha 
+   Mr. Jones 
+   Perfect Blue Buildings 
+   Anna Begins 
+   Time and Time Again 
+   Rain King 
+   Sullivan Street 
+   Ghost Train
+   Raining In Baltimore
+   A Murder of One
+   ***
+   Einstein on the Beach - From DGC Rareties v.1
+   Marjorie - Unreleased Demo
+   Goodnight, Elizabeth - Unreleased Concert Staple
+
+------------------------------------------------------
+-- ROUND HERE --    Counting Crows
+From: ken@cloudbusting.apple.com (Ken McLeod)
+
+(NB During the verses, the guitar plays the riff shown - the chords
+   marked are implied by the keyboards and bass. However, during the
+   chorus, the guitar plays the chords as shown.
+   Note also the funky "Sleeping children.." bit. On the album, there
+   is definitely a chord change implied from A to G (by the wah-wah 
+   guitar and possibly the keyboards) but the main guitar and bass 
+   play the same thing under both chords, which kind of confuses the
+   ear. You can approximate what's happening like this
+
+   A                           G/A
+E|---------------------------|----------------------------|
+B|-0h2-2-2-----0--2--0--2----|-0---0-0-----0-----0-----0--|
+G|-0h2-2-2-----0--2--0--2----|-0---0-0-----0-----0-----0--|
+D|-0h2-2-2-----0--2--0--2----|-0---0-0-----0-----0-----0--|
+A|-0---0-0-----0--0--0--0----|-0---0-0-----0-----0-----0--|
+E|---------------------------|----------------------------|
+
+   Hope that helps)
+ 
+Intro & verse riff:
+
+E|-----5--------5------------|
+B|-------8--------8------8---|
+G|---7--------7--------7-----|
+D|---------------------------|
+A|---------------------------|
+E|---------------------------|
+
+C (riff)                       D
+Step out the front door like a ghost
+                          Em                      G/D
+into the fog where no one notices the contrast of white on white.
+     C                                D 
+And in between the moon and you   the angels get a better view
+       Em                           G/D
+of the crumbling difference between wrong and right
+       C                            D      
+I walk in the air between the rain, through myself and back again
+Em                 G/D
+Where?  I don't know
+      C                              D  
+Maria says she's dying.  Through the door, I hear her crying
+      Em           G/D
+Why?  I don't know       
+
+          C       D               Em       G/D
+    Round here we always stand up straight
+          C    D             Em   G/D
+    Round here something radiates 
+
+Maria came from Nashville with a suitcase in her hand
+She said she'd like to meet a boy who looks like Elvis
+She walks along the edge of where the ocean meets the land
+Just like she's walking on a wire in the circus
+She parks her car outside of my house   Takes her clothes off,
+Says she's close to understanding Jesus
+She knows she's more than just a little misunderstood
+She has trouble acting normal when she's nervous
+
+          C          D               Em     G/D
+    Round here we're carving out our names
+          C    D               Em    G/D
+    Round here we all look the same
+          C                      D
+    Round here we talk just like lions
+           Em             G/D
+    But we sacrifice like lambs
+          C          D                   Em       A  D        A
+    Round here she's slipping through my hands    /  /    Oh...
+
+    G/A                                   A      G/A                  A
+    Sleeping children got to run like the wind   Out of the lightning dream
+    G/A                                   A    C          D
+    Mama's little baby better get herself in   Out of the lightning
+
+She says, "It's only in my head."
+She says, "Shhh...I know it's only in my head."
+But the girl on the car in the parking lot
+says: "Man, you should try to take a shot
+Can't you see my walls are crumbling?"
+Then she looks up at the building she says she's thinking of jumping
+She says she's tired of life; she must be tired of something.
+
+          C          D            Em    G/D
+    Round here she's always on my mind
+          C    D             Em    G/D
+    Round here I got lots of time
+          C                            D
+    Round here we're never sent to bed early
+      Em            G/D
+    Nobody makes us wait
+          C               D         Em        G/D
+    Round here we stay up very very very very late
+
+                C        D              Em    G/D
+    I can't see nothing, nothing around here
+                        C                            D
+    You catch me if I'm falling, you catch me if I'm falling
+                                 Em                 G/D
+    Will you catch me 'cause I'm falling down round here
+
+I said I'm under the gun round here
+I'm innocent, I'm under the gun round here
+I can't see nothing, nothing round here.
+
+CHORDS:    C   x32010    G   320003    D   xx0232 Em  022000    
+           G/D 320033    A   x0222x    G/A x0000x
+
+
+------------------------------------------------------
+-- OMAHA --    Counting Crows
+From: btobin@infinet.com (Bruce S. Tobin),
+These chords were figured out by Matt Fleming.
+Further corrections by Paul Hutchinson. 
+
+This was orginally posted with no capo.  I have been informed that the 
+Crows play it with a capo on 2 and I found that it makes it a lot easier 
+to play.  I have changed the file to be played with a capo on II.
+
+Note the A chord in the verse. At times, if you sing it by yourself, it
+will sound like it should be an Am, but I assure you that it should  
+definitely be an A. If you play it as Asus2, it might make things easier.
+
+Intro:
+Em          D           Em          C      
+
+Em                     Bm
+     Start tearing the old man down
+    D                    A                     Em
+Run past the heather and down to the old road
+                  Bm                    C
+Start turning the grain into the ground
+                      Em
+Roll a new leaf over  
+
+       Bm                             D
+In the middle of the night there's an old man 
+          A                           Em
+Treading around in the gathered rain  
+                           Bm            D
+Well mister if you want to walk on water
+          C              G
+Could you drop a line my way
+
+Chorus:
+    D        Em
+ Omaha
+             C               
+Somewhere in middle America  
+G                D                 C
+Get right to the heart of matters
+                            G         D
+It's the heart that matters more
+                     Em               A             C
+I think you'd better turn your ticket in
+                               G   D/F#  Em  Em/D  C  G/B  D/A
+And get your money back at the door
+
+Verse 2:
+Start threading a needle
+Brush past the shuttle that slides through the cold room
+Start turning the wool across the wire
+Roll the new life over
+In the middle of the night there's an old man
+Threading his toes through a bucket of rain
+Hey mister you don't want to walk on water 
+You're only going to walk all over me
+
+[Chorus]
+
+[Bridge chords] x 4
+
+Verse 3:
+Start running the banner down
+Drop past the color come up through the summer rain
+Start turning the girl into the ground
+Roll a new love over
+In the middle of the day there's a young man
+Rolling around in the earth and rain
+Hey mister if you're going to walk on water, you know
+You're only going to walk all over me
+
+[Chorus] x 2
+
+[Bridge chords] x 2
+
+G
+
+CHORDS:    Em  022000    D  xx0232     C   x32010    
+           Bm  x24432    G  320033    D/F# 200232  
+          Em/D xx0000   G/B x20033    D/A  x00232 
+
+----------------------------------------------
+-- MR. JONES --    Counting Crows 
+From: dmorgan@emunix.emich.edu (D Morgan)
+Corrections by Eric Simon and Ken McLeod.
+
+
+Am  F  Dm  G                 Am     F    G          G
+             sha la la la la la la         uh huh...
+
+Am                    F         Dm              G
+I was down at the New Amsterdam staring at this yellow-haired girl
+    Am                       F                G
+Mr. Jones strikes up a conversation with this black-haired flamenco dancer
+Am                   F            Dm                      G
+She dances while his father plays guitar.  She's suddenly beautiful
+   Am                 F           G
+We all want something beautiful   I wish I was beautiful
+
+        Am                 F
+So come dance this silence down through the morning
+Dm           G           Am        F    G          *
+   sha la la la la la la la  yeah         uh huh...
+Am      F       Dm                   G
+Cut up, Maria!  Show me some of them Spanish dances
+Am        F           G
+Pass me a bottle, Mr. Jones
+Am         F    Dm                 G
+Believe in me   Help me believe in anything
+        Am           F             G
+(cause) I want to be someone who believes
+
+C    F           G
+Mr. Jones and me tell each other fairy tales
+C                      F
+Stare at the beautiful women
+G
+"She's looking at you.  Ah, no, no, she's looking at me."
+C              F               G
+Smiling in the bright lights   Coming through in stereo
+     C         F          G
+When everybody loves you, you can never be lonely
+
+Am              F         Dm              G
+I will paint my picture   Paint myself in blue and red and black and gray
+Am                   F               G
+All of the beautiful colors are very very meaningful
+           Am                  F       Dm         G         *
+(you know) Gray is my favorite color I felt so symbolic yesterday
+Am          F             G
+If I knew Picasso I would buy myself a gray guitar and play
+
+C   F            G
+Mr. Jones and me look into the future
+C                      F
+Stare at the beautiful women
+G
+"She's looking at you.  Uh, I don't think so.  She's looking at me."
+C               F         G
+Standing in the spotlight I bought myself a gray guitar
+     C         F         G                   Am
+When everybody loves me, I will never be lonely
+
+                Am
+I will never be lonely
+                    G
+I will never be lonely
+Am                   F
+I want to be a lion  Everybody wants to pass as cats
+Am                                   G
+We all want to be big big stars, but we got different reasons for that.
+Am                      F
+Believe in me because I don't believe in anything
+    Am                               G
+and I want to be someone to believe, to believe, to believe.
+
+C   F            G
+Mr. Jones and me stumbling through the barrio
+        C                      F
+Yeah we stare at the beautiful women
+       G
+"She's perfect for you, Man, there's got to be somebody for me."
+C                F
+I want to be Bob Dylan
+    G
+Mr. Jones wishes he was someone just a little more funky
+     C         F          G
+When everybody loves you, son, that's just about as funky as you can be.
+
+C    F           G
+Mr. Jones and me staring at the video
+       C               F                 G
+When I look at the television, I want to see me staring right back at me.
+C                 F                 G
+We all want to be big stars, but we don't know why, and we don't know how.
+         C           F                    G
+But when everybody loves me, I'm going to be just about as happy as I can
+be.
+C   F             G
+Mr. Jones and me, we're gonna be big stars.....
+
+
+CHORDS:    C   x32010    F   x33211    G   320003
+           Am  x02210    Dm  x00231
+
+(*) The following fill is used at a couple of points in the song, 
+    marked with an asterisk.
+
+G             Am
+------------|----------------
+----0-1-0---|----------------
+----------0-|-2--------------
+------------|----------------
+------------|----------------
+------------|----------------
+
+--------------------------------------------------
+-- PERFECT BLUE BUILDINGS --    Counting Crows
+From: Ken McLeod
+
+(NB You will notice that some lines in some verses have an Am at the end
+   of them, and others don't. A general guide is, if the words stop on 
+   the Bb chord, then stay on Bb, and don't play Am)
+
+Intro pattern (repeat 2x)**
+   Dm
+E|--------------------1---------|    **also play at end of first chorus
+B|------------------3---3----3--|
+G|---------------2---------2----|
+D|--0-(let ring)----------------|
+A|------------------------------|
+E|------------------------------|
+
+
+Dm            C                Bb     Am
+Just down the street from your hotel, baby
+Dm        C              Bb
+I stay at home with my disease
+Dm             C          Bb      Am
+And ain't this position familiar, darling
+Dm                C            Bb
+Well, all monkeys do what they see
+Gm                        Bb
+Help me stay awake, I'm falling...
+
+Down on Virginia and La Loma
+Where I got friends who'll care for me
+You got an attitude of everything I ever wanted
+I got an attitude of need
+Help me stay awake, I'm falling...
+
+CHORUS:
+    F         C            Gm
+    Asleep in perfect blue buildings
+    F          C           Gm
+    Beside the green apple sea
+    F              C       Gm       Bb
+    Gonna get me a little oblivion, baby
+    F             C     Bb        1.| Dm**   2.|              F
+    Try to keep myself away from    | me       | (myself and) me
+                                    |          |
+
+It's 4:30 A.M. on a Tuesday
+It doesn't get much worse than this
+In beds in little rooms in buildings in the middle
+of these lives which are completely meaningless
+Help me stay awake, I'm falling...
+
+(CHORUS)
+
+INSTRUMENTAL:   (each chord is held for a bar)
+F           C           Gm           Bb      
+F           C           Gm           Bb      
+
+I got bones beneath my skin, and mister...
+There's a skeleton in every man's house
+Beneath the dust and love and sweat that hangs on everybody
+There's a dead man trying to get out
+Please help me stay awake, I'm falling...
+
+(CHORUS) x 3
+
+-------------------------------------------
+-- ANNA BEGINS --    Counting Crows
+From: Ken McLeod
+Corrections by Paul Hutchinson.
+
+(verses  Ams2 x02200  -  G 320003)
+Ams2
+My friend assures me, "It's all or nothing."
+G
+I am not worried, I am not overly concerned
+Ams2
+My friend implores me, "For one time only,
+G
+make an exception." I am not worried
+Wrap her up in a package of lies
+Send her off to a coconut island
+I am not worried, I am not overly concerned
+With the status of my emotions
+"Oh," she says, you're changing
+But we're always changing
+It does not bother me to
+
+(bridge  Em 022000  -  Cmaj7 x32000  -  D13 x54000)
+Em
+Say this isn't love
+Cmaj7                        D13               Em
+Because if you don't want to talk about it then it isn't love
+Cmaj7                            D13
+And I guess I'm going to have to live with that
+        Em                                   Cmaj7
+But I'm sure there's something in a shade of grey
+             D13
+Or something in between
+Em                         Cmaj7              D13
+And I can always change my name if that's what you mean
+
+[2nd verse]
+My friend assures me "It's all or nothing"
+But I am not really worried I am not overly concerned
+You try to tell yourself the things you try to tell yourself 
+To make yourself forget, I am not worried
+[Bridge]
+"If it's love," she said, "then we're gonna have to think about the
+consequences."
+She can't stop shaking, I can't stop touching her and.. 
+
+(Chorus  G 320033 - Csus2 x32033 - Am7s4 x02233 - D xx0232 - Em7 xx2033)
+          G         Csus2               Am7s4   D           G
+     This time when kindness falls like rain it washes her away
+         Csus2  Em7     Dsus4      G
+     And Anna begins to change her mind
+            Csus2            Am7s4            Dsus4          G    Csus2
+     "These seconds when I'm shaking leave me shuddering for days"
+         Em7           Dsus4
+     And I'm not ready for this sort of thing
+
+[3rd verse]
+But I'm not gonna break 
+And I'm not going to worry about it anymore
+I'm not going to bend, and I'm not going to break and I'm
+not going to worry about it anymore
+It seems like I should say, 'As long as this is love...'
+But it's not all that easy so maybe I should
+Snap her up in a butterfly net
+Pin her down in a photograph album
+I am not worried - I've done this sort of thing before
+[Bridge]
+But then I start to think about the consequences
+Because I don't get no sleep in a quiet room and..
+
+[Chorus]
+     This time when kindness falls like rain it washes me away
+     And Anna begins to change my mind
+     And every time she sneezes I believe it's love
+     and Oh Lord, I'm not ready for this sort of thing
+     She's talking in her sleep
+     It's keeping me awake
+     And Anna begins to toss and turn
+     And every word is nonsense but I understand and
+     Oh lord I'm not ready for this sort of thing
+     Her kindness bangs a gong
+     It's moving me along
+     And Anna begins to fade away
+     It's chasing me away  it disappears and
+     Oh lord, I'm not ready for this sort of thing
+
+--------------------------------------------------------------------
+TAB:-
+Verse Figure: 
+  +   +   +   +     +   +   +   +     +   +   +   +     +   +   +   +  
+E-----------------|-----------------|-----------------|-----------------|
+B----0--------0---|----0--------0---|----0--------0---|----0--------0---|
+G-------2-------2-|-------2-------2-|-------0-------0-|-------0-------0-|
+D-----------------|-----------------|-----------------|-----------------|
+A-0---------0-----|-0---------0-----|-----------------|-----------------|
+E-----------------|-----------------|-3---------3-----|-3---------3-----|
+
+This appears in the second verse - the first half of the first verse has
+no guitar (the bass carries the accompaniment) and for the second half of 
+it, the guitar plays only the first 2 notes over the Ams2 chords. Repeat
+throughout. 
+
+Bridge: 
+  +   +   +   +     +   +   +   +  
+E-----------------|----0-------0----|
+B----0------------|----0-------0----|
+G-----------------|-------0-------0-|
+D-2-----2---------|-2-------4-------|
+A-----------------|-3-------5-------|
+E-0---------------|-----------------|
+
+Repeat throughout.
+
+Chorus:
+  +   +   +   +     +   +   +   +     +   +   +   +     +   +   +   +    
+E----3-------3----|----3------------|----3-------3----|----3------------|
+B-------3-------3-|-------3----3----|-------3-------3-|-------3----3----|
+G-----------------|---------------0-|-----------------|---------------0-|
+D-----------------|---------0-------|-----------------|-2-------0-------|
+A---------3-------|-0---------------|---------3-------|-----------------|
+E-3---------------|-----------------|-3---------------|-----------------|
+
+
+------------------------------------------------
+-- TIME AND TIME AGAIN --    Counting Crows
+From: Ken McLeod
+Corrections by Paul Hutchinson.
+
+Intro & verse pattern:
+  F/C     +       +       +         C       +       +       +
+E---------------------------------|---------------------------------|
+B---------------------------------|---------------------------------|
+G---------------------------------|---------------------------------|
+D---------------------------------|---------------------------------|
+A-----3-----3-----3-----3-----3-3-|-----3-----3-----3-----3-----3-3-|
+E-3h5-----5-----5-----5-----5-----|-3-------3-----3-----3-----3-----|
+
+NB You should play the tab rather than chords over the verse, but if 
+you do play chords, use these - F/C x33210   C x32010
+
+         F/C      C          F/C           C
+I wanted so badly   Somebody other than me
+        F/C        C              F/C         C
+Staring back at me   But you were gone, gone, gone
+            F/C             C
+I wanted to see you walking backwards
+            F/C                     C
+And get the sensation of you coming home
+            F/C              C
+I wanted to see you walking away from me
+               F/C                       C
+Without the sensation of you leaving me alone
+
+CHORUS:
+             Dm         C                   Dm         C 
+    Time and time again            Time and time again
+             Dm         C                  F
+    Time and time again            I can't please myself
+
+Intro pattern x 2
+
+             F/C            C
+I wanted the ocean to cover over me
+             F/C                    C
+I wanna sink slowly without getting wet
+         F/C                 C
+Maybe someday, I won't be so lonely
+                 F/C                  C
+And I'll walk on water every chance I get
+
+(CHORUS)
+
+Gm           Bb          F
+                       Gm  Bb       F
+So when are you coming home   Sweet angel?
+                Gm    F Bb   F     C/E    Dm
+You leaving me alone? / All alone?
+     Gm     C                        Bb                         F/C
+Well if I'm drowning darling, you'll come down this way on your own
+
+Intro pattern x 2
+
+             F/C            C
+I wish I was traveling on a freeway
+             F/C               C
+Beneath this graveyard western sky
+              F/C          C
+I'm gonna set fire to this city
+                 F/C                C
+And out into the desert we're gonna ride
+
+(CHORUS)
+
+(SOLO) - Same chords as chorus.
+
+(CHORUS)
+-------------------------------------------
+There is a second guitar in the song which plays fills and the solo 
+at the end. During verse 1, from the first 'I wanted to see' onwards,
+it plays the following over the F/C chords
+  +   +   +   +     
+E-----------------|
+B---1-------------|
+G--2--------------|
+D-----------------|
+A-----------------|
+E-----------------|
+
+During the choruses it connects the Dm and C chords with
+   +         C       +     
+E--1p0-----|------------
+B------3---|---------1--
+G----------|-0----------
+D----------|------------
+A----------|------------
+E----------|------------
+
+Over the bridges before the 2nd and third verse, and during the third 
+verse and the second half of the second, it plays the following,
+repeating throughout.
+  +   +   +   +     +   +   +   +     
+E-----------------|-----------------|
+B---1-------------|---1-------------|
+G--2--------------|--0--------------|
+D-----------------|-----------------|
+A-----------------|-----------------|
+E-----------------|-----------------|
+
+SOLO:
+      +    +    +    +      +     +     +    +
+E-------------------------|---------------------------|
+B-------------------------|---------------------------|
+G-12b(14)r(12)------9-10--|-9-10----------(9)--9-10p9-|
+D-----------------12----12|-----12-------------10-----|
+A-------------------------|---------------------------|
+E-------------------------|---------------------------|
+
+  +     +     +        +       +      +      +              +
+E----------------------------|----10--------------10--------10------|
+B----------------------------|--------10------13b(15)r13p10-13p10---|
+G-10----------10--10---------|--------------------------------------|
+D-10----------10--10h12------|-12-----------------------------------|
+A---12----------10-----------|--------------------------------------|
+E----------------------------|--------------------------------------|
+
+  +          +      +          +         +      +       +       +
+E--/10-10----10-12---/10-10----10-12---|----------------------------|
+B--/10-10-10---------/10-10-10---------|-----13-13----15---13h15----|
+G--------------------------------------|---/14------14---14-----14--|
+D--------------------------------------|----------------------------|
+A--------------------------------------|----------------------------|
+E--------------------------------------|----------------------------|
+
+
+-----------------------------------------------------------------
+-- RAIN KING --    Counting Crows
+
+From: rhoulett@depauw.edu (Ryan Houlette)
+Write me if you use this.
+
+Note:  the timing of the words to the chord changes is approximate, 
+because the singer uses very elastic phrasing.This is how I do it.
+
+
+[verse]
+D                      A
+When I think of heaven
+Bm         A                 D
+Deliver me in a black-winged bird
+A          Bm     A           D               A
+I think of flying down into a sea of pens and feathers
+Bm            A              D                 A
+And all other instruments of faith and sex and God
+                  Bm           A
+In the belly of a black-winged bird.
+Bm    G
+Don't try to feed me
+Bm        G
+I've been here before
+    D           E
+And I deserve a little more
+
+
+[chorus]
+A Bm    D       E              A
+I belong in the service of the Queen
+A Bm    D   E               A
+I belong anywhere but in between
+A          Bm     D               E
+She's been crying and I've been thinking
+A     Bm     D         E
+And I am the Rain King
+
+
+[verse]
+E          D           A            Bm   A
+And I said mama, mama, mama, why am I so alone?
+D          A
+I can't go outside
+             Bm                A
+I'm scared I might not make it home
+    D           A
+I'm alive, I'm alive
+     Bm           A
+But I'm sinking in
+           D                 A
+If there's anyone at home at your place, darling
+Bm                      A
+Why don't you invite me in?
+Bm    G
+Don't try to bleed me
+Bm        G
+I've been there before
+    D           E
+And I deserve a little more
+
+
+[chorus]
+A Bm    D       E              A
+I belong in the service of the Queen
+A Bm    D    E              A
+I belong anywhere but in between
+A          Bm    D              E
+She's been lying and I've been sinking
+A     Bm     D         E
+And I am the Rain King
+
+
+[bridge]
+Bm          D                A
+Hey, I only want the same as anyone
+Bm           D   A   Bm
+Henderson is waiting for the sun
+                   D         A
+Oh, it seems night endlessly begins and ends
+Bm            D               A
+After all the dreaming I come home again
+
+
+repeat D A Bm A 2x here
+
+
+[verse]
+D               A
+When I think of heaven
+Bm         A                 D
+Deliver me in a black-winged bird
+A          Bm
+I think of dying
+A                D                  A
+Lay me down in a field of flame and heather
+Bm           A             D                A
+Render up my body into the burning heart of God
+                Bm             A
+In the belly of a black-winged bird
+Bm    G
+Don't try to bleed me
+Bm        G
+I've been here before
+    D           E
+And I deserve a little more
+
+
+[chorus]
+A Bm    D       E              A
+I belong in the service of the queen
+A Bm    D    E              A
+I belong anywhere but in between
+A          Bm    D             E
+She's been dying and I've been drinking
+A     Bm     D          E
+And I am the Rain King
+
+---------------------------------------------
+
+-- SULLIVAN STREET --    Counting Crows
+From: vagabond@beat.ugcs.caltech.edu (Stephen Thompson)
+Corrections by Paul Hutchinson and Preserved Moose 
+
+
+Intro:  D  Gmaj7 x 4
+
+D             Gmaj7                  D           Gmaj7
+Take the way home that leads back to Sullivan Street
+D            Gmaj7         D               Gmaj7
+Cross the water and home through the town
+D             Gmaj7                 D            Gmaj7
+Past the shadows that fall down wherever we meet
+D            Gmaj7    D           Gmaj7
+Pretty soon I won't come around
+
+Chorus:
+G            A               Em
+  I'm almost drowning in her sea 
+               G             D
+  She's nearly fallen to her knees
+
+               Gmaj7              D       Gmaj7
+Take the way home  ba, ba, ba, ba
+
+Take the way home that leads back to Sullivan Street
+Where all the bodies hang in the air
+If she remembers, she hides it whenever we meet
+Either way now, I don't really care, cause I'm gone from there
+
+[Chorus]
+
+Take the way home that leads back to Sullivan Street
+I'm just another rider burned to the ground, come tumbling down
+
+Chorus:
+G            A               Em
+  I'm almost drowning in her sea 
+               A               Em
+  She's nearly crawling on her knees
+              G            D        Gmaj7
+  It's almost everything I need
+
+D  Gmaj7            D    Gmaj7              D
+     I'm down on my knees     I'm down on my knees
+Gmaj7              D     Gmaj7              D       Gmaj7
+     I'm down on my knees     I'm down on my knees
+           D
+Down on my knees
+
+[Ken sent me an article that was posted a while back: - sv]
+
+Just to expand a little further, while playing the 'D' chord during the
+verses, it sounds like he may be occasionally pulling off the 1st string
+(2nd fret), then hammering on again for the next strum.
+
+Here's an attempt to tab the the way I'm currently playing it, with bass
+notes added for the piano chord part (sounds ok to my ears, although I
+haven't worked it out to see if it's correct.) Your mileage may vary.
+Feel free to jump in and correct me, show me a different way, etc.
+
+V = pluck bass notes together
+/ = strum top three strings, alternating up & down strums
+
+        D                     D4
+    V   / / /  / / / /  V V   / / /  / / / /  V V
+E|----|-2-0h2--2-2-2-2------|-2-0h2--2-2-2-2------|
+B|----|-3-3-3--3-3-3-3------|-3-3-3--3-3-3-3------|
+G|--2-|-2-2-2--2-2-2-2--2-0-|-0-0-0--0-0-0-0--0-2-|
+D|--0-|-----------------0---|-------------------0-|
+A|----|-------------------2-|-----------------2---|
+E|----|---------------------|---------------------|
+        Take the way home     that leads back
+
+        to Sullivan Street    ...
+
+In the change from D to D4, your index finger moves from the G string
+down to the A string, then back. Of course, this whole sequence isn't
+strictly repeated over and over... sometimes there are the little
+piano runs in between, and so on.
+
+
+-------------------------------------------------------
+-- GHOST TRAIN --    Counting Crows
+From: Paul Hutchinson
+
+NB The verses of this are a bit harmonically strange in that, like Round
+Here and Time and Time Again, the guitar is not playing chords during
+the verses, and so the bass carries the song rather a lot. However, I
+get the impression that the verses are based on Dm the whole way
+through, with the bass guitar playing Ds and Fs (and a G just before
+the first verse). This should make the song horribly boring for you if
+you're trying to play it by yourself without a bass guitarist, but
+them's the breaks.
+On the album, the guitar and some other strange instrument are messing
+about with the following notes during the verses - listen to the tape
+to get a better idea:
+            ======
+            ||||||
+            ||||||
+            ||||||
+            ||||||
+            |||x|x
+            ||x|x|
+            |||x||
+
+Intro:
+|Dm      |Dm Dm/F  |Dm      |Dm Dm/G  |
+
+Dm
+I took the cannonball down to the ocean
+Across the desert from sea to shining sea
+I rode a ladder that climbs across the nation      C/G
+Fifty million feet of earth between the buried and me
+
+     Fmaj9  Em7  Fmaj9
+"How do you do?"
+           C/G      Fmaj9  Em7  Fmaj9
+She said, "Hey, how do you do?"
+
+Dm
+She buys a ticket cause it's cold where she comes from
+She climbs aboard because she's scared of getting older in the snow
+Love is a ghost train rumbling through the darkness   C/G
+Hold on to me darling I've got nowhere else to        go
+
+     Fmaj9  Em7  Fmaj9
+"How do you do?"
+           C/G      Fmaj9  Em7  Fmaj9
+She said, "Hey, how do you do?" hey...
+
+|Fmaj9  |C/G    |Am     |Am     |
+ Yeah.
+|Fmaj9  |C/G    |Am     |Am     |
+|Fmaj9  |C/G    |Am     |Am     |
+|Fmaj9  |C/G    |Am     |Am     |D  G ....
+
+                      Dm
+I took the cannonball down to the ocean
+Watched the diesel disappear beneath the tumbling waves
+Love is a ghost train howling on the radio           C/G
+"Remember everything." she said, "when only memory remains."
+
+     Fmaj9  Em7  Fmaj9
+"How do you do?"
+           C/G      Fmaj9  Em7  Fmaj9  C/G
+She said, "Hey, how do you do?" 
+     Fmaj9  Em7  Fmaj9
+"How do you do?"
+           C/G      Fmaj9  Em7  Fmaj9
+She said, "Hey, how do you do?"
+
+Chords used: Dm  xx0231   C/G 332010   Fmaj9 133010 
+             Em7 022030   Am  x02210        
+
+----------------------------------------------------
+-- RAINING IN BALTIMORE --    Counting Crows
+
+From: Ken McLeod
+Corrections by Paul Hutchinson
+
+     Dm        Bb      C           F
+This circus is falling down on its knees
+    Dm         Bb        C     
+The big top is crumbling down
+     Dm         Bb        C           F
+It's raining in Baltimore fifty miles east
+          Dm         Bb        C     
+Where you should be, no one's around
+
+             Bb         F
+    I need a phone call
+             Bb         F
+    I need a raincoat
+             Bb         F
+    I need a big love
+             Bb         F
+    I need a phone call
+
+These train conversations are passing me by
+And I don't have nothing to say
+You get what you pay for
+But I just had no intention of living this way
+
+    I need a phone call
+    I need a plane ride
+    I need a sunburn
+    I need a raincoat
+ C               Bb
+    And I get no answers
+ C                     Bb
+    And I don't get no change
+ C                  Bb         F
+    It's raining in Baltimore, baby
+        Bb         F           C
+    But everything else is the same
+
+There's things I remember and things I forget
+I miss you, I guess that I should
+Three thousand five hundred miles away
+But what would you change if you could?
+
+I need a phone call; Maybe I should buy a new car;
+I can always hear a freight train; If I listen real hard
+And I wish it was a small world
+Because I'm lonely for the big towns
+I'd like to hear a little guitar
+I think it's time to put the top down
+I need a phone call
+I need a raincoat
+I really need a raincoat
+I really, really need a raincoat
+I really, really, really need a raincoat
+I really need a raincoat
+
+----------------------------------------------
+-- MURDER OF ONE --     Counting Crows
+From: Steve Vetter 
+Corrected by Paul Hutchinson 
+lyrics from cs.uwp.edu
+
+This is played in D with a capo at the 4th fret. The As can be exchanged
+for Asus2s whenever you feel like it.
+
+D      xx0232
+Dsus2  xx0230
+G      3x0033
+Gmaj7  3x0032
+A      x02220
+Asus2  x02200
+
+Intro: |D      |Dsus2  |G      |  Gmaj7|  x2
+
+     A
+Blue morning  Blue morning
+           G
+Wrapped in strands of fist and bone
+A
+Curiosity, Kitten, 
+                G
+Doesn't have to mean you're on your own
+        A
+You can look outside your window
+   G
+He doesn't have to know
+       A
+We can talk awhile, baby
+       G
+We can take it nice and slow
+
+         D              Dsus2         G         Gmaj7
+All your life is such a shame, shame, shame
+         D              Dsus2         G         Gmaj7
+All your love is just a dream, dream, dream
+
+Are you happy when you're sleeping?
+Does he keep you safe and warm?
+Does he tell you when you're sorry?
+Does he tell you when you're wrong?
+I've been watching you for hours
+It's been years since we were born
+We were perfect when we started
+I've been wondering where we've gone
+
+All your life is such a shame
+All your love is just a dream
+                   
+
+I dreamt I saw you walking up a hillside in the snow
+Casting shadows on the winter sky as you stood there counting crows
+        A                             G/B
+One for sorrow Two for joy, Three for girls and four for boys
+         A/C#                                G/D
+Five for silver Six for gold and Seven for a secret never to be told
+There's a bird that nests inside you
+Sleeping underneath your skin
+When you open up your wings to speak
+I wish you'd let me in
+
+All your life is such a shame
+All your love is just a dream
+Open up your eyes
+You can see the flames of your wasted life
+You should be ashamed
+You don't want to waste your life
+
+D
+I walk along these hillsides In the summer 'neath the sunshine
+G
+I am feathered by the moonlight falling down on me
+
+D                    G
+Change, change, change
+
+NB This figure appears and is played constantly from 
+'I walk these hillsides' onwards.
+
+-------------------------
+---2-3-----2-3-----2-3---
+-2-------2-------2------- etc
+------------------------- 
+-------------------------
+-------------------------
+
+------------------------------------------------------
+-- EINSTEIN ON THE BEACH --     Counting Crows
+from the DGC Rarities Disk, Volume I
+From: Mark Bentley 
+
+ (Intro)
+E  A  E  B
+
+(1st Verse)
+[Bouncy E A E B]
+Albert's always sincere, he's a sensivitive type
+His intentions are clear, he wanna be well-liked
+Better think of nothing, all are we anything (???)
+Better to be better than to be anything
+
+    A                                       E  A  E  B
+And Albert's vision is blooming uncontrolled
+
+   A
+All his wings are slowly sinking
+
+(Chorus)
+        C#m     B       A         E
+And the world begins to disappear
+
+    C#m          B         A       E
+The worst things come from inside here
+
+    C#m     B          A       E
+And all the king's men reappear
+
+       F#m                    A
+For an eggman, on and off the wall
+
+A
+Will never be together again
+
+E A E B
+
+
+(2nd Verse)
+Einstein down on the beach staring into the sand
+It's everything he believes in has been shattered
+What you fear in the night in the day comes to call anyway-ay
+We all get burned as:
+
+(Bridge)
+A                                           E A E B
+One more sun comes sliding down the sky
+
+A
+One more shadow leans against the wall
+
+(Chorus)
+G#m      A              G#m
+Albert's waiting in the sun
+
+     A
+On a field (?) American
+
+G#m       A             B
+  For the cause of some inflated form of hit and run
+
+(Solo)
+(Bridge)
+(Chorus)
+
+G#m        A             G#m
+  Albert's fallen on the sun
+
+            A
+Cracked his head wide open
+
+(Chorus x 2)
+
+(Ad lib outtro)
+E A E B etc
+No never be together again
+
+No no never never never again, uh huh
+
+What you fear in the night etc..
+-------------------
+
+-- MARJORIE --     Counting Crows
+Unreleased Demo
+From: Steve Vetter [vetters@vax1.elon.edu]
+
+F#m   244222
+B?    x22442
+
+Intro riff:
+-0--0----0--0--------
+-0----0--0----0------
+-1-------1-----------
+-2-------2-----------
+-2-------2-----------
+-0-------0-----------
+
+E
+In the still water she lies down
+D
+Shaking in the press of sunlight
+A
+We rolled into Lexington
+E
+She shakes off the drop of daylight
+
+E
+Water beading up her chest
+D
+Bleeding down between her knees
+A
+Rivers in Kentucky flow
+E
+Between the bluegrass wavy seas
+
+D       E
+But oh, Marjorie
+D                A                   E
+Twists the knife once more inside of me
+
+Breathless with anticipation
+Baited breathers set their hooks
+Tuck their heads beneath the high grass
+And lie and wait beside the brooks
+
+For infants pushing slowly through 
+Frustration leading back along
+The alleys of a childhood
+Will not release us willingly
+
+But oh, Marjorie
+Sticks the knife in while I heard the sea
+
+[solo]
+F#m  B?  [repeat]
+
+
+Dust me off and shut me down
+And dream of where I haven't been
+Close the door inside my heart
+Stuck in the south Atlantic wind
+
+I have hollow eyes
+Haunting only to myself
+Even so, I can't stop calling 
+This great big hollows in my self
+
+I took the train form California
+To the far side of the continent
+Woke up in Kentucky
+Where a wedding was about to end
+
+I looked up at Anna
+She turned back to look at me
+It's best to kill the ones that matter
+Render blind the ones who see
+
+But oh, Marjorie
+Takes the blade and walks away from me
+Oh, Marjorie
+Love like blood is pouring out of me
+Oh, Marjorie
+My heart won't stop bleeding over me baby
+
+[solo over F#m and B?]
+
+Oh, I can't shut it in
+It's got far too many doors to block the wind
+Oh, I can't shut it in
+It's got far too many doors to block the wind
+
+
+-------------------------------------------------
+-- GOODNIGHT, ELIZABETH --    Counting Crows
+Unreleased Concert Staple
+From: Steve Vetter [vetters@vax1.elon.edu]
+with help from an anonymous post.
+
+A: x02220   -A: 577855
+E: 022100   -E: x79997
+G: 320003   -G: 355433
+D: xx0323-   D: x57775
+
+
+The - chords are barre chords.
+
+Intro.: -A  -E  -G  -D
+
+
+A             E
+Wasted in the afternoon
+G            D
+Waiting on a train
+A            E
+I woke up in pieces and Elizabeth
+G               D
+Had disappeared again
+
+I wish you were inside of me
+Hope that you're OK
+I hope that you're resting quietly
+I just wanted to say
+
+Chorus:
+Good, Goodnight, Elizabeth
+Goodnight Elizabeth, Goodnight
+Good, Goodnight, Elizabeth
+Goodnight, Elizabeth, Goodnight
+
+We couldn't all be cowboys
+So some of us are clowns
+Some of us are dancers on the midway
+Roam from town to town
+
+Well I hope that everybody
+Can find a little flame
+I say my prayers and I set myself one fire
+And I walk out on the wire, once again
+
+I said
+[chorus]
+
+Well I wait for you in Baton Rouge
+I miss you down in New Orleans
+I wait for you while she slips in something comfortable
+And I miss you when I'm slipping in between
+
+If you wrap yourself in daffodils
+I will wrap myself in pain
+And If you're the Queen of California
+Baby, I am the King of the Rain
+
+And I said:
+[chorus]
+
+-------------------------------------------------------------
+
+  /-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\
+  I  Steve Vetter                    I   "I'm not the same                  I
+  \  vetters@vax1.elon.edu           I        As I was long ago,            /
+  I  vetters@sun0.elon.edu           I    I've learned some new things      I
+  /  Elon College                    I        And I hope that it shows..."  \
+  I  Alpha Kappa Psi                 I          -Neil Young  (Homefires)    I
+  \-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/-\-/
+
+

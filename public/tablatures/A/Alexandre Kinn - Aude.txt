@@ -1,8 +1,9 @@
 [Aude]  
 Paroles : Alexandre Kinn 
+Capo : II case
 
 Intro 
-F#m 			D 			Bm 			D 
+Em 			C 			Am 			D 
 Tu verras le bonheur c’est comme cette robe à fleurs qui n’est pas à toi 
 Quand tu la porteras , ne te dis surtout pas trop de couleurs pour moi 
 Tu verras le bonheur tu le toucheras des doigts si tu sors de là 
@@ -10,7 +11,7 @@ Dans le ventre de ta mère qui est belle comme une étoile quand elle parle de toi
 On t’appellera Aude et tu verras à l’aube de ton 10ème mois 
 Tout nos yeux d’ahuris accrochés à ton lit pour que t’ais jamais froid .
 
-A 	C#m 	F#m 	D
+G 	Bm 	Em 	C
 Emmène moi loin, loin, loin ( bis )
 Ma reine et demie
 Mon ôde à la vie 
@@ -24,11 +25,11 @@ Tu verras dans l’amour il y a le mot toujours et le mot souvenir qui se battent 
 
 Emmène moi loin , loin ( bis )
 
-Bm
+Am
 Ma reine et demie
-D
+C
 Mon ôde à la vie
-A		F#m
+G		Em
 Mon Aude à la vie
 
 Tu verras mon enfant tu verras les mots bleus blancs 

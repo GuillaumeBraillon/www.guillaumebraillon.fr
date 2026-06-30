@@ -1,0 +1,178 @@
+Benfull7 : Petite semaine - Jean-Louis AubertTablature / Partition    
+        Petite semaineJean-Louis Aubert> Retour  
+
+      Type : Accords   |  Version : concert privé  Imprimer  
+(Jean-Louis Aubert / Jean-Louis Aubert)
+(CONCERT PRIVE)
+
+
+Accords :
+G : 355433
+D/F# : XX4232 ou (XX0232 si pb)
+Em : 022000
+Em7 : 022030
+A : X02220
+Asus4 : X02230
+D : X57775
+C : X35553
+Csus2 : X35533 ou (X32033 si pb)
+
+
+Intro : +Harmonica
+
+E||--3--------2--------|--0----------------------|--3--------2--------|
+B||--3--------3--------|--0----------------------|--3--------3--------|
+G||--4--------2--------|--0------------0------0--|--4--------2--------|
+D||--5--------4--------|--2------------0------0--|--5--------4--------|
+A||--5-----------------|--2--------0h2----0h2----|--5-----------------|
+E||--3-----------------|--0----------------------|--3-----------------|
+G D/F# Em G D/F#
+
+
+--0----------------||
+--0----------------||
+--0----------------||
+--2----------------||
+--2----------------||
+--0----------------||
+Em
+
+  G               D/F#       Em
+    Cette vie à la p'tite semaine...
+  G                 D/F#      Em
+    Ne vaut peut-être pas la peine !
+  G              D/F#     Em
+    Si tu la veux plus sereine,
+  G          D/F#    Em
+N'écoute pas leurs sirènes !
+
+
+REFRAIN :
+-------------------------------------------------
+         A Asus4 A Asus4 A
+Leurs sirènes....
+               Em              Em7 Em
+Qui te disent quand rentrer !
+         A         Asus4 A Asus4 A
+Leurs sirènes...
+                Em           Em7 Em
+Te disent comment naviguer !
+         A         Asus4 A Asus4 A
+Leurs sirènes...
+                Em (let ring)
+Te disent quoi absorber,
+D (let ring)   C(let ring) (Arpege sur Csus2) 
+Quoi posséder !!!
+-------------------------------------------------
+
+
+  G              D/F#    Em
+    Cette vie serrée du cou,
+  G                 D/F#     Em
+    Ne vaut p't'être pas le coup !
+  G            D/F#      Em
+    Personne ne peut me dire,
+  G            D/F#  Em
+    Comment il faut agir !
+
+
+
+REFRAIN :
+-------------------------------------------------
+         A    Asus4 A Asus4 A
+Leurs sirènes....
+               Em              Em7 Em
+Peuvent me dire quand rentrer !
+         A      Asus4 A Asus4 A
+Leurs sirènes
+                Em              Em7 Em
+Me disent comment me fringuer
+         A      Asus4 A Asus4 A
+Leurs sirènes
+             Em (let ring)
+Me rendent étranger
+D (let ring)    C(let ring) (Arpege sur Csus2) 
+...Je suis possédé...
+-------------------------------------------------
+
+(Bridge Harmonica+Guitare)
+Se construit sur des mesures Em + C
+
+Solo guitare acoustique (début !!):
+E||---------------------|--------------------------|-------7--7-7--7----7--7--|
+B||---------------------|--------------------------|--8~---8--8-8--8----8-----|
+G||---------------------|-------------7----9p7---7-|--9~---9--9-9--9----9-----|
+D||---------------------|--7~---7/9------------9---|--------------------------|
+A||----------9----10----|--------------------------|--------------------------|
+E||---------------------|--------------------------|--------------------------|
+Em C Em 
+
+
+--10----------------------|----------------------|----------------------||
+------8~---8--------------|----------------------|----------------------||
+------9~---9--------------|-0-0-0-0-0-0-0-0-0-0--|-0-0-0-0-0-0-0-0-0-0--||
+--------------------------|-9-9-9-9-9-9-9-9-9-9--|-9-9-9-9-9-9-7-7-7-7--||
+--------------------------|----------------------|----------------------||
+--------------------------|----------------------|----------------------||etc....
+C Em C 
+
+
+Après Impro possible sur cette gamme pentatonique (Em)
+E||--7--------10--------||
+B||--8--------10--------||
+G||--7--------9---------||
+D||--7--------9---------||
+A||--7--------10--------||
+E||--7--------10--------||
+
+
+
+  G               D/F#       Em
+    Cette vie à la p'tite semaine,
+  G                 D/F#     Em
+    Ne vaut surement pas la peine !
+  G             D/F#      Em
+    Mais toi, tu vaux la peine...
+  G              D/F#    Em
+    Entre nous...pas de haine !
+
+REFRAIN :
+-------------------------------------------------
+
+        A      Asus4 A Asus4 A
+Leurs sirènes...
+                 Em               Em7 Em
+Peuvent nous dire quand rentrer !
+        A      Asus4 A Asus4 A
+Leurs sirènes
+              Em         Em7 Em
+Nous disent où habiter !
+        A      Asus4 A Asus4 A
+Leurs sirènes
+                  Em 
+Nous disent quoi absorber
+D         C2
+Quoi posséder... Hey
+
+        A       Asus4 A Em Em7 Em
+Leurs sirènes (hey) (ho)
+       A        Asus4 A Em Em7 Em
+Leurs sirènes 
+        A        Asus4 A 
+Leurs sirènes...
+                 Em
+Nous disent quoi absorber
+D         C2
+Quoi posséder...
+               D              G
+C'est nous qui sommes... possédés !
+D         C
+Quoi posséder...
+(ralentissement)
+(D G D C/Csus2)
+Le nez... collé à la vitrine, 
+C'est nous qui sommes...
+C'est nous qui sommes... 
+Qui sommes......vivants...
+
+      > Retour  Destiné à un usage strictement personnel !> Retour  
