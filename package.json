@@ -6,7 +6,7 @@
     "node": ">=22.12.0"
   },
   "scripts": {
-    "dev": "LANG=en_US.UTF-8 LC_ALL=en_US.UTF-8 astro dev",
+    "dev": "astro dev --host",
     "build": "astro build",
     "fix": "npm run format && npm run lint:fix && npm run tsc && npm run check",
     "generate-tablatures": "node src/scripts/generate-tablatures.js",

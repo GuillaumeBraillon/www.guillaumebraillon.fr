@@ -494,7 +494,6 @@ for (const t of tablatures) {
     const tabPath = urlParams.get("path");
 
     if (tabPath) {
-      // Cast explicite en HTMLAnchorElement pour satisfaire TypeScript
       const targetLink = document.querySelector(
         `a[data-path="${CSS.escape(tabPath)}"]`
       ) as HTMLAnchorElement | null;
@@ -502,11 +501,17 @@ for (const t of tablatures) {
       if (targetLink) {
         const name = targetLink.dataset.originalName ?? targetLink.textContent ?? "";
         const extension = targetLink.dataset.extension ?? "";
+        const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+          navigator.userAgent
+        );
 
-        // Appel de votre fonction existante
-        openTabModal(name, tabPath, extension);
-
-        targetLink.scrollIntoView({ behavior: "smooth", block: "center" });
+        // Si c'est un PDF et qu'on est sur mobile, on ouvre directement l'onglet au lieu de la modal
+        if (extension === "pdf" && isMobile) {
+          window.open(tabPath, "_blank");
+        } else {
+          openTabModal(name, tabPath, extension);
+          targetLink.scrollIntoView({ behavior: "smooth", block: "center" });
+        }
       }
     }
   });
@@ -641,12 +646,22 @@ for (const t of tablatures) {
     const link = (e.target as HTMLElement).closest("a[data-path]") as HTMLAnchorElement | null;
     if (!link) return;
 
-    e.preventDefault();
-
     const name = link.dataset.originalName ?? link.textContent ?? "";
     const path = link.dataset.path ?? "";
     const extension = link.dataset.extension ?? "";
+    const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+      navigator.userAgent
+    );
 
+    // Comportement direct pour le PDF sur mobile
+    if (extension === "pdf" && isMobile) {
+      window.open(path, "_blank");
+      e.preventDefault();
+      return;
+    }
+
+    // Comportement modal classique pour le reste
+    e.preventDefault();
     openTabModal(name, path, extension);
   });
 
