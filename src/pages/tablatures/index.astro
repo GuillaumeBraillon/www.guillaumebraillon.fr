@@ -109,7 +109,7 @@ for (const t of tablatures) {
                   <a
                     href={file.path}
                     class="text-sm text-[#0969da] hover:underline"
-                    data-original-name={file.name}
+                    data-original-name={file.name.replace(/\.[^.]+$/, "")}
                     data-path={file.path}
                     data-extension={file.extension.toLowerCase()}
                   >
@@ -182,11 +182,13 @@ for (const t of tablatures) {
 
         <pre
           id="tab-text-content"
-          class="hidden whitespace-pre font-mono leading-relaxed text-gray-900"
+          class="hidden w-full whitespace-pre font-mono leading-relaxed text-gray-900"
           style="font-size: 14px;">
         </pre>
 
         <img id="tab-image-content" class="hidden mx-auto max-w-full" alt="" />
+
+        <div id="tab-pdf-container" class="hidden w-full"></div>
 
         <div id="tab-fallback" class="hidden text-center text-sm text-gray-600">
           <p>Aperçu non disponible pour ce format.</p>
@@ -205,6 +207,8 @@ for (const t of tablatures) {
   const nextBtn = document.getElementById("next-match") as HTMLButtonElement | null;
   const counter = document.getElementById("match-counter") as HTMLElement | null;
   const hideCounter = document.getElementById("hide-counter") as HTMLElement | null;
+  const textEl = document.getElementById("tab-text-content") as HTMLElement | null;
+  const pdfContainerEl = document.getElementById("tab-pdf-container") as HTMLElement | null;
 
   let mode: "hide" | "highlight" = "hide";
   let currentMatches: HTMLElement[] = [];
@@ -491,7 +495,7 @@ for (const t of tablatures) {
   const modalClose = document.getElementById("tab-modal-close") as HTMLButtonElement | null;
   const modalOpenNewTab = document.getElementById("tab-open-new-tab") as HTMLAnchorElement | null;
   const loadingEl = document.getElementById("tab-loading") as HTMLElement | null;
-  const textContentEl = document.getElementById("tab-text-content") as HTMLElement | null;
+  const containerEl = document.getElementById("tab-text-content") as HTMLElement | null;
   const imageContentEl = document.getElementById("tab-image-content") as HTMLImageElement | null;
   const fallbackEl = document.getElementById("tab-fallback") as HTMLElement | null;
   const zoomInBtn = document.getElementById("tab-zoom-in") as HTMLButtonElement | null;
@@ -500,28 +504,49 @@ for (const t of tablatures) {
   // Extensions qu'on tente d'afficher comme du texte brut.
   const TEXT_EXTENSIONS = new Set(["txt", "md"]);
   const IMAGE_EXTENSIONS = new Set(["jpg", "jpeg", "png", "gif", "webp"]);
+  const PDF_EXTENSIONS = new Set(["pdf"]);
 
   const MIN_FONT_SIZE = 10;
   const MAX_FONT_SIZE = 28;
   let textFontSize = 14;
 
   function resetModalContent() {
-    if (loadingEl) loadingEl.classList.remove("hidden");
-    textContentEl?.classList.add("hidden");
-    imageContentEl?.classList.add("hidden");
+    loadingEl?.classList.remove("hidden");
+
+    if (textEl) {
+      textEl.classList.add("hidden");
+      textEl.textContent = "";
+    }
+
+    if (containerEl) {
+      containerEl.innerHTML = "";
+      containerEl.className = "hidden w-full";
+    }
+
+    if (imageContentEl) {
+      imageContentEl.src = "";
+      imageContentEl.classList.add("hidden");
+    }
+
+    if (pdfContainerEl) {
+      pdfContainerEl.innerHTML = "";
+      pdfContainerEl.classList.add("hidden");
+    }
+
     fallbackEl?.classList.add("hidden");
-    if (textContentEl) textContentEl.textContent = "";
-    if (imageContentEl) imageContentEl.src = "";
   }
 
   function applyTextFontSize() {
-    if (textContentEl) textContentEl.style.fontSize = `${textFontSize}px`;
+    if (textEl) {
+      textEl.style.fontSize = `${textFontSize}px`;
+    }
   }
 
   async function openTabModal(name: string, path: string, extension: string) {
     if (!modal) return;
 
     resetModalContent();
+
     if (modalTitle) modalTitle.textContent = name;
     if (modalOpenNewTab) modalOpenNewTab.href = path;
 
@@ -529,51 +554,54 @@ for (const t of tablatures) {
     modal.classList.add("flex");
     document.body.style.overflow = "hidden";
 
+    let handled = false;
+
+    // IMAGE
     if (IMAGE_EXTENSIONS.has(extension)) {
       if (imageContentEl) {
-        imageContentEl.onload = () => loadingEl?.classList.add("hidden");
-        imageContentEl.onerror = () => showFallback();
-        imageContentEl.alt = name;
         imageContentEl.src = path;
         imageContentEl.classList.remove("hidden");
       }
-      return;
+      handled = true;
     }
 
+    // TEXT / MD / TXT
     if (TEXT_EXTENSIONS.has(extension)) {
-      try {
-        const res = await fetch(path);
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const res = await fetch(path);
+      const text = await res.text();
 
-        const text = await res.text();
-        if (textContentEl) {
-          if (extension === "md") {
-            // Utilisation du parser léger pour injecter les balises images reconstruites
-            textContentEl.innerHTML = renderMarkdown(text, path);
-          } else {
-            // Reste en texte brut pour les fichiers .txt classiques
-            textContentEl.textContent = text;
-          }
-          applyTextFontSize();
-          textContentEl.classList.remove("hidden");
-        }
-      } catch {
-        showFallback();
-      } finally {
-        loadingEl?.classList.add("hidden");
+      if (textEl) {
+        textEl.classList.remove("hidden");
+        textEl.textContent = text;
       }
-      return;
+      handled = true;
     }
 
-    // Format non géré en aperçu (pdf, doc, ...) : fallback "ouvrir dans un nouvel onglet".
+    // PDF
+    if (PDF_EXTENSIONS.has(extension)) {
+      if (pdfContainerEl) {
+        pdfContainerEl.classList.remove("hidden");
+        pdfContainerEl.innerHTML = `
+        <iframe src="${path}?v=${Date.now()}" class="w-full h-[80vh] border-0"></iframe>
+      `;
+      }
+      handled = true;
+    }
+
     loadingEl?.classList.add("hidden");
-    showFallback();
+
+    // IMPORTANT : fallback uniquement si rien n’a été affiché
+    if (!handled) {
+      showFallback();
+    }
   }
 
   function showFallback() {
     loadingEl?.classList.add("hidden");
-    textContentEl?.classList.add("hidden");
+
+    if (containerEl) containerEl.classList.add("hidden");
     imageContentEl?.classList.add("hidden");
+
     fallbackEl?.classList.remove("hidden");
   }
 
