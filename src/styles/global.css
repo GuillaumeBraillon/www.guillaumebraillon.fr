@@ -264,8 +264,13 @@
 }
 
 .markdown-body p:has(img + img) img {
-  width: calc(33% - 8px);
-  max-width: none;
+  flex: 1 1 0;
+  min-width: 0;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 300px; /* rends la contrainte explicite ici aussi, pour la lisibilité */
+  object-fit: contain; /* ← la vraie correction */
   margin: 0;
 }
 
