@@ -3,7 +3,7 @@ Quelque chose de bizarre
 
 
 
-L'auteur de cette retranscription est Grégoire Revel.
+L'auteur de cette retranscription est GrÃ©goire Revel.
 
 
 Quelque chose de bizarre (Jean-Jacques Goldman)
@@ -12,7 +12,7 @@ Quelque chose de bizarre (Jean-Jacques Goldman)
 ^ : Hammer ou Pulling-Off entre les 2 notes adjacentes.
 s : Glisser entre les 2 notes adjacentes.
 b : Bend ou ReleaseBend entre les 2 notes adjacentes.
-$ : Jouer l'accord en dessous en égrénant les notes.
+$ : Jouer l'accord en dessous en Ã©grÃ©nant les notes.
 
 Couplet 1 :
 

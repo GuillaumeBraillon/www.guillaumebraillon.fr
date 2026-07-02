@@ -1,5 +1,5 @@
 Less is More - JOSS STONE - SUPER CIFRAS.NET
- Carregando a MúsicaCor dos Acordes
+ Carregando a MÃºsicaCor dos Acordes
 
       Cor dos Texto
 
@@ -8,12 +8,12 @@ Less is More - JOSS STONE - SUPER CIFRAS.NET
       Mostrar os acordes
       Ocultar os acordes
       Estilos
-      Itálico
+      ItÃ¡lico
       Normal
 
 
 
-            Música: Less is More
+            MÃºsica: Less is More
             Artista: JOSS STONE
 
 
@@ -180,7 +180,7 @@ Less is more
             All lyrics are property and copyright of their respective owners and 
             are provides for educational purposes only!
             Visit our website WWW.MegaChords.Com
-            All Contents © from Mega Chords.Com
+            All Contents Â© from Mega Chords.Com
 
 
       B7

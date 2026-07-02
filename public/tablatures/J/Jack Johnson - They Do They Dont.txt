@@ -10,7 +10,7 @@ Artist: Jack Johnson
 Song: They Do They Dont
 
 
-Jack Johnson – They Do, They Don't
+Jack Johnson Â– They Do, They Don't
 From: Sleep Through the Static
 Tab: Kevin Sloan
 
@@ -37,9 +37,9 @@ Chorus (the chorus changes slightly throughout the song but just alternates betw
 Bb, the tab below is how he plays the first chorus.)
 
    Ab				     Bb
-E -4-4--xx--4/6—4/6--4-4-4-4--6-6-xx--6/8-6/8-6-6-6-6--|
-B -4-4--xx--4/6—4/6--4-4-4-4--6-6-xx--6/8-6/8-6-6-6-6--|
-G -5-5--xx--5/7—5/7--5-5-5-5--7-7-xx--7/9-7/9-7-7-7-7--|
+E -4-4--xx--4/6Â—4/6--4-4-4-4--6-6-xx--6/8-6/8-6-6-6-6--|
+B -4-4--xx--4/6Â—4/6--4-4-4-4--6-6-xx--6/8-6/8-6-6-6-6--|
+G -5-5--xx--5/7Â—5/7--5-5-5-5--7-7-xx--7/9-7/9-7-7-7-7--|
 D -6-6--xx-----------6-6-6-6--8-8-xx----------8-8-8-8--|
 A -6-6--xx-----------6-6-6-6--8-8-xx----------8-8-8-8--|
 E -4-4--xx-----------4-4-4-4--6-6-xx----------6-6-6-6--|
@@ -96,4 +96,4 @@ END
 | or research.                                                             |
 +--------------------------------------------------------------------------+
 
-Ultimate-Guitar.Com © 2008do not print chords diagrams 
+Ultimate-Guitar.Com Â© 2008do not print chords diagrams 

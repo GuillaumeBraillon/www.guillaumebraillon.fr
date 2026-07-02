@@ -1,24 +1,24 @@
 Renaud - Mistral GagnantImportant : Veuillez noter que la tablature ci 
-      dessous représente le fruit du travail de son auteur et ne peut en aucun 
+      dessous reprÃ©sente le fruit du travail de son auteur et ne peut en aucun 
       cas faire l'objet d'une quelconque utilisation commerciale. 
 
-Mistral Gagnant interprété par Renaud
+Mistral Gagnant interprÃ©tÃ© par Renaud
 
-"Mistral gagnant version arpèges" de "Renaud"
-fournisseur: Aurély
+"Mistral gagnant version arpÃ¨ges" de "Renaud"
+fournisseur: AurÃ©ly
 email: aurely.d@club-internet.fr
  
 Tab: 
 Mistrals gagnants, Renaud
-(version arpèges)
+(version arpÃ¨ges)
  
-Le schéma des arpèges est simple : pour chaque accord vous faites basse + 3dernières 
+Le schÃ©ma des arpÃ¨ges est simple : pour chaque accord vous faites basse + 3derniÃ¨res 
 cordes : 1(corde sol), 2(corde si), 3(corde mi), 2, 1
-2 fois chaque schéma pour l'intro, 3 fois pour le 1er accord du couplet (Sim et La), 
-1 fois pour le dernier accord du couplet (Mim et Ré)
+2 fois chaque schÃ©ma pour l'intro, 3 fois pour le 1er accord du couplet (Sim et La), 
+1 fois pour le dernier accord du couplet (Mim et RÃ©)
 Attention au pont : avec le sol : basse + 12321 + basse + 12 + accord suivant 
-(faire le schéma UNE fois seulement par accord durant tout le pont)
-Désolée si ça paraît compliqué ! Mais c'est un morceau agréable à jouer et facile
+(faire le schÃ©ma UNE fois seulement par accord durant tout le pont)
+DÃ©solÃ©e si Ã§a paraÃ®t compliquÃ© ! Mais c'est un morceau agrÃ©able Ã  jouer et facile
 
 intro : Sim  Mim  Fa#  Sim  Sim  La  Sol
 
@@ -34,67 +34,67 @@ Et regarder les gens tant qu'y en [Mim] a
  
 Te par [La] ler du bon temps
 Qu'est mort ou qui r'viendra
-En serrant dans ma main tes p'tits [Ré] doigts
+En serrant dans ma main tes p'tits [RÃ©] doigts
  
-Pi do [Sim] nner à bouffer
+Pi do [Sim] nner Ã  bouffer
 A des pigeons idiots
 Leur filer des coups de pied pour de [Mim] faux
  
 Et en [La] tendre ton rire
-Qui lézarde les murs
-Qui sait surtout guérir mes bles [Ré] sures
+Qui lÃ©zarde les murs
+Qui sait surtout guÃ©rir mes bles [RÃ©] sures
  
 Pont :
 Te ra [Sol] conter un peu
-Comment j'étais mi [Fa#] no
+Comment j'Ã©tais mi [Fa#] no
 Les bonbecs fabu [Sim] leux
  
 [Sol] Qu'on piquait chez l'marchand
 Car en sac et min [Fa#] tho
-Caramels à un [Sim] franc
+Caramels Ã  un [Sim] franc
 [La] et les mistrals ga [Sol] gnants.
  
 Couplets :
-Ah… m'asseoir sous la pluie
+AhÂ… m'asseoir sous la pluie
 Cinq minutes avec toi
 Et regarder la vie tant qu'y en a
  
 Te raconter la terre 
 En te bouffant des yeux
-Te parler de ta mère un p'tit peu
+Te parler de ta mÃ¨re un p'tit peu
  
  
 Et sauter dans les flaques
-Pour la faire râler
+Pour la faire rÃ¢ler
 Bousiller nos gaudasses et s'marrer
  
 Et entendre ton rire
 Comme on entend la mer
-S'arrêter, repartir en arrière
+S'arrÃªter, repartir en arriÃ¨re
  
 Pont :
 Te raconter surtout 
 Les carambars d'antan
-Et les coco-boërs
+Et les coco-boÃ«rs
 Et les vrais roudoudous
-Qui nous coupaient les lèvres
+Qui nous coupaient les lÃ¨vres
 Et nous niquaent les dents
 Et les mistrals gagnants
  
 Sim   Mim   Fa#   Sim   Sim   La    Sol
  
 Couplets :
-Ah… m'asseoir sur un banc
+AhÂ… m'asseoir sur un banc
 Cinq minutes avec toi
 Regarder le soleil qui s'en va
  
 Te parler du bon temps
 Qui est mort et je m'en fous
-Te dire que les méchants c'est pas nous
+Te dire que les mÃ©chants c'est pas nous
  
 Que si moi je suis barge 
 Ce n'est que de tes yeux
-Car ils ont l'avantage d'être deux
+Car ils ont l'avantage d'Ãªtre deux
  
 Et entendre ton rire
 S'envoler aussi haut
@@ -103,7 +103,7 @@ Que s'envolent les cris des oiseaux
 Pont :
 Te raconter enfin
 Qu'il faut aimer la vie
-Et l'aimer même si
+Et l'aimer mÃªme si
 Le temps est assassin
 Et emporte avec lui
 Le rire des enfants

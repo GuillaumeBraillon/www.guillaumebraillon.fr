@@ -13,17 +13,17 @@ Em: [0 2 2 0 0 0]
 C : [0 3 2 0 1 0]
 D : [2 0 0 2 3 2]
 
-Bonjour, je vous présente aujourd'hui la chanson n°6 du CD de Carla Bruni.
- J'espère que vous excuserez la longueur de la tablature, mais il y a une
- raison évidente à mes yeux. En effet, je n'avais pas envie de faire une
- tablature en morceaux où vous auriez dû trouver le riff A puis le riff C
- suivi du riff D tout cela en étant obligé de tourner les pages. Là, j'ai
+Bonjour, je vous prÃ©sente aujourd'hui la chanson nÂ°6 du CD de Carla Bruni.
+ J'espÃ¨re que vous excuserez la longueur de la tablature, mais il y a une
+ raison Ã©vidente Ã  mes yeux. En effet, je n'avais pas envie de faire une
+ tablature en morceaux oÃ¹ vous auriez dÃ» trouver le riff A puis le riff C
+ suivi du riff D tout cela en Ã©tant obligÃ© de tourner les pages. LÃ , j'ai
  tout fait en un seul "bloc", avec quelques reprises pour racourcir au maximum
  la tablature.
-En espérant que vous prendrez autant de plaisir que moi à jouer ce morceau, je
- vous souhaite un agréable voyage dans le monde de Carla Bruni.
+En espÃ©rant que vous prendrez autant de plaisir que moi Ã  jouer ce morceau, je
+ vous souhaite un agrÃ©able voyage dans le monde de Carla Bruni.
 
-NB: pour ceux qui n'ont jamais fait de solfège, regardez à la fin de la tablature
+NB: pour ceux qui n'ont jamais fait de solfÃ¨ge, regardez Ã  la fin de la tablature
      je vous y explique le fonctionnement d'une reprise de mesures.
 
 
@@ -380,19 +380,19 @@ E||---3--------------|------------------||--0--------------|-----------------|
 
 
 
-Quand tu es près de moi,
+Quand tu es prÃ¨s de moi,
 
 Cette chambre n'a plus de parois,
 
 Mais des arbres oui, des arbres infinis,
 
-Et quand tu es tellement près de moi,
+Et quand tu es tellement prÃ¨s de moi,
 
-C'est comme si ce plafond-là,
+C'est comme si ce plafond-lÃ ,
 
-Il n'existait plus, je vois le ciel penché sur nous... qui restons ainsi,
+Il n'existait plus, je vois le ciel penchÃ© sur nous... qui restons ainsi,
                        G
-Abandonnés tout comme si,
+AbandonnÃ©s tout comme si,
            Em          C                  G        D
 Il n'y avait plus rien, non plus rien d'autre au monde,
   G            Em      C            G      D
@@ -400,7 +400,7 @@ J'entends l'harmonica... mais on dirait un orgue,
       G             Em            C
 Qui chante pour toi et pour moi,
              G       D    C
-Là-haut dans le ciel infini,
+LÃ -haut dans le ciel infini,
          G   D        G
 Et pour toi, et pour moi,
 Em    C
@@ -410,10 +410,10 @@ Et pour toi, et pour moi.
 G  Em  C  G  D  G  Em  C  G  D  G  Em  C  G  D  G  Em  C  G  D
 
 
-Petit passage à faire, si-possible, à la guitare électrique, car 
- avec une guitare classique ça ne donne rien. Avec une guitare
- Folk je ne saurais vous dire si ça rend bien...
- Je ne garantis pas l'exactitude des notes car je les ai trouvées
+Petit passage Ã  faire, si-possible, Ã  la guitare Ã©lectrique, car 
+ avec une guitare classique Ã§a ne donne rien. Avec une guitare
+ Folk je ne saurais vous dire si Ã§a rend bien...
+ Je ne garantis pas l'exactitude des notes car je les ai trouvÃ©es
  avec une guitare classique...
 
 E||--3--5/-7----7/-5----3--5h-7--3----0--3--0--5----3--10--7--|
@@ -469,7 +469,7 @@ Suona l'harmonica, mi sembra un organo
      G           Em        C
 Che canta per te e per me
             G    D       C
-Su nell' immensità dell cielo
+Su nell' immensitÃ  dell cielo
       G  D     G
 E per te e per me.
 Em    C
@@ -483,12 +483,12 @@ mmmhhhhhhhh
 
 
 OUF!!! Ca y est, c'est la fin...
-NB: pour ceux qui ont du mal à passer de G ([3 2 0 0 0 3]) à D([2 0 0 2 3 2])
-    vous pouvez passer de G ([3 2 0 0 0 3]) à D([2 0 0 2 x x]). En fait, dans
-    le D "normal" (et le G aussi) on évite de frotter les cordes de mi (E) et
+NB: pour ceux qui ont du mal Ã  passer de G ([3 2 0 0 0 3]) Ã  D([2 0 0 2 3 2])
+    vous pouvez passer de G ([3 2 0 0 0 3]) Ã  D([2 0 0 2 x x]). En fait, dans
+    le D "normal" (et le G aussi) on Ã©vite de frotter les cordes de mi (E) et
     de si (B).
 
-Voilà, je vous laisse travailler un peu sur cette tablature...
+VoilÃ , je vous laisse travailler un peu sur cette tablature...
 
 @@@+++
 
@@ -497,20 +497,20 @@ Voilà, je vous laisse travailler un peu sur cette tablature...
 LA REPRISE DE MESURES
 
                3x
-E||----   -----||       Par exemple ici, on joue une première fois
+E||----   -----||       Par exemple ici, on joue une premiÃ¨re fois
 B||----   -----||        la (ou les) mesures qui se trouve(nt) entre
 G||*---...----*||   ==>  les *, et on la (ou les) reprend 3 fois.
-D||*---   ----*||         C'est tout bête...
+D||*---   ----*||         C'est tout bÃªte...
 A||----   -----||
 E||----   -----||
 *********
 *********
 
 -------
-Flavien le Rouennais est trés heureux de vous fournir cette tablature trouvée à l'oreille.
+Flavien le Rouennais est trÃ©s heureux de vous fournir cette tablature trouvÃ©e Ã  l'oreille.
 @@@+++
 -------
 
 
 
-      > Retour  Destiné à un usage strictement personnel !> Retour  
+      > Retour  DestinÃ© Ã  un usage strictement personnel !> Retour  

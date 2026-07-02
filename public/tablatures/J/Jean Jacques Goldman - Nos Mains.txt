@@ -7,9 +7,9 @@ Nos mains
 
 
 
-Capo 1ère case.
+Capo 1Ã¨re case.
 4 tirets=une croche
-Accords donnés avec le capo (baisser d'1/2 ton pour avoir les
+Accords donnÃ©s avec le capo (baisser d'1/2 ton pour avoir les
 positions sur la guitare).
 
 Intro :
@@ -59,7 +59,7 @@ Eb
 |--------------------------------|
 
 
-Début 1er couplet :
+DÃ©but 1er couplet :
 Ab               Absus4  Ebsus4/Ab
 |--------------------------------|
 |0-------0-------1---0-------3---|
@@ -93,7 +93,7 @@ Ab              Absus4      Ebsus4/Ab
 |------------0-----------4-------|----0-------0-------------------|
 |--------------------------------|--------------------------------|
 |3---------------3---------------|3---------------3-------3-------|
-Sur une armeles doigts noués
+Sur une armeles doigts nouÃ©s
 
 Ab              Absus4      Ebsus4/Ab
 |       |       |       |        |       |       |       |
@@ -133,7 +133,7 @@ Y'apas d'caresses    en fermant  les    mains
 |--------------------------------|
 |--------------------------------|
 
-Recommencer ensuite une fois à partir de Couplet
+Recommencer ensuite une fois Ã  partir de Couplet
 
 Puis refrain :
 
@@ -165,7 +165,7 @@ Fm               Eb/G             Ab              Db
 |----2-------2-------0-------0---|----0-------0-------2-------2---|
 |--------------------------------|----------------3---------------|
 |0---------------2---------------|3-------------------------------|
-suffitd'uneou deux secondes à  peineun gesteun autre  monde
+suffitd'uneou deux secondes Ã   peineun gesteun autre  monde
 
 |       |       |       |        |       |       |       |
 |------------------------2-------|------------3-------3-----------|
@@ -185,7 +185,7 @@ Quandon ouvre  nos mains
 
 Couplet 2 : idem couplet 1
 
-Puis changement de tonalité :
+Puis changement de tonalitÃ© :
 
 B               Bsus4   F#sus4/B
 |       |       |       |        |       |       |       |
@@ -205,7 +205,7 @@ B               Bsus4   F#sus4/B
 |----3-------3-------3-----------|----3---------------------------|
 |1---------------1---------------|1---------------1---------------|
 |--------------------------------|--------------------------------|
-Poussentauboutdumauvais côté
+Poussentauboutdumauvais cÃ´tÃ©
 
 B               Bsus4   F#sus4/B
 |       |       |       |        |       |       |       |
@@ -215,7 +215,7 @@ B               Bsus4   F#sus4/B
 |----3-------3-------3-----------|----3---------------3-------0---|
 |1---------------1---------------|1---------------1---------------|
 |--------------------------------|--------------------------------|
-Celuiqui menace  ou  désigne                      De l'autre on
+Celuiqui menace  ou  dÃ©signe                      De l'autre on
 
 G#m             E                F#sus4
 |       |       |       |        |       |       |       |
@@ -257,7 +257,7 @@ G#m             F#/A#            B               E
 |----5-------0-------3-------3---|----3-------0-------5-------0---|
 |----------------0---------------|1---------------6---------------|
 |3-------------------------------|--------------------------------|
-suffitd'uneou deux secondes à  peineun gesteun autre  monde
+suffitd'uneou deux secondes Ã   peineun gesteun autre  monde
 
 G#m             F#sus4           Dbadd9  Ebsus4
 |       |       |       |        |       |

@@ -1,40 +1,40 @@
-Tout était dit
+Tout Ã©tait dit
 
 
 
 --------------------------------------------------------------------------------
 
 
-L'auteur de cette retranscription est Grégoire Revel.
+L'auteur de cette retranscription est GrÃ©goire Revel.
 
 
 
 b : Bend vers la note suivante ou le contraire si la note suivante est
 plus grave.
-s : Glissé entre les 2 notes adjacentes.
+s : GlissÃ© entre les 2 notes adjacentes.
 \ : Partir de la note precedente et effectuer un glisse vers
 le haut du manche.
 h : Hammer entre les 2 notes adjacentes.
 p : Pulling-Off entre les 2 notes adjacentes.
 () : Jouer la note entre () en bloquant les cordes au niveau
 du chevalet avec la main droite (Palm-Muting).
-     Dans ce morceau les notes entre () sont à mon
-     avis jouées à la basse. Cela explique certaines
-     differences d'octave sur la note jouée
+     Dans ce morceau les notes entre () sont Ã  mon
+     avis jouÃ©es Ã  la basse. Cela explique certaines
+     differences d'octave sur la note jouÃ©e
 par
-     rapport à la note entendue sur le disque.
+     rapport Ã  la note entendue sur le disque.
 x : Quand il y a le x il faut bloquer la corde qui le
     porte avec le doigt qui joue l'autre note (chez moi
     c'est l'annulaire)
 il faut bien sur 'jouer' cette
     corde.
 
-Il m'a fallut du temps pour déchiffrer ce morceau
+Il m'a fallut du temps pour dÃ©chiffrer ce morceau
 car JJG ne le joue pas en accordage standard.
 En effet il me semble
-après mûres reflexions
+aprÃ¨s mÃ»res reflexions
 
-qu'il utilise un Capodastre à la 4eme case.
+qu'il utilise un Capodastre Ã  la 4eme case.
 En tous cas il vous faudra le mettre pour
 que ma transcription sonne comme sur le
 disque.
@@ -91,7 +91,7 @@ mmm
 |-----------------------2h4-4-----------------------4p2-x--|
 |-----------------------2h4-4-----------------------4p2-4--|
 |--(2)-(2)--(2)-(2)--(2)-----2-(2)-(2)--(2)-(2)--(2)-------|
-Quatre mètres...                Un bar...
+Quatre mÃ¨tres...                Un bar...
 
 0:28
    C#
@@ -144,7 +144,7 @@ Couplet 2 :
 |-----------------------2h4-4-----------------------------|
 |-----------------------2h4-4-----------------------------|
 |--(2)-(2)--(2)-(2)--(2)-----2-(2)-(2)--(2)-(2)--(2)-(2)--|
-Elle était là...                Son monde...
+Elle Ã©tait lÃ ...                Son monde...
 
 1:02
 |-----------------------------------------------------------|
@@ -173,7 +173,7 @@ mmm
 |------------------------x-----------------------------2h4-4-|
 |--(4)-(4)--(4)-(4)--(4)-2s4-4-(4)-(4)--(4)-(4)--(4)-4-2h4-4-|
 |------------------------------------------------------------|
-                         à l'interieur
+                         Ã  l'interieur
 
 1:19
    F#
@@ -183,7 +183,7 @@ mmm
 |-----------------------2-4----------------------4-7p4-4---|
 |-----------------------2-4----------------------4-7p4---2-|
 |--(2)-(2)--(2)-(2)--(2)----(2)-(2)--(2)-(2)--(2)----------|
-   Plongée dans...          Belle abandonnée
+   PlongÃ©e dans...          Belle abandonnÃ©e
 
 1:15
    B                             D                 E
@@ -235,8 +235,8 @@ balance...            Et c'est plus...
 |--0--0--0--0---1--1--1---2-2-2-2-2-2-2--|
 |-------------------------2-2-2-2-2-2-2--|
 |-------------------------0-0-0-0-0-0-0--|
-Là
-dans...                              Tout était dit
+LÃ 
+dans...                              Tout Ã©tait dit
 
 1:52
    Am
@@ -298,7 +298,7 @@ ahh
 |-----------------------2-4----------------------4-7p4-4---|
 |-----------------------2-4----------------------4-7p4---2-|
 |--(2)-(2)--(2)-(2)--(2)----(2)-(2)--(2)-(2)--(2)----------|
-On s'arrange...             On bienséance
+On s'arrange...             On biensÃ©ance
 
 2:26
    B                             D                    F#
@@ -328,7 +328,7 @@ On s'arrange...             On bienséance
 |--4-------------------2h4-4---------------------------4p2-2-|
 |--2--(2)-(2)--(2)-(2)-------(2)--(2)-(2)--(2)-(2)--(2)------|
 |------------------------------------------------------------|
-Muette étrangère...      Silencieuse....
+Muette Ã©trangÃ¨re...      Silencieuse....
 
 2:48
    D
@@ -338,7 +338,7 @@ Muette étrangère...      Silencieuse....
 |--0--(0)-(0)--(0)-(0)--(0)-(0)--(0)-2--2--2--|
 |------------------------------------2--2--2--|
 |------------------------------------0--0--0--|
-Presque familière...                 Plus je te...
+Presque familiÃ¨re...                 Plus je te...
 
 Refrain :
 
@@ -350,7 +350,7 @@ Refrain :
                |--2-----------------------2--------------------|
                |--0----------3------------3----------2---------|
                |-------------1-----------------------3---------|
-Dans chacun de ces gestes...       Un secret...           Même la
+Dans chacun de ces gestes...       Un secret...           MÃªme la
 
 2:59
    Am         F            C          G
@@ -360,7 +360,7 @@ Dans chacun de ces gestes...       Un secret...           Même la
 |--2-----------------------2--------------------|
 |--0----------3------------3----------2---------|
 |-------------1-----------------------3---------|
-discrète...           A tant de...          Quand ta main...
+discrÃ¨te...           A tant de...          Quand ta main...
 
 3:05
    Am         F            G          C
@@ -392,7 +392,7 @@ Refrain :
 
 Fin :
 
-Tout était dit.....
+Tout Ã©tait dit.....
 
 4:03
    B
@@ -411,5 +411,5 @@ Tout était dit.....
 |------------------------10\-7---------5-5--5--5--5--5-h7--|
 |------------------------10\-7---------5-5--5--5--5--5-h7--|
 |--(5)-(5)--(5)-(5)--(5)-----------------------------------|
-                         Tout était dit
+                         Tout Ã©tait dit
 

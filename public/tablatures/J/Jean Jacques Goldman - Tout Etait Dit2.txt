@@ -1,4 +1,4 @@
-Tout était dit
+Tout Ã©tait dit
 
 
 
@@ -10,24 +10,24 @@ L'auteur de cette retranscription est Eloi Ricordel.
 
 b : Bend vers la note suivante ou le contraire si la note suivante est
 plus grave.
-s : Glissé entre les 2 notes adjacentes.
+s : GlissÃ© entre les 2 notes adjacentes.
 \ : Partir de la note precedente et effectuer un glisse vers
 le haut du manche.
 h : Hammer entre les 2 notes adjacentes.
 p : Pulling-Off entre les 2 notes adjacentes.
 () : Jouer la note entre () en bloquant les cordes au niveau
 du chevalet avec la main droite (Palm-Muting).
-Dans ce morceau les notes entre () sont à mon
-avis jouées à la basse. Cela explique certaines
-differences d'octave sur la note jouée
-par rapport à la note entendue sur le disque.
+Dans ce morceau les notes entre () sont Ã  mon
+avis jouÃ©es Ã  la basse. Cela explique certaines
+differences d'octave sur la note jouÃ©e
+par rapport Ã  la note entendue sur le disque.
 x : Quand il y a le x il faut bloquer la corde qui le
 porte avec le doigt qui joue l'autre note (chez moi
 c'est l'annulaire)
 il faut bien sur 'jouer' cette corde.
 
 
-Il faudra mettre le capodastre à la 1ere case pour
+Il faudra mettre le capodastre Ã  la 1ere case pour
 la musique sonne
 comme sur le disque.
 
@@ -65,7 +65,7 @@ A
 |-----------------------------------|-----------------------------------|
 1  .  .  2  .  .  3  .  .  4  .  .  1  .  .  2  .  .  3  .  .  4  .  .
 
-Elle écrit seule à sa table....	    Et son café refroidit
+Elle Ã©crit seule Ã  sa table....	    Et son cafÃ© refroidit
 0:17
 A
 |-----------------------------------|-----------------------------------|
@@ -88,8 +88,8 @@ A								      Em
 |-----------------------------------|-----------------------------------|
 1  .  .  2  .  .  3  .  .  4  .  .  1  .  .  2  .  .  3  .  .  4  .  .
 
-Quatre mètres infranchissables        Un bar
-un après-midi
+Quatre mÃ¨tres infranchissables        Un bar
+un aprÃ¨s-midi
 
 0:29
 Em						A	
@@ -126,7 +126,7 @@ D				     Fm
 |-----------------------------------|(1)---(1)(1)---(1)(1)---(1)(3)--------------|
 1  .  .  2  .  .  3  .  .  4  .  .  1  .  .  2  .  .  3  .  .  4  .  .  5  .  .
 
-Avec   un  pape  ou peut-etre   un président mais la fille est jolie
+Avec   un  pape  ou peut-etre   un prÃ©sident mais la fille est jolie
 
 0:47
 A		Em	     Am				       	      Em
@@ -162,7 +162,7 @@ A
 |-----------------------------------|-----------------------------------|
 1  .  .  2  .  .  3  .  .  4  .  .  1  .  .  2  .  .  3  .  .  4  .  .
 
-Elle était là   dans   son monde son monde au beau milieu du monde
+Elle Ã©tait lÃ    dans   son monde son monde au beau milieu du monde
 1:02
 A
 |----------3-----3-----3-----3-----3|----3-----3-----3-----2------------|
@@ -185,7 +185,7 @@ A								      Em
 |-----------------------------------|-----------------------------------|
 1  .  .  2  .  .  3  .  .  4  .  .  1  .  .  2  .  .  3  .  .  4  .  .
 
-Loin ses yeux posés ailleurs         Quelque part à l'intérieur
+Loin ses yeux posÃ©s ailleurs         Quelque part Ã  l'intÃ©rieur
 
 1:13
 Em								       A	
@@ -209,7 +209,7 @@ A								       D
 |-----------------------------------|-----------------------------------|
 1  .  .  2  .  .  3  .  .  4  .  .  1  .  .  2  .  .  3  .  .  4  .  .
 
-Plongée dans son livre               Belle abandonnée
+PlongÃ©e dans son livre               Belle abandonnÃ©e
 1:25
 D				     Fm			G
 |-----------------------------------|-----------------------------------|
@@ -246,7 +246,7 @@ Bm		   G#     	     Eb		       	Bb
 
 1  .  .  2  .  .  3  .  .  4  .  .  1  .  .  2  .  .  3  .  .  4  .  .
 
-facettes trahies bien mieux que  par de     longues études    Un pied se
+facettes trahies bien mieux que  par de     longues Ã©tudes    Un pied se
 
 1:41
 Bm		   G#     	     Bb		       	Eb
@@ -273,8 +273,8 @@ Fm		   F#?     	     G
 
 1  .  .  2  .  .  3  .  .  4  .  .  1  .  .  2  .  .  3  .  .  4  .  .	
 
-Là
-dans l'innocence et l'oubli......  	              Tout était
+LÃ 
+dans l'innocence et l'oubli......  	              Tout Ã©tait
 
 1:53
 Cm     	     	 	       	
@@ -326,7 +326,7 @@ A								      Em
 |-----------------------------------|-----------------------------------|
 1  .  .  2  .  .  3  .  .  4  .  .  1  .  .  2  .  .  3  .  .  4  .  .
 
-On se promène en bateau           plein de pseudo de contre-bande
+On se promÃ¨ne en bateau           plein de pseudo de contre-bande
 
 2 :14
 Em								       A	
@@ -350,7 +350,7 @@ A								       D
 |-----------------------------------|-----------------------------------|
 1  .  .  2  .  .  3  .  .  4  .  .  1  .  .  2  .  .  3  .  .  4  .  .
 On s'arrange
-on roule   on glose   on bienséance
+on roule   on glose   on biensÃ©ance
 
 2:26
 D				     Fm	                               	A
@@ -395,7 +395,7 @@ D				     D				        F# |-----------------------------------|-----------------
 |-----------------------------------|---------------------------------(1|
 1  .  .  2  .  .  3  .  .  4  .  .  1  .  .  2  .  .  3  .  .  4  .  .
 
-Muette             étrangère
+Muette             Ã©trangÃ¨re
 silencieuse bavarde
 
 2:48
@@ -408,7 +408,7 @@ F#				     		 G
 |(1)---(1)(1)---(1)(1)---(1)(1)---(1|(3)(3)(3)(3)(3)(3)(3)--------------|
 1  .  .  2  .  .  3  .  .  4  .  .  1  .  .  2  .  .  3  .  .  4  .  .
 
-presque    familière        intime  plus je te regarde    Dans chacun de
+presque    familiÃ¨re        intime  plus je te regarde    Dans chacun de
 
 
 
@@ -416,31 +416,31 @@ Bm		          G#	Eb			Bb
 ses gestes un aveu
 un secret dans chaque attitude
 Bm		    G#      Eb           	Bb
-Même la plus discrète ne peut mentir à tant de solitude
+MÃªme la plus discrÃ¨te ne peut mentir Ã  tant de solitude
 Bm		    G#	Bb			Eb		
 Quand ta main cherche une cigarette
 c'est comme une confession
 F		F#?		  G	
-Que tu me ferais à ton insu
+Que tu me ferais Ã  ton insu
 
-A ta façon de tourner les pages
+A ta faÃ§on de tourner les pages
 moi j'en apprends bien d'avantage
 La moue de ta bouche est un langage
-ton regard un témoignage
+ton regard un tÃ©moignage
 Tes doigts dans tes cheveux s'attardent
 quel explicite message
 Dans ton innocence absolue
 
-Et ce léger sourire au coin des lèvres
-c'est d'une telle indécence
+Et ce lÃ©ger sourire au coin des lÃ¨vres
+c'est d'une telle indÃ©cence
 Il est temps de partir
-elle se lève
-évidente
+elle se lÃ¨ve
+Ã©vidente
 transparente
-Sa façon de marcher dans mon rêve
-son parfum qui s'évanouit
-Quand elle disparaît de ma vie
-Tout était
+Sa faÃ§on de marcher dans mon rÃªve
+son parfum qui s'Ã©vanouit
+Quand elle disparaÃ®t de ma vie
+Tout Ã©tait
 
 Cm								
 |-----------------------------------|-----------------------------------|
@@ -450,7 +450,7 @@ Cm
 |(3)---(3)(3)---(3)(3)---(3)--------|(3)---(3)(3)---(3)(3)---(3)-------3|
 |-----------------------------------|-----------------------------------|
 1  .  .  2  .  .  3  .  .  4  .  .  1  .  .  2  .  .  3  .  .  4  .  .
-dit							    		Tout était dit
+dit							    		Tout Ã©tait dit
 
 
 Cm								

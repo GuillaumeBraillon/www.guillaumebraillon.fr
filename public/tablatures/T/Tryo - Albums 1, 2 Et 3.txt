@@ -1,9 +1,9 @@
 Tryo - * Recueil d'accords : albums 1, 2 et 3Important : Veuillez noter 
-      que la tablature ci dessous représente le fruit du travail de son auteur 
+      que la tablature ci dessous reprÃ©sente le fruit du travail de son auteur 
       et ne peut en aucun cas faire l'objet d'une quelconque utilisation 
       commerciale. 
 
-* Recueil d'accords : albums 1, 2 et 3 interprété par Tryo
+* Recueil d'accords : albums 1, 2 et 3 interprÃ©tÃ© par Tryo
 
  
 Recueil d'accords ALBUMS TRYO
@@ -57,7 +57,7 @@ Em  x79987
 3. C'est du roots
 
 verse & chorus  ===>  D  G  D  A
-    pré-chorus  ===>  G  A  G  A
+    prÃ©-chorus  ===>  G  A  G  A
 
 
 D  x57775
@@ -68,7 +68,7 @@ A  577655
 
 
 
-4. Salut Ô
+4. Salut Ã”
 
 verse & chorus ===>  EM7  DM7
 
@@ -79,7 +79,7 @@ DM7  x57675
 
 
 
-5. La révolution
+5. La rÃ©volution
 
  verse ===>  Cm  F
 chorus ===>  Fm  Gm
@@ -106,7 +106,7 @@ C#m x46654
 
 
 
-7. La misère d'en face 
+7. La misÃ¨re d'en face 
 
 verse & chorus  ===>  Dm  C  F  G
 
@@ -147,7 +147,7 @@ E  x79997
 
 
 
-10. France télécom
+10. France tÃ©lÃ©com
 
          intro  ===>  Bbm  Bbm  Cm  Fm 
 verse & chorus  ===>  Bbm  Bbm  Fm  Fm   x3
@@ -162,7 +162,7 @@ Fm   133111
 
 
 
-11. Yakamonéyé
+11. YakamonÃ©yÃ©
 
 Verse & chorus ===>  G  F
 
@@ -186,7 +186,7 @@ G   355433
 
 
 
-13. suprématie
+13. suprÃ©matie
 
 verse & chorus ===>  B  A
 
@@ -210,7 +210,7 @@ G  355433
 
 
 
-15. J'ai rien prévu pour demain
+15. J'ai rien prÃ©vu pour demain
 
 verse & chorus  ===>  Em  A
 
@@ -233,7 +233,7 @@ Faut qu'on s'active
 ================================
 
 
-1. J'ai trouvé des amis
+1. J'ai trouvÃ© des amis
 
 verse & chorus ===>  D  G
 
@@ -304,7 +304,7 @@ Db  x46664
 
 
 
-6. Les extrêmes
+6. Les extrÃªmes
 
 verse & chorus  ===>  B  B  D  A
 
@@ -340,7 +340,7 @@ D  x57775
 
 
 
-9. La débandade
+9. La dÃ©bandade
 
 verse & chorus  ===>  A  Dbm  D  A
 
@@ -367,7 +367,7 @@ F   133211
 
 11. Le monde est avare
 
-verse & chorus ===>  E  Em7    (D, à un moment)
+verse & chorus ===>  E  Em7    (D, Ã  un moment)
 
 E   022100
 Em7 020000
@@ -399,7 +399,7 @@ Dsus2  x57755
 
 
 
-14. La lumière
+14. La lumiÃ¨re
 
 verse & chorus ===>  E    A
            end ===>  EM7  DM7
@@ -452,7 +452,7 @@ F#   244322
  
 
 
-3. Comme les journées sont longues
+3. Comme les journÃ©es sont longues
 
 verse  
 chorus   Dbm  Ab   B
@@ -476,7 +476,7 @@ D  x57775
 
 
 
-5. Si la vie m'a mis là
+5. Si la vie m'a mis lÃ 
 
 verse & chorus  ===>  G  G  G  A  D
 
@@ -524,7 +524,7 @@ D  577655
 
 
 
-9. Ta réalité
+9. Ta rÃ©alitÃ©
 
 verse & chorus  ===>  Db   B
 
@@ -535,9 +535,9 @@ B   x24442
 
 
 
-10. Récréation
+10. RÃ©crÃ©ation
 
-verse & chorus  ===>  cà change sur chaque couplet
+verse & chorus  ===>  cÃ  change sur chaque couplet
 
 Am   Cm
 Bbm  Dbm
@@ -554,13 +554,13 @@ Bm   Dm
 Gm  355333
 Fm  133111
 Cm  355433
-les autres accords doivent être décrits sur d'autres chansons... 
+les autres accords doivent Ãªtre dÃ©crits sur d'autres chansons... 
 
 ************
 
 
 
-11. Ballade en forêt
+11. Ballade en forÃªt
 
 verse & chorus ==>   Em   C
 
@@ -571,7 +571,7 @@ C   x35553
 
 
 
-12. Désolé pour hier soir
+12. DÃ©solÃ© pour hier soir
 
 verse & chorus  ===>  Cm   Eb
 

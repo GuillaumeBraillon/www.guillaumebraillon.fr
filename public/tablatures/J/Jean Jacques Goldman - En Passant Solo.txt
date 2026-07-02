@@ -9,43 +9,43 @@ L'auteur de cette retranscription est Etoile3J@aol.com.
 
 
 
-Symboles utilisés :
+Symboles utilisÃ©s :
 
 
 
-7b(9)   : bend jusqu' à la tonalité de la touche entre parenthèses
+7b(9)   : bend jusqu' Ã  la tonalitÃ© de la touche entre parenthÃ¨ses
 
-7b(13)r : bend jusqu' à la tonalité de la touche entre parenthèses
+7b(13)r : bend jusqu' Ã  la tonalitÃ© de la touche entre parenthÃ¨ses
 puis release
 
 7/9     : slide entre les deux touches
 
-/9     : slide sans partir d'une note précise
+/9     : slide sans partir d'une note prÃ©cise
 
 
 
 ^       :
 
-!       :picking puis immédiatement après
+!       :picking puis immÃ©diatement aprÃ¨s
 bend
 
 <9>     : harmonique
 
-???     :Je ne suis pas sûr du passage...
+???     :Je ne suis pas sÃ»r du passage...
 
 
 
 Piano
 
-Do  sol fa mi ré    fa mi
+Do  sol fa mi rÃ©    fa mi
 
-SOL LA  do do ré do LA SOL SOL do ré mi ré
+SOL LA  do do rÃ© do LA SOL SOL do rÃ© mi rÃ©
 
-Si  do  ré
+Si  do  rÃ©
 
-Do  Sol fa mi ré fa mi
+Do  Sol fa mi rÃ© fa mi
 
-SOL LA  do do ré mi do fa mi ré
+SOL LA  do do rÃ© mi do fa mi rÃ©
 
 
 
@@ -253,7 +253,7 @@ e[------------------------------------------------------------------------------
 
 B[------------------------------------------------------------------------------]
 
-~~~~~                                            ??ou peut-être???
+~~~~~                                            ??ou peut-Ãªtre???
 
 G[-12b(14)---12-12-10-9-9--(9)h 10--7-5-7--(7)/9--9-7--<9>------------12--------]
 

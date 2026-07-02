@@ -2,7 +2,7 @@ Renaud - Boucan d'enfer
 1.Docteur Renaud, Mister Renard
 alexb21@aol.com
 
-// La phrase d'intro peut etre repetée tout le long
+// La phrase d'intro peut etre repetÃ©e tout le long
 // du morceau pendant le refrain et les couplets qui 
 // suivent ce schema (il ya deux types de couplets)
 
@@ -26,21 +26,21 @@ Y'a le Renaud et le Renard
 Le Renaud ne boit que de l'eau
 Le Renard carbure au Ricard
 
-Un côté blanc, un côté noir
+Un cÃ´tÃ© blanc, un cÃ´tÃ© noir
 Personne n'est tout moche ou tout beau
-Moitié ange et moitié salaud
+MoitiÃ© ange et moitiÃ© salaud
 Et c'est ce que nous allons voir. 
 
 Lam     Fa         Sol     Mi          Lam
            Docteur Renaud,    Mister Renard...
 
 Schema A:
-Renard est un sacré soiffard 
+Renard est un sacrÃ© soiffard 
 Renaud est sobre comme un moineau
 Quand Renaud rejoint son plumard 
-Renard s'écroule dans l'caniveau
+Renard s'Ã©croule dans l'caniveau
 
-Renaud se méfie des pétards
+Renaud se mÃ©fie des pÃ©tards
 Et du chichon qui rend idiot
 Renard se les roule, peinard
 Pour s'exploser le ciboulot
@@ -51,16 +51,16 @@ Schema B:
            Fa
 Renaud s'efforce, c'est son boulot
           Mi
-D'écrire de jolies histoires
+D'Ã©crire de jolies histoires
              Lam              Sol
-Pour séduire les gens, les marmots
+Pour sÃ©duire les gens, les marmots
         Fa        
-Pour amuser, pour émouvoir
+Pour amuser, pour Ã©mouvoir
 
 A la pointe de son stylo
 Le Renard n'a que des gros mots
 La parano et le cafard
-N'lui inspirent que des idées noires
+N'lui inspirent que des idÃ©es noires
 
 Docteur Renaud, Mister Renard...
 
@@ -70,33 +70,33 @@ Qui accablent ce monde barbare
 Il porte les croix sur son dos
 Des injustices les plus notoires
 
-Renard, désabusé, se marre
+Renard, dÃ©sabusÃ©, se marre
 Se contrefout de ce bazar
-Le monde peut crever bientôt
-Renard s'en réjouirait plutôt
+Le monde peut crever bientÃ´t
+Renard s'en rÃ©jouirait plutÃ´t
 
 Docteur Renaud, Mister Renard...
 
 Schema A:
 Renaud a choisi la guitare
-Et la poésie et les mots
-Comme des armes un peu dérisoires
+Et la poÃ©sie et les mots
+Comme des armes un peu dÃ©risoires
 Pour fustiger tous les blaireaux
 
-Renard, c'est son côté anar
-Crache sur tous les idéaux
+Renard, c'est son cÃ´tÃ© anar
+Crache sur tous les idÃ©aux
 Se moque du tiers comme du quart
 Des engagements les plus beaux
 
 Docteur Renaud, Mister Renard...
 
 Schema B:
-Renaud mérite les bravos
+Renaud mÃ©rite les bravos
 Car en amour, et c'est sa gloire
 Il est tendre comme un agneau
-Pour une seule et même histoire
+Pour une seule et mÃªme histoire
 
-Renard se frotte à toutes les peaux
+Renard se frotte Ã  toutes les peaux
 N'a que des aventures d'un soir
 Avec des canons, des cageots,
 Renard s'rait-il un brin vic'lard ?
@@ -105,9 +105,9 @@ Docteur Renaud, Mister Renard...
 Docteur Renaud, Mister Renard... 
 
 Schema A:
-C'est à cause du désespoir
-Qui tombe à 50 ans bientôt
-Que le Renard, tôt ou tard
+C'est Ã  cause du dÃ©sespoir
+Qui tombe Ã  50 ans bientÃ´t
+Que le Renard, tÃ´t ou tard
 Prendra le dessus sur Renaud
 
 Aujourd'hui son amour se barre,

@@ -13,32 +13,32 @@ ArmstrongArmstrong
       Accords : 
       Lam : 577555  
       Mi7 : 779797  
-      Rém : 557765  
+      RÃ©m : 557765  
       Mi : 7799977  
       Lam7 : 575555  
       Fa7 : 111311  
 
 
-      Lam Mi7 Rém  
+      Lam Mi7 RÃ©m  
       Armstrong, je ne suis pas noir,  
 
       Lam Mi7 Lam  
       Je suis blanc de peau.  
 
-      Lam Mi7 Lam Rém  
-      Quand on veut chanter l’espoir,  
+      Lam Mi7 Lam RÃ©m  
+      Quand on veut chanter lÂ’espoir,  
 
       Lam Mi7 Lam  
       Quel manque de pot.  
 
-      Lam Rém  
-      Oui, j’ai beau voir le ciel, l’oiseau,  
+      Lam RÃ©m  
+      Oui, jÂ’ai beau voir le ciel, lÂ’oiseau,  
 
-      Lam  Mi  Lam  Lam7  Fa7  Lam  Rém  
-      Rien, rien , rien ne luit là-haut  
+      Lam  Mi  Lam  Lam7  Fa7  Lam  RÃ©m  
+      Rien, rien , rien ne luit lÃ -haut  
 
       Lam  
-      Les anges ... Zéro  
+      Les anges ... ZÃ©ro  
 
       Lam Mi7 Lam Do7  
       Je suis blanc de peau.  
@@ -75,8 +75,8 @@ ArmstrongArmstrong
          Fa#m  Sim     Fa#m  Sim     Do#7 
 
 
-      En boucle sauf sur la montée de ton au milieu de la chanson. 
-      Si des problèmes de compréhension vous pouvez mz contacter. 
+      En boucle sauf sur la montÃ©e de ton au milieu de la chanson. 
+      Si des problÃ¨mes de comprÃ©hension vous pouvez mz contacter. 
 
 
 

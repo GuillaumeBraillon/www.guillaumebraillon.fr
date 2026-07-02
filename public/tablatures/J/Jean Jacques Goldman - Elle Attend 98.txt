@@ -2,7 +2,7 @@ Elle attend
 (Jean-Jacques Goldman) 
 
 
-A jouer entièrement au médiator. Capo en 2ème case pour tonalité originale. 
+A jouer entiÃ¨rement au mÃ©diator. Capo en 2Ã¨me case pour tonalitÃ© originale. 
 
 Intro : 
 
@@ -15,7 +15,7 @@ D--------0-----2---------------------0-----2------------------
 A------------------------------------------------------------- 
 E------------------------------------------------------------- 
    d m d d m d d m d m d m d m d m d d m d d m d m d m d m 
-(d = coup de médiator descendant ; m = coup de médiator montant) 
+(d = coup de mÃ©diator descendant ; m = coup de mÃ©diator montant) 
   
 
 Couplet : 
@@ -42,7 +42,7 @@ D---------------------0-------------2----------------------
 A---------------------------------------------------------- 
 E---------------------------------------------------------- 
          d m d m      d m d m       d m d m d m   d     m 
-Elle attend que ce monde-     étrange-   se perde et 
+Elle attend que ce monde-     Ã©trange-   se perde et 
   
 
   C       D2         C 
@@ -64,7 +64,7 @@ Elle attend que le monde change
         C         D           Em 
 Elle attend que changent les temps 
         C       D           Em 
-Elle attend que ce monde étrange 
+Elle attend que ce monde Ã©trange 
     C            D            C 
 Se perde et que tournent les vents 
                  D      Em 
@@ -74,13 +74,13 @@ Inexorablement, elle attend.
 Elle attend que l'horizon bouge 
 Elle attend que changent les gens 
 Elle attend comme un coup de foudre 
-Le règne des anges innocents 
+Le rÃ¨gne des anges innocents 
 Inexorablement, elle attend. 
   
 
 Elle attend que la grande roue tourne 
 Tournent les aiguilles du temps 
-Elle attend sans se résoudre 
+Elle attend sans se rÃ©soudre 
 En frottant ses couverts en argent 
 Inexorablement, elle attend. 
   
@@ -90,9 +90,9 @@ Et elle regarde des images
 
 Et lit des histoires d'avant 
           Em 
-D'honneur et de grands équipages 
+D'honneur et de grands Ã©quipages 
     C                          D 
-Oú les bons sont habillés de blanc 
+OÃº les bons sont habillÃ©s de blanc 
   
 
 Et elle s'invente des voyages 
@@ -104,7 +104,7 @@ Aussi grands que celui qu'elle attend.
 
 Elle attend que le monde change 
 Elle attend que changent les gens 
-Elle attend que ce monde étrange 
+Elle attend que ce monde Ã©trange 
 Se perde et que tournent les vents 
 Inexorablement, elle attend.
 

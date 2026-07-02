@@ -5,8 +5,8 @@ Sache que je
 --------------------------------------------------------------------------------
 
 
-Ce message est tiré de la liste de discussion Là-Bas.
-L'auteur de cette retranscription est Grégoire Revel.
+Ce message est tirÃ© de la liste de discussion LÃ -Bas.
+L'auteur de cette retranscription est GrÃ©goire Revel.
 
 
 Ce qui lisent mes messages le savent
@@ -18,7 +18,7 @@ de vous l'envoyer. A titre d'exemple voici le solo final de la chanson 'Sache qu
 
 SACHE QUE JE (Jean-Jacques Goldman)
 
-# : Effet de volume sur la note suivante grace à une pédale
+# : Effet de volume sur la note suivante grace Ã  une pÃ©dale
 de volume ou le potard de la guitare.
 | : Utilisaton du vibrato de la guitare pour produire le
 son de la note entre parentheses.
@@ -88,7 +88,7 @@ AH                                                            AH
 
 4:36            4:40          4:43
 4:46
-début du fade-out  AH
+dÃ©but du fade-out  AH
 |---------------------------{14}b15b14b15b14b15b14b15b14b15b14b15b14b15b14--12~~~
 |--------------------------------------------------------------------------------
 |--14-14s16~~~~------------------------------------------------------------------

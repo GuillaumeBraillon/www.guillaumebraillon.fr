@@ -12,18 +12,18 @@ E    : [0 2 2 1 0 0]
 F#m  : [2 4 4 2 2 2]
 Dsus2: [0 0 0 2 3 0]
 
-Titre qui peut se jouer à deux comme vous avez certainement pu l'entendre. Un qui
- joue l'arpège et, à partir du deuxième couplet, un autre joue les accords en
- "complément". Aprés il peut y avoir un mix tout le long du morceau... Mais vous
- verrez que dans cette tablature vous ne pourrez pas tout jouer en même temps,
- c'est impossible tout seul. Par exemple, il y a des arpèges qui se jouent en même
+Titre qui peut se jouer Ã  deux comme vous avez certainement pu l'entendre. Un qui
+ joue l'arpÃ¨ge et, Ã  partir du deuxiÃ¨me couplet, un autre joue les accords en
+ "complÃ©ment". AprÃ©s il peut y avoir un mix tout le long du morceau... Mais vous
+ verrez que dans cette tablature vous ne pourrez pas tout jouer en mÃªme temps,
+ c'est impossible tout seul. Par exemple, il y a des arpÃ¨ges qui se jouent en mÃªme
  temps que les accords...
- Aussi, je vous conseille d'avoir le vrai morceau à vos côtés parce qu'il va
+ Aussi, je vous conseille d'avoir le vrai morceau Ã  vos cÃ´tÃ©s parce qu'il va
  certainement y avoir ceratins passages que vous ne comprendrez pas. Pour ceux qui
  n'ont pas le morceau, les accords principaux sont donc A E F#m et Dsus2 (Il y en
- aura peut-être qui préfèreront D au lieu de Dsus2 mais moi je trouve que ça sonne
- mieux avec Dsus2. En plus dans l'arpège c'est le Dsus2 qui est joué...). Aprés,
- pour le rythme de l'arpège, c'est à vous de voir...
+ aura peut-Ãªtre qui prÃ©fÃ¨reront D au lieu de Dsus2 mais moi je trouve que Ã§a sonne
+ mieux avec Dsus2. En plus dans l'arpÃ¨ge c'est le Dsus2 qui est jouÃ©...). AprÃ©s,
+ pour le rythme de l'arpÃ¨ge, c'est Ã  vous de voir...
 
 
 Tab 1 (Capo 1)                 
@@ -56,23 +56,23 @@ E||--0-----------------|--2------------------|----------------------||   ||
                                                                         //
 
 *****
-L'arpège A est joué au début de la chanson. Il est repris plusieurs fois dans le
+L'arpÃ¨ge A est jouÃ© au dÃ©but de la chanson. Il est repris plusieurs fois dans le
 morceau.
 *****
 
 On me dit que nos vies ne valent pas grand-chose,       |
                                                         |
-Qu'elles passent en un instant comme fânent les roses,  |
-                                                        | Arpège A
+Qu'elles passent en un instant comme fÃ¢nent les roses,  |
+                                                        | ArpÃ¨ge A
 On me dit que le temps qui glisse est un salaud,        |
                                                         |
 Et que de nos chagrins il s'en fait des manteaux.       |
                                                           Je ne suis pas
-                                                           trés sûr que
-                        A   E      F#m      Dsus2           l'arpège A soit
-Pourtant quelqu'un m'a dit que tu m'aimais encore,           vraiment joué ici
+                                                           trÃ©s sÃ»r que
+                        A   E      F#m      Dsus2           l'arpÃ¨ge A soit
+Pourtant quelqu'un m'a dit que tu m'aimais encore,           vraiment jouÃ© ici
                          A   E      F#m      Dsus2            il y est tellement
-C'est quelqu'un qui m'a dit que tu m'aimais encore,           | atténué...
+C'est quelqu'un qui m'a dit que tu m'aimais encore,           | attÃ©nuÃ©...
                      A   E   F#m   Dsus2   A   E   F#m  Dsus2 | 
 Serait-ce possible alors ?
 
@@ -91,7 +91,7 @@ On dit que le destin se moque bien de nous,
                      F#m                         Dsus2
 Qu'il ne nous donne rien, et qu'il nous promet tout,
                  A                     E
-Paraît que le bonheur est à portée de main,
+ParaÃ®t que le bonheur est Ã  portÃ©e de main,
                  F#m                     Dsus2
 Alors on tend la main et on se retrouve fou.
 
@@ -107,7 +107,7 @@ Serait-ce possible alors ?
 
 Tab (Capo 1)
 
-~ trémolo
+~ trÃ©molo
 E||------------------------||
 B||--10~---9~---7~---5~----||___________________________
 G||------------------------||                           
@@ -118,7 +118,7 @@ E||------------------------||                           | ces 4 petites notes
                          A                     E        |
 Mais qui est-ce qui m'a dit que toujours tu m'aimais? | |
                    F#m                       Dsus2    |_/
-Je ne me souviens plus, c'était tard dans la nuit,    |
+Je ne me souviens plus, c'Ã©tait tard dans la nuit,    |
                      A                               E   
 J'entends encore la voix, mais je ne vois plus les traits,
                    F#m                                      Dsus2 
@@ -127,7 +127,7 @@ J'entends encore la voix, mais je ne vois plus les traits,
 
 Tab (Capo 1)
 
-~ trémolo                   2x
+~ trÃ©molo                   2x
 E||-------------------------||
 B||---10~---9~---7~---5~----||
 G||*-----------------------*||_______________________ 
@@ -158,7 +158,7 @@ E||----------------------|----------------------|-------------------------|
                     
 ------------------||
 --15----17--------||
-------------------|| Aprés cet arpège il y a un petit passage vraiment sympathique
+------------------|| AprÃ©s cet arpÃ¨ge il y a un petit passage vraiment sympathique
 ------------------||   mais que je suis incapable de le trouver vu mon niveau... 
 ------------------||   Si vous trouvez et bien merci et bravo!
 ------------------||
@@ -167,7 +167,7 @@ E||----------------------|----------------------|-------------------------|
                     A                        E
 On me dit que nos vies ne valent pas grand chose,
                          F#m                    Dsus2
-Qu'elles passent en un instant comme fânent les roses,
+Qu'elles passent en un instant comme fÃ¢nent les roses,
                    A                       E
 On me dit que le temps qui glisse est un salaud,
                  F#m                        Dsus2
@@ -203,13 +203,13 @@ A||---0--------||
 E||--0---------||
 
 
-En plus d'être belle, Carla Bruni fait de belles chansons. Je vous conseille son
+En plus d'Ãªtre belle, Carla Bruni fait de belles chansons. Je vous conseille son
 album: c'est pur...
 
 -------
-Flavien le Rouennais est trés heureux de vous fournir cette tablature trouvée à l'oreille.
+Flavien le Rouennais est trÃ©s heureux de vous fournir cette tablature trouvÃ©e Ã  l'oreille.
 @@@+++
 -------
 
 
-      > Retour  Destiné à un usage strictement personnel !> Retour  
+      > Retour  DestinÃ© Ã  un usage strictement personnel !> Retour  

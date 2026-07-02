@@ -30,7 +30,7 @@ Couplet 1,2,3 :
 |--3---------3---------------------0--------------------------------| 
        Cette lettre.... 
        Nous vivions du... 
-       L'âge est un dernier... 
+       L'Ã¢ge est un dernier... 
 
 
    G               C               Em              D4      D 
@@ -90,7 +90,7 @@ Couplet 1,2,3 :
 |-------------------------------------------------------------------| 
          Tombe mon soir.... 
          Je voudrais vous revoir... 
-         Ce doux miroir où... 
+         Ce doux miroir oÃ¹... 
 
 
 
@@ -103,7 +103,7 @@ Pont :
 |----2-------2---2-----2-4^5---------0-------0---0---0-------0-4----| 
 |--0-----------------2-----------------------------5----------------| 
 |------------------0-----------0-2-3--------------------------------| 
-       Sûr il y aurait... 
+       SÃ»r il y aurait... 
 
 
    Am              Em              C               G/B 
@@ -123,7 +123,7 @@ Pont :
 |----2-------2---2---0-------0---0---2-------2---2---0-------0---0--| 
 |--3---------------2---------------3---------------2----------------| 
 |-------------------------------------------------------------------| 
-   Même si c'est dérisoire...                          Avons-nous bien 
+   MÃªme si c'est dÃ©risoire...                          Avons-nous bien 
 
    Em              D               C               G/B 
 |-------------------------------------------------------------------| 
@@ -132,7 +132,7 @@ Pont :
 |------2-4^5---4-5---0-------0-4-----2-------2---2---0-------0---0--| 
 |----2-------------5---------------3---------------2----------------| 
 |--0----------------------------------------------------------------| 
-   vécu         la même histoire 
+   vÃ©cu         la mÃªme histoire 
 
    D 
 |-------------------| 
@@ -169,19 +169,19 @@ G - C - Em - D4 D
 G                   C 
   Cette lettre peut vous surprendre 
           Em             D4  D 
-Mais sait-on ? peut-être pas 
+Mais sait-on ? peut-Ãªtre pas 
 G                      C 
-  Quelques braises échappées des cendres 
+  Quelques braises Ã©chappÃ©es des cendres 
       Em           D4   D 
-D'un amour si loin déjà 
+D'un amour si loin dÃ©jÃ  
 
 
 C         Em 
   Vous en souvenez-vous? 
 C       Em 
-  Nous étions fous de nous 
+  Nous Ã©tions fous de nous 
 C        G               D              Em 
-  Nos raisons renoncent, mais pas nos mémoires 
+  Nos raisons renoncent, mais pas nos mÃ©moires 
 C         Em 
   Tendres adolescences, 
 C           Em 
@@ -197,7 +197,7 @@ Arrogants comme sont les amants
 G                       C 
   Nous avions l'orgueil ordinaire 
     Em                   D4  D 
-Du "nous deux c'est différent" 
+Du "nous deux c'est diffÃ©rent" 
 
 
 C           Em 
@@ -215,21 +215,21 @@ C             G           D
 
 
 Am                Em                    G           D 
-  Sûr il y aurait des fantômes et des décors à réveiller 
+  SÃ»r il y aurait des fantÃ´mes et des dÃ©cors Ã  rÃ©veiller 
 Am                   Em 
   Qui sont vos rois, vos royaumes ? 
      C          G 
 Mais je ne veux que savoir 
 C             G/B        C 
-Même si c'est dérisoire, juste savoir 
+MÃªme si c'est dÃ©risoire, juste savoir 
 G/B                  Em      D 
-     Avons-nous bien vécu la même histoire ? 
+     Avons-nous bien vÃ©cu la mÃªme histoire ? 
 
 C - G - D 
 
 
 G                      C 
-  L'âge est un dernier long voyage 
+  L'Ã¢ge est un dernier long voyage 
            Em                D4  D 
 Un quai de gare et l'on s'en va 
 G                       C 
@@ -243,13 +243,13 @@ C            Em
 C        Em 
   De ces perles de vie 
 C           G                 D             Em 
-  Il est certaines blessures, au goût de victoire 
+  Il est certaines blessures, au goÃ»t de victoire 
 C        Em 
   Et vos gestes, y reboire 
 C        Em 
   Tes parfums, ton regard 
 C           G          D 
-  Ce doux miroir où je voudrais nous revoir 
+  Ce doux miroir oÃ¹ je voudrais nous revoir 
 
 
 Final : 

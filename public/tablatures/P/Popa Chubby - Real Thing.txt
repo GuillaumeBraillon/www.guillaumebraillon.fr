@@ -20,7 +20,7 @@ Verse
 
 | E | D A | E | D A | E | D A | E | D A | E | % | % | % | A |
 &
-| % | E | % | B | C D D# | E | E D A:||ripete dal segno £
+| % | E | % | B | C D D# | E | E D A:||ripete dal segno Â£
 
 
 solo I
@@ -30,7 +30,7 @@ solo I
 chorus solo II
 | A | % | E | % | A | % | E | % | B | C D D# | E |
 
-ripete da £ a & poi fine :|E7/9+| ad libitum.
+ripete da Â£ a & poi fine :|E7/9+| ad libitum.
 =============================================================
 
 Intro

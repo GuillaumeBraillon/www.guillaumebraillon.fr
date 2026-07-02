@@ -2,20 +2,20 @@ La vie c'est mieux quand on est amoureux (Jean-Jacques Goldman)
 
 
 
-JJG utilise un guitare désaccordée d'un demi ton 
+JJG utilise un guitare dÃ©saccordÃ©e d'un demi ton 
 pour jouer cette chanson sur le disque. 
 
 Pour pouvoir suivre JJG en jouant sur le disque, vous avez 
-donc deux possibilités : 
-1. soit désacorder votre guitare d'un demi ton (Eb Ab C# F# Bb Eb) 
-   et suivre la première partition 
-2. soit jouer en suivant la deuxième partition... 
+donc deux possibilitÃ©s : 
+1. soit dÃ©sacorder votre guitare d'un demi ton (Eb Ab C# F# Bb Eb) 
+   et suivre la premiÃ¨re partition 
+2. soit jouer en suivant la deuxiÃ¨me partition... 
 
-Pour plus de facilité vous pouvez évidemment aussi jouer la première 
+Pour plus de facilitÃ© vous pouvez Ã©videmment aussi jouer la premiÃ¨re 
 version avec l'accordage classique. 
 Ce sera simplement un demi ton au dessus du disque... 
 
---- Première version : Tonalité du disque avec accordage de la guitare en Eb Ab C# F# Bb Eb --- 
+--- PremiÃ¨re version : TonalitÃ© du disque avec accordage de la guitare en Eb Ab C# F# Bb Eb --- 
 
 Am - G - F - C 
 F - C - G - Am 
@@ -76,7 +76,7 @@ Bb - F - C - Dm
 Bb - F - C - Dm 
 
 
---- Deuxième version : tonalité du disque avec accordage classique --- 
+--- DeuxiÃ¨me version : tonalitÃ© du disque avec accordage classique --- 
 
 G#m - F# - E - B 
 E - B - F# - G#m 

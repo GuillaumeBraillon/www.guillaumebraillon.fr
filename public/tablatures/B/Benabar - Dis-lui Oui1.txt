@@ -1,8 +1,8 @@
-Bénabar - Dis-lui ouiImportant : Veuillez noter que la tablature ci 
-      dessous représente le fruit du travail de son auteur et ne peut en aucun 
+BÃ©nabar - Dis-lui ouiImportant : Veuillez noter que la tablature ci 
+      dessous reprÃ©sente le fruit du travail de son auteur et ne peut en aucun 
       cas faire l'objet d'une quelconque utilisation commerciale. 
 
-Dis-lui oui interprété par Bénabar
+Dis-lui oui interprÃ©tÃ© par BÃ©nabar
 
 ---------------------
 BENABAR - DIS-LUI OUI
@@ -12,11 +12,11 @@ Transcription : sorgbleer (sorgbleer@ifrance.com)
 
 Notes :
  - Jouer ternaire.
- - La grille des couplets et des refrains sont les mêmes.
+ - La grille des couplets et des refrains sont les mÃªmes.
 
-Positions utilisées :
+Positions utilisÃ©es :
 
-   F  Eb° Gm7  C7  Dm  Am  C7*
+   F  EbÂ° Gm7  C7  Dm  Am  C7*
 
 E -X- -2- -X- -X- -X- -X- -X-
 B -1- -1- -3- -1- -6- -5- -5-
@@ -26,7 +26,7 @@ A -3- -X- -X- -3- -5- -7- -3-
 E -1- -X- -3- -X- -X- -5- -X-
 
 [intro]
-             F           Eb°            Gm7         C7 (C9)
+             F           EbÂ°            Gm7         C7 (C9)
 E---------|-----------------2--------|--------------------------|
 B---------|--------1--------1--------|--------3--------3--------|
 G---------|--------2--------2--------|--------3--------3--------|
@@ -34,7 +34,7 @@ D---X-----|--------3--0--1--------X--|--------3--------2--------|
 A---------|--------------------------|-----------0--3-----------|
 E------0--|--1-----------------------|--3-----------------3-----|
 
-   F           Eb°            Gm7         C7  (C9)
+   F           EbÂ°            Gm7         C7  (C9)
 E-----------------2--------|--------------------------|
 B--------1--------1--------|--------3--------3--------|
 G--------2--------2--------|--------3--------3--------|
@@ -44,20 +44,20 @@ E--1-----------------------|--3-----------------3-----|
 
 
 [couplet] (accords)
-F              Eb°              Gm7      C7
-Je sais bien Muriel que ça n'me regarde pas
-   F            Eb°           Gm7        C7
+F              EbÂ°              Gm7      C7
+Je sais bien Muriel que Ã§a n'me regarde pas
+   F            EbÂ°           Gm7        C7
 Tu l'as foutu dehors et je respecte ton choix
      Dm                           Am
 Mais il voudrait revenir d'accord j'insiste pas
       Dm                               C7*
-C'est mon ami quand même non c'est pas lui qui m'envoie
+C'est mon ami quand mÃªme non c'est pas lui qui m'envoie
 
 [couplet] (accords)
-Ça me fait de la peine vous alliez si bien ensemble
-Six ans de vie commune mais je veux pas le défendre
-Avec tout c'que vous avez vécu avoue qu'c'est dommage
-Et j'te dis pas combien il souffre ça serait du chantage
+Ã‡a me fait de la peine vous alliez si bien ensemble
+Six ans de vie commune mais je veux pas le dÃ©fendre
+Avec tout c'que vous avez vÃ©cu avoue qu'c'est dommage
+Et j'te dis pas combien il souffre Ã§a serait du chantage
 
 [pont]
 
@@ -73,17 +73,17 @@ E------|----------------|-------------------|---------------------------------|
 [refrain] (accords)
 Dis-lui oui oh oh oh oh oh oh
 Dis-lui oui
-Depuis que tu l'as quitté il habite chez moi
+Depuis que tu l'as quittÃ© il habite chez moi
 Je peux plus le supporter Muriel aide-moi
 
 [couplet] (riff)
 Il veut toujours qu'on parle et qu'on parle que de lui
-La discussion consiste à l'écouter à dire oui
-Le seul moment tranquille c'est quand il t'écrit
-Mais les poèmes de cinq pages après il me les lit
+La discussion consiste Ã  l'Ã©couter Ã  dire oui
+Le seul moment tranquille c'est quand il t'Ã©crit
+Mais les poÃ¨mes de cinq pages aprÃ¨s il me les lit
 
 [1/2 intro] (+ accords)
-         F           Eb°            Gm7         C9
+         F           EbÂ°            Gm7         C9
 E-----|-----------------2--------|--------------------------|
 B-----|--------1--------1--------|--------3--------3--------|
 G-----|--------2--------2--------|--------3--------3--------|
@@ -92,25 +92,25 @@ A-----|--------------------------|-----------0--3-----------|
 E--0--|--1-----------------------|--3-----------------3-----|
 
 [couplet] (riff + accords)
-Il me raconte votre vie dans les moindres détails
-Ce qui se passe dans votre lit depuis vos fiançailles
-Je suis un gentleman j'répèterai pas c'est intime
-Rassure-toi Muriel espèce de p'tite coquine 
+Il me raconte votre vie dans les moindres dÃ©tails
+Ce qui se passe dans votre lit depuis vos fianÃ§ailles
+Je suis un gentleman j'rÃ©pÃ¨terai pas c'est intime
+Rassure-toi Muriel espÃ¨ce de p'tite coquine 
 
 [refrain] (riff + accords)
 Dis-lui oui
 Dis-lui oui
-Depuis que tu l'as quitté il habite chez moi
+Depuis que tu l'as quittÃ© il habite chez moi
 Je peux plus le supporter Muriel aide-moi
 
 [couplet] (accords)
-Il va et vient la nuit à n'importe quelle heure
+Il va et vient la nuit Ã  n'importe quelle heure
 Il fouille dans ma chambre pendant qu'je dors
-J'ai frolé la crise cardiaque j'en ai encore mal dans l'bras
-Il a fait semblant d'être somnambule pour que j'l'engueule pas
+J'ai frolÃ© la crise cardiaque j'en ai encore mal dans l'bras
+Il a fait semblant d'Ãªtre somnambule pour que j'l'engueule pas
 
 [1/2 intro] (+ accords)
-         F           Eb°            Gm7         C9
+         F           EbÂ°            Gm7         C9
 E-----|-----------------2--------|--------------------------|
 B-----|--------1--------1--------|--------3--------3--------|
 G-----|--------2--------2--------|--------3--------3--------|
@@ -120,14 +120,14 @@ E--0--|--1-----------------------|--3-----------------3-----|
 
 [couplet] (riff + accords)
 Tu sais c'est un mec bien mais j'veux pas t'influencer
-Il gagne pas mal sa vie à deux c'est mieux pour le loyer
+Il gagne pas mal sa vie Ã  deux c'est mieux pour le loyer
 Voyons les choses en face t'es pas non plus terrible
-Regarde-toi dans une glace Muriel faut être lucide
+Regarde-toi dans une glace Muriel faut Ãªtre lucide
 
 [refrain] (riff + accords)
 Dis-lui oui oh oh oh oh oh oh
 Dis-lui oui
-Depuis que tu l'as quitté il habite chez moi
+Depuis que tu l'as quittÃ© il habite chez moi
 Je peux plus le supporter Muriel aide-moi
 
 [refrain] (riff + accords)
@@ -137,13 +137,13 @@ Dis-lui oui
 (...)
 
 [couplet] (riff)
-Bon il a des torts il t'a trompé c'est vrai
-Avec ta mère d'accord mais ramène pas tout à toé 
+Bon il a des torts il t'a trompÃ© c'est vrai
+Avec ta mÃ¨re d'accord mais ramÃ¨ne pas tout Ã  toÃ© 
 Muriel mon enfant je t'aide parce que je t'aime bien
 Mais on s'en sortira pas si t'y mets pas du tien
 
 [1/2 intro]
-         F           Eb°            Gm7         C9
+         F           EbÂ°            Gm7         C9
 E-----|-----------------2--------|--------------------------|
 B-----|--------1--------1--------|--------3--------3--------|
 G-----|--------2--------2--------|--------3--------3--------|
@@ -154,7 +154,7 @@ E--0--|--1-----------------------|--3-----------------3-----|
 [refrain] (riff + accords)
 Dis-lui oui oh oh oh oh oh oh
 Dis-lui oui
-Depuis que tu l'as quitté il habite chez moi
+Depuis que tu l'as quittÃ© il habite chez moi
 Je peux plus le supporter Muriel aide-moi
 
 [refrain] (riff + accords)
