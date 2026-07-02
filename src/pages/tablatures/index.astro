@@ -134,66 +134,87 @@ for (const t of tablatures) {
     aria-labelledby="tab-modal-title"
   >
     <div
-      class="flex max-h-[90vh] w-full max-w-3xl flex-col rounded-md border border-[#d0d7de] bg-white shadow-xl"
+      class="flex max-h-[90vh] w-full max-w-3xl min-w-0 flex-col rounded-md border border-[#d0d7de] bg-white shadow-xl overflow-hidden
+         landscape:max-h-full landscape:h-full landscape:w-full landscape:max-w-none landscape:rounded-none landscape:border-none"
     >
       <!-- Header -->
-      <div class="flex items-center justify-between gap-2 border-b border-[#d0d7de] px-4 py-3">
-        <h2 id="tab-modal-title" class="truncate text-sm font-semibold text-gray-800"></h2>
+      <div
+        class="flex items-center justify-between gap-2 border-b border-[#d0d7de] px-4 py-3 w-full shrink-0 bg-[#f6f8fa]
+            landscape:py-1.5 landscape:px-3"
+      >
+        <h2
+          id="tab-modal-title"
+          class="truncate text-sm font-semibold text-gray-800 flex-1 min-w-0 landscape:text-xs"
+        >
+        </h2>
 
-        <div class="flex items-center gap-1 text-xs">
+        <div class="flex items-center gap-1 text-xs shrink-0">
           <button
             id="tab-zoom-out"
             type="button"
-            class="px-2 py-1 border rounded hover:bg-gray-100"
-            aria-label="Réduire le texte"
+            class="px-2 py-1 border rounded bg-white hover:bg-gray-100"
+            aria-label="Réduire le texte">A-</button
           >
-            A-
-          </button>
           <button
             id="tab-zoom-in"
             type="button"
-            class="px-2 py-1 border rounded hover:bg-gray-100"
-            aria-label="Agrandir le texte"
+            class="px-2 py-1 border rounded bg-white hover:bg-gray-100"
+            aria-label="Agrandir le texte">A+</button
           >
-            A+
-          </button>
           <a
             id="tab-open-new-tab"
             href="#"
             target="_blank"
-            class="px-2 py-1 border rounded hover:bg-gray-100"
+            class="px-2 py-1 border rounded bg-white hover:bg-gray-100">Ouvrir ↗</a
           >
-            Ouvrir ↗
-          </a>
-
           <button
             id="tab-share"
             type="button"
             class="px-2 py-1 border rounded bg-gray-50 hover:bg-gray-100 font-medium text-[#0969da] flex items-center gap-1"
-            aria-label="Partager la tablature"
+            aria-label="Partager la tablature">Partager</button
           >
-            Partager
-          </button>
-
           <button
             id="tab-modal-close"
             type="button"
-            class="px-2 py-1 border rounded hover:bg-gray-100"
-            aria-label="Fermer"
+            class="px-2 py-1 border rounded bg-white hover:bg-gray-100"
+            aria-label="Fermer">✕</button
           >
-            ✕
-          </button>
         </div>
       </div>
 
+      <div
+        class="flex items-center gap-3 border-b border-blue-200 bg-blue-50 p-3 text-blue-700 text-xs shrink-0 landscape:hidden"
+      >
+        <svg
+          class="w-5 h-5 shrink-0 text-blue-600"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          aria-hidden="true"
+        >
+          <rect x="7" y="5" width="10" height="14" rx="1.5" transform="rotate(30 12 12)"></rect>
+          <path d="M19 9A7 7 0 0 0 9.5 3.5"></path>
+          <polyline points="15 3 19 3 19 7"></polyline>
+          <path d="M5 15a7 7 0 0 0 9.5 5.5"></path>
+          <polyline points="9 21 5 21 5 17"></polyline>
+        </svg>
+        <span class="leading-normal font-medium">
+          Pour une lecture optimale sans décalages,
+          <strong>tournez votre appareil en mode paysage</strong>.
+        </span>
+      </div>
+
       <!-- Body -->
-      <div id="tab-modal-body" class="overflow-y-auto p-4">
+      <div id="tab-modal-body" class="overflow-y-auto p-4 w-full flex-1 min-w-0 landscape:p-2">
         <p id="tab-loading" class="text-sm text-gray-500">Chargement...</p>
 
         <pre
           id="tab-text-content"
-          class="hidden w-full whitespace-pre font-mono leading-relaxed text-gray-900"
-          style="font-size: 14px;">
+          class="hidden w-full max-w-full overflow-x-auto whitespace-pre font-mono leading-relaxed text-gray-900 bg-gray-50 p-3 rounded-md border border-[#d0d7de]"
+          style="font-size: 18px; -webkit-overflow-scrolling: touch;">
         </pre>
 
         <img id="tab-image-content" class="hidden mx-auto max-w-full" alt="" />
@@ -207,6 +228,7 @@ for (const t of tablatures) {
     </div>
   </div>
 </Layout>
+
 <script>
   const search = document.getElementById("search") as HTMLInputElement | null;
   const items = Array.from(document.querySelectorAll(".tab-item")) as HTMLElement[];
@@ -264,8 +286,6 @@ for (const t of tablatures) {
   function applyFilter(rawValue: string) {
     const v = rawValue.toLowerCase().trim();
     const matches: HTMLElement[] = [];
-    // Une seule compilation de regex par frappe, réutilisée pour tous les items
-    // (au lieu d'une compilation par item matché).
     const highlightRegex = v ? new RegExp(`(${escapeRegExp(rawValue)})`, "gi") : null;
 
     for (const { item, anchor, name, original } of itemCache) {
@@ -282,18 +302,12 @@ for (const t of tablatures) {
       if (mode === "hide") {
         item.style.display = match ? "" : "none";
         item.style.opacity = "1";
-
-        // Inutile de reconstruire le innerHTML (regex + parsing HTML) d'un
-        // élément masqué : ça ne s'affiche pas, donc on ne le touche pas.
         if (!match) continue;
         if (anchor) anchor.innerHTML = highlight(original, highlightRegex);
       } else {
         item.style.display = "";
         item.style.opacity = match ? "1" : "0.25";
-
         if (anchor) {
-          // Pas de surlignage à calculer sur un non-match : on remet le texte
-          // brut (plus rapide que innerHTML + regex pour rien).
           if (match) anchor.innerHTML = highlight(original, highlightRegex);
           else anchor.textContent = original;
         }
@@ -330,7 +344,6 @@ for (const t of tablatures) {
 
   function updateActionButtons(value: string) {
     if (clearBtn) clearBtn.style.display = value ? "block" : "none";
-
     if (mode === "hide") {
       hideCounter?.classList.toggle("hidden", !value);
       counter?.parentElement?.classList.add("hidden");
@@ -348,7 +361,6 @@ for (const t of tablatures) {
   function scrollToMatch(index: number) {
     const el = currentMatches[index];
     if (!el) return;
-
     currentIndex = index;
     updateCounter(search?.value.toLowerCase().trim() ?? "");
 
@@ -360,13 +372,11 @@ for (const t of tablatures) {
 
   function updateModeUI() {
     if (!modeHideBtn || !modeHighlightBtn) return;
-
     const base = "px-2 py-1 border rounded";
     const active = "bg-gray-900 text-white ring-2 ring-offset-2 ring-black";
 
     modeHideBtn.className = mode === "hide" ? `${base} ${active}` : base;
     modeHighlightBtn.className = mode === "highlight" ? `${base} ${active}` : base;
-
     modeHideBtn.setAttribute("aria-pressed", String(mode === "hide"));
     modeHighlightBtn.setAttribute("aria-pressed", String(mode === "highlight"));
   }
@@ -375,7 +385,6 @@ for (const t of tablatures) {
     mode = newMode;
     updateModeUI();
     applyFilter(search?.value ?? "");
-
     if (mode === "highlight" && currentMatches.length) {
       currentIndex = 0;
       requestAnimationFrame(() => scrollToMatch(0));
@@ -452,52 +461,39 @@ for (const t of tablatures) {
   });
 
   // --- Tab viewer modal ---
-
   const modal = document.getElementById("tab-modal") as HTMLElement | null;
   const modalTitle = document.getElementById("tab-modal-title") as HTMLElement | null;
   const modalClose = document.getElementById("tab-modal-close") as HTMLButtonElement | null;
   const modalOpenNewTab = document.getElementById("tab-open-new-tab") as HTMLAnchorElement | null;
   const loadingEl = document.getElementById("tab-loading") as HTMLElement | null;
-  const containerEl = document.getElementById("tab-text-content") as HTMLElement | null;
   const imageContentEl = document.getElementById("tab-image-content") as HTMLImageElement | null;
   const fallbackEl = document.getElementById("tab-fallback") as HTMLElement | null;
   const zoomInBtn = document.getElementById("tab-zoom-in") as HTMLButtonElement | null;
   const zoomOutBtn = document.getElementById("tab-zoom-out") as HTMLButtonElement | null;
   const shareBtn = document.getElementById("tab-share") as HTMLButtonElement | null;
 
-  // Extensions qu'on tente d'afficher comme du texte brut.
   const TEXT_EXTENSIONS = new Set(["txt", "md"]);
   const IMAGE_EXTENSIONS = new Set(["jpg", "jpeg", "png", "gif", "webp"]);
   const PDF_EXTENSIONS = new Set(["pdf"]);
-
   const MIN_FONT_SIZE = 10;
   const MAX_FONT_SIZE = 28;
-  let textFontSize = 14;
+  let textFontSize = 18;
   let currentTabPath = "";
 
   function resetModalContent() {
     loadingEl?.classList.remove("hidden");
-
     if (textEl) {
       textEl.classList.add("hidden");
       textEl.textContent = "";
     }
-
-    if (containerEl) {
-      containerEl.innerHTML = "";
-      containerEl.className = "hidden w-full";
-    }
-
     if (imageContentEl) {
       imageContentEl.src = "";
       imageContentEl.classList.add("hidden");
     }
-
     if (pdfContainerEl) {
       pdfContainerEl.innerHTML = "";
       pdfContainerEl.classList.add("hidden");
     }
-
     fallbackEl?.classList.add("hidden");
   }
 
@@ -509,12 +505,10 @@ for (const t of tablatures) {
 
   async function openTabModal(name: string, path: string, extension: string) {
     if (!modal) return;
-
     // On mémorise le path de la tablature en cours
     currentTabPath = path;
 
     resetModalContent();
-
     if (modalTitle) modalTitle.textContent = name;
     if (modalOpenNewTab) modalOpenNewTab.href = path;
 
@@ -522,54 +516,47 @@ for (const t of tablatures) {
     modal.classList.add("flex");
     document.body.style.overflow = "hidden";
 
-    let handled = false;
+    let handled = true;
 
     // IMAGE
-    if (IMAGE_EXTENSIONS.has(extension)) {
+    if (TEXT_EXTENSIONS.has(extension)) {
+      try {
+        const res = await fetch(path);
+        const text = await res.text();
+        if (textEl) {
+          textEl.classList.remove("hidden");
+          textEl.textContent = text;
+          applyTextFontSize();
+        }
+      } catch (err) {
+        handled = false;
+      }
+    } else if (IMAGE_EXTENSIONS.has(extension)) {
       if (imageContentEl) {
         imageContentEl.src = path;
         imageContentEl.classList.remove("hidden");
       }
-      handled = true;
-    }
-
-    // TEXT / MD / TXT
-    if (TEXT_EXTENSIONS.has(extension)) {
-      const res = await fetch(path);
-      const text = await res.text();
-
-      if (textEl) {
-        textEl.classList.remove("hidden");
-        textEl.textContent = text;
-      }
-      handled = true;
-    }
-
-    // PDF
-    if (PDF_EXTENSIONS.has(extension)) {
+    } else if (PDF_EXTENSIONS.has(extension)) {
       if (pdfContainerEl) {
         pdfContainerEl.classList.remove("hidden");
         pdfContainerEl.innerHTML = `
-        <iframe src="${path}?v=${Date.now()}" class="w-full h-[80vh] border-0"></iframe>
-      `;
+          <iframe src="${path}?v=${Date.now()}" class="w-full h-[80vh] border-0"></iframe>
+        `;
       }
-      handled = true;
+    } else {
+      handled = false;
     }
 
     loadingEl?.classList.add("hidden");
 
     // IMPORTANT : fallback uniquement si rien n’a été affiché
-    if (!handled) {
-      showFallback();
-    }
+    if (!handled) showFallback();
   }
 
   function showFallback() {
     loadingEl?.classList.add("hidden");
-
-    if (containerEl) containerEl.classList.add("hidden");
+    if (textEl) textEl.classList.add("hidden");
     imageContentEl?.classList.add("hidden");
-
     fallbackEl?.classList.remove("hidden");
   }
 
@@ -580,8 +567,6 @@ for (const t of tablatures) {
     document.body.style.overflow = "";
   }
 
-  // Délégation d'événement : un seul listener pour tous les liens de tablature,
-  // au lieu d'un listener par item (moins coûteux, fonctionne aussi pour du contenu futur ajouté dynamiquement).
   document.getElementById("tab-library")?.addEventListener("click", (e) => {
     const link = (e.target as HTMLElement).closest("a[data-path]") as HTMLAnchorElement | null;
     if (!link) return;
@@ -620,26 +605,17 @@ for (const t of tablatures) {
   shareBtn?.addEventListener("click", async () => {
     if (!currentTabPath) return;
 
-    // Construction dynamique de l'URL absolue (s'adapte à localhost ou à votre domaine de prod)
     const shareUrl = `${window.location.origin}/tablatures?path=${encodeURIComponent(currentTabPath)}`;
     const title = modalTitle?.textContent ? `Tablature : ${modalTitle.textContent}` : "Tablature";
 
     // 1. Utilisation de l'API de partage native si disponible (Mobile)
     if (navigator.share) {
       try {
-        await navigator.share({
-          title: title,
-          url: shareUrl,
-        });
-      } catch (err) {
-        // L'utilisateur a pu annuler le partage, on ignore l'erreur silencieusement
-      }
+        await navigator.share({ title, url: shareUrl });
+      } catch (err) {}
     } else {
-      // 2. Fallback : Copie dans le presse-papiers (Desktop)
       try {
         await navigator.clipboard.writeText(shareUrl);
-
-        // Changement temporaire du texte du bouton pour feedback visuel
         const originalText = shareBtn.innerHTML;
         shareBtn.innerHTML = "Copié ! ✓";
         shareBtn.classList.replace("text-[#0969da]", "text-green-600");

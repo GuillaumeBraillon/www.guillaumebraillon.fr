@@ -20,15 +20,21 @@ const currentPath = Astro.url.pathname;
     class="bg-[#ffffff] text-[#1f2328] antialiased min-h-screen flex flex-col text-sm font-[-apple-system,BlinkMacSystemFont,'Segoe_UI',Noto_Sans,Helvetica,Arial,sans-serif,'Apple_Color_Emoji','Segoe_UI_Emoji']"
   >
     <header class="w-full bg-[#f6f8fa] border-b border-[#d0d7de]">
-      <div class="max-w-5xl mx-auto px-4 h-12 flex items-center justify-between">
+      <div
+        class="max-w-5xl mx-auto px-4 py-2.5 sm:py-0 sm:h-12 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2.5 sm:gap-4"
+      >
+        <!-- Tagline à gauche -->
         <a
           href="/"
-          class="flex items-center gap-1.5 font-semibold text-[#1f2328] hover:text-[#0969da] transition-colors text-xs tracking-tight"
+          class="flex items-center font-semibold text-[#1f2328] hover:text-[#0969da] transition-colors text-xs tracking-tight py-0.5 sm:py-0"
         >
           <span>{site.tagline}</span>
         </a>
 
-        <nav class="flex items-center gap-0.5">
+        <!-- Menu aligné à gauche, taille naturelle des boutons -->
+        <nav
+          class="flex flex-wrap items-center justify-start sm:justify-end gap-x-0.5 gap-y-1.5 w-full sm:w-auto"
+        >
           {
             navItems.map((item) => {
               const isActive =
@@ -37,7 +43,7 @@ const currentPath = Astro.url.pathname;
               return (
                 <a
                   href={item.href}
-                  class={`px-2 py-1 text-xs font-normal rounded-md transition-colors ${
+                  class={`px-2 py-1.5 text-xs rounded-md transition-colors shrink-0 ${
                     isActive
                       ? "text-[#1f2328] font-semibold ring-1 ring-[#d0d7de] shadow-sm bg-white"
                       : "text-[#636c76] hover:text-[#1f2328] hover:bg-[#eaeef2]"
