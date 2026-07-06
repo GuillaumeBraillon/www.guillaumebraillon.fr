@@ -2,14 +2,11 @@
 interface Props {
   collectionHref: string;
   collectionLabel: string;
-  entryLabel: string;
 }
 
-const { collectionHref, collectionLabel, entryLabel } = Astro.props as Props;
+const { collectionHref, collectionLabel } = Astro.props as Props;
 ---
 
 <div class="flex flex-wrap items-center gap-2 text-sm text-[#636c76] mb-2">
   <a href={collectionHref} class="text-[#0969da] hover:underline">{collectionLabel}</a>
-  <span>/</span>
-  <span class="font-semibold text-[#1f2328]">{entryLabel}</span>
 </div>

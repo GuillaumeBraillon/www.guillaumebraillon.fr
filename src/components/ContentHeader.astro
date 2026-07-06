@@ -9,14 +9,14 @@ interface Props {
   description?: string;
 }
 
-const { href, label, current, title, description } = Astro.props as Props;
+const { href, label, title, description } = Astro.props as Props;
 ---
 
 <header
   class="pb-5 gh-divider-bottom flex flex-col sm:flex-row sm:items-center justify-between gap-4"
 >
   <div>
-    <Breadcrumb collectionHref={href} collectionLabel={label} entryLabel={current} />
+    <Breadcrumb collectionHref={href} collectionLabel={label} />
     <h1 class="text-2xl font-semibold gh-text tracking-tight">{title}</h1>
     {
       description && (
