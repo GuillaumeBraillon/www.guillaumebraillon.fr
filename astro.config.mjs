@@ -3,6 +3,9 @@ import rehypeExternalLinks from "rehype-external-links";
 import { unified } from "@astrojs/markdown-remark";
 
 export default defineConfig({
+  devToolbar: {
+    enabled: false,
+  },
   markdown: {
     processor: unified({
       rehypePlugins: [[rehypeExternalLinks, { target: "_blank", rel: ["noopener", "noreferrer"] }]],
