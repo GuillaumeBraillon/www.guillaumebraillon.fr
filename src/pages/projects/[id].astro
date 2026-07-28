@@ -62,8 +62,9 @@ const rawRepoBaseUrl = project.data.githubUrl.replace("github.com", "raw.githubu
     </div>
   </article>
 
-  <script is:inline type="module">
-    import { marked } from "https://esm.sh/marked@18";
+  <script>
+    import { marked } from "marked";
+    import DOMPurify from "dompurify";
 
     const root = document.querySelector("#project-readme");
     const sourceBadge = document.querySelector("#project-readme-source");
@@ -94,8 +95,9 @@ const rawRepoBaseUrl = project.data.githubUrl.replace("github.com", "raw.githubu
 
             return marked.parse(correctedMarkdown);
           })
-          .then((html) => {
-            root.innerHTML = html;
+          .then((html) => DOMPurify.sanitize(html))
+          .then((safeHtml) => {
+            root.innerHTML = safeHtml;
             if (sourceBadge instanceof HTMLElement) {
               sourceBadge.textContent = "GitHub";
             }

@@ -45,10 +45,11 @@ export const experiences = [
 
 export const educations = [
   {
-    title: "Formation Mastra (IA Agentique)",
-    institution: "LBKE (Organisme de formation spécialisé IA)",
+    title: "AI Software : Développement web full-stack et intégration d’IA",
+    institution: "Le Wagon Lyon",
     year: "2026",
-    details: "IA agentique JavaScript, architectures RAG, orchestrations et workflows de LLM.",
+    details:
+      "Développement full-stack (JavaScript, TypeScript, React, Node.js), intégration d’IA générative, IA-assisted coding, RAG, agents IA et déploiement d’applications modernes.",
   },
   {
     title: "Certifications Progress OpenEdge",
