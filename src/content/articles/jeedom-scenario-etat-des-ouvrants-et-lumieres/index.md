@@ -41,30 +41,30 @@ Exemple : Si la fenêtre de la chambre des parents est ouverte et que les fenêt
 Ouvert : Chambre Parents. Fermés : Chambre de Bob depuis 1 Jours, Chambre de Joe depuis 1 Jours.
 ```
 
--   La première chose à faire c’est d’**identifier les ouvrants**.
+- La première chose à faire c’est d’**identifier les ouvrants**.
 
 Pour cela j’utilise les catégories d’équipements, tous mes ouvrants sont sous la catégorie « **Sécurité**« .![](./Scenario-OuvrantLumieres-1.png)
 
--   Ensuite, il faut chercher dans ces équipements où se trouve l’information **« Ouvert / Fermé »**.
+- Ensuite, il faut chercher dans ces équipements où se trouve l’information **« Ouvert / Fermé »**.
 
 J’utilise des détecteurs d’ouverture Xiaomi qui sont tous créés sous la même forme. Il suffit donc de récupérer le statut des commandes « **Ouverture**« .
 
 ![](./Scenario-OuvrantLumieres-2.png)
 
--   Pour finir, il faut **identifier les ouvrants**, pour sauver le résultat final dans une variable.
+- Pour finir, il faut **identifier les ouvrants**, pour sauver le résultat final dans une variable.
 
 J’utilise juste **l’objet** qui correspond à la **pièce** où se trouve le détecteur, mais si vous en avez plusieurs dans la même pièce, vous pourrez aussi utiliser **l’équipement**.
 
--   Structure des commandes d’ouverture :
-    -   **\[Objet\]** correspond à la pièce. Exemple **\[Salon\]**.
-    -   **\[Equipement\]** sera toujours **\[Détecteur Ouverture\]**.
-    -   **\[Commande\]** sera toujours **\[Ouverture\]** avec un statut à 0 (fermé) ou 1 (ouvert).
+- Structure des commandes d’ouverture :
+  - **\[Objet\]** correspond à la pièce. Exemple **\[Salon\]**.
+  - **\[Equipement\]** sera toujours **\[Détecteur Ouverture\]**.
+  - **\[Commande\]** sera toujours **\[Ouverture\]** avec un statut à 0 (fermé) ou 1 (ouvert).
 
 _Si vous n’utilisez pas des détecteurs d’ouverture Xiaomi il faudra **adapter** vos **libellés** de commandes et/ou le **scénario** à vos détecteurs._
 
 ### Bloc Code
 
-Le bloc code est **commenté** pour expliquer chaque commande. Je ne vais volontairement **pas** plus dans le **détail**, car si vous n’arrivez pas à comprendre le code, il vaut mieux **ne pas se lancer dans ce scénario** pour le moment. _(Le copier/coller ne fonctionnera pas 🙂_ .
+Le bloc code est **commenté** pour expliquer chaque commande. Je ne vais volontairement **pas** plus dans le **détail**, car si vous n’arrivez pas à comprendre le code, il vaut mieux **ne pas se lancer dans ce scénario** pour le moment. *(Le copier/coller ne fonctionnera pas 🙂* .
 
 ```
 // Équipements catégorie security
@@ -127,9 +127,9 @@ Je vérifie grâce à un simple bloc « Si Alors » la présence d’informati
 
 _**Attention** : pour les utilisateurs du scénario [Notifications avancées](/articles/jeedom-scenario-notifications-avancees), j’ai modifié son fonctionnement depuis l’écriture de l’article. J’utilise maintenant les TAGs à la place des variables._
 
--   **Scénario** : #\[Appartement\]\[Notifications\]\[Notifications 2.0\]#
--   **Action :** Start
--   **Tags** : Type=0 Msg=variable(Ouvrants)
+- **Scénario** : #\[Appartement\]\[Notifications\]\[Notifications 2.0\]#
+- **Action :** Start
+- **Tags** : Type=0 Msg=variable(Ouvrants)
 
 ## Scénario 2 : Etat des lumières et extinction
 
@@ -141,27 +141,27 @@ Exemple : Si des lumières ont été éteinte alors on à ce message :
 Extinction : Bibliothèque, Gateway, Lampe Bureau.
 ```
 
--   La première chose à faire c’est d’**identifier les** **lumières**.
+- La première chose à faire c’est d’**identifier les** **lumières**.
 
 Pour cela, j’utilise les catégories d’équipements, toutes mes lumières sont sous la catégorie « **Lumière**« .![](./Scenario-OuvrantLumieres-4.png)
 
--   Ensuite, il faut chercher dans ces équipements où se trouve l’information **« On/ Off »**.
+- Ensuite, il faut chercher dans ces équipements où se trouve l’information **« On/ Off »**.
 
 J’utilise des **virtuels** pour la plupart de mes lumières qui sont tous créés sous la même forme. Il suffit donc de récupérer « **l’état** » des commandes.
 
 ![](./Scenario-OuvrantLumieres-6.png)
 
--   Pour finir, il faut **identifier les lumières** pour sauver le résultat final dans une variable.
+- Pour finir, il faut **identifier les lumières** pour sauver le résultat final dans une variable.
 
 J’utilise le **« Nom de l’équipement virtuel »** qui est toujours sous la forme **« Virtuel Nom de l’équipement ».** 
 
-Exemple, pour la lampe dans ma bibliothèque : **« Virtuel Bibliothèque ».** Après je supprime le mot virtuel avec la commande « **str\_replace(‘Virtuel ‘, », $equipement)** » pour une meilleur visibilité.
+Exemple, pour la lampe dans ma bibliothèque : **« Virtuel Bibliothèque ».** Après je supprime le mot virtuel avec la commande « **str_replace(‘Virtuel ‘, », $equipement)** » pour une meilleur visibilité.
 
 ![](./Scenario-OuvrantLumieres-5-1.png)_On peut voir dans le copie d’écran qu’il y a « Radiateur », c’est simplement parce que j’ai ajouté le radiateur de la salle de bain pour être sûr qu’il soit bien éteint._
 
 ### Bloc Code
 
-Le bloc code est **commenté** pour expliquer chaque commande, je ne vais volontairement **pas** plus dans le **détail**, car si vous n’arrivez pas à comprendre le code, il vaut mieux **ne pas se lancer dans ce scénario** pour le moment. _(Le copier/coller ne fonctionnera pas )_ .
+Le bloc code est **commenté** pour expliquer chaque commande, je ne vais volontairement **pas** plus dans le **détail**, car si vous n’arrivez pas à comprendre le code, il vaut mieux **ne pas se lancer dans ce scénario** pour le moment. *(Le copier/coller ne fonctionnera pas )* .
 
 ```
 // Équipements catégorie Lumière
@@ -213,9 +213,9 @@ Je vérifie grâce à un simple bloc « **Si Alors** » la présence d’infor
 
 _**Attention**: pour les utilisateurs du scénario [Notifications avancées](/articles/jeedom-scenario-notifications-avancees), j’ai **modifié** son fonctionnement depuis l’écriture de l’article. J’utilise maintenant les **TAGs** à la place des variables._
 
--   **Scénario** : #\[Appartement\]\[Notifications\]\[Notifications 2.0\]#
--   **Action :** Start
--   **Tags** : Type=0 Msg=variable(Lumieres)
+- **Scénario** : #\[Appartement\]\[Notifications\]\[Notifications 2.0\]#
+- **Action :** Start
+- **Tags** : Type=0 Msg=variable(Lumieres)
 
 ## Conclusion
 

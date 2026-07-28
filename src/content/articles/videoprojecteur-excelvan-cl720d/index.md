@@ -69,13 +69,13 @@ Pour le conditionnement, on est loin des **classieux cartons Xiaomi,** mais plut
 
 **Le carton contient :**
 
--   Le vidéoprojecteur Excelvan CL720D.
--   Une télécommande.
--   Un câble avec une prise pour la France.
--   Un câble audio-vidéo (Rouge, Blanc, Jaune).
--   Un câble VGA.
--   Un fusible de rechange.
--   Un manuel utilisateur en anglais.
+- Le vidéoprojecteur Excelvan CL720D.
+- Une télécommande.
+- Un câble avec une prise pour la France.
+- Un câble audio-vidéo (Rouge, Blanc, Jaune).
+- Un câble VGA.
+- Un fusible de rechange.
+- Un manuel utilisateur en anglais.
 
 ![](./IMG_20170623_132135-1024x623.jpg)
 

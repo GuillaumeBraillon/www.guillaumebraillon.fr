@@ -127,13 +127,13 @@ Ils peuvent être plus ou moins long en fonction de ce que vous voulez automatis
 
 _Certains scénarios sont spécifique à un membre et d’autres sont commun à toute la famille._
 
-- [**\[Présent Membre\]**](<#présent-membre>) : C’est le scénario qui détermine la **présence ou non d’un membre** de la famille.
+- [**\[Présent Membre\]**](#présent-membre) : C’est le scénario qui détermine la **présence ou non d’un membre** de la famille.
   - _Il est déclenché par un appareil bluetooth (Bracelet, NUT, iTag…)._
-- [**\[Absent Membre\]**](<#absent-membre>) :  C’est le scénario qui **valide l’absence d’un membre** de la famille. Il va faire la **triple vérification d’absence** (Bluetooth, Wifi et Géolocalisation).
-  - _Il est déclenché par le scénario [**\[Présent Membre\]**](<#présent-membre>)._
+- [**\[Absent Membre\]**](#absent-membre) :  C’est le scénario qui **valide l’absence d’un membre** de la famille. Il va faire la **triple vérification d’absence** (Bluetooth, Wifi et Géolocalisation).
+  - _Il est déclenché par le scénario [**\[Présent Membre\]**](#présent-membre)._
 - [**\[Géolocalisation Membre\]**](#géolocalisation-membre) : Ce scénario permet d’informer Jeedom qu’un **membre** est en **approche**, mais pas encore présent et donc d’automatiser des scènes.
   - _Ouvrir la porte du garage, allumer les lumières extérieures, prévenir par TTS de l’arrivé d’une personne s’il y a déjà quelqu’un à la maison…_
-- **[\[Scène Membre\]](<#scène-membre>)** : C’est le scénario qui va permettre l’automatisation de **scènes spécifiques pour un membre**.
+- **[\[Scène Membre\]](#scène-membre)** : C’est le scénario qui va permettre l’automatisation de **scènes spécifiques pour un membre**.
   - _Allumer la lumière du bureau, seulement lorsque c’est Membre X qui rentre…_
 - [**\[Scène Famille\]**](#scène-famille) : Ce scénario à la même fonction d’automatisation de scènes que le scénario précédent, mais il est **commun à tous les membres**.
   - _Activer et désactiver l’alarme, éteindre les lumières et la musique, lorsqu’il n’y a plus personne à la maison…_
@@ -152,7 +152,7 @@ Le scénario est **déclenché** par la **présence** ou **l’absence** d’un 
 
 **L’état** des appareils bluetooth étant **vérifié** à **intervalles** réguliers, il faut bien **cocher** l’option de **« Non exécution pour cause de répétition »** sur le **premier** **SI** du scénario, cercle rouge à gauche de la commande, afin de **lancer** le scénario, **seulement** sur le **changement** d’état.
 
-_Ce scénario est volontairement court pour qu’il s’exécute rapidement afin de déterminer au plus vite la présence d’une personne via un virtuel, ou de lancer le scénario de vérification d’absence [**\[Absent Membre\]**](<#absent-membre>) qui lui, est plus long, mais qui demande moins de réactivité._
+_Ce scénario est volontairement court pour qu’il s’exécute rapidement afin de déterminer au plus vite la présence d’une personne via un virtuel, ou de lancer le scénario de vérification d’absence [**\[Absent Membre\]**](#absent-membre) qui lui, est plus long, mais qui demande moins de réactivité._
 
 **SI #\[Membres\]\[Mi-Band Membre\]\[Present\]# == 1 ALORS**
 
@@ -174,7 +174,7 @@ Le virtuel binaire **« Etat / présent(1) / absent(0) «**   appelé **[\[V
 
 Si le virtuel  **[\[Virtuel Présence Membre\]](#virtuel-virtuel-presence-membre)** est à 0 (absent), alors on modifie l’état du virtuel pour indiquer que le membre est à nouveau présent (1).
 
-Le changement d’état du virtuel **[\[Virtuel Présence Membre\]](#virtuel-virtuel-presence-membre)** va déclencher le scénarios **[\[Scène Membre\]](<#scène-membre>)**.
+Le changement d’état du virtuel **[\[Virtuel Présence Membre\]](#virtuel-virtuel-presence-membre)** va déclencher le scénarios **[\[Scène Membre\]](#scène-membre)**.
 
 Ce test permet d’éviter les erreurs en cas de perte momentanée du signal du bracelet, malgré que le membre soit toujours dans le logement, mais hors de porté de l’antenne bluetooth.
 
@@ -194,7 +194,7 @@ Le virtuel indique que le membre est déjà présent, il y a donc eu une perte d
 
 **scenario : #\[Membres\]\[Géolocalisation & Présence\]\[Absent Membre\]# Action : start**
 
-Si le scénario est déclenché par l’absence du bracelet Mi band (0), alors on lance le scénario [**\[Absent Membre\]**](<#absent-membre>) qui va faire la triple vérification avant de passer le virtuel à absent.
+Si le scénario est déclenché par l’absence du bracelet Mi band (0), alors on lance le scénario [**\[Absent Membre\]**](#absent-membre) qui va faire la triple vérification avant de passer le virtuel à absent.
 
 La variable **« NbAbsMembre »** est mise à 0, elle sera utile dans le scénario d’absence.
 
@@ -204,7 +204,7 @@ La variable **« NbAbsMembre »** est mise à 0, elle sera utile dans le scén
 
 Le scénario sur l’image et un peu différent de celui de l’article.
 
-Le scénario est **déclenché** par le **scénario** précédent **[\[Présent Membre\]](<#présent-membre>),** ou par **lui même.** On ne met rien dans l’événement déclencheur.
+Le scénario est **déclenché** par le **scénario** précédent **[\[Présent Membre\]](#présent-membre),** ou par **lui même.** On ne met rien dans l’événement déclencheur.
 
 Ce scénario va faire les différentes **vérifications** nécessaires pour **valider** **l’absence** d’un membre et une fois cette absence **confirmée**, le virtuel **[\[Virtuel Présence Membre\]](#virtuel-virtuel-presence-membre)** passera à absent.
 
@@ -218,7 +218,7 @@ Le but de ce scénario est de passer l’état du virtuel **[\[Virtuel Présenc
 
 **log : Absence confirmé par Miband.**
 
-Même si la vérification de l’absence du bracelet à déjà été faite dans le scénario [**\[Présent Membre\]**](<#présent-membre>), on refait le test, car le scénario peut s’auto-provoquer.
+Même si la vérification de l’absence du bracelet à déjà été faite dans le scénario [**\[Présent Membre\]**](#présent-membre), on refait le test, car le scénario peut s’auto-provoquer.
 
 **SI #\[Hardware\]\[Téléphone Membre\]\[Statut\]# == 0 ALORS**
 
@@ -258,7 +258,7 @@ Il peut arriver parfois qu’on reste à moins de 150 mètres de la maison et do
 
 **SI variable(NbAbsMembre) < 5 ALORS**
 
-C’est la variable que nous avions mise à 0 dans le scénario [**\[Présent Membre\]**](<#présent-membre>) qui va nous permettre de savoir combien de fois on a vérifié la géolocalisation. Si c’est moins de 5 fois, on continue.
+C’est la variable que nous avions mise à 0 dans le scénario [**\[Présent Membre\]**](#présent-membre) qui va nous permettre de savoir combien de fois on a vérifié la géolocalisation. Si c’est moins de 5 fois, on continue.
 
 **DANS 1 (MIN)**
 
@@ -314,7 +314,7 @@ Dans le cas ou le bluetooth indique présent, on arrête les vérifications, car
 
 **log : Membre déjà identifié comme absent.**
 
-Théoriquement, on ne devrait jamais arriver ici, car le scénario déclencheur [**\[Présent Membre\]**](<#présent-membre>) vérifie aussi l’état du virtuel **[\[Virtuel Présence Membre\]](#virtuel-virtuel-presence-membre),** avant de provoquer ce scénario.
+Théoriquement, on ne devrait jamais arriver ici, car le scénario déclencheur [**\[Présent Membre\]**](#présent-membre) vérifie aussi l’état du virtuel **[\[Virtuel Présence Membre\]](#virtuel-virtuel-presence-membre),** avant de provoquer ce scénario.
 
 ### Scénario : **\[\*\***Géolocalisation\*\* **Membre\]**
 
@@ -430,7 +430,7 @@ Pour ce dernier exemple, on ne vérifie pas la présence d’un autre membre. L�
 
 Ce scénario permet de lancer des actions en fonction de la présence, ou de l’absence, de tous les membres.
 
-_Pour les actions spécifiques à un membre, on utilisera les scénarios **[\[Scène Membre\]](<#scène-membre>)** qui déclencheront ce scénario**.**_
+_Pour les actions spécifiques à un membre, on utilisera les scénarios **[\[Scène Membre\]](#scène-membre)** qui déclencheront ce scénario**.**_
 
 **SI #\[Membres\]\[Virtuel Présence Membre X\]\[Etat\]# == 0 ET #\[Membres\]\[Virtuel Présence Membre Y\]\[Etat\]# == 0 ALORS**
 
@@ -605,11 +605,11 @@ Vous avez vu tout au long des scénarios que le virtuel **\[Virtuel Présence Me
   - **Valeur :** #\[Membres\]\[Géolocalisation Membre\]\[Distance Maison\]#.
   - **Unité :** m.
   - **Paramètres :** Afficher.
-- **Présent à :** Cette commande est utile pour **l’affichage de l’heure de présence du membre**. La valeur est fournie par une **variable** mise à jour dans le **scénario** [**\[Présent Membre\]**](<#présent-membre>) .
+- **Présent à :** Cette commande est utile pour **l’affichage de l’heure de présence du membre**. La valeur est fournie par une **variable** mise à jour dans le **scénario** [**\[Présent Membre\]**](#présent-membre) .
   - **Sous-type :** Info / Autre.
   - **Valeur :** variable(PresentMembre).
   - **Paramètres :** Afficher.
-- **Absent à :** Cette commande est utile pour **l’affichage de l’heure d’absence du membre**. La valeur est fournie par une **variable** mise à jour dans le **scénario** [**\[Absent Membre\]**](<#absent-membre>).
+- **Absent à :** Cette commande est utile pour **l’affichage de l’heure d’absence du membre**. La valeur est fournie par une **variable** mise à jour dans le **scénario** [**\[Absent Membre\]**](#absent-membre).
   - **Sous-type :** Info / Autre.
   - **Valeur :** variable(AbsentMembre).
   - **Paramètres :** Afficher.

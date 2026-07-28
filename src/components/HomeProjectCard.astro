@@ -1,17 +1,12 @@
 ---
+import { Image } from "astro:assets";
 import RepoIcon from "./RepoIcon.astro";
-
-interface Thumbnail {
-  src: string;
-  width: number;
-  height: number;
-}
 
 interface Props {
   href: string;
   title: string;
   description: string;
-  thumbnail?: Thumbnail | null;
+  thumbnail?: ImageMetadata | null;
   thumbnailAlt?: string;
   variant?: "featured" | "compact";
 }
@@ -41,10 +36,8 @@ const metaClass =
 <article class={wrapperClass}>
   {
     thumbnail && (
-      <img
-        src={thumbnail.src}
-        width={thumbnail.width}
-        height={thumbnail.height}
+      <Image
+        src={thumbnail}
         alt={thumbnailAlt}
         class={`${imageClass} object-cover rounded shrink-0`}
         loading="lazy"

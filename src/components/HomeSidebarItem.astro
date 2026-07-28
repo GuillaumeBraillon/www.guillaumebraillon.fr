@@ -1,14 +1,10 @@
 ---
-interface Thumbnail {
-  src: string;
-  width: number;
-  height: number;
-}
+import { Image } from "astro:assets";
 
 interface Props {
   href: string;
   title: string;
-  thumbnail?: Thumbnail;
+  thumbnail?: ImageMetadata;
   thumbnailAlt?: string;
 }
 
@@ -18,10 +14,8 @@ const { href, title, thumbnail, thumbnailAlt = title } = Astro.props as Props;
 <a href={href} class="gh-sidebar-item flex items-center gap-3 px-4 py-2.5 group transition-colors">
   {
     thumbnail && (
-      <img
-        src={thumbnail.src}
-        width={thumbnail.width}
-        height={thumbnail.height}
+      <Image
+        src={thumbnail}
         alt={thumbnailAlt}
         class="w-12 h-12 object-cover rounded shrink-0"
         loading="lazy"

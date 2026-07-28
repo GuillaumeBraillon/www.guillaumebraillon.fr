@@ -21,15 +21,15 @@ Dans l’ancienne version, la lumière restait allumée de 20:30 à 22:00 dès q
 
 Dans cette évolution du scénario, de nouvelles conditions sont prises en compte :
 
--   S’il y a au-moins 5 changements d’état de la lampe en 5 minutes, quel que soit l’heure de la journée, alors la lumière reste allumée pendant 10 minutes. Le but est d’éviter que la lumière s’allume et s’éteigne sans arrêt, afin d’économiser l’ampoule et éviter de surcharger Jeedom avec des lancements de scénarios en boucle.
--   J’ai aussi ajouté un test pour savoir si je suis en période de vacances scolaires, weekend ou jour férié et en fonction de ça, j’adapte les horaires d’allumage fixe. J’utilise pour cela les informations fournies par le plugin « [Informations du jour](https://market.jeedom.fr/index.php?v=d&p=market&type=plugin&plugin_id=dayinfo)« .
+- S’il y a au-moins 5 changements d’état de la lampe en 5 minutes, quel que soit l’heure de la journée, alors la lumière reste allumée pendant 10 minutes. Le but est d’éviter que la lumière s’allume et s’éteigne sans arrêt, afin d’économiser l’ampoule et éviter de surcharger Jeedom avec des lancements de scénarios en boucle.
+- J’ai aussi ajouté un test pour savoir si je suis en période de vacances scolaires, weekend ou jour férié et en fonction de ça, j’adapte les horaires d’allumage fixe. J’utilise pour cela les informations fournies par le plugin « [Informations du jour](https://market.jeedom.fr/index.php?v=d&p=market&type=plugin&plugin_id=dayinfo)« .
 
 ![](./Jeedom-scenarios-lumieres-couloir-Plus-1.png)
 
 **Versions alternatives du scenario :**
 
--   **[Jeedom Scénario – Lumière sur présence](/articles/jeedom-scenario-lumiere-sur-presence)**
--   **[Jeedom Scénario – Lumière sur présence (Simplifié)](/articles/jeedom-scenario-lumiere-sur-presence-simplifie)**
+- **[Jeedom Scénario – Lumière sur présence](/articles/jeedom-scenario-lumiere-sur-presence)**
+- **[Jeedom Scénario – Lumière sur présence (Simplifié)](/articles/jeedom-scenario-lumiere-sur-presence-simplifie)**
 
 ## Mode du scénario = Provoqué.
 
@@ -67,8 +67,8 @@ On allume la lumière.
 
 #### Action 2 : Wait
 
--   **Condition** :  #time# == 2200
--   **Time Out** : 3600
+- **Condition** :  #time# == 2200
+- **Time Out** : 3600
 
 L’action « **wait** » permet d’attendre que la condition soit vraie, en l’occurrence que l’heure soit égale à 22:00, avec une attente maximum de 3600 secondes, soit une heure.
 
@@ -86,7 +86,7 @@ On éteint la lumière.
 
 #### Action 3 : #\[Couloir chambre\]\[lumière du couloir\]\[Off\]#
 
-_**Evolution** : Dans cette boucle, j’ai remplacé l’action « **dans**« , par une action « **sleep**« , car elle est bloquante et donc le scénario ne peut pas être relancé pendant ce temps-là (60 sec)._ 
+**\*Evolution** : Dans cette boucle, j’ai remplacé l’action « **dans**« , par une action « **sleep**« , car elle est bloquante et donc le scénario ne peut pas être relancé pendant ce temps-là (60 sec).\* 
 
 ### SINON (Voir Code)
 
@@ -133,7 +133,7 @@ Pour que l’affichage des tuiles soit correct, il faut faire quelques modificat
 
 Aller dans les réglages du détecteur de mouvement, en cliquant sur la tuile depuis le dashboard, ou dans « **Plugins / Protocole Domotique / Xiaomi Home**« , puis cliquer sur le composant. Sélectionner l’onglet « **Commandes**« .
 
--   Il faut inverser l’icone car lorsqu’il n’y a pas de mouvement, l’icone représente un personnage en mouvement et lorsqu’il y a un mouvement, on a un signe « valider ».
+- Il faut inverser l’icone car lorsqu’il n’y a pas de mouvement, l’icone représente un personnage en mouvement et lorsqu’il y a un mouvement, on a un signe « valider ».
 
 ![](./Jeedom-scenarios-1-lumieres-salon.png)
 
@@ -147,21 +147,21 @@ Pour cela, dans le réglage de la commande « **Status**« , il faut cocher «
 
 ![](./Jeedom-scenarios-2-lumieres-salon.png)
 
--   Maintenant, lorsqu’il n’y a pas de mouvement depuis un certain temps, la commande « **no\_motion** » renvoie un temps en secondes, ce qui n’est pas très parlant.
+- Maintenant, lorsqu’il n’y a pas de mouvement depuis un certain temps, la commande « **no_motion** » renvoie un temps en secondes, ce qui n’est pas très parlant.
 
-Nous allons ajouter une formule pour convertir les secondes en minutes. Pour cela il faut aller dans les « **Roues crantées** » à coté du bouton « **Test** » de la commande « **no\_motion**« , puis dans « **Configuration avancée**« .
+Nous allons ajouter une formule pour convertir les secondes en minutes. Pour cela il faut aller dans les « **Roues crantées** » à coté du bouton « **Test** » de la commande « **no_motion**« , puis dans « **Configuration avancée**« .
 
 Là ajouter « **#value#/60** » dans le champ « **Formule de calcul**« . ![](./Jeedom-scenarios-6-lumieres-salon-1-e1487012303640.png)**Tips** : Vous pouvez appliquer cette formule aux autres capteurs de mouvement, en cliquant sur « **Appliquer à**« .
 
--   Maintenant on a un 3 au lieu de 180.![](./Jeedom-scenarios-7-lumieres-salon.png)
+- Maintenant on a un 3 au lieu de 180.![](./Jeedom-scenarios-7-lumieres-salon.png)
 
-Pour que se soit un peu plus sympa, on va changer l’unité de mesure, soit les minutes **« (min)** » et on va changer le « **no\_motion** » en  par exemple « **Calme depuis :**  » dans les réglages des commandes.
+Pour que se soit un peu plus sympa, on va changer l’unité de mesure, soit les minutes **« (min)** » et on va changer le « **no_motion** » en  par exemple « **Calme depuis :**  » dans les réglages des commandes.
 
 ![](./Jeedom-scenarios-8-lumieres-salon.png)
 
 Et voilà : ![](./Jeedom-scenarios-9-lumieres-salon.png)
 
-\[alert-warning\]Le statu no\_motion est incrémenté à 120, 180, 300, 600, 1200 et 1800 secondes, soit un maximum de 30 minutes.\[/alert-warning\]
+\[alert-warning\]Le statu no_motion est incrémenté à 120, 180, 300, 600, 1200 et 1800 secondes, soit un maximum de 30 minutes.\[/alert-warning\]
 
 ### La prise ou la lumière
 

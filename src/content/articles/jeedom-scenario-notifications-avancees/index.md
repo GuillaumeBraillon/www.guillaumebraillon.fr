@@ -53,8 +53,8 @@ Là, on rafraîchit la fonction Ping vers Google, pour pouvoir tester la connexi
 
 ### Variable
 
--   **Nom** : NotifTitre
--   **Valeur** : Notification ( variable(NotifPriorite) ) de Jeedom.
+- **Nom** : NotifTitre
+- **Valeur** : Notification ( variable(NotifPriorite) ) de Jeedom.
 
 Là, on affecte la variable « **NotifTitre** » qui servira pour les médias nécessitant un titre, comme les mails par exemple. Ici j’ajoute la valeur de la variable « **NotifPriorite** » dans une phrase, mais on peut entrer ce que l’on veut.
 
@@ -64,8 +64,8 @@ Il est aussi possible d’envoyer cette variable depuis les scénarios, si on 
 
 ### Variable
 
--   **Nom** : NotifPriorite
--   **Valeur** : 7
+- **Nom** : NotifPriorite
+- **Valeur** : 7
 
 Si la variable « **NotifPriorite** » n’existe pas, ou est égal à 0, alors on la mets à 7. C’est juste une sécurité pour bloquer au minimum la valeur de la variable.
 
@@ -75,8 +75,8 @@ Si la variable « **NotifPriorite** » n’existe pas, ou est égal à 0, alo
 
 Si la variable « **NotifPriorite** » n’est pas 6 (TTS Music), alors on envoie un message dans le centre de message de Jeedom.
 
--   On ne veut pas envoyer de message avec le nom d’un fichier TTS Music correspondant à la priorité 6.
--   Un message est envoyé dans tous les autres cas. Si on veut envoyer un message seulement pour la priorité 7 on remplace « **!= 6** » par « **\== 7**« .
+- On ne veut pas envoyer de message avec le nom d’un fichier TTS Music correspondant à la priorité 6.
+- Un message est envoyé dans tous les autres cas. Si on veut envoyer un message seulement pour la priorité 7 on remplace « **!= 6** » par « **\== 7**« .
 
 ## ![Jeedom Gestion des Notifications avancées](./Jeedom-scenarios-Notification-2.png)SI #\[Informations\]\[Google\]\[Statut\]# == 1 ALORS
 
@@ -88,15 +88,15 @@ On teste la priorité, si elle est égale à 1, alors on envoi « **Mail & SMS 
 
 #### #\[Notifications\]\[Mail Jeedom\]\[Femme Perso\]#
 
--   **Titre** : variable(NotifTitre,Titre)
--   **Message** : variable(NotifMessage,Message)
+- **Titre** : variable(NotifTitre,Titre)
+- **Message** : variable(NotifMessage,Message)
 
 On affecte le titre et le message pour le Mail.
 
-#### #\[Notifications\]\[SMS Via JPI\]\[SMS\_Femme\]#
+#### #\[Notifications\]\[SMS Via JPI\]\[SMS_Femme\]#
 
--   **Titre** : variable(NotifTitre,Titre)
--   **Message** : variable(NotifMessage,Message)
+- **Titre** : variable(NotifTitre,Titre)
+- **Message** : variable(NotifMessage,Message)
 
 On affecte le titre et le message pour le SMS. Le titre n’est pas utile pour un SMS, mais il est demandé et je n’aime pas laisser une variable vide, surtout quand on a de quoi la remplir.
 
@@ -110,8 +110,8 @@ Alors maintenant, on teste la priorité. Si elle est **inférieure ou égale** �
 
 #### #\[Notifications\]\[Mail Jeedom\]\[Mail famille\]#
 
--   **Titre** : variable(NotifTitre,Titre)
--   **Message** : variable(NotifMessage,Message)
+- **Titre** : variable(NotifTitre,Titre)
+- **Message** : variable(NotifMessage,Message)
 
 On affecte le titre et le message pour le Mail.
 
@@ -125,7 +125,7 @@ On continue de la même manière pour les autres médias de notifications, en ch
 
 ### Action : #\[Notifications\]\[Lapinou\]\[Parle\]#
 
--   **Message** : variable(NotifMessage,Message)
+- **Message** : variable(NotifMessage,Message)
 
 ```js
 Si la priorité est inférieure ou égale à 5, alors on fait parler le Nabaztag.
@@ -133,8 +133,8 @@ Si la priorité est inférieure ou égale à 5, alors on fait parler le Nabaztag
 
 ### Action : wait
 
--   **Condition** : #\[Salon\]\[Mouvement\]\[Calme depuis : \]#<=1
--   **TimeOut** : 3600
+- **Condition** : #\[Salon\]\[Mouvement\]\[Calme depuis : \]#<=1
+- **TimeOut** : 3600
 
 On attend qu’il y est quelqu’un dans la pièce avant de jouer les notifications, pour être certain qu’on ne les joue pas dans le vide.
 
@@ -142,19 +142,19 @@ On attend qu’il y est quelqu’un dans la pièce avant de jouer les notificati
 
 #### Action : #\[Notifications\]\[TTS Volume Jour\]\[TTS\]#
 
--   **Message** : variable(NotifMessage,Message)
+- **Message** : variable(NotifMessage,Message)
 
 #### SINON
 
 #### Action : #\[Notifications\]\[TTS Volume Nuit\]\[TTS\]#
 
--   **Message** : variable(NotifMessage,Message)
+- **Message** : variable(NotifMessage,Message)
 
 Si on est en journée, entre 6:30 et 21:00, on joue la notification avec le volume de jour, sinon on joue avec le volume de nuit.
 
 ## SINON
 
-**Rappel** : On arrive ici, s’il n’y a pas de connexion internet suite au test « [SI #InformationsGoogleStatut#== 1\_ALORS](#siinformationsgooglestatut-1-alors)« .
+**Rappel** : On arrive ici, s’il n’y a pas de connexion internet suite au test « [SI #InformationsGoogleStatut#== 1_ALORS](#siinformationsgooglestatut-1-alors)« .
 
 ![Jeedom Gestion des Notifications avancées](./Jeedom-scenarios-Notification-5.png)
 
@@ -176,9 +176,9 @@ Pour ne pas que 2 notifications soient jouées en même temps, je fais un test s
 
 #### SI scenario(#\[Notifications\]\[Notifications\]\[Toutes les notifications\]# ) == 1 ALORS
 
--   **Action** : wait
--   **Condition** : scenario(#\[Notifications\]\[Notifications\]\[Toutes les notifications\]# ) == 0
--   **TimeOut** : 120 (sec)
+- **Action** : wait
+- **Condition** : scenario(#\[Notifications\]\[Notifications\]\[Toutes les notifications\]# ) == 0
+- **TimeOut** : 120 (sec)
 
 Si le scénario est en cours (1), j’attends qu’il s’arrête (0), attente maximum de 2 minutes.
 
@@ -188,15 +188,15 @@ On peut faire un test qui change la priorité de la notification, en fonction d�
 
 #### SI #\[Informations\]\[Infos\]\[Weekend\]# == 1 OU #\[Informations\]\[Infos\]\[Férié\]# == 1 ALORS
 
--   **Action** : Variable
--   **Nom** : NotifPriorite
--   **Valeur** : 7
+- **Action** : Variable
+- **Nom** : NotifPriorite
+- **Valeur** : 7
 
 #### SINON
 
--   **Action** : Variable
--   **Nom** : NotifPriorite
--   **Valeur** : 5
+- **Action** : Variable
+- **Nom** : NotifPriorite
+- **Valeur** : 5
 
 ```js
 Si nous sommes le weekend, ou un jour férié, alors on affecte la variable de priorité à 7 (Message) sinon à 5 (TTS vocal).
@@ -206,15 +206,15 @@ Si nous sommes le weekend, ou un jour férié, alors on affecte la variable de p
 
 #### ACTION 1 : Variable
 
--   **Nom** : NotifMessage
--   **Valeur** : Bonjour, Guillaume… Nous sommes le #sjour#, #jour#, #smois#  et il est #heure# heure  #minute#… Le temps sera : #\[Informations\]\[Lyon\]\[Condition\]#… La température maximal : #\[Informations\]\[Liergues\]\[Température Max\]# °… L’horoscope du jour : #\[Guillaume\]\[Guillaume (horoscope)\]\[horoscopeDuJour\]#…  Les évenements du jour : variable(AgendaJeedomToday), variable(AgendaPersoToday). Bonne journée.
+- **Nom** : NotifMessage
+- **Valeur** : Bonjour, Guillaume… Nous sommes le #sjour#, #jour#, #smois#  et il est #heure# heure  #minute#… Le temps sera : #\[Informations\]\[Lyon\]\[Condition\]#… La température maximal : #\[Informations\]\[Liergues\]\[Température Max\]# °… L’horoscope du jour : #\[Guillaume\]\[Guillaume (horoscope)\]\[horoscopeDuJour\]#…  Les évenements du jour : variable(AgendaJeedomToday), variable(AgendaPersoToday). Bonne journée.
 
 Ici, on remplit la variable « **NotifMessage**« , avec le texte qui sera joué par les notifications. Les « **…** » dans la phrase servent à faire des pauses pour le TTS.
 
 #### ACTION 2 : Variable
 
--   **Nom** : NotifPriorite
--   **Valeur** : de 1 à 7
+- **Nom** : NotifPriorite
+- **Valeur** : de 1 à 7
 
 #### ACTION 3 : SCÉNARIO : \[NOTIFICATIONS\]\[NOTIFICATIONS\]\[Toutes les notifications\] ACTION : START.
 

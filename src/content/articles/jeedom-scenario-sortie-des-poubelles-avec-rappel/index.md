@@ -21,8 +21,8 @@ Pour avertir Jeedom que j’ai bien sorti les poubelles et donc arrêter les not
 
 Dans mon cas, les poubelles vertes sont à sortir tous les lundis soirs et les jaunes, un mardi soir sur 2, pour un ramassage les lendemains matin. Rien ne vous empêche de modifier le scénario pour l’adapter à vos besoins.
 
--   Je souhaite être averti le **lundi soir à 20:00** que je dois sortir les **poubelles vertes** et le cas échéant, les jaunes le lendemain.
--   Je souhaite être averti le **mardi soir à 20:00** que je dois sortir les **poubelles jaunes**.
+- Je souhaite être averti le **lundi soir à 20:00** que je dois sortir les **poubelles vertes** et le cas échéant, les jaunes le lendemain.
+- Je souhaite être averti le **mardi soir à 20:00** que je dois sortir les **poubelles jaunes**.
 
 A l’origine, j’avais un simple rappel le soir, mais comme je suis tête en l’air, j’oubliais 1 fois sur 2 de les sortir. J’ai donc souhaité que Jeedom m’avertisse toutes les 10 minutes, tant qu’elles ne sont pas sorties au moment opportun.
 
@@ -60,15 +60,15 @@ Si c’est le cas, alors on lance 3 actions qui me permettent de jouer les notif
 
 #### Action 1 : Variable
 
--   **Nom** : NotifMessage
--   **Valeur** : Il faut sortir les poubelles vertes ce soir et les poubelles Jaunes demain.
+- **Nom** : NotifMessage
+- **Valeur** : Il faut sortir les poubelles vertes ce soir et les poubelles Jaunes demain.
 
 J’affecte à la variable « **NotifMessage** » le message qui sera utilisé pour les notifications.
 
 #### Action 2 : Variable
 
--   **Nom** : NotifTitre
--   **Valeur** : Poubelles Vertes ce soir et Jaunes demain.
+- **Nom** : NotifTitre
+- **Valeur** : Poubelles Vertes ce soir et Jaunes demain.
 
 J’affecte à la variable « **NotifTitre** » le titre qui sera utilisé pour les notifications de type mail par exemple.
 
@@ -90,15 +90,15 @@ Si c’est le cas, alors on lance 3 actions qui me permettent de jouer les notif
 
 #### Action 1 : Variable
 
--   **Nom** : NotifMessage
--   **Valeur** : Il faut sortir les poubelles vertes ce soir.
+- **Nom** : NotifMessage
+- **Valeur** : Il faut sortir les poubelles vertes ce soir.
 
 J’affecte à la variable « **NotifMessage** » le message qui sera utilisé pour les notifications.
 
 #### Action 2 : Variable
 
--   **Nom** : NotifTitre
--   **Valeur** : Poubelle Vertes ce soir.
+- **Nom** : NotifTitre
+- **Valeur** : Poubelle Vertes ce soir.
 
 J’affecte à la variable « **NotifTitre** » le titre qui sera utilisé pour les notifications de type mail par exemple.
 
@@ -118,15 +118,15 @@ Si c’est le cas, alors on lance 3 actions qui me permettent de jouer les notif
 
 #### Action 1 : Variable
 
--   **Nom** : NotifMessage
--   **Valeur** : Il faut sortir les poubelles jaunes ce soir.
+- **Nom** : NotifMessage
+- **Valeur** : Il faut sortir les poubelles jaunes ce soir.
 
 J’affecte à la variable « **NotifMessage** » le message qui sera utilisé pour les notifications.
 
 #### Action 2 : Variable
 
--   **Nom** : NotifTitre
--   **Valeur** : Poubelle jaunes ce soir.
+- **Nom** : NotifTitre
+- **Valeur** : Poubelle jaunes ce soir.
 
 J’affecte à la variable « **NotifTitre** » le titre qui sera utilisé pour les notifications de type mail par exemple.
 
@@ -154,8 +154,8 @@ Le scénario est lancé par la programmation configurée dans l’entête du sc�
 
 Pour cela il faut que :
 
--   L’heure de l’événement soit configurée dans le calendrier, 20:00 dans mon cas.
--   Créer une variable « **Etat poubelle** » qui remplacera l’état du bouton virtuel.
+- L’heure de l’événement soit configurée dans le calendrier, 20:00 dans mon cas.
+- Créer une variable « **Etat poubelle** » qui remplacera l’état du bouton virtuel.
 
 ### Configuration de l’événement.
 

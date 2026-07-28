@@ -15,16 +15,16 @@ A la place d’un long texte de présentation j’ai préféré vous faire une *
 
 **Caractéristiques techniques:**
 
--   Fibre de carbone
--   Corde nylon
--   Touche: ABS
--   Bluetooth 4.0BLE Distance Bluetooth 5M
+- Fibre de carbone
+- Corde nylon
+- Touche: ABS
+- Bluetooth 4.0BLE Distance Bluetooth 5M
 
--   Alimentation: 2 piles AAA (non incluses)
--   Android 4.3 ou supérieur, IOS 8.0 ou supérieur
--   Poids du produit: 0,8000 kg
--   Taille du produit (L xlxh): 61,00 x 25,00 x 7,08 cm
--   Contenu de la boite: 1 x Ukulélé
+- Alimentation: 2 piles AAA (non incluses)
+- Android 4.3 ou supérieur, IOS 8.0 ou supérieur
+- Poids du produit: 0,8000 kg
+- Taille du produit (L xlxh): 61,00 x 25,00 x 7,08 cm
+- Contenu de la boite: 1 x Ukulélé
 
 ## Test du Populele2 en vidéo
 

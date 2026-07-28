@@ -32,8 +32,8 @@ L’installation fonctionne aussi bien sur les Mi-Box 3 et Mi-Box S, qu’elles 
 
 Pour vous aider à bien visualiser les **42** étapes de ce tutoriel, vous pouvez suivre la vidéo en parallèle au fur est à mesure de l’avancement. Vous pouvez retrouver la vidéo complète dans la [conclusion du tutoriel](#conclusion).
 
--   Si vous ne l’avez pas déjà fait, nous allons installer un explorateur de fichier sur la Mi-Box (ES Explorateur de fichier​), pour pouvoir naviguer dans les dossiers comme sur un PC.
--   Dans un second temps nous installerons Aptoide TV qui est un store alternatif au Google Store. Il permet d’installer des applications qui ne sont pas encore disponible pour la Mi box, comme [Amazon Prime Vidéo](https://www.primevideo.com/?tag=guilbraimespa-21).
+- Si vous ne l’avez pas déjà fait, nous allons installer un explorateur de fichier sur la Mi-Box (ES Explorateur de fichier​), pour pouvoir naviguer dans les dossiers comme sur un PC.
+- Dans un second temps nous installerons Aptoide TV qui est un store alternatif au Google Store. Il permet d’installer des applications qui ne sont pas encore disponible pour la Mi box, comme [Amazon Prime Vidéo](https://www.primevideo.com/?tag=guilbraimespa-21).
 
 ### Installation de ES Explorateur de fichier
 
@@ -52,13 +52,13 @@ Pour le moment pas de difficultés majeures, on reste sur le pc.
 
 [Vidéo suivante](#téléchargement-daptoidetv)
 
--   Ouvrir Google Play Store **sur** la **Mi-Box**.
--   Aller sur la loupe en haut à gauche.
-    Saisir sur le clavier ou dire : « **ES Explorer** ».
--   Cliquer sur **ES Explorer**.
--   Cliquer sur **Installer**.
--   Attendre la fin du téléchargement et de l’installation.
--   Cliquer sur **Ouvrir**.
+- Ouvrir Google Play Store **sur** la **Mi-Box**.
+- Aller sur la loupe en haut à gauche.
+  Saisir sur le clavier ou dire : « **ES Explorer** ».
+- Cliquer sur **ES Explorer**.
+- Cliquer sur **Installer**.
+- Attendre la fin du téléchargement et de l’installation.
+- Cliquer sur **Ouvrir**.
 
 ### Téléchargement d’AptoideTV
 

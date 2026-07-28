@@ -13,10 +13,9 @@ thumbnail: MG_1086.jpg
 
 > Cela fait quelques temps que je fais des recherches sur les aspirateurs robots et j’ai enfin jeté mon dévolu sur le [Neato Robotics XV signature](http://www.amazon.fr/gp/product/B00FN7Q79I/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00FN7Q79I&linkCode=as2&tag=guilbraimespa-21&linkId=RHK2VDHJQBYMKZA5)![](http://ir-fr.amazon-adsystem.com/e/ir?t=guilbraimespa-21&l=as2&o=8&a=B00FN7Q79I), voilà comment j’ai fait mon choix et mon retour après quelques jours d’utilisation.
 
-![IMG\_0211](./IMG_0211.jpg)
+![IMG_0211](./IMG_0211.jpg)
 
--   ### Les besoins.
-
+- ### Les besoins.
 
 Le ménage à la maison ce n’est pas une mince affaire, surtout avec un petit de 2 ans et demi. Il faut passer l’aspirateur tous les jours autour de la table à manger car la technique de la cuillère n’est pas encore au point, il faut aspirer les tapis et la chambre régulièrement pour les problèmes d’allergies et à 2 ans et demi on est souvent très près du sol pour jouer.
 
@@ -26,8 +25,7 @@ Nous avons aussi fait appel à un services de femme de ménage, 2 heures par s
 
 C’est là que nous nous sommes penchés sur les aspirateurs robots.
 
--   ### Le choix.
-
+- ### Le choix.
 
 Apres des heures de lectures sur des sites comme, [http://www.lesnumeriques.com/](http://www.lesnumeriques.com/aspirateur-robot/comparatif-choisir-meilleur-aspirateur-robot-a1555.html), [http://www.bestofrobots.fr](http://www.bestofrobots.fr/robot-domestique/aspirateurs-robots.html), [http://choisirsonaspirateur.free.fr/](http://choisirsonaspirateur.free.fr/aspirateur-robot), etc… notre choix c’est arrêté sur les aspirateurs robots de la marque [Neato Robotics](http://neatorobotics.com/fr/).
 
@@ -52,15 +50,13 @@ Vu que les filtres doivent être changés je pense que je prendrai, sous réserv
 
 Voilà pourquoi mon choix c’est arrêté sur le modèle [Neato Robotics XV signature](http://www.amazon.fr/gp/product/B00FN7Q79I/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00FN7Q79I&linkCode=as2&tag=guilbraimespa-21&linkId=RHK2VDHJQBYMKZA5)![](http://ir-fr.amazon-adsystem.com/e/ir?t=guilbraimespa-21&l=as2&o=8&a=B00FN7Q79I).
 
--   ### L’achat.
-
+- ### L’achat.
 
 Je dois vous dire tout de suite je suis plutôt fan [d’Amazon](http://www.amazon.fr/?tag=guilbraimespa-21), je fais presque tous mes achats en ligne chez eux. Je n’ai jamais été déçu par leurs services, je n’ai jamais eu de mauvaise surprise, les délais de livraisons sont en général très courts et les prix souvent les plus bas, frais de ports compris !
 
 J’ai passé ma commande le mardi et le colis est arrivé à Lyon le vendredi. Il se trouve que je n’ai pas pu aller le chercher du coup j’ai attendu jusqu’au mardi que le point Kiala ouvre, un peu frustré.
 
--   ### L’installation.
-
+- ### L’installation.
 
 Comme toujours avec [Amazon](http://www.amazon.fr/?tag=guilbraimespa-21) l’emballage était nickel. J’ai ouvert le carton dans lequel été l’aspirateur avec la base de rechargement, les quicks Start et les modes d’emplois.
 
@@ -68,14 +64,13 @@ Là il faut trouver l’emplacement pour la base de recharge avec, dans l’idé
 
 Une fois l’emplacement trouvé il faut le recharcher 12 heures, encore un peu frustré.
 
-![IMG\_0212](./IMG_0212-1024x768.jpg)
+![IMG_0212](./IMG_0212-1024x768.jpg)
 
 J’en profite pour programmer les heures de nettoyage automatique. Un jeu d’enfant grâce à l’écran LCD.
 
 Je vais aussi sur le site de [Neato Robotics](http://neatorobotics.com/fr/) pour enregistrer mon aspirateur afin de profiter de la garantie constructeur mais surtout d’accéder aux mises à jour du logiciel. Il se trouve qu’il était à jour.
 
--   ### Le premier test.
-
+- ### Le premier test.
 
 L’aspirateur est programmé pour commencer son ménage juste un peu avant que je parte au boulot, histoire de le voir un peu en action.
 
@@ -95,8 +90,7 @@ Je repars donc au travail et à mon retour même topo, pas un bruit dans l’app
 
 [Voir la video sur YouTube](https://www.youtube.com/embed/FJ0ezdQ5Ny8?feature=oembed)
 
--   ### Conclusion.
-
+- ### Conclusion.
 
 Alors après quelques jours d’utilisation voilà ce que je pense du Neato, j’adore !
 [![](http://ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FN7Q79I&Format=_SL250_&ID=AsinImage&MarketPlace=FR&ServiceVersion=20070822&WS=1&tag=guilbraimespa-21)](http://www.amazon.fr/gp/product/B00FN7Q79I/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00FN7Q79I&linkCode=as2&tag=guilbraimespa-21&linkId=RGMOHYIKWYKL4SHU)![](http://ir-fr.amazon-adsystem.com/e/ir?t=guilbraimespa-21&l=as2&o=8&a=B00FN7Q79I)Il est conseillé de le charger à fond puis de le décharger à fond 3 fois de suite pour optimiser la batterie, c’est ce que j’ai fait il a donc tourné tous les jours depuis que je l’ai reçu. A part les 2 blocages du 1er jour il ne s’est plus jamais bloqué dans la maison, a t il appris ou est-ce juste un hasard ? Je ne sais pas, quoi qu’il en soit je suis vraiment content de son boulot. Chose étonnante c’est qu’il trouve de la poussière même quand on croit que c’est propre. Apres son passage nous avons lavé le sol, l’appart était nickel, et bien le lendemain il était programmé pour tourner et il y avait encore de la poussière dans le bac de l’aspirateur.
@@ -113,7 +107,5 @@ Si non le [Neato Robotics XV signature](http://www.amazon.fr/gp/product/B00FN7Q7
 Il est vrai que je n’ai jamais eu d’aspirateur robot mais je trouve que c’est un appareil génial et qui remplit totalement les taches que je lui demande de faire c’est-à-dire garder un sol propre dans toute la maison sans intervention de ma part. Un petit coup rapide d’aspirateur traîneau ou ramasse poussière reste nécessaire lors du ménage hebdomadaire, mais la corvée d’aspirateur est belle et bien fini.
 
 Bientôt j’achète un [iRobot Scooba](http://www.amazon.fr/gp/product/B007OSV9Q0/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B007OSV9Q0&linkCode=as2&tag=guilbraimespa-21&linkId=L46NQ5Y7JT5DS5GS) pour passer la serpillière et un [WINBOT laveur de vitre](http://www.amazon.fr/gp/product/B00OJ768SS/ref=as_li_tl?ie=UTF8&camp=1642&creative=19458&creativeASIN=B00OJ768SS&linkCode=as2&tag=guilbraimespa-21&linkId=CFG6CC44FS6ALXI3) !
-
-
 
 **Et vous robot ou pas robot ? Neato ou un autre ? Faites nous parts de votre expérience avec les robots aspirateur.**

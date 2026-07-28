@@ -21,11 +21,11 @@ thumbnail: Scenario-ASK.png
 
 Si vous n’avez pas de **Mi-Robot** de Xiaomi, le **principe du scénario** sera exactement le même pour toute autre question, comme par exemple :
 
--   Dois-je éteindre les lumières ?
--   Dois-je activer l’alarme ?
--   Télé ou radio ?
--   Dois-je passer en mode Absent ?
--   C’est l’heure de #programme\_tv#. Dois-je le lancer ?
+- Dois-je éteindre les lumières ?
+- Dois-je activer l’alarme ?
+- Télé ou radio ?
+- Dois-je passer en mode Absent ?
+- C’est l’heure de #programme_tv#. Dois-je le lancer ?
 
 ![](./Scenario-ASK.png)
 
@@ -35,20 +35,20 @@ Avant de commencer le scénario, nous allons créer **2 commandes** dans le **pl
 
 ![](./Scenario-ASK-1.png)
 
--   Aller dans **JPI**.
--   Sélectionner le téléphone qui enverra les **SMS** (Nécessite une carte SIM GSM.)
--   Dans l’onglet **Commandes**, cliquer sur « **Assistant de commande JPI**« .
--   Nom  : **ASK** ou **SMS**. _J’ajoute mon prénom après le nom de la commande, pour pouvoir en faire une par membre de la famille._
--   Action : **sendSms**.
--   Number : Le numéro de téléphone du **destinataire**.
--   AskData : **jeedomJPI**. Pour la commande ASK il faut ajouter cette variable pour que JPI sache que le SMS envoyé attend une réponse.
--   **Sauvegarder**.
--   **Changer** le type de la commande « **Défaut** » par « **Message**« .
--   **Sauvegarder**.
+- Aller dans **JPI**.
+- Sélectionner le téléphone qui enverra les **SMS** (Nécessite une carte SIM GSM.)
+- Dans l’onglet **Commandes**, cliquer sur « **Assistant de commande JPI**« .
+- Nom  : **ASK** ou **SMS**. _J’ajoute mon prénom après le nom de la commande, pour pouvoir en faire une par membre de la famille._
+- Action : **sendSms**.
+- Number : Le numéro de téléphone du **destinataire**.
+- AskData : **jeedomJPI**. Pour la commande ASK il faut ajouter cette variable pour que JPI sache que le SMS envoyé attend une réponse.
+- **Sauvegarder**.
+- **Changer** le type de la commande « **Défaut** » par « **Message**« .
+- **Sauvegarder**.
 
 ![](./Scenario-ASK-2.png)
 
-Si vous n’avez pas modifié les réglages par défaut du scénario « **Réponses aux ASK** » de **l’APK** de **JPI** sur le téléphone, vous devriez avoir en face de **ASK\_DATA**, la variable : **jeedomJPI** que nous avons saisi plus tôt.
+Si vous n’avez pas modifié les réglages par défaut du scénario « **Réponses aux ASK** » de **l’APK** de **JPI** sur le téléphone, vous devriez avoir en face de **ASK_DATA**, la variable : **jeedomJPI** que nous avons saisi plus tôt.
 
 ![](./jpi.png)Voila pour les réglages de JPI, maintenant on passe au scénario.
 
@@ -60,11 +60,11 @@ Le scénario sera, dans mon cas, provoqué par un autre scénario, en fonction d
 
 Pour commencer, il faut **sélectionner** la commande **ASK**.
 
--   Cliquer sur : **Ajouter un bloc.**
--   Sélectionner : **ACTION**.
--   **Enregistrer**.
--   Cliquer sur : **Ajouter**.
--   Sélectionner le mot clé : **Faire une demande.**
+- Cliquer sur : **Ajouter un bloc.**
+- Sélectionner : **ACTION**.
+- **Enregistrer**.
+- Cliquer sur : **Ajouter**.
+- Sélectionner le mot clé : **Faire une demande.**
 
 ### Question : Voulez-vous que je lance l’aspirateur ?
 
@@ -76,8 +76,8 @@ Le champ réponse permet de connaître **les options disponibles** lors de l’e
 
 ### Variable : AspiAsk délais : 300 sec (5 minutes.)
 
--   La variable sera utilisée pour **interpréter** la **réponse** à la question dans le scénario. La réponse ne tient pas compte de la casse, vous pouvez, ou pas, mettre des majuscules aux réponses.
--   Le délais, en secondes, permet de renvoyer « **Aucune réponse** » en cas de **non réponse**. J’ai choisi de mettre 300 secondes (5 minutes), car si la question est envoyée lorsque je pars de chez moi, je ne veux pas devoir me dépêcher à répondre lorsque je suis au volant.
+- La variable sera utilisée pour **interpréter** la **réponse** à la question dans le scénario. La réponse ne tient pas compte de la casse, vous pouvez, ou pas, mettre des majuscules aux réponses.
+- Le délais, en secondes, permet de renvoyer « **Aucune réponse** » en cas de **non réponse**. J’ai choisi de mettre 300 secondes (5 minutes), car si la question est envoyée lorsque je pars de chez moi, je ne veux pas devoir me dépêcher à répondre lorsque je suis au volant.
 
 ### Commandes : #\[Hardware\]\[ARCHOS JPI\]\[ASK Guillaume\]#
 
@@ -132,7 +132,7 @@ Demande[message] => Voulez-vous que je lance l'aspirateur ?[timeout] => 300[vari
 ## Conclusion
 
 La fonction ASK apporte **beaucoup** de **possibilités.** A vous maintenant de l’adapter à vos besoins, sans en abuser. Personnellement j’utilise les ASK seulement dans mes scénarios d’absence.
-Sachez que pour pouvoir lancer **plusieurs ASK** en même temps, il faudra faire quelques **modifications** au niveau de **JPI (APK) ou du** **scénario**. On peut par exemple faire une variable **ASK\_En\_Cours** qui sera testée au **début** de chaque scénario ASK, avec un **Wait** jusqu’à ce que la variable soit vide.
+Sachez que pour pouvoir lancer **plusieurs ASK** en même temps, il faudra faire quelques **modifications** au niveau de **JPI (APK) ou du** **scénario**. On peut par exemple faire une variable **ASK_En_Cours** qui sera testée au **début** de chaque scénario ASK, avec un **Wait** jusqu’à ce que la variable soit vide.
 
 Voilà pour la fonction **ASK avec le plugin JPI**, mais si vous utilisez le **plugin Script**, vous ne pourrez pas utiliser la fonction ASK des scénarios. Mais il est possible **d’adapter** le scénario, c’est ce que nous verrons dans un **prochain article**.
 

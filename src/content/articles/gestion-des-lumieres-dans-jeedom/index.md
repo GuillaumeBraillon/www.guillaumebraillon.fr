@@ -13,14 +13,14 @@ thumbnail: Gestion-automatique-des-lumieres-dans-Jeedom-2.png
 
 Dans ce tutoriel, nous allons voir comment **gérer** simplement **les lumières avec l’allumage automatique** sur la détection de mouvement **puis l’extinction** sur l’absence de présence depuis un temps défini. Le **scénario** est volontairement simple pour qu’il soit **facile à comprendre**. L’exemple est basé sur les lampes de chevet de ma chambre, mais j’utilise le même principe dans mon salon avec, en autre, le niveau de luminosité, l’état d’ouverture des portes ou des volets ou le home cinéma. À la fin, je vous donnerais **quelques exemples** pour rendre le scénario un peu **plus complexe** afin de l’adapter à vos besoins.
 
--    **Côté Software**, j’utilise les plug-ins :
-    -   [Xiaomi Home](https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&categorie=&&name=xiaomi%20home) (6€).
+-  **Côté Software**, j’utilise les plug-ins :
+  - [Xiaomi Home](https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&categorie=&&name=xiaomi%20home) (6€).
 
--   **Côté hardware**, j’utilise :
-    -   Lampe de chevet Xiaomi Mijia Bedside Lamp.
-    -   Lampe de chevet Yeelight Bedside Lamp Wifi.
-    -   Capteurs de mouvement Xiaomi.
-    -   Passerelle Zigbee Xiaomi.
+- **Côté hardware**, j’utilise :
+  - Lampe de chevet Xiaomi Mijia Bedside Lamp.
+  - Lampe de chevet Yeelight Bedside Lamp Wifi.
+  - Capteurs de mouvement Xiaomi.
+  - Passerelle Zigbee Xiaomi.
 
 Évidemment, le scénario **fonctionne** avec **d’autres appareils** que ceux cités ici.
 
@@ -36,29 +36,29 @@ Le scénario sera déclenché lors de la **détection d’un mouvement**. À ce 
 
 Gestion des lumières dans Jeedom
 
--   Aller dans Outils/Scénarios.
--   Cliquer sur Ajouter.
--   Nommer le scénario **« Gestion des lumières ».**
--   Sélectionner un Groupe, Objet parent, une Catégorie et cocher : **«Activer» & «Visible»**.
--   Laisser le Mode de scénario sur **« Provoqué »**.
--   Cliquer sur **« + Déclencher ».**
--   Ajouter la commande d’un détecteur de mouvement et ajouter **« ==1 »** pour limiter le déclenchement seulement lorsqu’il y a un mouvement.
-    -   Exemple : **« #\[Chambre Parents\]\[Détecteur Mouvement\]\[Mouvement\]#==1»**
--   Aller dans l’onglet Scénario.
--   Cliquer sur **« Ajouter Bloc ».**
--   Sélectionner **« Action ».**
--   **Enregistrer.**
--   Ajouter une commande action en cliquant sur **« + Ajouter »** et **« Action ».**
+- Aller dans Outils/Scénarios.
+- Cliquer sur Ajouter.
+- Nommer le scénario **« Gestion des lumières ».**
+- Sélectionner un Groupe, Objet parent, une Catégorie et cocher : **«Activer» & «Visible»**.
+- Laisser le Mode de scénario sur **« Provoqué »**.
+- Cliquer sur **« + Déclencher ».**
+- Ajouter la commande d’un détecteur de mouvement et ajouter **« ==1 »** pour limiter le déclenchement seulement lorsqu’il y a un mouvement.
+  - Exemple : **« #\[Chambre Parents\]\[Détecteur Mouvement\]\[Mouvement\]#==1»**
+- Aller dans l’onglet Scénario.
+- Cliquer sur **« Ajouter Bloc ».**
+- Sélectionner **« Action ».**
+- **Enregistrer.**
+- Ajouter une commande action en cliquant sur **« + Ajouter »** et **« Action ».**
 
 ```js
-Action : remove_inat
+Action: remove_inat;
 ```
 
 Ici, on supprime les programmations des blocs **« Dans »** afin de ne pas multiplier les minuteries à chaque déclenchement du scénario.
 
--   Cliquer sur **« Ajouter Bloc ».**
--   Sélectionner **« Si/Alors/Sinon ».**
--   **Enregistrer.**
+- Cliquer sur **« Ajouter Bloc ».**
+- Sélectionner **« Si/Alors/Sinon ».**
+- **Enregistrer.**
 
 ```js
 SI (#[Chambre Parents][Lampe de chevet Droite][Statut]# == 0 OU #[Chambre Parents][Lampes de chevet Gauche][Statut]# == 0) ET floor(#[Chambre Parents][Détecteur Mouvement][Absence de mouvement]#/60) <= 10 ALORS
@@ -66,7 +66,7 @@ SI (#[Chambre Parents][Lampe de chevet Droite][Statut]# == 0 OU #[Chambre Parent
 
 Ce test permet de **vérifier l’état des lumières et la présence de mouvement**. Ici, l’absence de mouvement est renvoyée en secondes par le plugin Xiaomi. Pour **convertir en minutes** on utilise la fonction PHP **« floor »** et l’on divise par 60.
 
--   Ajouter 2 commandes Action en cliquant sur **« + Ajouter »** et **« Action »**.
+- Ajouter 2 commandes Action en cliquant sur **« + Ajouter »** et **« Action »**.
 
 ```js
 Action : #[Chambre Parents][Lampe de chevet Droite][On]#
@@ -78,19 +78,19 @@ Action : #[Chambre Parents][Lampe de chevet Gauche][On]#
 
 Si une des **lumières est éteinte et qu’un mouvement est détecté** alors on **allume**.
 
--   Cliquer sur **« + Ajouter »**.
--   Cliquer sur **« Bloc ».**
--   Sélectionner **« Dans ».**
--   **Enregistrer.**
+- Cliquer sur **« + Ajouter »**.
+- Cliquer sur **« Bloc ».**
+- Sélectionner **« Dans ».**
+- **Enregistrer.**
 
 ```js
 DANS(min) : 10
 ```
 
--   Ajouter 1 commande **« Action »** en cliquant sur **« + Ajouter »** et **« Action »** dans la partie **« Faire »**.
+- Ajouter 1 commande **« Action »** en cliquant sur **« + Ajouter »** et **« Action »** dans la partie **« Faire »**.
 
 ```js
-Action : scenario
+Action: scenario;
 ```
 
 ```js
@@ -98,16 +98,16 @@ Scénario: #[Chambre Parents][Lumières][Gestion Lumières]#
 ```
 
 ```js
-Action : Start
+Action: Start;
 ```
 
 Là, nous venons de mettre en place **une minuterie qui va relancer le scénario dans 10 minutes**. Le bloc **« Dans »** programme l’action dans 10 minutes. L’action consiste à démarrer le scénario sélectionné.
 
--   Cliquer sur **« > »** à côté du **« + Ajouter »** pour faire apparaître la partie Sinon.
--   Cliquer sur **« + Ajouter »** de la partie Sinon.
--   Cliquer sur **« Bloc ».**
--   Sélectionner **« Si/Alors/Sinon ».**
--   **Enregistrer.**
+- Cliquer sur **« > »** à côté du **« + Ajouter »** pour faire apparaître la partie Sinon.
+- Cliquer sur **« + Ajouter »** de la partie Sinon.
+- Cliquer sur **« Bloc ».**
+- Sélectionner **« Si/Alors/Sinon ».**
+- **Enregistrer.**
 
 ```js
 SI floor(#[Chambre Parents][Détecteur Mouvement][Absence de mouvement]#/60)> = 10 ALORS
@@ -115,7 +115,7 @@ SI floor(#[Chambre Parents][Détecteur Mouvement][Absence de mouvement]#/60)> = 
 
 Ici, on vérifie l’**absence de mouvement** qui est renvoyé en secondes par le plugin Xiaomi. Pour **convertir en minutes** on utilise la fonction PHP **« floor »** et l’on divise par 60.
 
--   Ajouter 2 commandes Action en cliquant sur **« + Ajouter »** et **« Action »**.
+- Ajouter 2 commandes Action en cliquant sur **« + Ajouter »** et **« Action »**.
 
 ```js
 Action : #[Chambre Parents][Lampe de chevet Droite][Off]#
@@ -127,20 +127,20 @@ Action : #[Chambre Parents][Lampe de chevet Gauche][Off]#
 
 Donc, s’il n’y a **pas de mouvement depuis 10 minutes on éteint** les lumières.
 
--   Cliquer sur **« > »** à côté du **« + Ajouter »** pour faire apparaître la partie Sinon.
--   Cliquer sur **« + Ajouter »** de la partie Sinon.
--   Cliquer sur **« Bloc ».**
--   Sélectionner **« Dans ».**
--   **Enregistrer.**
+- Cliquer sur **« > »** à côté du **« + Ajouter »** pour faire apparaître la partie Sinon.
+- Cliquer sur **« + Ajouter »** de la partie Sinon.
+- Cliquer sur **« Bloc ».**
+- Sélectionner **« Dans ».**
+- **Enregistrer.**
 
 ```js
 DANS(min) : 10
 ```
 
--   Ajouter 1 commande « Action » en cliquant sur **« + Ajouter »** et **« Action »** dans la partie **« Faire »**.
+- Ajouter 1 commande « Action » en cliquant sur **« + Ajouter »** et **« Action »** dans la partie **« Faire »**.
 
 ```js
-Action : scenario
+Action: scenario;
 ```
 
 ```js
@@ -148,7 +148,7 @@ Scénario: #[Chambre Parents][Lumières][Gestion Lumières]#
 ```
 
 ```js
-Action : Start
+Action: Start;
 ```
 
 Dans le cas où il y aurait eu un **mouvement dans les 10 minutes**, on **relance** le scénario **dans 10 minutes**.
@@ -182,7 +182,7 @@ Action : #[Chambre Parents][Lampe de chevet Gauche][Off]#
 ```
 
 ```js
-Action : STOP
+Action: STOP;
 ```
 
 Le fait d’ajouter un bloc spécifique pour la luminosité permet de **ne pas laisser les lumières allumées** en cas de **non-mouvement,** mais avec une **luminosité supérieure au seuil** d’extinction. L’action **« Stop »** permet de ne **pas relancer la minuterie**. _J’ai mis 90 pour le seuil d’extinction, mais à vous de l’adapter à la luminosité de votre pièce._
@@ -193,7 +193,7 @@ Il peut être pratique de **désactiver facilement un scénario**, car l’autom
 
 Pour cela j’ai créé un **virtuel** binaire avec une commande **Auto** et une **Manuel**.
 
-Au niveau du scénario, il faut **ajouter la commande État du virtuel** dans les événements déclencheurs. Ensuite, il faut **ajouter un bloc Si/Alors/Sinon après le remove\_init** qui vérifie l’état du virtuel et dans le cas où il est sur Manuel (0) alors on stoppe le scénario.
+Au niveau du scénario, il faut **ajouter la commande État du virtuel** dans les événements déclencheurs. Ensuite, il faut **ajouter un bloc Si/Alors/Sinon après le remove_init** qui vérifie l’état du virtuel et dans le cas où il est sur Manuel (0) alors on stoppe le scénario.
 
 ```js
 SI #[Appartement][Home Lumières][Autochambre]# == 0 Alors Stop
@@ -239,7 +239,7 @@ floor(lastChangeStateDuration(#[Chambre Parents][Détecteur Mouvement][Mouvement
 
 ### Adapter la durée de la minuterie
 
-Si vous avez suivi le tutoriel **« [Réglage automatique des lumières et des volumes](/articles/reglage-automatique-des-lumieres-et-des-volumes) »**, vous pouvez **ajuster la durée de la minuterie** en remplaçant la valeur des commandes **« Dans »** par la commande**#\[Informations\]\[Infos Valeurs Modes\]\[CH\_DelaisOff\]#**.
+Si vous avez suivi le tutoriel **« [Réglage automatique des lumières et des volumes](/articles/reglage-automatique-des-lumieres-et-des-volumes) »**, vous pouvez **ajuster la durée de la minuterie** en remplaçant la valeur des commandes **« Dans »** par la commande**#\[Informations\]\[Infos Valeurs Modes\]\[CH_DelaisOff\]#**.
 
 Grâce à cela, vous pourrez avoir un **délai réduit** pour la **nuit** puis **plus élevé** le **matin** ou le **soir**.
 

@@ -33,22 +33,22 @@ thumbnail: XGIMI-H2-10-2.jpg
 
 **Caractéristiques techniques:**
 
--   CPU: Mstar 838 Cortex-A53
--   GPU: Mali-T820
--   RAM: 2 Go
--   ROM: 16 Go
--   Puce d’affichage: 0,47 pouce DMD RGB-LED
--   Lampe: LED
--   Puissance de la lampe: 100 – 135W
--   Durée de vie de la lampe: 30 000 heures
+- CPU: Mstar 838 Cortex-A53
+- GPU: Mali-T820
+- RAM: 2 Go
+- ROM: 16 Go
+- Puce d’affichage: 0,47 pouce DMD RGB-LED
+- Lampe: LED
+- Puissance de la lampe: 100 – 135W
+- Durée de vie de la lampe: 30 000 heures
 
--   WIFI: 802.11 a / b / g / n / ac
--   Bluetooth: Bluetooth 4.0
--   Alimentation: 19V / 5A
--   Bruit (dB): moins de 30dB
--   Pile de la télécommande: 2 piles AAA (non incluses)
--   Poids : 2.1200 kg
--   Taille (L x l x h): 20,10 x 20,10 x 13,50 cm
+- WIFI: 802.11 a / b / g / n / ac
+- Bluetooth: Bluetooth 4.0
+- Alimentation: 19V / 5A
+- Bruit (dB): moins de 30dB
+- Pile de la télécommande: 2 piles AAA (non incluses)
+- Poids : 2.1200 kg
+- Taille (L x l x h): 20,10 x 20,10 x 13,50 cm
 
 ## Déballage du XGIMI H2
 
@@ -86,14 +86,14 @@ Pour finir, l’arrière est totalement occupé par la grille de ventilation et 
 
 Il est relativement simple de brancher l’appareil grâce aux différentes connectiques proposées qui offrent une multitude de possibilités, de gauche à droite :
 
--   Prise casque.
--   Prise S/PDIF.
--   Port USB 2.0.
--   Port USB 3.0.
--   Port HDMI compatible ARC.
--   Port HDMI.
--   Port Ethernet.
--   Prise power.
+- Prise casque.
+- Prise S/PDIF.
+- Port USB 2.0.
+- Port USB 3.0.
+- Port HDMI compatible ARC.
+- Port HDMI.
+- Port Ethernet.
+- Prise power.
 
 ![](./XGIMI-H2-12.jpg)
 
@@ -119,8 +119,8 @@ Grace au port HDMI compatible ARC, ou au port S/PDIF, vous pouvez brancher le vi
 
 L’avantage est double :
 
--   Vous pouvez diffuser l’image des vidéos provenant des appareils externes reliés à l’ampli Home-cinéma, vers le vidéoprojecteur et le son est diffusé sur les enceintes de l’ampli.
--   A l’inverse, lors de la lecture de vidéos en local depuis le vidéoprojecteur, le son est envoyé vers l’ampli via le port HDMI ARC.
+- Vous pouvez diffuser l’image des vidéos provenant des appareils externes reliés à l’ampli Home-cinéma, vers le vidéoprojecteur et le son est diffusé sur les enceintes de l’ampli.
+- A l’inverse, lors de la lecture de vidéos en local depuis le vidéoprojecteur, le son est envoyé vers l’ampli via le port HDMI ARC.
 
 ## Installation du XGIMI H2
 
@@ -186,10 +186,10 @@ Le Zooming réglable n’est pas automatisé, mais permet d’affiner la taille 
 
 L’image peut être inversée où retournée en fonction du mode d’installation du vidéoprojecteur.
 
--   « Projection orthogonale avant » : L’image est normale, le H2 est face à l’écran.
--   « Projection orthogonale suspendue » : L’image est renversée, le H2 est fixé au plafond.
--   « Rétroprojection avant » : L’image est inversée, le H2 est derrière l’écran.
--   « Rétroprojection suspendue » : L’image est inversée et renversée, le H2 est derrière l’écran, au plafond.
+- « Projection orthogonale avant » : L’image est normale, le H2 est face à l’écran.
+- « Projection orthogonale suspendue » : L’image est renversée, le H2 est fixé au plafond.
+- « Rétroprojection avant » : L’image est inversée, le H2 est derrière l’écran.
+- « Rétroprojection suspendue » : L’image est inversée et renversée, le H2 est derrière l’écran, au plafond.
 
 Plusieurs modes d’image sont prédéfinis, Standard, Doux, OFFICE, Jeu, Football, Brillant et Utilisateur pour choisir vos propres réglages.
 
@@ -204,9 +204,9 @@ Le XGIMI H2 n’est pas installé avec une version d’Android TV pure, comme su
 
 Au moment où j’écris cet article (Janvier 2019) la dernière mise à jour est : 
 
--   **Version du système** : V1.3.3
--   **Version GMUI** : 3.2.0
--   **Version Android** : Android 6.0
+- **Version du système** : V1.3.3
+- **Version GMUI** : 3.2.0
+- **Version Android** : Android 6.0
 
 ![](./XGIMI-H2-67.jpg)
 
@@ -216,14 +216,14 @@ L’interface Android GMUI​ 3.2.0
 
 Plusieurs applications sont déjà installées.
 
--   **YouTube** : Il est possible de se connecter avec son compte utilisateur pour retrouver ses playlists et les recommandations comme sur un smartphone.
--   **Navigateur Web** : Une version de Chrome permet d’aller sur internet et avec le mode souris virtuelle il est très facile de naviguer à l’aide de la télécommande gyroscopique.
--   **File manager** : C’est un explorateur de fichier comme sur un ordinateur.
--   **WPS Office** : Permet de lire des fichiers Word pour une utilisation plus bureautique.
--   **Majordome du téléviseur sans écran** : C’est une application d’optimisation qui permet, entre autres, de faire un nettoyage des fichiers inutiles ou de tester sa connexion internet.
--   **Projection d’écran sans fil** : Application de mirroring depuis IOS (Airplay), Android ou Miracast.
--   **Assistant sans écran TV** : Permet le contrôler depuis un smartphone avec une télécommande virtuelle, via l’application XGIMI Assistant.
--   **Aptoide** : Remplace le Google store officiel pour l’installation d’autres applications.
+- **YouTube** : Il est possible de se connecter avec son compte utilisateur pour retrouver ses playlists et les recommandations comme sur un smartphone.
+- **Navigateur Web** : Une version de Chrome permet d’aller sur internet et avec le mode souris virtuelle il est très facile de naviguer à l’aide de la télécommande gyroscopique.
+- **File manager** : C’est un explorateur de fichier comme sur un ordinateur.
+- **WPS Office** : Permet de lire des fichiers Word pour une utilisation plus bureautique.
+- **Majordome du téléviseur sans écran** : C’est une application d’optimisation qui permet, entre autres, de faire un nettoyage des fichiers inutiles ou de tester sa connexion internet.
+- **Projection d’écran sans fil** : Application de mirroring depuis IOS (Airplay), Android ou Miracast.
+- **Assistant sans écran TV** : Permet le contrôler depuis un smartphone avec une télécommande virtuelle, via l’application XGIMI Assistant.
+- **Aptoide** : Remplace le Google store officiel pour l’installation d’autres applications.
 
 ## L’installation d’applications
 

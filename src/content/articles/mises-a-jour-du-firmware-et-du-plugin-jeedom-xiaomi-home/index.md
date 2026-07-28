@@ -118,7 +118,7 @@ Il s’agit des sons envoyés dans le Gateway [depuis l’application Mi-Home]
 
 _Merci à [romainhc](https://www.jeedom.com/forum/memberlist.php?mode=viewprofile&u=7304) pour la liste._
 
- ***Info** : Dans la Version 3 de Jeedom, une liste déroulante avec le nom des fichiers devrait être disponible.*
+ **\*Info** : Dans la Version 3 de Jeedom, une liste déroulante avec le nom des fichiers devrait être disponible.\*
 
 _**Commande non opérationnelle :** Chez moi et d’autres utilisateurs, la commande « **Jouer le son avec volume** » ne fonctionne pas. Le volume souhaité n’est pas pris en compte._
 

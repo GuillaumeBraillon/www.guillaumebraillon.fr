@@ -1,17 +1,12 @@
 ---
+import { Image } from "astro:assets";
 import RepoIcon from "./RepoIcon.astro";
-
-interface Thumbnail {
-  src: string;
-  width: number;
-  height: number;
-}
 
 interface Props {
   href: string;
   title: string;
   description?: string;
-  thumbnail?: Thumbnail;
+  thumbnail?: ImageMetadata;
   thumbnailAlt?: string;
   wrapperClass?: string;
 }
@@ -29,10 +24,8 @@ const {
 <div class={`py-4 flex flex-col sm:flex-row sm:items-start gap-4 ${wrapperClass}`.trim()}>
   {
     thumbnail && (
-      <img
-        src={thumbnail.src}
-        width={thumbnail.width}
-        height={thumbnail.height}
+      <Image
+        src={thumbnail}
         alt={thumbnailAlt}
         class="w-24 h-24 object-cover rounded"
         loading="lazy"

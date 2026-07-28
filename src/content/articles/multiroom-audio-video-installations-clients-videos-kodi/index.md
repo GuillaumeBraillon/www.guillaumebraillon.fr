@@ -11,9 +11,9 @@ thumbnail: lmskodisynojeedom-Clients.png
 
 # Multiroom Audio-Vidéo – Installations clients Vidéos (Kodi)
 
--   **Cet article fait suite aux articles :**
-    -   [Multiroom Audio-Vidéo – Le principe de fonctionnement](/articles/multiroom-audio-video-le-principe-de-fonctionnement)
-    -   [Multiroom Audio-Vidéo – Installations coté serveur](/articles/multiroom-audio-video-installations-cote-serveur)
+- **Cet article fait suite aux articles :**
+  - [Multiroom Audio-Vidéo – Le principe de fonctionnement](/articles/multiroom-audio-video-le-principe-de-fonctionnement)
+  - [Multiroom Audio-Vidéo – Installations coté serveur](/articles/multiroom-audio-video-installations-cote-serveur)
 
 > Pour la partie client vidéos, nous allons voir comment mettre en place des clients permettant de lire les vidéos stockées sur le serveur NAS. Comme, « **qui peut le plus, peut le moins**« , nous verrons que les clients vidéo seront aussi clients audio.
 >
@@ -29,7 +29,7 @@ Nous allons voir comment installer Kodi sur RaspberryPi, Android TV / Phone et W
 
 Peu importe la plateforme utilisée pour installer Kodi, il faut lui donner les informations nécessaires pour se connecter au NAS. Pour cela nous allons créer un fichier de configuration appelé **advancedsettings.xml** que nous copierons dans les répertoires **Userdata** des différents Kodi du réseau.
 
--   Ouvrir un éditeur de texte du type [Notepad++](https://notepad-plus-plus.org/download/v7.3.3.html) ou bloc note et copier le texte suivant. N’oubliez pas de modifier les informations avec les vôtres puis d’enregistrer le fichier sous **advancedsettings.xml.**
+- Ouvrir un éditeur de texte du type [Notepad++](https://notepad-plus-plus.org/download/v7.3.3.html) ou bloc note et copier le texte suivant. N’oubliez pas de modifier les informations avec les vôtres puis d’enregistrer le fichier sous **advancedsettings.xml.**
 
 ```
 <advancedsettings>
@@ -47,29 +47,29 @@ Peu importe la plateforme utilisée pour installer Kodi, il faut lui donner les 
 </advancedsettings>
 ```
 
--   Ce fichier devra être copié dans le répertoire **userdata** de Kodi, nous verrons pour chaque plateforme comment y accéder.
+- Ce fichier devra être copié dans le répertoire **userdata** de Kodi, nous verrons pour chaque plateforme comment y accéder.
 
 ## Installation de Kodi sur Raspberry
 
 Pour l’installation de kodi sur Raspberry j’utilise la version OSMC qui est simple et efficace à installer. Il y a la gestion du wifi et bluetooth en natif.
 
 1.  **Raspberry pi3** (recommandé) et les accessoires nécessaires.
-    -   [Kit complet](http://amzn.to/2y1fGx3)
-    -   [Raspberry pi3](http://amzn.to/2yGeaQ9)
-    -   [Carte µSD](http://amzn.to/2gyRMxs)
-    -   [Boitier](http://amzn.to/2yQi34C)
-    -   [Alimentation](http://amzn.to/2yH3qkD)
-    -   [Cable HDMI](http://amzn.to/2gE5N0u)
+    - [Kit complet](http://amzn.to/2y1fGx3)
+    - [Raspberry pi3](http://amzn.to/2yGeaQ9)
+    - [Carte µSD](http://amzn.to/2gyRMxs)
+    - [Boitier](http://amzn.to/2yQi34C)
+    - [Alimentation](http://amzn.to/2yH3qkD)
+    - [Cable HDMI](http://amzn.to/2gE5N0u)
 2.  **OSMC**
-    -   Télécharger un installeur en fonction de votre systeme d’exploitation ([Windows](http://download.osmc.tv/installers/osmc-installer.exe), [OS X](http://download.osmc.tv/installers/osmc-installer.dmg), [Linux](http://software.opensuse.org/download.html?project=home:osmc&package=osmc-installer&hcolor=17394a&fcolor=17394a&acolor=17394a)).
-    -   Une fois l’installeur téléchargé, le lancer.
-    -   Choisir la langue (English), et le matériel cible : **Raspberry pi 2/ 3**.
-    -   Sélectionner la version, il faut prendre la plus récente.
-    -   Sélectionner le support, ici **SD Card**.
-    -   Sélectionner le moyen de connexion du Raspberry, **Wifi ou Ethernet**.
-    -   Sélectionner la **SD Card** pour l’installation.
-    -   Valider la licence.
-    -   La copie se lance sur la carte SD, une fois finie il suffit de mettre la carte SD dans le Raspberry Pi.
+    - Télécharger un installeur en fonction de votre systeme d’exploitation ([Windows](http://download.osmc.tv/installers/osmc-installer.exe), [OS X](http://download.osmc.tv/installers/osmc-installer.dmg), [Linux](http://software.opensuse.org/download.html?project=home:osmc&package=osmc-installer&hcolor=17394a&fcolor=17394a&acolor=17394a)).
+    - Une fois l’installeur téléchargé, le lancer.
+    - Choisir la langue (English), et le matériel cible : **Raspberry pi 2/ 3**.
+    - Sélectionner la version, il faut prendre la plus récente.
+    - Sélectionner le support, ici **SD Card**.
+    - Sélectionner le moyen de connexion du Raspberry, **Wifi ou Ethernet**.
+    - Sélectionner la **SD Card** pour l’installation.
+    - Valider la licence.
+    - La copie se lance sur la carte SD, une fois finie il suffit de mettre la carte SD dans le Raspberry Pi.
 
 Voila vous avez maintenant Kodi (OSMC) d’installé sur votre RaspberryPi il ne reste plus qu’a copier le fichier **advancedsettings.xml** créé plus tôt.
 
@@ -113,8 +113,8 @@ Sous Android le fichier **advancedsettings.xml** doit être copié dans le répe
 
 Parfois, le chemin exact diffère d’un appareil à l’autre. Le dossier userdata est habituellement dans la « carte SD », de sorte que le chemin peut être **/sdcard/Android/data/org.xbmc.kodi/files/.kodi/userdata/.**
 
--   **Copie sur une tablette ou un téléphone** : Il faut simplement se connecter à l’ordinateur et parcourir les dossiers. Il faut afficher les fichiers cachés pour aller jusqu’au répertoire.
--   **Copie sur Android TV** : Sur une Freebox Mini4k par exemple, il faut installer un logiciel pour pouvoir explorer les fichiers comme [Es Explorateur](https://play.google.com/store/apps/details?id=com.estrongs.android.pop&hl=fr&rdid=com.estrongs.android.pop). Celui-ci permet de parcourir les dossiers du téléphone mais aussi d’accéder au dossier en FTP depuis un pc Windows ce qui est plus simple pour faire la copie du fichier.
+- **Copie sur une tablette ou un téléphone** : Il faut simplement se connecter à l’ordinateur et parcourir les dossiers. Il faut afficher les fichiers cachés pour aller jusqu’au répertoire.
+- **Copie sur Android TV** : Sur une Freebox Mini4k par exemple, il faut installer un logiciel pour pouvoir explorer les fichiers comme [Es Explorateur](https://play.google.com/store/apps/details?id=com.estrongs.android.pop&hl=fr&rdid=com.estrongs.android.pop). Celui-ci permet de parcourir les dossiers du téléphone mais aussi d’accéder au dossier en FTP depuis un pc Windows ce qui est plus simple pour faire la copie du fichier.
 
 1.  Ouvrir l’application est cliquer sur « **Affichage sur le PC**« .
 2.  Cliquer sur « **Démarrer**« .
@@ -185,6 +185,6 @@ Voilà, la configuration des clients vidéos est finie, il ne vous reste plus qu
 
 Nous avons vu dans cet article que les clients vidéos permettaient aussi de faire office de client audio grâce à l’UPNP et le Airplay. Dans le prochain article, nous verrons comment installer des clients audio en recyclant un vieux téléphone Android en Squeezebox.
 
--   [Multiroom Audio-Vidéo – Le principe de fonctionnement](/articles/multiroom-audio-video-le-principe-de-fonctionnement)
--   [Multiroom Audio-Vidéo – Installations coté serveur](/articles/multiroom-audio-video-installations-cote-serveur)
--   [Multiroom Audio-Vidéo – Installations clients Audio](#) (A venir)
+- [Multiroom Audio-Vidéo – Le principe de fonctionnement](/articles/multiroom-audio-video-le-principe-de-fonctionnement)
+- [Multiroom Audio-Vidéo – Installations coté serveur](/articles/multiroom-audio-video-installations-cote-serveur)
+- [Multiroom Audio-Vidéo – Installations clients Audio](#) (A venir)

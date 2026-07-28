@@ -13,10 +13,10 @@ thumbnail: Jeedom-scenarios-1-bouton.png
 
 > Le scenario consiste à utiliser le bouton « Interrupteur Switch Xiaomi » dans Jeedom avec les différentes fonctions disponibles :
 >
-> -   **Click** : Allume et éteint la LED du Gateway en fonction de son état.
-> -   **Double\_click** : Arrêt d’un scénario. Dans mon cas, j’arrête les alertes d’ouverture de la porte d’entrée.
-> -   **Long\_click\_press** : Désactive un scénario. Dans mon cas, le scénario d’extinction automatique de la prise qui commande la lumière du couloir des chambres.
-> -   **Long\_click\_release** : Je ne l’utilise pas car je n’en voit pas trop l’intérêt, mais la structure du scénario reste la même que pour les autres.
+> - **Click** : Allume et éteint la LED du Gateway en fonction de son état.
+> - **Double_click** : Arrêt d’un scénario. Dans mon cas, j’arrête les alertes d’ouverture de la porte d’entrée.
+> - **Long_click_press** : Désactive un scénario. Dans mon cas, le scénario d’extinction automatique de la prise qui commande la lumière du couloir des chambres.
+> - **Long_click_release** : Je ne l’utilise pas car je n’en voit pas trop l’intérêt, mais la structure du scénario reste la même que pour les autres.
 
 ![](./Jeedom-scenarios-1-bouton.png)
 
@@ -40,7 +40,7 @@ Alors, on allume le Gateway en passant la luminosité à 100.
 
 Sinon, on éteint le Gateway en passant la luminosité à 0.
 
-## SI #\[Salon\]\[Interupteur\]\[status\]# == « double\_click »
+## SI #\[Salon\]\[Interupteur\]\[status\]# == « double_click »
 
 Là, on vérifie s’il y a un double click, alors on rentre dans la boucle.
 
@@ -64,7 +64,7 @@ La deuxième action diffuse un message vocal via PlayTTS, indiquant que l’aler
 
 La dernière action affiche un message dans le centre de message de Jeedom, au cas où je rate la notification vocale, ou si ce n’est pas moi qui l’actionne.
 
-## SI #\[SALON\]\[INTERUPTEUR\]\[STATUS\]# == « LONG\_CLICK\_PRESS »
+## SI #\[SALON\]\[INTERUPTEUR\]\[STATUS\]# == « LONG_CLICK_PRESS »
 
 Là, on vérifie si le bouton est pressé longuement, 2 à 3 secondes, alors on rentre dans la boucle.
 
@@ -116,6 +116,6 @@ Lumière couloir est activée.
 
 Le scénario est en fait, 3 scénarios en un, ils sont appelés en fonction du statu du bouton. Les algorithmes n’ont pas de « SINON », ils se terminent et passent au suivant. J’aurais pu les imbriquer, mais cela n’avait pas vraiment d’intérêt et je pense que cela ralentirait le processus. Il est bien plus simple de lire chaque scénario s’ils sont séparés.
 
-\[alert-announce\]Je ne fais pas de test sur le statu « Long\_click\_release » car je n’en vois pas l’intérêt pour le moment.\[/alert-announce\]
+\[alert-announce\]Je ne fais pas de test sur le statu « Long_click_release » car je n’en vois pas l’intérêt pour le moment.\[/alert-announce\]
 
 Retrouvez la liste des plugins, les scénarios, les images et le matériel compatible Jeedom sur la page: [Matériel, Plugin et plus.](/articles)

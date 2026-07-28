@@ -15,12 +15,11 @@ thumbnail: lumiereON.jpg
 >
 > Dans ce scénario, j’utilise l’interrupteur **bouton switch Xiaomi** qui est aussi **pratique** et **discret** que **pas cher**. Pour plus de détails sur son fonctionnement, je vous invite à lire l’article dédié [Jeedom Scenario – Bouton Switch Xiaomi](/articles/jeedom-scenario-bouton-switch-xiaomi).
 >
-> Aujourd’hui, nous n’allons voir qu’une seule commande, le « **double\_click**« , vous pouvez, bien évidement, utiliser les autres commandes pour d’autres actions.
->
+> Aujourd’hui, nous n’allons voir qu’une seule commande, le « **double_click**« , vous pouvez, bien évidement, utiliser les autres commandes pour d’autres actions.
 >
 > Xiaomi Smart Wireless Switch![Gearbest Xiaomi Smart Wireless Switch](http://gloimg.gearbest.com/gb/pdm-product-pic/Electronic/2017/01/02/goods-img/1487079974626485437.jpeg "Gearbest Xiaomi Smart Wireless Switch")
 >
-> Le but de ce scénario, c’est de pouvoir allumer les 2 lumières que j’ai dans mon salon, indépendamment l’une de l’autre, ou ensemble et les éteindre. Le tout avec une seule commande, le « **double\_click**« .
+> Le but de ce scénario, c’est de pouvoir allumer les 2 lumières que j’ai dans mon salon, indépendamment l’une de l’autre, ou ensemble et les éteindre. Le tout avec une seule commande, le « **double_click**« .
 >
 > Le schéma d’allumage :
 >
@@ -35,7 +34,7 @@ thumbnail: lumiereON.jpg
 
 On aura besoin simplement d’un déclenchement sur le changement de statut du bouton. #\[Salon\]\[Interrupteur\]\[status\]#
 
-## SI #\[Salon\]\[Interrupteur\]\[status\]# == « double\_click » ALORS
+## SI #\[Salon\]\[Interrupteur\]\[status\]# == « double_click » ALORS
 
 Là, on vérifie s’il y a un double clic, alors on rentre dans la boucle.
 

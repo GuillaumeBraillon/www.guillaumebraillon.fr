@@ -13,18 +13,18 @@ thumbnail: reglages-auto-Jeedom-2-2.png
 
 Dans ce tutoriel Jeedom nous allons voir comment automatiser les réglages, en fonction des pièces et du moment de la journée, le réglage des lumières et du volume des appareils audio connectés à Jeedom.
 
--    **Coté Software** j’utilise les plugins :
-    -   [Xiaomi Home](https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&&name=xiaomi%20home) (6 €).
-    -   [Google Cast](https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&&name=google%20cast) (Gratuit).
-    -   [Virtuel](https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&name=Virtuel&certification=Officiel&&categorie=programming) (Gratuit).
-    -   [Widget](https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&name=widget&&categorie=programming) (Gratuit).
-    -   [Mode](https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&name=Mode&certification=Officiel&&categorie=organization) (Gratuit).
+-  **Coté Software** j’utilise les plugins :
+  - [Xiaomi Home](https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&&name=xiaomi%20home) (6 €).
+  - [Google Cast](https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&&name=google%20cast) (Gratuit).
+  - [Virtuel](https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&name=Virtuel&certification=Officiel&&categorie=programming) (Gratuit).
+  - [Widget](https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&name=widget&&categorie=programming) (Gratuit).
+  - [Mode](https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&name=Mode&certification=Officiel&&categorie=organization) (Gratuit).
 
--   **Coté hardware** j’utilise :
-    -   Ampoules Xiaomi Yeelight.
-    -   Box TV Xiaomi Mi-Box.
-    -   Google Home.
-    -   Tablettes et smartphone avec JPI.
+- **Coté hardware** j’utilise :
+  - Ampoules Xiaomi Yeelight.
+  - Box TV Xiaomi Mi-Box.
+  - Google Home.
+  - Tablettes et smartphone avec JPI.
 
 Evidemment le principe est le même avec d’autres appareils permettant des réglages similaires.
 
@@ -42,16 +42,16 @@ Virtuel Infos Valeurs
 
 On l’appellera **« Virtuel Infos Valeurs »** et on y trouvera :
 
--   **L’entête avec le mode en cours.**
--   **Une première colonne avec les différentes zones de la maison :**
-    -   Salon.
-    -   Chambres.
--   **Cinq colonnes avec les réglages en fonction du mode en cours.**
-    -   Niveau de luminosité des lumières (%).
-    -   Température des blancs (1700 -6500).
-    -   Volume sonore des appareils audio (%).
-    -   Délais Off (Min) avant extinction automatique des lumières.
-    -   Seuil de luminosité (N/A) avant extinction automatique des lumières.
+- **L’entête avec le mode en cours.**
+- **Une première colonne avec les différentes zones de la maison :**
+  - Salon.
+  - Chambres.
+- **Cinq colonnes avec les réglages en fonction du mode en cours.**
+  - Niveau de luminosité des lumières (%).
+  - Température des blancs (1700 -6500).
+  - Volume sonore des appareils audio (%).
+  - Délais Off (Min) avant extinction automatique des lumières.
+  - Seuil de luminosité (N/A) avant extinction automatique des lumières.
 
 **Le second virtuel** permet de **saisir** les valeurs en fonction des **moments de la journée** (modes) et des **zones de la maison** (Salon, Chambres).
 
@@ -61,17 +61,17 @@ Virtuel Saisie Valeurs
 
 On l’appellera **« Virtuel Saisie Valeurs »** et on y trouvera :
 
--   **Une première colonne avec les différents modes :**
-    -   Matin.
-    -   Journée.
-    -   Soir.
-    -   Nuit.
--   **Cinq colonnes avec les différents réglages :**
-    -   Niveau de luminosité des lumières (%).
-    -   Température des blancs (1700 -6500).
-    -   Volume sonore des appareils audio (%).
-    -   Délais Off (Min) avant extinction automatique des lumières. (A utiliser dans vos scénarios de gestion de la lumière).
-    -   Seuil de luminosité (N/A) avant extinction automatique des lumières. (A utiliser dans vos scénarios de gestion de la lumière).
+- **Une première colonne avec les différents modes :**
+  - Matin.
+  - Journée.
+  - Soir.
+  - Nuit.
+- **Cinq colonnes avec les différents réglages :**
+  - Niveau de luminosité des lumières (%).
+  - Température des blancs (1700 -6500).
+  - Volume sonore des appareils audio (%).
+  - Délais Off (Min) avant extinction automatique des lumières. (A utiliser dans vos scénarios de gestion de la lumière).
+  - Seuil de luminosité (N/A) avant extinction automatique des lumières. (A utiliser dans vos scénarios de gestion de la lumière).
 
 **Les quatre premières colonnes sont doubles afin de pouvoir saisir des valeurs différentes en fonction des Zones.**
 
@@ -97,38 +97,38 @@ Ce virtuel est des plus simple car il ne contient que des commandes infos et pas
 
 ![](./reglages-auto-Jeedom-1.png)
 
--   Aller dans Plugins / Programmation / Virtuel.
--   Cliquer sur Ajouter.
--   Nommer le virtuel **« Virtuel Infos Valeurs ».**
--   Sélectionner un Objet parent, une Catégorie et cocher Activer & Visible.
--   Sauvegarder.
--   Aller dans l’onglet Commandes.
--   Cliquer sur **« Ajouter une info virtuelle »** autant de fois que le nombre de commandes par mode + 1, soit dans mon cas 9 + 1 = 10.
--   Nommer la première commande **« Mode »**.
-    -   Sélectionner le Sous-Type : **« Autre ».**
-    -   Dans **« Valeur »** cliquer sur **« Rechercher l’équipement »** et sélectionner la commande Mode. Exemple : #\[Appartement\]\[Modes Maison\]\[Mode\]#.
--   Nommer les autres commandes sous forme **« Zone\_Commande ».**
-    -   Sélectionner les Sous-Type : **« Numérique ».**
-    -   Sélectionner les Unités.
--   Sauvegarder.
+- Aller dans Plugins / Programmation / Virtuel.
+- Cliquer sur Ajouter.
+- Nommer le virtuel **« Virtuel Infos Valeurs ».**
+- Sélectionner un Objet parent, une Catégorie et cocher Activer & Visible.
+- Sauvegarder.
+- Aller dans l’onglet Commandes.
+- Cliquer sur **« Ajouter une info virtuelle »** autant de fois que le nombre de commandes par mode + 1, soit dans mon cas 9 + 1 = 10.
+- Nommer la première commande **« Mode »**.
+  - Sélectionner le Sous-Type : **« Autre ».**
+  - Dans **« Valeur »** cliquer sur **« Rechercher l’équipement »** et sélectionner la commande Mode. Exemple : #\[Appartement\]\[Modes Maison\]\[Mode\]#.
+- Nommer les autres commandes sous forme **« Zone_Commande ».**
+  - Sélectionner les Sous-Type : **« Numérique ».**
+  - Sélectionner les Unités.
+- Sauvegarder.
 
 ![Jeedom Réglage automatique](./reglages-auto-Jeedom-3.png)
 
 Vous pouvez améliorer l’apparence des commandes en cliquant sur les triples roues crantées à côté des boutons « Tester » pour :
 
--   **Affecter une icône.**
-    -   Dans l’onglet **« Informations »** cliquer sur le bouton **« Icône ».**
-    -   Sélectionner l’icône.
-    -   Valider.
+- **Affecter une icône.**
+  - Dans l’onglet **« Informations »** cliquer sur le bouton **« Icône ».**
+  - Sélectionner l’icône.
+  - Valider.
 
 ![Jeedom Réglage automatique](./reglages-auto-Jeedom-4.png)
 
 Affecter une icône
 
--   **Changer l’apparence des commandes.**
-    -   Dans l’onglet **« Affichage »**.
-    -   Sélectionner un Widget. **« line (core) »** dans l’exemple.
-    -   Enregistrer.
+- **Changer l’apparence des commandes.**
+  - Dans l’onglet **« Affichage »**.
+  - Sélectionner un Widget. **« line (core) »** dans l’exemple.
+  - Enregistrer.
 
 ![Jeedom Réglage automatique](./reglages-auto-Jeedom-5.png)
 
@@ -138,22 +138,22 @@ Maintenant que le virtuel ressemble à une liste de commandes, nous allons le me
 
 ![Jeedom Réglage automatique](./reglages-auto-Jeedom-6.png)
 
--   Cliquer sur **« Configuration avancée ».**
--   Aller dans l’onglet **« Affichage ».**
--   Décocher **« Afficher le nom ».**
--   Aller dans l’onglet **« Disposition ».**
--   Sélectionner **« Tableau ».**
--   Nombre de lignes : 4.
--   Nombre de colonnes : 6.
--   Décocher **« Centrer dans les cases ».**
--   Laisser vide **« Style général des cases (CSS) ».**
--   Sans **« Style du tableau (CSS) »** saisir: **width: 100%; text-align: center;**
-    -   width: 100%; Permet le redimensionnement de la largeur du tableau à 100%.
-    -   text-align: center; Permet d’aligner les informations au centre des cases du tableau.
--   Enregistrer.
--   Fermer la fenêtre.
--   Cliquer à nouveau sur **« Configuration avancée ».**
--   Aller dans l’onglet **« Disposition ».**
+- Cliquer sur **« Configuration avancée ».**
+- Aller dans l’onglet **« Affichage ».**
+- Décocher **« Afficher le nom ».**
+- Aller dans l’onglet **« Disposition ».**
+- Sélectionner **« Tableau ».**
+- Nombre de lignes : 4.
+- Nombre de colonnes : 6.
+- Décocher **« Centrer dans les cases ».**
+- Laisser vide **« Style général des cases (CSS) ».**
+- Sans **« Style du tableau (CSS) »** saisir: **width: 100%; text-align: center;**
+  - width: 100%; Permet le redimensionnement de la largeur du tableau à 100%.
+  - text-align: center; Permet d’aligner les informations au centre des cases du tableau.
+- Enregistrer.
+- Fermer la fenêtre.
+- Cliquer à nouveau sur **« Configuration avancée ».**
+- Aller dans l’onglet **« Disposition ».**
 
 A partir d’ici vous pouvez, soit déplacer les commandes pour ordonner votre tableau comme vous le voulez, soit suivre les étapes numérotées pour avoir le même virtuel que moi.
 
@@ -166,9 +166,9 @@ A partir d’ici vous pouvez, soit déplacer les commandes pour ordonner votre t
 7.  Copier **« border-right: 3px solid #ffffff66; »** dans les cases Style de la case (CSS) des colonnes 2 à 4.
 8.  Déplacer les commandes à la troisième et quatrième ligne sous les noms des commandes.
 9.  Vous pouvez ajouter **« background: rgba(255,255,255,0.2); »** dans les cases Style de la case (CSS) pour ajouter un fond.
-10.  Saisir les zones **« Salon et Chambre »** dans les premières cases des dernières lignes. (Texte de la case).
-11.  Copier **« padding-left: 10px; text-align: left;»** en dessous des zones. (Style de la case (CSS)).
-12.  Enregistrer.
+10. Saisir les zones **« Salon et Chambre »** dans les premières cases des dernières lignes. (Texte de la case).
+11. Copier **« padding-left: 10px; text-align: left;»** en dessous des zones. (Style de la case (CSS)).
+12. Enregistrer.
 
 ![Jeedom Réglage automatique](./reglages-auto-Jeedom-9.png)
 
@@ -186,18 +186,18 @@ Nous allons dans un premier temps créer un virtuel pour l’entête du tableau 
 
 L’entête du Virtuel Saisie Valeurs
 
--   Aller dans Plugins / Programmation / Virtuel.
--   Cliquer sur Ajouter.
--   Nommer le virtuel **« Virtuel Saisie Valeurs ».**
--   Sélectionner un Objet parent, une Catégorie et cocher Activer & Visible.
--   Sauvegarder.
+- Aller dans Plugins / Programmation / Virtuel.
+- Cliquer sur Ajouter.
+- Nommer le virtuel **« Virtuel Saisie Valeurs ».**
+- Sélectionner un Objet parent, une Catégorie et cocher Activer & Visible.
+- Sauvegarder.
 
 Création de la commande pour forcer la mise à jour des données.
 
 1.  Aller dans l’onglet Commandes.
 2.  Cliquer sur **« Ajouter une commande virtuelle »**.
 3.  Nommer la commande **« Forcer »**.
-    1.  Dans **« Nom information »** saisir **« cmd\_Forcer »**.
+    1.  Dans **« Nom information »** saisir **« cmd_Forcer »**.
 4.  Sauvegarder.
 5.  Lier la nouvelle commande info à la commande Action.
 6.  Mettre le sous type de la commande info sur Autre.
@@ -208,22 +208,22 @@ Commande pour forcer la mise à jour
 
 Mise en forme de l’entête du tableau.
 
--   Cliquer sur **« Configuration avancée ».**
--   Aller dans l’onglet **« Affichage ».**
--   Décocher **« Afficher le nom ».**
--   Aller dans l’onglet **« Disposition ».**
--   Sélectionner **« Tableau ».**
--   Nombre de lignes : 2.
--   Nombre de colonnes : 10.
--   Décocher **« Centrer dans les cases ».**
--   Laisser vide **« Style général des cases (CSS) ».**
--   Saisir dans **« Style du tableau (CSS) »**: width: 100%; text-align: center;
-    -   width: 100%; Permet le redimensionnement de la largeur du tableau à 100%.
-    -   text-align: center; Permet d’aligner les informations au centre des cases du tableau.
--   Enregistrer.
--   Fermer la fenêtre.
--   Cliquer à nouveau sur **« Configuration avancée ».**
--   Aller dans l’onglet **« Disposition ».**
+- Cliquer sur **« Configuration avancée ».**
+- Aller dans l’onglet **« Affichage ».**
+- Décocher **« Afficher le nom ».**
+- Aller dans l’onglet **« Disposition ».**
+- Sélectionner **« Tableau ».**
+- Nombre de lignes : 2.
+- Nombre de colonnes : 10.
+- Décocher **« Centrer dans les cases ».**
+- Laisser vide **« Style général des cases (CSS) ».**
+- Saisir dans **« Style du tableau (CSS) »**: width: 100%; text-align: center;
+  - width: 100%; Permet le redimensionnement de la largeur du tableau à 100%.
+  - text-align: center; Permet d’aligner les informations au centre des cases du tableau.
+- Enregistrer.
+- Fermer la fenêtre.
+- Cliquer à nouveau sur **« Configuration avancée ».**
+- Aller dans l’onglet **« Disposition ».**
 
 ![Jeedom Réglage automatique](./reglages-auto-Jeedom-12.png)
 
@@ -249,19 +249,19 @@ Astuce colonnes double
 
 Maintenant que nous avons l’entête du tableau, il ne nous reste plus qu’à créer les virtuels permettant de saisir les valeurs. Le principe c’est de faire un virtuel, puis de le dupliquer. Nous allons donc commencer par créer le virtuel **« Virtuel Saisie Valeurs Matin ».**
 
--   Aller dans Plugins / Programmation / Virtuel.
--   Cliquer sur Ajouter.
--   Nommer le virtuel **« Virtuel Saisie Valeurs Matin ».**
--   Sélectionner un Objet parent, une Catégorie et cocher Activer & Visible.
--   Sauvegarder.
--   Aller dans l’onglet Commandes.
--   Cliquer sur **« Ajouter une commande virtuelle »** autant de fois que le nombre de commandes soit dans mon cas 9.
--   Nommer les commandes sous forme **« Commande\_Action »**. Exemple : **« Salon\_Lumi\_Action ».**
-    -   Sélectionner les Sous-Type : **« Message ».**
-    -   Dans **« Nom information »** saisir les noms des commandes. Exemple : **« Salon\_Lumi »**.
--   Sauvegarder.
--   Lier les commandes Action aux commandes Info.
--   Afficher seulement les commandes Action.
+- Aller dans Plugins / Programmation / Virtuel.
+- Cliquer sur Ajouter.
+- Nommer le virtuel **« Virtuel Saisie Valeurs Matin ».**
+- Sélectionner un Objet parent, une Catégorie et cocher Activer & Visible.
+- Sauvegarder.
+- Aller dans l’onglet Commandes.
+- Cliquer sur **« Ajouter une commande virtuelle »** autant de fois que le nombre de commandes soit dans mon cas 9.
+- Nommer les commandes sous forme **« Commande_Action »**. Exemple : **« Salon_Lumi_Action ».**
+  - Sélectionner les Sous-Type : **« Message ».**
+  - Dans **« Nom information »** saisir les noms des commandes. Exemple : **« Salon_Lumi »**.
+- Sauvegarder.
+- Lier les commandes Action aux commandes Info.
+- Afficher seulement les commandes Action.
 
 ![Jeedom Réglage automatique](./reglages-auto-Jeedom-15.png)
 
@@ -269,43 +269,43 @@ Virtuel Saisie Valeurs Matin
 
 Afin de rendre le tableau plus esthétique il faut affecter un widget aux commandes.
 
--   Aller dans Plugins / Programmation / **Widget**.
--   Aller dans **« Market »**.
--   Rechercher le widget **« Saisie Nombres ».**
--   Cliquer sur **« Installer Stable ».**
--   Fermer la fenêtre.
--   Ouvrir le widget **« Saisie Nombres ».**
--   Cliquer sur **« Appliquer sur des commandes ».**
--   Rechercher les commandes **« Virtuel Saisie Valeurs »**.
--   Cliquer sur **« Basculer »**.
--   Cliquer sur **« Valider »**.
+- Aller dans Plugins / Programmation / **Widget**.
+- Aller dans **« Market »**.
+- Rechercher le widget **« Saisie Nombres ».**
+- Cliquer sur **« Installer Stable ».**
+- Fermer la fenêtre.
+- Ouvrir le widget **« Saisie Nombres ».**
+- Cliquer sur **« Appliquer sur des commandes ».**
+- Rechercher les commandes **« Virtuel Saisie Valeurs »**.
+- Cliquer sur **« Basculer »**.
+- Cliquer sur **« Valider »**.
 
 Pour fini nous allons mettre en forme la disposition tableau.
 
--   Aller dans Plugins / Programmation / Virtuel.
--   Ouvrir le virtuel **« Virtuel Saisie Valeurs Matin ».**
--   Cliquer sur **« Configuration avancée ».**
--   Aller dans l’onglet **« Affichage ».**
--   Décocher **« Afficher le nom ».**
--   Aller dans l’onglet **« Disposition ».**
--   Sélectionner **« Tableau ».**
--   Nombre de lignes : 1.
--   Nombre de colonnes : 10.
--   Décocher **« Centrer dans les cases ».**
--   Laisser vide **« Style général des cases (CSS) ».**
--   Saisir dans **« Style du tableau (CSS) »**: width: 100%; text-align: center;
-    -   width: 100%; Permet le redimensionnement de la largeur du tableau à 100%.
-    -   text-align: center; Permet d’aligner les informations au centre des cases du tableau.
--   Enregistrer.
--   Fermer la fenêtre.
--   Cliquer à nouveau sur **« Configuration avancée ».**
--   Aller dans l’onglet **« Disposition ».**
--   Saisir **« Matin »** dans la première case. (Texte de la case).
--   Copier **« width: 122px; background: rgba(255,255,255,0.2); padding-left: 10px; text-align: left; border-right: 3px solid #ffffff66;»** en dessous. (Style de la case (CSS))
--   Déplacer les commandes sur la première ligne.
--   Copier **« width: 83px; background: rgba(255,255,255,0.2); »** en dessous des colonnes 2, 4, 6, 8, 10. (Style de la case (CSS))
--   Copier **« width: 83px; background: rgba(255,255,255,0.2); border-right: 3px solid #ffffff66; »** en dessous des colonnes 3, 5, 7, 9. (Style de la case (CSS))
--   Enregistrer.
+- Aller dans Plugins / Programmation / Virtuel.
+- Ouvrir le virtuel **« Virtuel Saisie Valeurs Matin ».**
+- Cliquer sur **« Configuration avancée ».**
+- Aller dans l’onglet **« Affichage ».**
+- Décocher **« Afficher le nom ».**
+- Aller dans l’onglet **« Disposition ».**
+- Sélectionner **« Tableau ».**
+- Nombre de lignes : 1.
+- Nombre de colonnes : 10.
+- Décocher **« Centrer dans les cases ».**
+- Laisser vide **« Style général des cases (CSS) ».**
+- Saisir dans **« Style du tableau (CSS) »**: width: 100%; text-align: center;
+  - width: 100%; Permet le redimensionnement de la largeur du tableau à 100%.
+  - text-align: center; Permet d’aligner les informations au centre des cases du tableau.
+- Enregistrer.
+- Fermer la fenêtre.
+- Cliquer à nouveau sur **« Configuration avancée ».**
+- Aller dans l’onglet **« Disposition ».**
+- Saisir **« Matin »** dans la première case. (Texte de la case).
+- Copier **« width: 122px; background: rgba(255,255,255,0.2); padding-left: 10px; text-align: left; border-right: 3px solid #ffffff66;»** en dessous. (Style de la case (CSS))
+- Déplacer les commandes sur la première ligne.
+- Copier **« width: 83px; background: rgba(255,255,255,0.2); »** en dessous des colonnes 2, 4, 6, 8, 10. (Style de la case (CSS))
+- Copier **« width: 83px; background: rgba(255,255,255,0.2); border-right: 3px solid #ffffff66; »** en dessous des colonnes 3, 5, 7, 9. (Style de la case (CSS))
+- Enregistrer.
 
 ![](./reglages-auto-Jeedom-21.png)
 
@@ -321,16 +321,16 @@ Prenons comme exemple la lumière dans ma bibliothèque, sur laquelle je veux qu
 
 Pour info, mon virtuel **#\[Appartement\]\[Virtuel Lumière Bibliothèque\]\[Luminosité\]#** contrôle une ampoule Yeelight, mais le fonctionnement est le même qu’avec une autre ampoule.
 
--   Aller dans le plugin **« Virtuel »**.
--   Ouvrir le virtuel de la lumière à modifier (Virtuel Lumière Bibliothèque).
--   Cliquer sur la roue crantée de la commande **« On »**.
--   Aller dans l’onglet **« Configuration ».**
--   Dans **« Action avant exécution de la commande »** cliquer **2** fois sur **« +Ajouter »** pour ajouter 2 commandes.
--   Rechercher la commande **« #\[Appartement\]\[Virtuel Lumière Bibliothèque\]\[Luminosité\]# ».**
--   Dans **« valeur »**, rechercher la commande **« #\[Appartement\]\[Virtuel Infos Valeurs\]\[Salon\_Lumi\]# ».**
--   Rechercher la commande **« #\[Appartement\]\[Virtuel Lumière Bibliothèque\]\[Température de blanc\]#».**
--   Dans **« valeur »**, rechercher la commande **« #\[Appartement\]\[Virtuel Infos Valeurs\]\[Salon\_Temp\]#».**
--   Enregistrer & Sauvegarder.
+- Aller dans le plugin **« Virtuel »**.
+- Ouvrir le virtuel de la lumière à modifier (Virtuel Lumière Bibliothèque).
+- Cliquer sur la roue crantée de la commande **« On »**.
+- Aller dans l’onglet **« Configuration ».**
+- Dans **« Action avant exécution de la commande »** cliquer **2** fois sur **« +Ajouter »** pour ajouter 2 commandes.
+- Rechercher la commande **« #\[Appartement\]\[Virtuel Lumière Bibliothèque\]\[Luminosité\]# ».**
+- Dans **« valeur »**, rechercher la commande **« #\[Appartement\]\[Virtuel Infos Valeurs\]\[Salon_Lumi\]# ».**
+- Rechercher la commande **« #\[Appartement\]\[Virtuel Lumière Bibliothèque\]\[Température de blanc\]#».**
+- Dans **« valeur »**, rechercher la commande **« #\[Appartement\]\[Virtuel Infos Valeurs\]\[Salon_Temp\]#».**
+- Enregistrer & Sauvegarder.
 
 Cette manipulation aura pour effet de régler automatiquement la luminosité et la température des blancs, à chaque fois que la lumière bibliothèque s’allumera.
 
@@ -338,13 +338,13 @@ Pour les commandes de volume des appareils audio, c’est le même principe, il 
 
 Prenons comme exemple la Mi-Box dans mon salon, sur laquelle je veux que le volume soit réglé automatiquement à chaque démarrage.
 
--   Aller dans le Plugin Virtuel
--   Ouvrir le virtuel de la Mi-Box (Virtuel TV chez moi)
--   Cliquer sur la roue crantée de la commande **« On »**.
--   Aller dans l’onglet configuration.
--   Dans **« Action avant exécution de la commande »** cliquer sur **« +Ajouter »**.
--   Rechercher la commande de réglage du volume, ici c’est le plugin Google Cast **« #\[Salon\]\[La télé\]\[Volume niveau\]#»**
--   Dans **« valeur »**, rechercher la commande **« #\[Appartement\]\[Virtuel Infos Valeurs\]\[Salon\_Vol\]#»**
+- Aller dans le Plugin Virtuel
+- Ouvrir le virtuel de la Mi-Box (Virtuel TV chez moi)
+- Cliquer sur la roue crantée de la commande **« On »**.
+- Aller dans l’onglet configuration.
+- Dans **« Action avant exécution de la commande »** cliquer sur **« +Ajouter »**.
+- Rechercher la commande de réglage du volume, ici c’est le plugin Google Cast **« #\[Salon\]\[La télé\]\[Volume niveau\]#»**
+- Dans **« valeur »**, rechercher la commande **« #\[Appartement\]\[Virtuel Infos Valeurs\]\[Salon_Vol\]#»**
 
 Cette manipulation permet de régler les valeurs seulement lors de l’allumage des appareils. Pour les appareils toujours allumés comme une Google Home, ou pour mettre à jour les valeurs des appareils en cours de fonctionnement, nous utiliserons les scénarios.
 
@@ -356,17 +356,17 @@ Il va falloir créer **2 scénarios**. Un pour **l’enregistrement des valeurs*
 
 Ce scénario contient une partie **bloc code** et des **commandes Actions**. La partie bloc code va récupérer le mode en cours à chaque changement de mode, puis les valeurs saisies dans les virtuels **« Virtuel Saisie Valeurs »** vont être copiées dans le virtuel **« Virtuel Infos Valeurs ».** Ensuite, les commandes Action permettent de régler les volumes sonores des appareils en cours de fonctionnement, comme les Google Home ou les appareils pour le TTS. Pour finir, le second scénario est lancé afin de gérer les luminaires.
 
--   Aller dans Outils / Scénarios.
--   Cliquer sur Ajouter.
--   Nommer le scénario **« Enregistrement Valeurs ».**
--   Sélectionner un Groupe, Objet parent, une Catégorie et cocher Activer & Visible.
--   Cliquer 2 fois sur **« Déclencheur »**.
--   Sélectionner la commande **« #\[Appartement\]\[Virtuel Saisie Valeurs\]\[cmd\_Forcer\]# »** du premier virtuel que nous avons créé, afin de lancer le scénario manuellement via le bouton.
--   Sélectionner la commande **« #\[Appartement\]\[Modes Maison\]\[Mode\]# »** pour que le scénario se lance à chaque changement de mode, afin de récupérer les valeurs définies pour le Mode en cours.
--   Sauvegarde.
--   Aller dans l’onglet Scénario.
--   Cliquer sur **« Ajouter Bloc ».**
--   Sélectionner **« Code ».**
+- Aller dans Outils / Scénarios.
+- Cliquer sur Ajouter.
+- Nommer le scénario **« Enregistrement Valeurs ».**
+- Sélectionner un Groupe, Objet parent, une Catégorie et cocher Activer & Visible.
+- Cliquer 2 fois sur **« Déclencheur »**.
+- Sélectionner la commande **« #\[Appartement\]\[Virtuel Saisie Valeurs\]\[cmd_Forcer\]# »** du premier virtuel que nous avons créé, afin de lancer le scénario manuellement via le bouton.
+- Sélectionner la commande **« #\[Appartement\]\[Modes Maison\]\[Mode\]# »** pour que le scénario se lance à chaque changement de mode, afin de récupérer les valeurs définies pour le Mode en cours.
+- Sauvegarde.
+- Aller dans l’onglet Scénario.
+- Cliquer sur **« Ajouter Bloc ».**
+- Sélectionner **« Code ».**
 
 #### Le code du scénario
 
@@ -415,27 +415,27 @@ On affecte les valeurs d’un mode à un autre. Dans mon exemple, le mode « So
 $saisie = cmd::byString("#[Appartement][Virtuel Saisie Valeurs $Mode][Salon_Lumi]#")->execCmd();
 ```
 
-On récupère la valeur de la commande « Salon\_Lumi » depuis le virtuel « Virtuel Saisie Valeurs » correspondant au mode en cours, grâce à la variable « $Mode » précédemment récupérée.
+On récupère la valeur de la commande « Salon_Lumi » depuis le virtuel « Virtuel Saisie Valeurs » correspondant au mode en cours, grâce à la variable « $Mode » précédemment récupérée.
 
 ```
 $info = cmd::byString("#[Appartement][Virtuel Infos Valeurs][Salon_Lumi]#");
 ```
 
-On récupère la commande **« Salon\_Lumi »** du virtuel **« Virtuel Infos Valeurs »**.
+On récupère la commande **« Salon_Lumi »** du virtuel **« Virtuel Infos Valeurs »**.
 
 ```
 $info->event(($saisie));
 ```
 
-On met à jour avec la fonction « event », la commande **« Salon\_Lumi »** du virtuel **« Virtuel Infos Valeurs »** avec la valeur de la commande **« Salon\_Lumi »** du virtuel **« Virtuel Saisie Valeurs »** du mode en cours.
+On met à jour avec la fonction « event », la commande **« Salon_Lumi »** du virtuel **« Virtuel Infos Valeurs »** avec la valeur de la commande **« Salon_Lumi »** du virtuel **« Virtuel Saisie Valeurs »** du mode en cours.
 
 ```
 $scenario->setLog($saisie);
 ```
 
-On log la valeur de la commande **« Salon\_Lumi »** du virtuel **« Virtuel Saisie Valeurs »**.
+On log la valeur de la commande **« Salon_Lumi »** du virtuel **« Virtuel Saisie Valeurs »**.
 
-Maintenant il suffit de copier-coller ce code en fonction du nombre de commandes que vous avez créé dans vos scénarios, dans mon cas 9 et de modifier le nom de la commande **« Salon\_Lumi »** par les autres commandes, Salon\_Vol, Ch\_Lumi, CH\_Vol…
+Maintenant il suffit de copier-coller ce code en fonction du nombre de commandes que vous avez créé dans vos scénarios, dans mon cas 9 et de modifier le nom de la commande **« Salon_Lumi »** par les autres commandes, Salon_Vol, Ch_Lumi, CH_Vol…
 
 #### Détails des commandes Action
 
@@ -443,14 +443,14 @@ Maintenant il suffit de copier-coller ce code en fonction du nombre de commandes
 
 Les commandes action vont permettre de mettre à jour le volume sonore de vos appareils audio. Il suffit de créer autant de commandes que d’appareils et d’affecter la commande correspondant à la zone.
 
-Prenons l’exemple d’une Google Home située dans la cuisine et qui utilise le niveau de volume **« Salon\_Vol »**.
+Prenons l’exemple d’une Google Home située dans la cuisine et qui utilise le niveau de volume **« Salon_Vol »**.
 
--   Cliquer sur **« Ajouter Bloc ».**
--   Sélectionner **« Action ».**
--   Cliquer sur **« + Ajouter »** depuis le bloc Action**.**
--   Sélectionner **« Action ».**
--   Rechercher la commande de réglage du volume.
--   Rechercher la commande
+- Cliquer sur **« Ajouter Bloc ».**
+- Sélectionner **« Action ».**
+- Cliquer sur **« + Ajouter »** depuis le bloc Action**.**
+- Sélectionner **« Action ».**
+- Rechercher la commande de réglage du volume.
+- Rechercher la commande
 
 ![Google Home ](./reglages-auto-Jeedom-26.png)
 
@@ -462,10 +462,10 @@ Ceci n’est valable que pour les appareils audio qui sont toujours en fonctionn
 
 Pour les lumières, il faut utiliser un scénario spécifique. Il faut le lancer avec une commande Action.
 
--   Cliquer sur **« + Ajouter »** depuis le bloc Action**.**
--   Sélectionner **« Action ».**
--   Saisir «**scenario ».**
--   Rechercher le scénario **« Rafraichir Lumières On »**. (Laisser vide pour le moment).
+- Cliquer sur **« + Ajouter »** depuis le bloc Action**.**
+- Sélectionner **« Action ».**
+- Saisir «**scenario ».**
+- Rechercher le scénario **« Rafraichir Lumières On »**. (Laisser vide pour le moment).
 
 ![scénario « Rafraîchir Lumières On »](./reglages-auto-Jeedom-27.png)
 
@@ -475,14 +475,14 @@ scénario « Rafraîchir Lumières On »
 
 Ce scénario contient seulement une partie **bloc code** permettant de rechercher toutes les lumières allumées et de rafraîchir les valeurs en actionnant les commandes « On ».
 
--   Aller dans Outils / Scénarios.
--   Cliquer sur Ajouter.
--   Nommer le scénario **« Rafraîchir Lumières On ».**
--   Sélectionner un Groupe, Objet parent, une Catégorie et cocher Activer & Visible.
--   Sauvegarder.
--   Aller dans l’onglet Scénario.
--   Cliquer sur **« Ajouter Bloc ».**
--   Sélectionner **« Code ».**
+- Aller dans Outils / Scénarios.
+- Cliquer sur Ajouter.
+- Nommer le scénario **« Rafraîchir Lumières On ».**
+- Sélectionner un Groupe, Objet parent, une Catégorie et cocher Activer & Visible.
+- Sauvegarder.
+- Aller dans l’onglet Scénario.
+- Cliquer sur **« Ajouter Bloc ».**
+- Sélectionner **« Code ».**
 
 #### Le code du scénario
 

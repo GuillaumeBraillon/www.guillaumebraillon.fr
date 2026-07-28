@@ -90,7 +90,7 @@ Dans la foulée, vous pouvez installer l’[application télécommande Android](
 
 Comme toujours, je vous conseille fortement de faire une **mise à jour de la box TV,** pour être certains d’avoir un fonctionnement optimum.
 
--   Paramètres > A propos > Mise à niveau du système.
+- Paramètres > A propos > Mise à niveau du système.
 
 ![](./IMG_20170923_170257-1024x436.jpg)
 
@@ -100,29 +100,29 @@ La première application que l’on va installer n’est pas directement lié à
 
 Pour accéder au disque dur de la box Android, on va utiliser [ES Explorer](https://play.google.com/store/apps/details?id=com.estrongs.android.pop) qui est disponible sur le Google store Android TV, **directement depuis la Mi-Box.**
 
--   Ouvrir : **Google Store**.
--   Taper, ou dire, en appuyant sur le micro de la télécommande : **ES Explorer**.
--   Cliquer sur « **Installer**« .
+- Ouvrir : **Google Store**.
+- Taper, ou dire, en appuyant sur le micro de la télécommande : **ES Explorer**.
+- Cliquer sur « **Installer**« .
 
 Vous pouvez aussi installer l’application sur votre Mi-Box TV, en passant par **votre ordinateur** :
 
--   Cliquer sur ce lien pour accéder au google Store : [ES EXPLORER](https://play.google.com/store/apps/details?id=com.estrongs.android.pop).
--   Cliquer sur « **Installer**« .
--   Choisir « **Xiaomi MIBOX3 No carrier** » dans le liste.
--   Cliquer sur « **Installer**« .
+- Cliquer sur ce lien pour accéder au google Store : [ES EXPLORER](https://play.google.com/store/apps/details?id=com.estrongs.android.pop).
+- Cliquer sur « **Installer**« .
+- Choisir « **Xiaomi MIBOX3 No carrier** » dans le liste.
+- Cliquer sur « **Installer**« .
 
 ![](./JPI-MiBox.png)
 
--   Quelques instant plus tard, l’application est **disponible sur votre Mi-Box TV**.
+- Quelques instant plus tard, l’application est **disponible sur votre Mi-Box TV**.
 
 ![](./MiBox-1.png)
 
--   Ouvrir l’application.
--   Aller sur « **Affichage sur le PC**« .![](./MiBox-2.png)
--   Cliquer sur « **Démarrer**« .![](./MiBox-3.png)
--   Votre Mi-Box TV est désormais un serveur FTP. Il ne vous reste plus qu’à vous connecter **depuis** votre **PC,** avec **l’adresse** et le **port** affichés à l’écran.
--   Attention le port FTP n’est pas « **21** » mais « **3721**« .![](./MiBox-4.png)
--   Vous pouvez utiliser n’importe quel logiciel FTP, comme **FileZila,** ou le logiciel **WinSCP** que nous avons déjà utilisé pour accéder au [Raspberry PI.](/articles/installation-de-jeedom-netinstall-sur-raspberry-3#Connexion_en_SSH_sous_Jeedom)  Pas besoin de **nom d’utilisateur** ni de **mot de passe**.![](./MiBox-5.png)
+- Ouvrir l’application.
+- Aller sur « **Affichage sur le PC**« .![](./MiBox-2.png)
+- Cliquer sur « **Démarrer**« .![](./MiBox-3.png)
+- Votre Mi-Box TV est désormais un serveur FTP. Il ne vous reste plus qu’à vous connecter **depuis** votre **PC,** avec **l’adresse** et le **port** affichés à l’écran.
+- Attention le port FTP n’est pas « **21** » mais « **3721**« .![](./MiBox-4.png)
+- Vous pouvez utiliser n’importe quel logiciel FTP, comme **FileZila,** ou le logiciel **WinSCP** que nous avons déjà utilisé pour accéder au [Raspberry PI.](/articles/installation-de-jeedom-netinstall-sur-raspberry-3#Connexion_en_SSH_sous_Jeedom)  Pas besoin de **nom d’utilisateur** ni de **mot de passe**.![](./MiBox-5.png)
 
 **Es Explorer** permet aussi d’accéder au **disque dur** de votre **PC** **depuis** la **Mi-Box TV,** mais il est beaucoup plus simple de faire l’inverse.
 
@@ -134,35 +134,35 @@ _Si ce n’est pas déjà fait, je vous invite à **lire** l[‘article dédié 
 
 L’utilisation de JPI sur une **box Android TV** est un peu différente, car il n’y a pas de navigateur internet. C’est pour cela que nous avons installé Es Explorer, afin de copier les fichiers nécessaires à son installation.
 
-_Pour tout vous dire, il est possible d’installer Google Chrome, mais vous aurez besoin de brancher un clavier et une souris pour pouvoir en profiter pleinement, car la télécommande ne permet pas de cliquer sur les pages. Pour l’installer, cliquer sur le micro de la télécommande_ _et dites « Ouvrir Chrome », vous allez être redirigé vers le Google Store et l’installer._
+*Pour tout vous dire, il est possible d’installer Google Chrome, mais vous aurez besoin de brancher un clavier et une souris pour pouvoir en profiter pleinement, car la télécommande ne permet pas de cliquer sur les pages. Pour l’installer, cliquer sur le micro de la télécommande* *et dites « Ouvrir Chrome », vous allez être redirigé vers le Google Store et l’installer.*
 
 JPI va nous permettre d’ajouter plusieurs fonctions liées à Jeedom, comme par exemple le :
 
--   **TTS (Text To Speech)**  : Diffuser des notifications vocales.
--   **Toast** : Afficher des messages à l’écran.
--   **Volumes** : Contrôler les volumes (niveau, mute…).
--   **Gestion de fichiers** : Lire des fichiers audios enregistrés dans la Mi-Box.
--   **Commande vocal** : Lancer des actions sur Jeedom avec la voix, le micro étant dans la télécommande.
--   Lancer, ou arrêter, une application, récupérer des informations système (puissance wifi, mémoire, CPU…), etc..
+- **TTS (Text To Speech)**  : Diffuser des notifications vocales.
+- **Toast** : Afficher des messages à l’écran.
+- **Volumes** : Contrôler les volumes (niveau, mute…).
+- **Gestion de fichiers** : Lire des fichiers audios enregistrés dans la Mi-Box.
+- **Commande vocal** : Lancer des actions sur Jeedom avec la voix, le micro étant dans la télécommande.
+- Lancer, ou arrêter, une application, récupérer des informations système (puissance wifi, mémoire, CPU…), etc..
 
 ### Depuis votre PC
 
--   **Télécharger** l’APK disponible sur le site de dJuL : [http://rulistaff.free.fr/JPI/getJPI/](http://rulistaff.free.fr/JPI/getJPI/)
--   **Copier** le fichier sur la Mi-Box, via **WinSCP,** dans le répertoire Download, par exemple.![](./MiBox-6.png)
+- **Télécharger** l’APK disponible sur le site de dJuL : [http://rulistaff.free.fr/JPI/getJPI/](http://rulistaff.free.fr/JPI/getJPI/)
+- **Copier** le fichier sur la Mi-Box, via **WinSCP,** dans le répertoire Download, par exemple.![](./MiBox-6.png)
 
 ### Depuis la Mi Box TV
 
--   **Ouvrir** ES Explorer.
--   Chercher « **Téléchargement** » dans la partie de gauche et cliquer sur « **fr.djul.JPI…apk** » dans la partie de droite.![](./MiBox-7.png)
--   Cliquer sur « **Installer** » sur les 2 prochaines fenêtres.![](./MiBox-8.png)![](./MiBox-9.png)
--   A la fin de l’installation, cliquer sur « **Ouvrir**« .![](./MiBox-10.png)
--   L’installation de **PAW Server** vous sera demandée, cliquer sur OK.![](./MiBox-11.png)
--   Vous allez être redirigé vers le Google Store et cliquer sur « **Installer**« .![](./MiBox-12.png)
--   Si vous ne pouvez pas installer PAW il faudra le télécharger depuis votre ordinateur : [paw-server-for-android](https://apkpure.com/fr/paw-server-for-android/de.fun2code.android.pawserver)
--   Une fois PAW Server installé, il faut **relancer JPI.** Comme ce n’est pas une application officielle de Google, il n’est pas présent dans les applications de la page principale. Il faut donc aller dans :
-    -   Paramètres > Applications > JPI > Ouvrir.![](./MiBox-13.png)
--   Il y a plusieurs autorisations à accepter, en cliquant sur « **Autoriser**« , pour pouvoir utiliser JPI.![](./MiBox-14.png)
--   Il faut ensuite **valider** les différents messages qui s’affichent à l’écran, mise à jour, lancement de Paw, etc…
+- **Ouvrir** ES Explorer.
+- Chercher « **Téléchargement** » dans la partie de gauche et cliquer sur « **fr.djul.JPI…apk** » dans la partie de droite.![](./MiBox-7.png)
+- Cliquer sur « **Installer** » sur les 2 prochaines fenêtres.![](./MiBox-8.png)![](./MiBox-9.png)
+- A la fin de l’installation, cliquer sur « **Ouvrir**« .![](./MiBox-10.png)
+- L’installation de **PAW Server** vous sera demandée, cliquer sur OK.![](./MiBox-11.png)
+- Vous allez être redirigé vers le Google Store et cliquer sur « **Installer**« .![](./MiBox-12.png)
+- Si vous ne pouvez pas installer PAW il faudra le télécharger depuis votre ordinateur : [paw-server-for-android](https://apkpure.com/fr/paw-server-for-android/de.fun2code.android.pawserver)
+- Une fois PAW Server installé, il faut **relancer JPI.** Comme ce n’est pas une application officielle de Google, il n’est pas présent dans les applications de la page principale. Il faut donc aller dans :
+  - Paramètres > Applications > JPI > Ouvrir.![](./MiBox-13.png)
+- Il y a plusieurs autorisations à accepter, en cliquant sur « **Autoriser**« , pour pouvoir utiliser JPI.![](./MiBox-14.png)
+- Il faut ensuite **valider** les différents messages qui s’affichent à l’écran, mise à jour, lancement de Paw, etc…
 
 Pour la **configuration,** je vous renvoie vers **l’article** [Jeedom Paw Interface (JPI) APK et Plugin](/articles/jeedom-jeedom-paw-interface-jpi-apk-et-plugin), car à partir de maintenant, vous pouvez utiliser JPI comme sur un smartphone sans carte SIM, donc plutôt comme une tablette.
 
@@ -174,11 +174,11 @@ Vous pouvez **configurer** la reconnaissance vocale sur la MiBox et utiliser le 
 
 Le plus sympa c’est d’activer la **reconnaissance vocale avancée,** car il vous suffit de définir un mot clé, exemple JARVIS, et dès que JPI le détecte, il vous demande l’action à effectuer.
 
--   Exemple :
-    -   **Vous** : Jarvis
-    -   _**Mibox**_ : Que puis-je faire ?
-    -   **Vous** : Allume la lumière du salon.
-    -   _**MiBox**_ : La lumière du salon est allumée.
+- Exemple :
+  - **Vous** : Jarvis
+  - _**Mibox**_ : Que puis-je faire ?
+  - **Vous** : Allume la lumière du salon.
+  - _**MiBox**_ : La lumière du salon est allumée.
 
 ![](./mibox-JPI.png)
 
@@ -207,16 +207,16 @@ C’est vrai que c’est moins sympa que la détection automatique, mais c’est
 
 Il existe une version de Kodi pour Android TV. Donc, pour l’installer, il suffit d’aller dans le Google Store de votre Mi-Box.
 
--   Ouvrir : Google Store.
--   Taper ou dire en appuyant sur le micro de la télécommande : KODI.
--   Cliquer sur installer.
+- Ouvrir : Google Store.
+- Taper ou dire en appuyant sur le micro de la télécommande : KODI.
+- Cliquer sur installer.
 
 Vous pouvez aussi installer Kodi sur votre Mi-Box TV en passant par votre ordinateur :
 
--   Cliquer sur ce lien pour accéder au google Store : [Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi&hl=fr).
--   Cliquer sur « **Installer**« .
--   Choisir « **Xiaomi MIBOX3 No carrier** » dans le liste.
--   Cliquer sur « **Installer**« .
+- Cliquer sur ce lien pour accéder au google Store : [Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi&hl=fr).
+- Cliquer sur « **Installer**« .
+- Choisir « **Xiaomi MIBOX3 No carrier** » dans le liste.
+- Cliquer sur « **Installer**« .
 
 Si vous souhaitez installer KODI sur une box Android plus ancienne, je vous invite à lire cet article : [Multiroom Audio-Vidéo – Installations clients Vidéos (Kodi)](/articles/multiroom-audio-video-installations-clients-videos-kodi)
 
@@ -224,7 +224,7 @@ Si vous souhaitez installer KODI sur une box Android plus ancienne, je vous invi
 
 Si vous utilisez KODI avec une base de données partagée, il faudra copier le fichier **advancedsettings.xml** dans le répertoire **userdata** qui se trouve dans :
 
--   **Android/data/org.xbmc.kodi/files/.kodi/userdata/**.
+- **Android/data/org.xbmc.kodi/files/.kodi/userdata/**.
 
 Pour copier le fichier, vous pouvez utiliser la même technique que pour JPI avec [ES Explorer et WinSCP](#depuis-votre-pc).
 
@@ -234,30 +234,30 @@ Pour démarrer KODI sur la Mi-Box TV, on va utiliser la commande « **LaunchApp
 
 **1) Plugin JPI :** 
 
--   Aller dans l’onglet « **Commandes**« .
--   Cliquer sur « **Assistant de commande JPI**« .
--   Nommer la commande exemple : »**KODI**« .
--   Dans « **Action** » choisir « **launchApp**« .
--   Dans « **packageName »** choisir « **Kodi**« .
--   **Sauvegarder**.
+- Aller dans l’onglet « **Commandes**« .
+- Cliquer sur « **Assistant de commande JPI**« .
+- Nommer la commande exemple : »**KODI**« .
+- Dans « **Action** » choisir « **launchApp**« .
+- Dans « **packageName »** choisir « **Kodi**« .
+- **Sauvegarder**.
 
 ![](./JPI-Plugin-5.png)
 
 **2) Plugin Script :**
 
--   Aller dans l’onglet « **Commandes**« .
--   Cliquer sur « **Ajouter une commande Script**« .
--   Nommer la commande, exemple : »**KODI**« .
--   Dans « **Type Script**« , choisir « **HTTP**« .
--   Dans « **Type**« , choisir « **Action**« .
--   Dans « **Requête »,** saisir « http://\[IP\_DE\_JPI\]:\[PORT\_DE\_JPI\]/?action=launchApp&packageName=org.xbmc.kodi ».
--   **Sauvegarder**.
+- Aller dans l’onglet « **Commandes**« .
+- Cliquer sur « **Ajouter une commande Script**« .
+- Nommer la commande, exemple : »**KODI**« .
+- Dans « **Type Script**« , choisir « **HTTP**« .
+- Dans « **Type**« , choisir « **Action**« .
+- Dans « **Requête »,** saisir « http://\[IP_DE_JPI\]:\[PORT_DE_JPI\]/?action=launchApp&packageName=org.xbmc.kodi ».
+- **Sauvegarder**.
 
 Maintenant, vous pouvez **démarrer** **Kodi** depuis un Jeedom, comme n’importe quelle commande (Scénario, Virtuel…).
 
 Le contrôle via JPI s’arrête là. Si vous voulez **contrôler totalement Kodi** depuis Jeedom, il vous faudra installer le **plugin** (4€) nommé **Kodi**, développé par ??? [Sarakha63 !](http://sarakha63-domotique.fr/)
 
-La **doc officielle** est là : [https://jeedom.github.io/documentation/plugins/kodi/fr\_FR/index.html](https://jeedom.github.io/documentation/plugins/kodi/fr_FR/index.html).
+La **doc officielle** est là : [https://jeedom.github.io/documentation/plugins/kodi/fr_FR/index.html](https://jeedom.github.io/documentation/plugins/kodi/fr_FR/index.html).
 
 Le **forum Jeedom** est là : [https://www.jeedom.com/forum/viewtopic.php?f=28&t=5988](https://www.jeedom.com/forum/viewtopic.php?f=28&t=5988).
 

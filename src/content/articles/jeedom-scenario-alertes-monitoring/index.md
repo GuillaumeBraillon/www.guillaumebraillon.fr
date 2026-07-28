@@ -25,8 +25,8 @@ Le scénario sera provoqué [directement par les commandes du plugin](#configura
 
 ### Variable
 
--   **Nom** : NotifPriorite
--   **Valeur** : 4
+- **Nom** : NotifPriorite
+- **Valeur** : 4
 
 Là, on affecte la variable « **NotifPriorite** » qui servira pour l’envoi de mail dans le scénario [Notifications avancées](/articles/jeedom-scenario-notifications-avancees).
 
@@ -63,8 +63,8 @@ J’affecte à la fonction « **NotifMessage** » le texte en html que je rec
 
 ### Scenario
 
--   **Nom** : #\[Notifications\]\[Notifications\]\[Notifications Unique\]#
--   **Action** : START.
+- **Nom** : #\[Notifications\]\[Notifications\]\[Notifications Unique\]#
+- **Action** : START.
 
 Je démarre le scénario des notifications qui utilisera les variables précédemment affectées.
 
@@ -89,10 +89,10 @@ Depuis le menu de Jeedom faire :
 
 #### Action sur la valeur
 
--   **![](./Jeedom-scenarios-Monitoring-3.png)Action sur valeur, Si** : Supérieur 60
--   **Plus de (min) :** 3
--   **Scenario :** #\[Hardware\]\[Alertes\]\[Monitoring Jeedom\]#
--   **Action :** START
+- **![](./Jeedom-scenarios-Monitoring-3.png)Action sur valeur, Si** : Supérieur 60
+- **Plus de (min) :** 3
+- **Scenario :** #\[Hardware\]\[Alertes\]\[Monitoring Jeedom\]#
+- **Action :** START
 
 Le déclenchement sera lancé depuis la commande, dès que la condition sera remplie. Il suffit de faire la même chose pour toutes les autres commandes que l’on souhaite déclenchantes.
 

@@ -51,18 +51,18 @@ Il ne faut **pas** non plus s’attendre à avoir les **derniers films** du box
 
 Comme je vous l’ai dit, [**Primevideo**](https://www.primevideo.com/?tag=guilbraimespa-21) est compris dans le programme **[Amazon Premium](https://www.amazon.fr/essayerpremium?tag=guilbraimespa-21)** qui pour **49,00€** par an, vous permet de bénéficier de :
 
--   **_La livraison en_ _1 jour ouvré gratuite_ _et illimitée, sur des millions d’articles._**
-    -   C’est pour cela que je suis passé à [Premium](https://www.amazon.fr/essayerpremium?tag=guilbraimespa-21) et c’est vraiment pratique, en plus on peut commander des **Dash Buttons** ([remboursés](http://amzn.to/2sBxpom)) que l’on peut reprogrammer pour les utiliser avec **Jeedom**.
--   **_L’accès prioritaire aux Ventes Flash éligibles 30 minutes après leur démarrage._**
-    -   Ça permet d’avoir un peu d’avance sur les autres pour profiter de bonnes affaires, ça laisse un peu le temps de farfouiller.
--   **_La possibilité d’emprunter gratuitement un eBook par mois._**
-    -   J’ai un peu regardé, c’est pas mal, mais je vous avoue que je ne suis pas fan des eBooks.
--   _**Les promotions exclusives Amazon Famille.**_
-    -   Ça, c’est pour avoir 20% sur les couches par exemple et des promos ciblées famille.
--   **_L’accès au stockage sécurisé et illimité de vos photos._**
-    -   C’est du stockage sur cloud, personnellement je ne l’utilise pas.
--   _**Twitch Prime : Des jeux in-game, lives et vidéos sans publicité et un abonnement Twitch gratuit par mois.**_
-    -   C’est pour voir des vidéos de jeux vidéos… à vous de voir. Il parait que c’est un concept apprécié par les adeptes du genre.
+- **_La livraison en_ _1 jour ouvré gratuite_ _et illimitée, sur des millions d’articles._**
+  - C’est pour cela que je suis passé à [Premium](https://www.amazon.fr/essayerpremium?tag=guilbraimespa-21) et c’est vraiment pratique, en plus on peut commander des **Dash Buttons** ([remboursés](http://amzn.to/2sBxpom)) que l’on peut reprogrammer pour les utiliser avec **Jeedom**.
+- **_L’accès prioritaire aux Ventes Flash éligibles 30 minutes après leur démarrage._**
+  - Ça permet d’avoir un peu d’avance sur les autres pour profiter de bonnes affaires, ça laisse un peu le temps de farfouiller.
+- **_La possibilité d’emprunter gratuitement un eBook par mois._**
+  - J’ai un peu regardé, c’est pas mal, mais je vous avoue que je ne suis pas fan des eBooks.
+- _**Les promotions exclusives Amazon Famille.**_
+  - Ça, c’est pour avoir 20% sur les couches par exemple et des promos ciblées famille.
+- **_L’accès au stockage sécurisé et illimité de vos photos._**
+  - C’est du stockage sur cloud, personnellement je ne l’utilise pas.
+- _**Twitch Prime : Des jeux in-game, lives et vidéos sans publicité et un abonnement Twitch gratuit par mois.**_
+  - C’est pour voir des vidéos de jeux vidéos… à vous de voir. Il parait que c’est un concept apprécié par les adeptes du genre.
 
 Et **maintenant** vous avez en plus [**Primevideo**](https://www.primevideo.com/?tag=guilbraimespa-21), ce qui fait finalement pas mal de services pour **4,00€ par mois**.
 
