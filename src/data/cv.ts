@@ -2,45 +2,54 @@ import { site } from "./site";
 
 export const profile = {
   name: site.name,
-  title: "Développeur Full Stack | JavaScript & IA",
-  subtitle: "React · Node.js · Supabase · Angular",
+  title: "Développeur Full Stack JavaScript • IA & Automatisation",
+  subtitle: "React · Angular · Node.js · TypeScript · IA Agentique",
   website: "www.guillaumebraillon.fr",
   github: "github.com/GuillaumeBraillon",
   linkedin: "linkedin.com/in/guillaume-braillon",
   lang: "Anglais (professionnel)",
   details:
-    "Passionné par le développement depuis 2001, j’ai exploré plusieurs langages, du PHP au JavaScript en passant par le Java. Développeur curieux, autodidacte et expérimenté, je me spécialise aujourd'hui dans l'écosystème JavaScript moderne et l'intégration de solutions d'IA agentique ou d'automatisation de processus.",
+    "Développeur Full Stack spécialisé dans l’écosystème JavaScript moderne (React, Angular, Node.js, TypeScript). J’accompagne également la conception d’automatisations et l’intégration de solutions d’IA générative, d’agents IA et de workflows métiers. Curieux et autodidacte, je cherche à développer des applications robustes alliant développement logiciel et intelligence artificielle.",
 };
 
 export const skills = {
-  frontend: ["Angular", "React", "JavaScript (ES2020+)", "Vue.js", "HTML5/CSS3", "Sass"],
-  backend: ["Node.js", "Express", "NestJS", "TypeScript", "REST API", "OpenAPI"],
-  database: ["PostgreSQL", "Supabase", "MongoDB", "MySQL", "Redis"],
+  frontend: ["Angular", "React", "TypeScript", "JavaScript", "Vue.js", "HTML5/CSS3", "Sass"],
+  backend: ["Node.js", "Express", "NestJS", "REST API", "OpenAPI", "Webhooks"],
+  database: ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Supabase"],
   devops: ["Docker", "GitHub", "CI/CD", "AWS", "Google Cloud", "Datadog", "Kafka"],
-  iaAuto: ["n8n", "Vercel AI SDK", "Mastra", "GitHub Copilot", "Cursor", "RAG"],
+  automation: ["n8n", "Home Assistant", "Jeedom", "MQTT", "Objets connectés"],
+  iaAuto: [
+    "Vercel AI SDK",
+    "Mastra",
+    "GitHub Copilot",
+    "Cursor",
+    "LLM",
+    "RAG",
+    "Prompt Engineering",
+  ],
 };
 
 export const experiences = [
   {
-    role: "Développeur Full Stack / DSI / Expert Automatisations",
+    role: "Développeur Full Stack JavaScript / Expert Automatisations & IA",
     company: "United Motion Idea, Lyon",
     period: "Mai 2022 - Février 2026",
     description:
-      "Conception et développement d'applications web JavaScript avec Angular et Node.js en méthodologie Agile/Scrum. Mise en œuvre de workflows d'automatisation complexes via n8n et interconnexions d'APIs. Gestion complète du parc informatique Apple (Apple Business Management) et support technique de niveau 1 à 3.",
+      "Conception et développement d'applications web Full Stack (Angular, Node.js, TypeScript) en méthodologie Agile/Scrum, avec participation aux choix techniques et à l'évolution du système d'information. Conception de workflows d'automatisation avec n8n, intégration d'APIs et de solutions d'IA. Administration du système d'information, gestion du parc Apple (Apple Business Manager), support technique de niveau 1 à 3 et mise en place d'outils internes pour améliorer les processus métiers.",
   },
   {
     role: "Développeur Full Stack",
     company: "Sistema-Strategy - ESN, Lyon",
     period: "Janv. 2020 - Mars 2022",
     description:
-      "Développement d'applications web/mobiles JavaScript avec React, React Native et Node.js/ExpressJS pour des clients et projets internes. Gestion et requêtage de bases de données relationnelles (MySQL, SQL Server). Expertise et maintenance applicative OpenEdge Progress 4GL avec certification PASOE.",
+      "Développement d'applications web et mobiles avec React, React Native, Node.js, Express et TypeScript pour des clients et des projets internes. Conception d'API REST, manipulation de bases de données MySQL et SQL Server, maintenance d'applications Progress OpenEdge et obtention des certifications PASOE, Corticon Studio et OpenEdge Developer.",
   },
   {
     role: "Rédacteur Technique & Administrateur Web",
     company: "La Domo Pratique, Lyon",
     period: "Avril 2018 - Mai 2022",
     description:
-      "Rédaction de contenu technique et gestion globale du site ladomopratique.com spécialisé dans la domotique et les objets connectés. Création de tutoriels, assistance utilisateur, tests de matériels et aide à la configuration d'environnements (Linux, Raspberry Pi, NAS Synology, machines virtuelles).",
+      "Création et administration d'un site spécialisé en domotique. Rédaction de tutoriels techniques, tests de matériels et accompagnement de la communauté sur Jeedom, MQTT, Raspberry Pi, Linux, NAS Synology, virtualisation et objets connectés. Mise en place d'environnements domotiques, intégrations matérielles et automatisations avancées.",
   },
 ];
 

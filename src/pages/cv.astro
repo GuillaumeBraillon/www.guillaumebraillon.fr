@@ -43,9 +43,7 @@ const contactLinks = [
         </p>
       </div>
 
-      <div
-        class="shrink-0 p-3 gh-surface-muted gh-card space-y-2 text-xs gh-text-muted min-w-64"
-      >
+      <div class="shrink-0 p-3 gh-surface-muted gh-card space-y-2 text-xs gh-text-muted min-w-64">
         <div class="grid gap-2">
           {
             contactLinks.map((link) => (
@@ -130,7 +128,9 @@ const contactLinks = [
           Compétences Techniques
         </h2>
 
-        <SkillGroup title="IA & Automatisation" skills={skills.iaAuto} tone="success" />
+        <SkillGroup title="Intelligence Artificielle" skills={skills.iaAuto} tone="success" />
+
+        <SkillGroup title="Automatisation & IoT" skills={skills.automation} tone="success" />
 
         <SkillGroup title="Frontend" skills={skills.frontend} tone="info" />
 
