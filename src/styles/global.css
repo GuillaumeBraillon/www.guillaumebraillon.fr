@@ -298,3 +298,52 @@ img.medium-zoom-image--opened {
   height: auto !important;
   object-fit: contain !important;
 }
+
+/* Surcharge pour medium-zoom lorsqu'il passe en plein écran */
+@media print {
+  /* Masque les éléments inutiles */
+  .print\:hidden {
+    display: none !important;
+  }
+
+  /* Fond blanc pour l'impression */
+  body {
+    background: white !important;
+  }
+
+  html,
+  body {
+    height: auto !important;
+    overflow: visible !important;
+  }
+
+  main {
+    min-height: 0 !important;
+  }
+  nav,
+  footer {
+    display: none !important;
+  }
+  .site-header {
+    display: none !important;
+  }
+
+  .print-break-before {
+    break-before: page;
+    page-break-before: always;
+  }
+  /* Évite de couper les blocs importants entre deux pages */
+  .gh-card {
+    break-inside: avoid;
+  }
+
+  /* Supprime les liens soulignés/couleurs spécifiques */
+  a {
+    color: inherit !important;
+    text-decoration: none !important;
+  }
+}
+@page {
+  size: A4;
+  margin: 12mm;
+}

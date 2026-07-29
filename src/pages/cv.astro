@@ -27,6 +27,21 @@ const contactLinks = [
 ---
 
 <Layout title={`CV - ${profile.name}`}>
+  <div class="print:hidden flex justify-end mb-3">
+    <div class="text-right">
+      <button
+        onclick="window.print()"
+        class="inline-flex items-center rounded-md border border-[#d0d7de] bg-white px-3 py-2 text-xs font-medium text-[#24292f] hover:border-[#0969da] hover:bg-[#ddf4ff]"
+      >
+        Imprimer / Enregistrer en PDF
+      </button>
+
+      <p class="mt-1 text-[11px] text-[#57606a]">
+        Pour un meilleur rendu, utilisez les marges <strong>Minimales</strong> ou
+        <strong>Aucune</strong>.
+      </p>
+    </div>
+  </div>
   <div class="space-y-6">
     <header
       class="pb-6 border-b border-[#d0d7de] flex flex-col md:flex-row md:items-start justify-between gap-4"
@@ -72,8 +87,10 @@ const contactLinks = [
       </div>
     </header>
 
-    <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
-      <div class="lg:col-span-2 space-y-6">
+    <div
+      class="grid grid-cols-1 lg:grid-cols-[2fr_1fr] print:grid-cols-[2fr_1fr] gap-6 print:gap-4"
+    >
+      <div class="space-y-6">
         <section>
           <h2 class="text-xs font-semibold text-[#1f2328] uppercase tracking-wider mb-3">
             Expériences Professionnelles
@@ -98,7 +115,7 @@ const contactLinks = [
           </div>
         </section>
 
-        <section>
+        <section class="print-break-before">
           <h2 class="text-xs font-semibold text-[#1f2328] uppercase tracking-wider mb-3">
             Formation & Certifications
           </h2>
