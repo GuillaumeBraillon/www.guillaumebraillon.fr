@@ -3,7 +3,7 @@ title: "guillaumebraillon.fr"
 description: "Développement d'un portfolio statique ultra-rapide sous Astro, optimisé pour les performances mobiles et la manipulation de données textuelles brutes."
 pubDate: 2026-07-02
 heroImage: "/images/projects/portfolio.png"
-stack: ["Astro", "Tailwind CSS", "TypeScript", "HTML5 Semantics"]
+tech: ["Astro", "Tailwind CSS", "TypeScript", "HTML5 Semantics"]
 githubUrl: "https://github.com/GuillaumeBraillon/www.guillaumebraillon.fr"
 ---
 

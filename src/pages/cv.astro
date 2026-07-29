@@ -1,7 +1,29 @@
 ---
+import RepoIcon from "../components/RepoIcon.astro";
 import SkillGroup from "../components/SkillGroup.astro";
 import Layout from "../layouts/Layout.astro";
 import { profile, skills, experiences, educations } from "../data/cv";
+
+const contactLinks = [
+  {
+    label: "Site perso",
+    value: profile.website,
+    href: `https://${profile.website}`,
+    icon: "website",
+  },
+  {
+    label: "GitHub",
+    value: "GuillaumeBraillon",
+    href: `https://${profile.github}`,
+    icon: "github",
+  },
+  {
+    label: "LinkedIn",
+    value: "Guillaume Braillon",
+    href: `https://${profile.linkedin}`,
+    icon: "linkedin",
+  },
+] as const;
 ---
 
 <Layout title={`CV - ${profile.name}`}>
@@ -22,21 +44,31 @@ import { profile, skills, experiences, educations } from "../data/cv";
       </div>
 
       <div
-        class="shrink-0 p-3 gh-surface-muted gh-card space-y-1.5 text-xs gh-text-muted font-mono min-w-60"
+        class="shrink-0 p-3 gh-surface-muted gh-card space-y-2 text-xs gh-text-muted min-w-64"
       >
-        <div class="flex items-center gap-2">
-          <span class="font-semibold gh-text w-14">Web:</span>
-          <a href={`https://${profile.website}`} target="_blank" class="gh-link hover:underline"
-            >{profile.website}</a
-          >
+        <div class="grid gap-2">
+          {
+            contactLinks.map((link) => (
+              <a
+                href={link.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="group flex items-center gap-2 rounded-md border border-[#d0d7de] bg-white px-2.5 py-2 transition-colors hover:border-[#0969da] hover:bg-[#ddf4ff]"
+              >
+                <span class="inline-flex h-8 w-8 shrink-0 items-center justify-center rounded-md bg-[#f6f8fa] text-[#636c76] transition-colors group-hover:bg-white group-hover:text-[#0969da]">
+                  <RepoIcon name={link.icon} />
+                </span>
+                <span class="min-w-0">
+                  <span class="block text-[11px] font-semibold uppercase tracking-wider gh-text">
+                    {link.label}
+                  </span>
+                  <span class="block truncate font-mono text-[12px] gh-link">{link.value}</span>
+                </span>
+              </a>
+            ))
+          }
         </div>
-        <div class="flex items-center gap-2">
-          <span class="font-semibold gh-text w-14">GitHub:</span>
-          <a href={`https://${profile.github}`} target="_blank" class="gh-link hover:underline"
-            >GuillaumeBraillon</a
-          >
-        </div>
-        <div class="pt-1.5 gh-divider-bottom text-[11px]">
+        <div class="pt-1.5 gh-divider-bottom text-[11px] font-mono">
           Permis B · {profile.lang}
         </div>
       </div>

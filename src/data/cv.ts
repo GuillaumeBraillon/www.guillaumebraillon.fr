@@ -6,6 +6,7 @@ export const profile = {
   subtitle: "React · Node.js · Supabase · Angular",
   website: "www.guillaumebraillon.fr",
   github: "github.com/GuillaumeBraillon",
+  linkedin: "linkedin.com/in/guillaume-braillon",
   lang: "Anglais (professionnel)",
   details:
     "Passionné par le développement depuis 2001, j’ai exploré plusieurs langages, du PHP au JavaScript en passant par le Java. Développeur curieux, autodidacte et expérimenté, je me spécialise aujourd'hui dans l'écosystème JavaScript moderne et l'intégration de solutions d'IA agentique ou d'automatisation de processus.",

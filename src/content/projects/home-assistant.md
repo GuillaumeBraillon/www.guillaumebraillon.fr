@@ -1,7 +1,7 @@
 ---
 title: "Home Assistant"
 description: "Configuration Home Assistant complète d'un foyer à Lyon : automatisations, scripts, dashboards Lovelace et intégrations MQTT/n8n pour piloter éclairages, présence, confort, notifications et routines familiales."
-tech: ["Home Assistant", "YAML", "Jinja2", "MQTT", "n8n"]
+tech: ["YAML", "Home Assistant", "Jinja2", "MQTT", "n8n"]
 date: 2026-07-01
 githubUrl: "https://github.com/GuillaumeBraillon/home-assistant"
 featured: false
