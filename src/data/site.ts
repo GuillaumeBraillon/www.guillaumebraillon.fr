@@ -29,13 +29,13 @@ export const contactLinks = [
   {
     label: "GitHub",
     value: "GuillaumeBraillon",
-    href: "github.com/GuillaumeBraillon",
+    href: "https://github.com/GuillaumeBraillon",
     icon: "github",
   },
   {
     label: "LinkedIn",
     value: "Guillaume Braillon",
-    href: "linkedin.com/in/guillaume-braillon",
+    href: "https://linkedin.com/in/guillaume-braillon",
     icon: "linkedin",
   },
 ] as const;
