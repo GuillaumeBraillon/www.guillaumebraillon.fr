@@ -1,6 +1,6 @@
 ---
 interface Props {
-  variant?: "default" | "tag" | "date" | "country" | "public" | "home" | "success";
+  variant?: "default" | "tag" | "date" | "country" | "public" | "private" | "home" | "success";
   class?: string;
 }
 
@@ -12,6 +12,7 @@ const styles: Record<NonNullable<Props["variant"]>, string> = {
   date: "gh-badge gh-badge--date",
   country: "gh-badge gh-badge--country text-[12px] font-medium",
   public: "gh-badge gh-badge--public text-[12px]",
+  private: "gh-badge gh-badge--private text-[12px]",
   home: "gh-badge gh-badge--home text-xs font-normal",
   success: "gh-badge gh-badge--success",
 };

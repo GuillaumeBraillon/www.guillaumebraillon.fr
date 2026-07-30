@@ -8,9 +8,10 @@ const projects = defineCollection({
     title: z.string({ message: "Le titre est obligatoire" }),
     description: z.string({ message: "La description est obligatoire" }),
     tech: z.array(z.string()).optional(),
-    date: z.coerce.date().optional(),
+    date: z.coerce.date({ message: "La date doit être valide" }),
     githubUrl: z.url({ message: "L'URL GitHub doit être valide" }),
     featured: z.boolean().optional(),
+    status: z.enum(["Public", "Private"]).optional(),
   }),
 });
 

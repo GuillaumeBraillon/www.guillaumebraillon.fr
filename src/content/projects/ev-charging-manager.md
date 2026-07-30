@@ -4,6 +4,7 @@ description: "Application d'analyse et d'optimisation des coûts de recharge pou
 tech: ["React", "TypeScript", "TailwindCSS", "Supabase", "Chart.js"]
 date: 2026-03-22
 githubUrl: "https://github.com/GuillaumeBraillon/EV-Charge-Tracker"
+status: Public
 ---
 
 ## 💡 Contexte & Objectif

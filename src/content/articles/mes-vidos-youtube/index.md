@@ -1,7 +1,7 @@
 ---
 title: "Mes clips vidéos"
 date: 2012-07-19
-tags: ["montage-videos"]
+tags: ["Montage vidéo"]
 description: "Découvrez mes compositions originales à la guitare, sessions de loop et performances live enregistrées en Irlande et en Australie."
 ---
 

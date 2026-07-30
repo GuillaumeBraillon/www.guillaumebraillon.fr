@@ -3,7 +3,12 @@ import Badge from "../../components/Badge.astro";
 import CollectionListItem from "../../components/CollectionListItem.astro";
 import PageHeader from "../../components/PageHeader.astro";
 import Layout from "../../layouts/Layout.astro";
-import { formatDateFr, getPublishedCollection, sortByDateDesc } from "../../lib/content";
+import {
+  formatDateFr,
+  getPublishedCollection,
+  getTagColor,
+  sortByDateDesc,
+} from "../../lib/content";
 import { getThumbnail } from "../../lib/images";
 
 const articles = sortByDateDesc(await getPublishedCollection("articles"));
@@ -29,15 +34,21 @@ const articlesWithImages = await Promise.all(
             thumbnail={img ?? undefined}
             thumbnailAlt={article.data.title}
           >
-            <Badge slot="meta" variant="date">
-              {formatDateFr(article.data.date)}
-            </Badge>
-            {article.data.tags &&
-              article.data.tags.map((tag) => (
-                <Badge slot="meta" variant="tag">
-                  {tag}
-                </Badge>
-              ))}
+            <div slot="meta" class="w-full flex flex-col gap-1">
+              <div class="flex flex-wrap items-center gap-1.5">
+                {article.data.tags?.map((tag) => (
+                  <span class="flex items-center gap-1.5">
+                    <span class={`w-2.5 h-2.5 rounded-full ${getTagColor(tag)}`} />
+                    {tag}
+                  </span>
+                ))}
+              </div>
+              <div class="w-full flex justify-end">
+                <span class="text-xs font-bold text-[#57606a] whitespace-nowrap">
+                  {formatDateFr(article.data.date)}
+                </span>
+              </div>
+            </div>
           </CollectionListItem>
         );
       })

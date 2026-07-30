@@ -13,11 +13,10 @@ export const site = {
 export const navItems = [
   { href: "/", label: "Accueil" },
   { href: "/projects", label: "Projets" },
-  { href: "/tablatures", label: "Tablatures" },
-  { href: "/voyages", label: "Voyages" },
   { href: "/domotique", label: "Domotique" },
   { href: "/articles", label: "Articles" },
-  { href: "/cv", label: "CV" },
+  { href: "/tablatures", label: "Tablatures" },
+  { href: "/voyages", label: "Voyages" },
 ] as const;
 
 export const contactLinks = [

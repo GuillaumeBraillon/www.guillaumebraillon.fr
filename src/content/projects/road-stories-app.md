@@ -4,6 +4,7 @@ description: "PWA mobile qui enrichit les trajets en voiture en diffusant automa
 tech: ["React", "TypeScript", "Vite", "TailwindCSS", "Vercel Edge Functions", "Gemini"]
 date: 2026-07-01
 githubUrl: "https://github.com/GuillaumeBraillon/road-stories"
+status: Public
 featured: false
 ---
 

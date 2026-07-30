@@ -1,6 +1,7 @@
 ---
 import RepoIcon from "../components/RepoIcon.astro";
 import SkillGroup from "../components/SkillGroup.astro";
+import Button from "../components/Button.astro";
 import Layout from "../layouts/Layout.astro";
 import { profile, skills, experiences, educations } from "../data/cv";
 import { contactLinks } from "../data/site";
@@ -9,12 +10,7 @@ import { contactLinks } from "../data/site";
 <Layout title={`CV - ${profile.name}`}>
   <div class="print:hidden flex justify-end mb-3 gh-divider-bottom">
     <div class="text-right">
-      <button
-        onclick="window.print()"
-        class="inline-flex items-center rounded-md border border-[#d0d7de] bg-white px-3 py-2 text-xs font-medium text-[#24292f] hover:border-[#0969da] hover:bg-[#ddf4ff]"
-      >
-        Imprimer / Enregistrer en PDF
-      </button>
+      <Button href="window.print()"> Imprimer / Enregistrer en PDF </Button>
 
       <p class="mt-1 text-[11px] text-[#57606a]">
         Pour un meilleur rendu, utilisez les marges <strong>Minimales</strong> ou
@@ -27,7 +23,7 @@ import { contactLinks } from "../data/site";
       <div>
         <p class="text-base font-bold text-[#0969da] mt-1">{profile.title}</p>
         <p class="text-xs text-[#57606a] font-mono mt-0.5">{profile.subtitle}</p>
-        <p class="mt-3 text-[14px] text-[#24292f] leading-relaxed max-w-3xl">
+        <p class="mt-3 text-[14px] text-[#24292f] leading-relaxed w-full">
           {profile.details}
         </p>
       </div>

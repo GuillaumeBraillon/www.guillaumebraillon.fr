@@ -1,5 +1,5 @@
 ---
-title: "[ Docker ] Auto-hébergement : Installer et optimiser qBittorrent et Prowlarr sur Synology"
+title: "Auto-hébergement : qBittorrent et Prowlarr sur NAS Synology"
 date: 2026-07-06
 tags: ["Tutoriels", "Docker", "Auto-hébergement", "NAS Synology"]
 description: "Guide complet pour installer qBittorrent et Prowlarr sur Synology DSM 7.1.1 via Docker. Résolution des crashs de libtorrent v2, optimisation des E/S disques et configuration sécurisée du Reverse Proxy HTTPS."

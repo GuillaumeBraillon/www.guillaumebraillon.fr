@@ -4,6 +4,7 @@ description: "Application full-stack de gestion de budget familial basée sur la
 tech: ["React", "Node.js", "Astro", "Supabase", "TailwindCSS"]
 date: 2026-01-15
 githubUrl: "https://github.com/GuillaumeBraillon/family-budget"
+status: Public
 featured: true
 ---
 

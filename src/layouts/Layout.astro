@@ -1,6 +1,7 @@
 ---
 import "../styles/global.css";
 import { contactLinks, navItems, site } from "../data/site";
+import Button from "../components/Button.astro";
 
 interface Props {
   title?: string;
@@ -21,14 +22,14 @@ const currentPath = Astro.url.pathname;
   >
     <header class="site-header w-full bg-[#f6f8fa] border-b border-[#d0d7de]">
       <div
-        class="max-w-5xl mx-auto px-4 py-2.5 sm:py-0 sm:h-12 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2.5 sm:gap-4"
+        class="max-w-328 mx-auto px-4 py-2.5 sm:py-0 sm:h-12 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2.5 sm:gap-4"
       >
         <!-- Name à gauche -->
         <a
           href="/"
-          class="flex items-center font-semibold text-[#1f2328] hover:text-[#0969da] transition-colors text-xs tracking-tight py-0.5 sm:py-0"
+          class="flex items-center rounded-md px-2 py-1 -ml-2 text-[#1f2328] hover:bg-[#eaeef2] hover:text-[#0969da] transition-colors"
         >
-          <span>{site.name}</span>
+          <span class="font-bold text-base tracking-tight">{site.name}</span>
         </a>
 
         <!-- Menu aligné à gauche, taille naturelle des boutons -->
@@ -54,40 +55,50 @@ const currentPath = Astro.url.pathname;
               );
             })
           }
+          <div class="flex gap-2 shrink-0">
+            <Button href="/cv" variant="primary"> Mon CV </Button>
+          </div>
         </nav>
       </div>
     </header>
-
-    <main class="flex-1 max-w-5xl mx-auto w-full px-4 py-6">
-      <div
-        class="bg-white border border-[#d0d7de] rounded-md p-5 shadow-sm text-[14px] leading-relaxed print-border-remove"
-      >
-        <slot />
-      </div>
-    </main>
-
-    <footer class="mt-auto border-t border-[#d0d7de] bg-[#ffffff]">
-      <div
-        class="max-w-5xl mx-auto px-4 py-4 flex items-center justify-between text-[12px] text-[#636c76]"
-      >
-        <div class="flex items-center gap-2">
-          <span>© {new Date().getFullYear()} {site.name}</span>
-        </div>
-        <nav class="flex gap-3">
-          {
-            contactLinks.map((link) => (
-              <a
-                href={link.href}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="text-[#0969da] hover:underline"
-              >
-                {link.label}
-              </a>
-            ))
-          }
-        </nav>
-      </div>
-    </footer>
   </body>
+
+  <main
+    class="flex-1
+            max-w-328
+            mx-auto
+            w-full
+            px-4
+            py-6"
+  >
+    <div
+      class="bg-white border border-[#d0d7de] rounded-md p-5 shadow-sm text-[14px] leading-relaxed print-border-remove"
+    >
+      <slot />
+    </div>
+  </main>
+
+  <footer class="mt-auto border-t border-[#d0d7de] bg-[#ffffff]">
+    <div
+      class="max-w-5xl mx-auto px-4 py-4 flex items-center justify-between text-[12px] text-[#636c76]"
+    >
+      <div class="flex items-center gap-2">
+        <span>© {new Date().getFullYear()} {site.name}</span>
+      </div>
+      <nav class="flex gap-3">
+        {
+          contactLinks.map((link) => (
+            <a
+              href={link.href}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="text-[#0969da] hover:underline"
+            >
+              {link.label}
+            </a>
+          ))
+        }
+      </nav>
+    </div>
+  </footer>
 </html>
