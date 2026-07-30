@@ -2,6 +2,8 @@
 title: Primevideo le Streaming Gratuit d’Amazon Premium
 date: 2017-06-08
 tags:
+  - Archives
+  - LaDomoPratique
   - Tests
 description: Primevideo le Streaming Gratuit d’Amazon Premium qu’est ce que
   c’est ? Vous vous posez la question et bien ça ne m’étonne pas, car je me la

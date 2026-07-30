@@ -5,7 +5,7 @@ import HomeProjectCard from "../components/HomeProjectCard.astro";
 import HomeSidebarItem from "../components/HomeSidebarItem.astro";
 import Layout from "../layouts/Layout.astro";
 import { site } from "../data/site";
-import { getPublishedCollection, sortByDateDesc } from "../lib/content";
+import { formatDateFr, getPublishedCollection, sortByDateDesc } from "../lib/content";
 import { getThumbnail } from "../lib/images";
 import tablaturesData from "../data/tablatures.json";
 
@@ -52,12 +52,20 @@ const otherProjectsWithImages = await Promise.all(
 );
 
 const recentArticles = sortByDateDesc(await getPublishedCollection("articles")).slice(0, 3);
+const recentDomotique = sortByDateDesc(await getPublishedCollection("domotiques")).slice(0, 6);
 const recentVoyages = sortByDateDesc(await getPublishedCollection("voyages")).slice(0, 3);
 
 const recentArticlesWithImages = await Promise.all(
   recentArticles.map(async (item) => ({
     item,
     img: await getThumbnail("articles", item),
+  }))
+);
+
+const recentDomotiqueWithImages = await Promise.all(
+  recentDomotique.map(async (item) => ({
+    item,
+    img: await getThumbnail("domotiques", item),
   }))
 );
 
@@ -150,6 +158,46 @@ const recentVoyagesWithImages = await Promise.all(
               })
             ) : (
               <p class="text-xs text-[#636c76] col-span-2">Pas d'autres projets à afficher.</p>
+            )
+          }
+        </div>
+      </section>
+
+      <section>
+        <div class="flex items-center justify-between mb-2">
+          <span class="text-xs font-semibold text-[#1f2328]">Domotique</span>
+          <a href="/domotique" class="text-[11px] text-[#0969da] hover:underline">Tout voir</a>
+        </div>
+        <div class="grid gap-3">
+          {
+            recentDomotiqueWithImages.length > 0 ? (
+              recentDomotiqueWithImages.map(({ item: i, img }) => {
+                return (
+                  <HomeProjectCard
+                    href={`/domotique/${i.id}`}
+                    title={i.data.title}
+                    description={i.data.description}
+                    thumbnail={img ?? undefined}
+                    thumbnailAlt={i.data.title}
+                    variant="compact"
+                  >
+                    <Badge slot="meta" variant="date">
+                      {formatDateFr(i.data.date)}
+                    </Badge>
+                    {i.data.tags && i.data.tags.length > 0 && (
+                      <span slot="meta" class="flex items-center gap-1.5">
+                        <span class="w-2.5 h-2.5 rounded-full bg-[rgb(90,135,241)]" />
+                        {i.data.tags[0]} <span class="w-2.5 h-2.5 rounded-full bg-[#f1e05a]" />
+                        {i.data.tags[1]}
+                      </span>
+                    )}
+                  </HomeProjectCard>
+                );
+              })
+            ) : (
+              <p class="text-xs text-[#636c76] col-span-2">
+                Pas d'autres articles domotique à afficher.
+              </p>
             )
           }
         </div>

@@ -2,6 +2,8 @@
 title: Enceinte connectée Wifi, UPNP, Bluetooth Mi-Speaker Xiaomi
 date: 2017-05-19
 tags:
+  - Archives
+  - LaDomoPratique
   - Tests
 description: Après les gammes Aqara et Yeelights de Xiaomi, je vais maintenant
   vous présenter une alternative aux célèbres Sonos, l’enceinte connectée

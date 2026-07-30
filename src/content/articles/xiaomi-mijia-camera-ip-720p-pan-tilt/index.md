@@ -2,6 +2,8 @@
 title: Xiaomi mijia Caméra IP 720P Pan-tilt
 date: 2018-06-02
 tags:
+  - Archives
+  - LaDomoPratique
   - Tests
 description: Je vous présente aujourd’hui la caméra Xiaomi mijia Camera IP 720P
   WiFi Pan-tilt. L’article est assez court. Je fais simplement une description,

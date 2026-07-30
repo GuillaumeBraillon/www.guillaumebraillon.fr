@@ -1,13 +1,17 @@
 import type { CollectionEntry } from "astro:content";
 
-type ThumbnailCollection = "articles" | "voyages" | "projects";
+type ThumbnailCollection = "articles" | "domotiques" | "voyages" | "projects";
 type ThumbnailEntry =
   | CollectionEntry<"articles">
+  | CollectionEntry<"domotiques">
   | CollectionEntry<"voyages">
   | CollectionEntry<"projects">;
 
 const allImages = {
   ...import.meta.glob("/src/content/articles/**/*.{jpg,jpeg,png,webp,JPG,JPEG,PNG,WEBP}", {
+    import: "default",
+  }),
+  ...import.meta.glob("/src/content/domotiques/**/*.{jpg,jpeg,png,webp,JPG,JPEG,PNG,WEBP}", {
     import: "default",
   }),
   ...import.meta.glob("/src/content/voyages/**/*.{jpg,jpeg,png,webp,JPG,JPEG,PNG,WEBP}", {
@@ -20,6 +24,7 @@ const allImages = {
 
 const defaultThumbnails: Record<ThumbnailCollection, string> = {
   articles: "/src/content/articles/default-thumbnail.png",
+  domotiques: "/src/content/domotiques/default-thumbnail.png",
   voyages: "/src/content/voyages/default-thumbnail.png",
   projects: "/src/content/projects/default-thumbnail.png",
 };
@@ -47,14 +52,22 @@ export function getThumbnail(
   collection: "articles",
   entry: CollectionEntry<"articles">
 ): Promise<ImageMetadata | undefined>;
+
+export function getThumbnail(
+  collection: "domotiques",
+  entry: CollectionEntry<"domotiques">
+): Promise<ImageMetadata | undefined>;
+
 export function getThumbnail(
   collection: "voyages",
   entry: CollectionEntry<"voyages">
 ): Promise<ImageMetadata | undefined>;
+
 export function getThumbnail(
   collection: "projects",
   entry: CollectionEntry<"projects">
 ): Promise<ImageMetadata | undefined>;
+
 export function getThumbnail(
   collection: ThumbnailCollection,
   entry: ThumbnailEntry

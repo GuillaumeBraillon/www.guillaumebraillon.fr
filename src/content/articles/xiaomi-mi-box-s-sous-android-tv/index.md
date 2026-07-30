@@ -2,6 +2,8 @@
 title: Xiaomi Mi-Box S sous Android TV
 date: 2019-01-03
 tags:
+  - Archives
+  - LaDomoPratique
   - Tests
 description: Streaming, Google Home, Serveur multimédia, transformez votre télé
   en objet connecté avec la Xiaomi Mi-Box S sous Android TV.

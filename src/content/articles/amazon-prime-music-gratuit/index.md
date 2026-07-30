@@ -2,6 +2,8 @@
 title: Amazon Prime Music gratuit
 date: 2018-06-08
 tags:
+  - Archives
+  - LaDomoPratique
   - Tests
 description: Après Amazon Prime Video, le Streaming vidéo inclut avec les
   abonnements Amazon Prime que je vous avais présenté il y a quelque temps,

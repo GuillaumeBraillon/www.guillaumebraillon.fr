@@ -2,6 +2,8 @@
 title: Aspirateur Xiaomi Roidmi F8
 date: 2018-10-04
 tags:
+  - Archives
+  - LaDomoPratique
   - Tests
 description: Aujourd’hui c’est le site www.gearbest.com qui m’a proposé de
   tester l’aspirateur Xiaomi Roidmi F8, un aspirateur à main sans fil du type

@@ -1,6 +1,6 @@
 ---
 import "../styles/global.css";
-import { navItems, site, socialLinks } from "../data/site";
+import { contactLinks, navItems, site } from "../data/site";
 
 interface Props {
   title?: string;
@@ -75,7 +75,7 @@ const currentPath = Astro.url.pathname;
         </div>
         <nav class="flex gap-3">
           {
-            socialLinks.map((link) => (
+            contactLinks.map((link) => (
               <a
                 href={link.href}
                 target="_blank"

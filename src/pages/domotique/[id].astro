@@ -1,0 +1,43 @@
+---
+import Badge from "../../components/Badge.astro";
+import ContentHeader from "../../components/ContentHeader.astro";
+import MarkdownImages from "../../components/MarkdownImages.astro";
+import { render } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import { formatDateFr, getPublishedCollection } from "../../lib/content";
+
+export async function getStaticPaths() {
+  const domotiques = await getPublishedCollection("domotiques");
+  return domotiques.map((domotique) => ({
+    params: { id: domotique.id },
+    props: { domotique },
+  }));
+}
+
+const { domotique } = Astro.props;
+const { data } = domotique;
+const { Content } = await render(domotique);
+const formattedDate = formatDateFr(data.date);
+---
+
+<Layout title={data.title}>
+  <article class="space-y-6">
+    <ContentHeader href="/domotique" label="Domotique" current={domotique.id} title={data.title}>
+      <span slot="meta" class="font-medium text-[#1f2328]">{formattedDate}</span>
+      {
+        data.tags &&
+          data.tags.length > 0 &&
+          data.tags.map((tag: string) => (
+            <Badge slot="meta" variant="tag">
+              {tag}
+            </Badge>
+          ))
+      }
+    </ContentHeader>
+
+    <div class="prose prose-sm max-w-none text-[#1f2328] space-y-4 markdown-body">
+      <Content />
+    </div>
+    <MarkdownImages />
+  </article>
+</Layout>

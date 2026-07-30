@@ -2,6 +2,8 @@
 title: Dreame Bot L10 Pro, l’aspirateur robot qui a des yeux
 date: 2021-05-11
 tags:
+  - Archives
+  - LaDomoPratique
   - Tests
 description: Le Dreame Bot L10 Pro a une puissance d’aspiration de 4000 Pa, une
   fonction serpillère et surtout des capteurs LiDAR à double laser.

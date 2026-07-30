@@ -2,6 +2,8 @@
 title: Balance Connectée XIAOMI Weight Body Fat
 date: 2017-06-20
 tags:
+  - Archives
+  - LaDomoPratique
   - Tests
 description: Aujourd’hui j’ai reçu la nouvelle Balance Connectée XIAOMI Weight
   Body Fat et je vais bientôt vous présenter un test complet. Afin de vous

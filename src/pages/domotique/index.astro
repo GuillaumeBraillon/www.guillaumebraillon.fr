@@ -1,0 +1,46 @@
+---
+import Badge from "../../components/Badge.astro";
+import CollectionListItem from "../../components/CollectionListItem.astro";
+import PageHeader from "../../components/PageHeader.astro";
+import Layout from "../../layouts/Layout.astro";
+import { formatDateFr, getPublishedCollection, sortByDateDesc } from "../../lib/content";
+import { getThumbnail } from "../../lib/images";
+
+const domotiques = sortByDateDesc(await getPublishedCollection("domotiques"));
+const domotiquesWithImages = await Promise.all(
+  domotiques.map(async (domotique) => ({
+    domotique,
+    img: await getThumbnail("domotiques", domotique),
+  }))
+);
+---
+
+<Layout title="Domotique">
+  <PageHeader title="Domotique" count={domotiques.length} />
+
+  <div class="divide-y divide-[#d0d7de]">
+    {
+      domotiquesWithImages.map(({ domotique, img }) => {
+        return (
+          <CollectionListItem
+            href={`/domotique/${domotique.id}`}
+            title={domotique.data.title}
+            description={domotique.data.description}
+            thumbnail={img ?? undefined}
+            thumbnailAlt={domotique.data.title}
+          >
+            <Badge slot="meta" variant="date">
+              {formatDateFr(domotique.data.date)}
+            </Badge>
+            {domotique.data.tags &&
+              domotique.data.tags.map((tag) => (
+                <Badge slot="meta" variant="tag">
+                  {tag}
+                </Badge>
+              ))}
+          </CollectionListItem>
+        );
+      })
+    }
+  </div>
+</Layout>

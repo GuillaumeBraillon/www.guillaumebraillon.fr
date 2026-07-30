@@ -2,6 +2,8 @@
 title: Aspirateur Robot Xiaomi Roborock S50
 date: 2018-05-17
 tags:
+  - Archives
+  - LaDomoPratique
   - Tests
 description: Après l’aspirateur Mi-Robot de Xiaomi première version que je vous
   avais présenté dans les articles Aspirateur Robot Xiaomi Mi-Robot et

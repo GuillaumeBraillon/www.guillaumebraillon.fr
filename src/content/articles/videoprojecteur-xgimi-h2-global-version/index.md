@@ -2,6 +2,8 @@
 title: Vidéoprojecteur XGIMI H2 Global Version
 date: 2019-01-18
 tags:
+  - Archives
+  - LaDomoPratique
   - Tests
 description: Le nouveau XGIMI H2 Global version tape très fort dans le monde des
   vidéoprojecteurs. 1350 lumens, Full HD 3D, compatible 4k HDR 10, Son par

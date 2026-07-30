@@ -2,6 +2,8 @@
 title: Balance Connectée XIAOMI Weight Body Fat le test
 date: 2017-06-30
 tags:
+  - Archives
+  - LaDomoPratique
   - Tests
 description: La nouvelle Balance Connectée XIAOMI Weight Body Fat est un des
   best-sellers chez GearBest surement en raison de son design minimaliste, mais

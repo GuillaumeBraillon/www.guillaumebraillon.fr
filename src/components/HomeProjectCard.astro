@@ -5,7 +5,7 @@ import RepoIcon from "./RepoIcon.astro";
 interface Props {
   href: string;
   title: string;
-  description: string;
+  description: string | undefined;
   thumbnail?: ImageMetadata | null;
   thumbnailAlt?: string;
   variant?: "featured" | "compact";

@@ -2,6 +2,8 @@
 title: Aspirateur Robot Xiaomi Mi-Robot
 date: 2017-09-16
 tags:
+  - Archives
+  - LaDomoPratique
   - Tests
 description: L’aspirateur Robot Xiaomi Mi-Robot est un aspirateur robot
   connecté, en plus de son prix très compétitif, le Mi-Robot est contrôlable

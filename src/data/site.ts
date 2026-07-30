@@ -1,5 +1,6 @@
 export const site = {
   name: "Guillaume Braillon",
+  website: "www.guillaumebraillon.fr",
   tagline: "Bienvenue dans mon univers personnel",
   defaultTitle: "Guillaume Braillon - Développement, domotique, musique et découvertes",
   home: {
@@ -14,17 +15,28 @@ export const navItems = [
   { href: "/projects", label: "Projets" },
   { href: "/tablatures", label: "Tablatures" },
   { href: "/voyages", label: "Voyages" },
+  { href: "/domotique", label: "Domotique" },
   { href: "/articles", label: "Articles" },
   { href: "/cv", label: "CV" },
 ] as const;
 
-export const socialLinks = [
+export const contactLinks = [
+  {
+    label: "Site perso",
+    value: site.website,
+    href: `https://${site.website}`,
+    icon: "website",
+  },
   {
     label: "GitHub",
-    href: "https://github.com/GuillaumeBraillon",
+    value: "GuillaumeBraillon",
+    href: "github.com/GuillaumeBraillon",
+    icon: "github",
   },
   {
     label: "LinkedIn",
-    href: "https://www.linkedin.com/in/guillaumebraillon",
+    value: "Guillaume Braillon",
+    href: "linkedin.com/in/guillaume-braillon",
+    icon: "linkedin",
   },
 ] as const;

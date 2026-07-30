@@ -2,6 +2,8 @@
 title: Neato Robotics XV Signature
 date: 2014-08-27
 tags:
+  - Archives
+  - LaDomoPratique
   - Tests
 description: Cela fait quelques temps que je fais des recherches sur les
   aspirateurs robots et j’ai enfin jeté mon dévolu sur le Neato Robotics XV

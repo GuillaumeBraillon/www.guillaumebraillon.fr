@@ -40,9 +40,21 @@ const articles = defineCollection({
     thumbnail: z.string().optional(),
   }),
 });
+const domotiques = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/domotiques" }),
+  schema: z.object({
+    title: z.string({ message: "Le titre est obligatoire" }),
+    date: z.coerce.date({ message: "La date doit être valide" }),
+    tags: z.array(z.string()).optional(),
+    description: z.string().optional(),
+    draft: z.boolean().optional(),
+    thumbnail: z.string().optional(),
+  }),
+});
 
 export const collections = {
   projects,
   voyages,
   articles,
+  domotiques,
 };

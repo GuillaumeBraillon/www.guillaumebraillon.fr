@@ -2,6 +2,8 @@
 title: Xiaomi Mijia Populele 2, un Ukulélé connecté
 date: 2019-06-02
 tags:
+  - Archives
+  - LaDomoPratique
   - Tests
 description: Le site Gearbest m’a envoyé un Ukulélé connecté, le Populele 2 qui
   possède dans son manche des LEDs qui s’allument pour placer vos doigts au bon

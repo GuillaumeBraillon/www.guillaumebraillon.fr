@@ -2,6 +2,8 @@
 title: Mijia Xiaomi Action cam 4k (En Francais)
 date: 2018-03-06
 tags:
+  - Archives
+  - LaDomoPratique
   - Tests
 description: Ça faisait longtemps que je n’avais pas fait un article en lien
   avec la photo. C’est pour cela qu’aujourd’hui, je vais vous présenter la Mijia

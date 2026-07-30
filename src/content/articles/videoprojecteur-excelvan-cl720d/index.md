@@ -2,6 +2,8 @@
 title: Vidéoprojecteur Excelvan CL720D
 date: 2017-07-04
 tags:
+  - Archives
+  - LaDomoPratique
   - Tests
 description: Nous allons découvrir le vidéoprojecteur Excelvan CL720D. Cette
   présentation sera suivie d’un test complet, mais pour cela, il faut que
