@@ -23,12 +23,12 @@ const currentPath = Astro.url.pathname;
       <div
         class="max-w-5xl mx-auto px-4 py-2.5 sm:py-0 sm:h-12 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2.5 sm:gap-4"
       >
-        <!-- Tagline à gauche -->
+        <!-- Name à gauche -->
         <a
           href="/"
           class="flex items-center font-semibold text-[#1f2328] hover:text-[#0969da] transition-colors text-xs tracking-tight py-0.5 sm:py-0"
         >
-          <span>{site.tagline}</span>
+          <span>{site.name}</span>
         </a>
 
         <!-- Menu aligné à gauche, taille naturelle des boutons -->
@@ -60,7 +60,7 @@ const currentPath = Astro.url.pathname;
 
     <main class="flex-1 max-w-5xl mx-auto w-full px-4 py-6">
       <div
-        class="bg-white border border-[#d0d7de] rounded-md p-5 shadow-sm text-[14px] leading-relaxed"
+        class="bg-white border border-[#d0d7de] rounded-md p-5 shadow-sm text-[14px] leading-relaxed print-border-remove"
       >
         <slot />
       </div>

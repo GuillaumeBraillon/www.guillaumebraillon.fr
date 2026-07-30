@@ -1,11 +1,11 @@
 export const site = {
   name: "Guillaume Braillon",
-  tagline: "Mes passions...",
-  defaultTitle: "Guillaume Braillon",
+  tagline: "Bienvenue dans mon univers personnel",
+  defaultTitle: "Guillaume Braillon - Développement, domotique, musique et découvertes",
   home: {
-    badge: "Full Stack JS",
+    badge: "Mes passions, mes projets, mes découvertes",
     description:
-      "Passionné par le développement depuis 2001, j’ai exploré plusieurs langages, du PHP au JavaScript en passant par le Java. Développeur curieux, autodidacte et expérimenté, je me spécialise aujourd'hui dans l'écosystème JavaScript moderne et l'intégration de solutions d'IA agentique ou d'automatisation de processus.",
+      "Depuis de nombreuses années, je partage ici ce qui nourrit ma curiosité : mes créations numériques, mes découvertes technologiques, mes projets web, mais aussi mes passions comme la musique avec mes tablatures de guitare, mes voyages, et mes articles autour de la domotique, des objets connectés et des nouvelles technologies. Retrouvez également des sujets plus personnels liés à la vidéo, la photo, le multimédia, le daltonisme et les expériences qui ont marqué mon parcours. Ce site rassemble mes réalisations, mes apprentissages et les différents univers que j'ai envie de partager.",
   },
 } as const;
 

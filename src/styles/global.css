@@ -328,10 +328,28 @@ img.medium-zoom-image--opened {
     display: none !important;
   }
 
+  /* Ajoute un saut de page avant les sections importantes */
   .print-break-before {
     break-before: page;
     page-break-before: always;
+    padding-top: 12mm;
+    margin-top: 0;
   }
+
+  /* Supprime la marge supérieure du premier enfant de la section */
+  .print-break-before > :first-child,
+  .print-break-before h1:first-child,
+  .print-break-before h2:first-child,
+  .print-break-before h3:first-child {
+    margin-top: 0;
+  }
+
+  .print-border-remove {
+    border: none !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+  }
+
   /* Évite de couper les blocs importants entre deux pages */
   .gh-card {
     break-inside: avoid;

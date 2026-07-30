@@ -12,6 +12,27 @@ export const profile = {
     "Développeur Full Stack spécialisé dans l’écosystème JavaScript moderne (React, Angular, Node.js, TypeScript). J’accompagne également la conception d’automatisations et l’intégration de solutions d’IA générative, d’agents IA et de workflows métiers. Curieux et autodidacte, je cherche à développer des applications robustes alliant développement logiciel et intelligence artificielle.",
 };
 
+export const contactLinks = [
+  {
+    label: "Site perso",
+    value: profile.website,
+    href: `https://${profile.website}`,
+    icon: "website",
+  },
+  {
+    label: "GitHub",
+    value: "GuillaumeBraillon",
+    href: `https://${profile.github}`,
+    icon: "github",
+  },
+  {
+    label: "LinkedIn",
+    value: "Guillaume Braillon",
+    href: `https://${profile.linkedin}`,
+    icon: "linkedin",
+  },
+] as const;
+
 export const skills = {
   frontend: ["Angular", "React", "TypeScript", "JavaScript", "Vue.js", "HTML5/CSS3", "Sass"],
   backend: ["Node.js", "Express", "NestJS", "REST API", "OpenAPI", "Webhooks"],
