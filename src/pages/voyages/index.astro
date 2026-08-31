@@ -27,7 +27,6 @@ const voyagesWithImages = await Promise.all(
             title={voyage.data.title}
             description={voyage.data.description}
             thumbnail={img ?? undefined}
-            thumbnailAlt={voyage.data.title}
           >
             <Badge slot="titleBadge" variant="country">
               {voyage.data.country}

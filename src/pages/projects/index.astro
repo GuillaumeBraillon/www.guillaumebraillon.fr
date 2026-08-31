@@ -32,7 +32,6 @@ const projectsWithImages = await Promise.all(
             title={project.data.title}
             description={project.data.description}
             thumbnail={img ?? undefined}
-            thumbnailAlt={project.data.title}
           >
             <Badge
               slot="titleBadge"

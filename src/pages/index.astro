@@ -118,7 +118,6 @@ const recentVoyagesWithImages = await Promise.all(
                     title={project.data.title}
                     description={project.data.description}
                     thumbnail={img ?? undefined}
-                    thumbnailAlt={project.data.title}
                     variant="compact"
                   >
                     {project.data.tech &&
@@ -155,7 +154,6 @@ const recentVoyagesWithImages = await Promise.all(
                     title={item.data.title}
                     description={item.data.description}
                     thumbnail={img ?? undefined}
-                    thumbnailAlt={item.data.title}
                     variant="compact"
                   >
                     <div slot="meta" class="w-full flex flex-col gap-1">
