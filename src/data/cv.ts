@@ -8,8 +8,13 @@ export const profile = {
   github: contactLinks.find((link) => link.label === "GitHub")?.href || "",
   linkedin: contactLinks.find((link) => link.label === "LinkedIn")?.href || "",
   lang: "Anglais (professionnel)",
-  details:
-    "Développeur Full Stack spécialisé dans l’écosystème JavaScript moderne (React, Angular, Node.js, TypeScript). J’accompagne également la conception d’automatisations et l’intégration de solutions d’IA générative, d’agents IA et de workflows métiers. Curieux et autodidacte, je cherche à développer des applications robustes alliant développement logiciel et intelligence artificielle.",
+  details: [
+    "**Développeur Full Stack JavaScript** avec plusieurs années d’expérience dans la conception et l’évolution d’applications web. Je travaille principalement avec **TypeScript, React, Angular et Node.js**, du frontend aux API et bases de données.",
+
+    "J’ai également développé une expertise en **automatisation et intégration de services**, notamment avec **n8n, les APIs, les webhooks et les systèmes connectés**.",
+
+    "Je me spécialise aujourd’hui dans **l’intégration de l’IA générative** : **LLM, RAG et agents IA**. Je recherche des projets combinant **développement logiciel et IA** pour construire des applications modernes et utiles.",
+  ],
 };
 
 export const skills = {
@@ -18,15 +23,7 @@ export const skills = {
   database: ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Supabase"],
   devops: ["Docker", "GitHub", "CI/CD", "AWS", "Google Cloud", "Datadog", "Kafka"],
   automation: ["n8n", "Home Assistant", "Jeedom", "MQTT", "Objets connectés"],
-  iaAuto: [
-    "Vercel AI SDK",
-    "Mastra",
-    "GitHub Copilot",
-    "Cursor",
-    "LLM",
-    "RAG",
-    "Prompt Engineering",
-  ],
+  iaAuto: ["GitHub Copilot", "Cursor", "LLM", "RAG", "Prompt Engineering"],
 };
 
 export const experiences = [
