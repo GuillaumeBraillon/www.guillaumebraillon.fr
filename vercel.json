@@ -1,0 +1,2442 @@
+{
+  "redirects": [
+    {
+      "source": "/musique/",
+      "destination": "/articles",
+      "permanent": true
+    },
+    {
+      "source": "/photos/",
+      "destination": "/articles",
+      "permanent": true
+    },
+    {
+      "source": "/divers/",
+      "destination": "/articles",
+      "permanent": true
+    },
+    {
+      "source": "/voyages/",
+      "destination": "/voyages",
+      "permanent": true
+    },
+    {
+      "source": "/tablatures-pour-guitares/",
+      "destination": "/tablatures",
+      "permanent": true
+    },
+    {
+      "source": "/page/:num",
+      "destination": "/articles",
+      "permanent": true
+    },
+    {
+      "source": "/amazon-prime-music-gratuit/",
+      "destination": "/articles/amazon-prime-music-gratuit",
+      "permanent": true
+    },
+    {
+      "source": "/amazon-prime-music-gratuit",
+      "destination": "/articles/amazon-prime-music-gratuit",
+      "permanent": true
+    },
+    {
+      "source": "/aspirateur-robot-xiaomi-mi-robot/",
+      "destination": "/articles/aspirateur-robot-xiaomi-mi-robot",
+      "permanent": true
+    },
+    {
+      "source": "/aspirateur-robot-xiaomi-mi-robot",
+      "destination": "/articles/aspirateur-robot-xiaomi-mi-robot",
+      "permanent": true
+    },
+    {
+      "source": "/aspirateur-robot-xiaomi-mi-robot-le-test/",
+      "destination": "/articles/aspirateur-robot-xiaomi-mi-robot-le-test",
+      "permanent": true
+    },
+    {
+      "source": "/aspirateur-robot-xiaomi-mi-robot-le-test",
+      "destination": "/articles/aspirateur-robot-xiaomi-mi-robot-le-test",
+      "permanent": true
+    },
+    {
+      "source": "/aspirateur-robot-xiaomi-roborock-s50/",
+      "destination": "/articles/aspirateur-robot-xiaomi-roborock-s50",
+      "permanent": true
+    },
+    {
+      "source": "/aspirateur-robot-xiaomi-roborock-s50",
+      "destination": "/articles/aspirateur-robot-xiaomi-roborock-s50",
+      "permanent": true
+    },
+    {
+      "source": "/aspirateur-xiaomi-roidmi-f8/",
+      "destination": "/articles/aspirateur-xiaomi-roidmi-f8",
+      "permanent": true
+    },
+    {
+      "source": "/aspirateur-xiaomi-roidmi-f8",
+      "destination": "/articles/aspirateur-xiaomi-roidmi-f8",
+      "permanent": true
+    },
+    {
+      "source": "/auto-hebergement-installer-optimiser-qbittorrent-prowlarr-synology/",
+      "destination": "/articles/auto-hebergement-installer-optimiser-qbittorrent-prowlarr-synology",
+      "permanent": true
+    },
+    {
+      "source": "/auto-hebergement-installer-optimiser-qbittorrent-prowlarr-synology",
+      "destination": "/articles/auto-hebergement-installer-optimiser-qbittorrent-prowlarr-synology",
+      "permanent": true
+    },
+    {
+      "source": "/balance-connectee-xiaomi-weight-body-fat/",
+      "destination": "/articles/balance-connectee-xiaomi-weight-body-fat",
+      "permanent": true
+    },
+    {
+      "source": "/balance-connectee-xiaomi-weight-body-fat",
+      "destination": "/articles/balance-connectee-xiaomi-weight-body-fat",
+      "permanent": true
+    },
+    {
+      "source": "/balance-connectee-xiaomi-weight-body-fat-le-test/",
+      "destination": "/articles/balance-connectee-xiaomi-weight-body-fat-le-test",
+      "permanent": true
+    },
+    {
+      "source": "/balance-connectee-xiaomi-weight-body-fat-le-test",
+      "destination": "/articles/balance-connectee-xiaomi-weight-body-fat-le-test",
+      "permanent": true
+    },
+    {
+      "source": "/biographie/",
+      "destination": "/articles/biographie",
+      "permanent": true
+    },
+    {
+      "source": "/biographie",
+      "destination": "/articles/biographie",
+      "permanent": true
+    },
+    {
+      "source": "/camera-ip-wanscam-hw0026/",
+      "destination": "/articles/camera-ip-wanscam-hw0026",
+      "permanent": true
+    },
+    {
+      "source": "/camera-ip-wanscam-hw0026",
+      "destination": "/articles/camera-ip-wanscam-hw0026",
+      "permanent": true
+    },
+    {
+      "source": "/dreame-bot-l10-pro-laspirateur-robot-qui-a-des-yeux/",
+      "destination": "/articles/dreame-bot-l10-pro-laspirateur-robot-qui-a-des-yeux",
+      "permanent": true
+    },
+    {
+      "source": "/dreame-bot-l10-pro-laspirateur-robot-qui-a-des-yeux",
+      "destination": "/articles/dreame-bot-l10-pro-laspirateur-robot-qui-a-des-yeux",
+      "permanent": true
+    },
+    {
+      "source": "/enceinte-connectee-wifi-upnp-bluetooth-mi-speaker-xiaomi/",
+      "destination": "/articles/enceinte-connectee-wifi-upnp-bluetooth-mi-speaker-xiaomi",
+      "permanent": true
+    },
+    {
+      "source": "/enceinte-connectee-wifi-upnp-bluetooth-mi-speaker-xiaomi",
+      "destination": "/articles/enceinte-connectee-wifi-upnp-bluetooth-mi-speaker-xiaomi",
+      "permanent": true
+    },
+    {
+      "source": "/installation-damazon-prime-video-sur-xiaomi-mi-box-tv/",
+      "destination": "/articles/installation-damazon-prime-video-sur-xiaomi-mi-box-tv",
+      "permanent": true
+    },
+    {
+      "source": "/installation-damazon-prime-video-sur-xiaomi-mi-box-tv",
+      "destination": "/articles/installation-damazon-prime-video-sur-xiaomi-mi-box-tv",
+      "permanent": true
+    },
+    {
+      "source": "/le-daltonisme/",
+      "destination": "/articles/le-daltonisme",
+      "permanent": true
+    },
+    {
+      "source": "/le-daltonisme",
+      "destination": "/articles/le-daltonisme",
+      "permanent": true
+    },
+    {
+      "source": "/manon-par-franck-kouby/",
+      "destination": "/articles/manon-par-franck-kouby",
+      "permanent": true
+    },
+    {
+      "source": "/manon-par-franck-kouby",
+      "destination": "/articles/manon-par-franck-kouby",
+      "permanent": true
+    },
+    {
+      "source": "/mes-vidos-youtube/",
+      "destination": "/articles/mes-vidos-youtube",
+      "permanent": true
+    },
+    {
+      "source": "/mes-vidos-youtube",
+      "destination": "/articles/mes-vidos-youtube",
+      "permanent": true
+    },
+    {
+      "source": "/mon-matos/",
+      "destination": "/articles/mon-matos",
+      "permanent": true
+    },
+    {
+      "source": "/mon-matos",
+      "destination": "/articles/mon-matos",
+      "permanent": true
+    },
+    {
+      "source": "/montage-video-avec-pinnacle-studio-21-5/",
+      "destination": "/articles/montage-video-avec-pinnacle-studio-21-5",
+      "permanent": true
+    },
+    {
+      "source": "/montage-video-avec-pinnacle-studio-21-5",
+      "destination": "/articles/montage-video-avec-pinnacle-studio-21-5",
+      "permanent": true
+    },
+    {
+      "source": "/multiroom-audio-video-installations-clients-videos-kodi/",
+      "destination": "/articles/multiroom-audio-video-installations-clients-videos-kodi",
+      "permanent": true
+    },
+    {
+      "source": "/multiroom-audio-video-installations-clients-videos-kodi",
+      "destination": "/articles/multiroom-audio-video-installations-clients-videos-kodi",
+      "permanent": true
+    },
+    {
+      "source": "/multiroom-audio-video-installations-cote-serveur/",
+      "destination": "/articles/multiroom-audio-video-installations-cote-serveur",
+      "permanent": true
+    },
+    {
+      "source": "/multiroom-audio-video-installations-cote-serveur",
+      "destination": "/articles/multiroom-audio-video-installations-cote-serveur",
+      "permanent": true
+    },
+    {
+      "source": "/multiroom-audio-video-le-principe-de-fonctionnement/",
+      "destination": "/articles/multiroom-audio-video-le-principe-de-fonctionnement",
+      "permanent": true
+    },
+    {
+      "source": "/multiroom-audio-video-le-principe-de-fonctionnement",
+      "destination": "/articles/multiroom-audio-video-le-principe-de-fonctionnement",
+      "permanent": true
+    },
+    {
+      "source": "/neato-robotics-xv-signature/",
+      "destination": "/articles/neato-robotics-xv-signature",
+      "permanent": true
+    },
+    {
+      "source": "/neato-robotics-xv-signature",
+      "destination": "/articles/neato-robotics-xv-signature",
+      "permanent": true
+    },
+    {
+      "source": "/primevideo-com-le-streaming-gratuit-damazon-premium/",
+      "destination": "/articles/primevideo-com-le-streaming-gratuit-damazon-premium",
+      "permanent": true
+    },
+    {
+      "source": "/primevideo-com-le-streaming-gratuit-damazon-premium",
+      "destination": "/articles/primevideo-com-le-streaming-gratuit-damazon-premium",
+      "permanent": true
+    },
+    {
+      "source": "/routeur-asus-rt-ac88u-livebox-4/",
+      "destination": "/articles/routeur-asus-rt-ac88u-livebox-4",
+      "permanent": true
+    },
+    {
+      "source": "/routeur-asus-rt-ac88u-livebox-4",
+      "destination": "/articles/routeur-asus-rt-ac88u-livebox-4",
+      "permanent": true
+    },
+    {
+      "source": "/utilisation-du-videoprojecteur-xgimi-h2/",
+      "destination": "/articles/utilisation-du-videoprojecteur-xgimi-h2",
+      "permanent": true
+    },
+    {
+      "source": "/utilisation-du-videoprojecteur-xgimi-h2",
+      "destination": "/articles/utilisation-du-videoprojecteur-xgimi-h2",
+      "permanent": true
+    },
+    {
+      "source": "/videoprojecteur-excelvan-cl720d/",
+      "destination": "/articles/videoprojecteur-excelvan-cl720d",
+      "permanent": true
+    },
+    {
+      "source": "/videoprojecteur-excelvan-cl720d",
+      "destination": "/articles/videoprojecteur-excelvan-cl720d",
+      "permanent": true
+    },
+    {
+      "source": "/videoprojecteur-xgimi-h2-global-version/",
+      "destination": "/articles/videoprojecteur-xgimi-h2-global-version",
+      "permanent": true
+    },
+    {
+      "source": "/videoprojecteur-xgimi-h2-global-version",
+      "destination": "/articles/videoprojecteur-xgimi-h2-global-version",
+      "permanent": true
+    },
+    {
+      "source": "/videos-avec-appareil-reflex/",
+      "destination": "/articles/videos-avec-appareil-reflex",
+      "permanent": true
+    },
+    {
+      "source": "/videos-avec-appareil-reflex",
+      "destination": "/articles/videos-avec-appareil-reflex",
+      "permanent": true
+    },
+    {
+      "source": "/xiaomi-mi-box-s-sous-android-tv/",
+      "destination": "/articles/xiaomi-mi-box-s-sous-android-tv",
+      "permanent": true
+    },
+    {
+      "source": "/xiaomi-mi-box-s-sous-android-tv",
+      "destination": "/articles/xiaomi-mi-box-s-sous-android-tv",
+      "permanent": true
+    },
+    {
+      "source": "/xiaomi-mijia-action-cam-4k-en-francais/",
+      "destination": "/articles/xiaomi-mijia-action-cam-4k-en-francais",
+      "permanent": true
+    },
+    {
+      "source": "/xiaomi-mijia-action-cam-4k-en-francais",
+      "destination": "/articles/xiaomi-mijia-action-cam-4k-en-francais",
+      "permanent": true
+    },
+    {
+      "source": "/xiaomi-mijia-camera-ip-720p-pan-tilt/",
+      "destination": "/articles/xiaomi-mijia-camera-ip-720p-pan-tilt",
+      "permanent": true
+    },
+    {
+      "source": "/xiaomi-mijia-camera-ip-720p-pan-tilt",
+      "destination": "/articles/xiaomi-mijia-camera-ip-720p-pan-tilt",
+      "permanent": true
+    },
+    {
+      "source": "/xiaomi-mijia-populele-2-un-ukulele-connecte/",
+      "destination": "/articles/xiaomi-mijia-populele-2-un-ukulele-connecte",
+      "permanent": true
+    },
+    {
+      "source": "/xiaomi-mijia-populele-2-un-ukulele-connecte",
+      "destination": "/articles/xiaomi-mijia-populele-2-un-ukulele-connecte",
+      "permanent": true
+    },
+    {
+      "source": "/cote-est-des-etats-unis-en-2001/",
+      "destination": "/voyages/cote-est-des-etats-unis-en-2001",
+      "permanent": true
+    },
+    {
+      "source": "/cote-est-des-etats-unis-en-2001",
+      "destination": "/voyages/cote-est-des-etats-unis-en-2001",
+      "permanent": true
+    },
+    {
+      "source": "/irlande-1998/",
+      "destination": "/voyages/irlande-1998",
+      "permanent": true
+    },
+    {
+      "source": "/irlande-1998",
+      "destination": "/voyages/irlande-1998",
+      "permanent": true
+    },
+    {
+      "source": "/irlande-2003-2005/",
+      "destination": "/voyages/irlande-2003-2005",
+      "permanent": true
+    },
+    {
+      "source": "/irlande-2003-2005",
+      "destination": "/voyages/irlande-2003-2005",
+      "permanent": true
+    },
+    {
+      "source": "/road-trip-en-australie-2005-2006/",
+      "destination": "/voyages/road-trip-en-australie-2005-2006",
+      "permanent": true
+    },
+    {
+      "source": "/road-trip-en-australie-2005-2006",
+      "destination": "/voyages/road-trip-en-australie-2005-2006",
+      "permanent": true
+    },
+    {
+      "source": "/vacances-a-miami-beach/",
+      "destination": "/voyages/vacances-a-miami-beach",
+      "permanent": true
+    },
+    {
+      "source": "/vacances-a-miami-beach",
+      "destination": "/voyages/vacances-a-miami-beach",
+      "permanent": true
+    },
+    {
+      "source": "/ampoules-connectees-couleur-et-blanc-xiaomi-yeelight/",
+      "destination": "/domotique/ampoules-connectees-couleur-et-blanc-xiaomi-yeelight",
+      "permanent": true
+    },
+    {
+      "source": "/ampoules-connectees-couleur-et-blanc-xiaomi-yeelight",
+      "destination": "/domotique/ampoules-connectees-couleur-et-blanc-xiaomi-yeelight",
+      "permanent": true
+    },
+    {
+      "source": "/ampoules-xiaomi-yeelight-dans-jeedom/",
+      "destination": "/domotique/ampoules-xiaomi-yeelight-dans-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/ampoules-xiaomi-yeelight-dans-jeedom",
+      "destination": "/domotique/ampoules-xiaomi-yeelight-dans-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/banque-dimages-widgets-et-designs/",
+      "destination": "/domotique/banque-dimages-widgets-et-designs",
+      "permanent": true
+    },
+    {
+      "source": "/banque-dimages-widgets-et-designs",
+      "destination": "/domotique/banque-dimages-widgets-et-designs",
+      "permanent": true
+    },
+    {
+      "source": "/blea-sur-raspberry-pi-zero-w/",
+      "destination": "/domotique/blea-sur-raspberry-pi-zero-w",
+      "permanent": true
+    },
+    {
+      "source": "/blea-sur-raspberry-pi-zero-w",
+      "destination": "/domotique/blea-sur-raspberry-pi-zero-w",
+      "permanent": true
+    },
+    {
+      "source": "/controler-le-freebox-player/",
+      "destination": "/domotique/controler-le-freebox-player",
+      "permanent": true
+    },
+    {
+      "source": "/controler-le-freebox-player",
+      "destination": "/domotique/controler-le-freebox-player",
+      "permanent": true
+    },
+    {
+      "source": "/decouverte-des-bases-de-la-domotique/",
+      "destination": "/domotique/decouverte-des-bases-de-la-domotique",
+      "permanent": true
+    },
+    {
+      "source": "/decouverte-des-bases-de-la-domotique",
+      "destination": "/domotique/decouverte-des-bases-de-la-domotique",
+      "permanent": true
+    },
+    {
+      "source": "/design-jeedom-niveau-intermediaire/",
+      "destination": "/domotique/design-jeedom-niveau-intermediaire",
+      "permanent": true
+    },
+    {
+      "source": "/design-jeedom-niveau-intermediaire",
+      "destination": "/domotique/design-jeedom-niveau-intermediaire",
+      "permanent": true
+    },
+    {
+      "source": "/envoi-des-notifications-dans-jeedom/",
+      "destination": "/domotique/envoi-des-notifications-dans-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/envoi-des-notifications-dans-jeedom",
+      "destination": "/domotique/envoi-des-notifications-dans-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/erreur-sqlstatehy000-2002-resolu/",
+      "destination": "/domotique/erreur-sqlstatehy000-2002-resolu",
+      "permanent": true
+    },
+    {
+      "source": "/erreur-sqlstatehy000-2002-resolu",
+      "destination": "/domotique/erreur-sqlstatehy000-2002-resolu",
+      "permanent": true
+    },
+    {
+      "source": "/feuilles-de-style-de-design-pour-jeedom/",
+      "destination": "/domotique/feuilles-de-style-de-design-pour-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/feuilles-de-style-de-design-pour-jeedom",
+      "destination": "/domotique/feuilles-de-style-de-design-pour-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/fichiers-sources-dimages-widgets-et-designs/",
+      "destination": "/domotique/fichiers-sources-dimages-widgets-et-designs",
+      "permanent": true
+    },
+    {
+      "source": "/fichiers-sources-dimages-widgets-et-designs",
+      "destination": "/domotique/fichiers-sources-dimages-widgets-et-designs",
+      "permanent": true
+    },
+    {
+      "source": "/gestion-des-lumieres/",
+      "destination": "/domotique/gestion-des-lumieres",
+      "permanent": true
+    },
+    {
+      "source": "/gestion-des-lumieres",
+      "destination": "/domotique/gestion-des-lumieres",
+      "permanent": true
+    },
+    {
+      "source": "/gestion-des-lumieres-dans-jeedom/",
+      "destination": "/domotique/gestion-des-lumieres-dans-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/gestion-des-lumieres-dans-jeedom",
+      "destination": "/domotique/gestion-des-lumieres-dans-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/installation-de-jeedom-netinstall-sur-raspberry-3/",
+      "destination": "/domotique/installation-de-jeedom-netinstall-sur-raspberry-3",
+      "permanent": true
+    },
+    {
+      "source": "/installation-de-jeedom-netinstall-sur-raspberry-3",
+      "destination": "/domotique/installation-de-jeedom-netinstall-sur-raspberry-3",
+      "permanent": true
+    },
+    {
+      "source": "/installation-de-raspbian-et-jeedom-sur-raspberry/",
+      "destination": "/domotique/installation-de-raspbian-et-jeedom-sur-raspberry",
+      "permanent": true
+    },
+    {
+      "source": "/installation-de-raspbian-et-jeedom-sur-raspberry",
+      "destination": "/domotique/installation-de-raspbian-et-jeedom-sur-raspberry",
+      "permanent": true
+    },
+    {
+      "source": "/installation-et-configuration-de-la-gateway-xiaomi/",
+      "destination": "/domotique/installation-et-configuration-de-la-gateway-xiaomi",
+      "permanent": true
+    },
+    {
+      "source": "/installation-et-configuration-de-la-gateway-xiaomi",
+      "destination": "/domotique/installation-et-configuration-de-la-gateway-xiaomi",
+      "permanent": true
+    },
+    {
+      "source": "/installation-et-configuration-du-detecteur-de-mouvement-xiaomi/",
+      "destination": "/domotique/installation-et-configuration-du-detecteur-de-mouvement-xiaomi",
+      "permanent": true
+    },
+    {
+      "source": "/installation-et-configuration-du-detecteur-de-mouvement-xiaomi",
+      "destination": "/domotique/installation-et-configuration-du-detecteur-de-mouvement-xiaomi",
+      "permanent": true
+    },
+    {
+      "source": "/installation-et-configuration-du-detecteur-douverture-de-porte-xiaomi/",
+      "destination": "/domotique/installation-et-configuration-du-detecteur-douverture-de-porte-xiaomi",
+      "permanent": true
+    },
+    {
+      "source": "/installation-et-configuration-du-detecteur-douverture-de-porte-xiaomi",
+      "destination": "/domotique/installation-et-configuration-du-detecteur-douverture-de-porte-xiaomi",
+      "permanent": true
+    },
+    {
+      "source": "/installation-et-configuration-du-plugin-xiaomi/",
+      "destination": "/domotique/installation-et-configuration-du-plugin-xiaomi",
+      "permanent": true
+    },
+    {
+      "source": "/installation-et-configuration-du-plugin-xiaomi",
+      "destination": "/domotique/installation-et-configuration-du-plugin-xiaomi",
+      "permanent": true
+    },
+    {
+      "source": "/installation-plugin-rfxcom-et-volets-somfy-rts/",
+      "destination": "/domotique/installation-plugin-rfxcom-et-volets-somfy-rts",
+      "permanent": true
+    },
+    {
+      "source": "/installation-plugin-rfxcom-et-volets-somfy-rts",
+      "destination": "/domotique/installation-plugin-rfxcom-et-volets-somfy-rts",
+      "permanent": true
+    },
+    {
+      "source": "/installation-sur-pc-et-test-de-jeedom/",
+      "destination": "/domotique/installation-sur-pc-et-test-de-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/installation-sur-pc-et-test-de-jeedom",
+      "destination": "/domotique/installation-sur-pc-et-test-de-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-comparatif-sur-rpi-3-avec-xiaomi-zwave-ou-rf-433/",
+      "destination": "/domotique/jeedom-comparatif-sur-rpi-3-avec-xiaomi-zwave-ou-rf-433",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-comparatif-sur-rpi-3-avec-xiaomi-zwave-ou-rf-433",
+      "destination": "/domotique/jeedom-comparatif-sur-rpi-3-avec-xiaomi-zwave-ou-rf-433",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-envoi-de-sms-via-jeedom-paw-interface/",
+      "destination": "/domotique/jeedom-envoi-de-sms-via-jeedom-paw-interface",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-envoi-de-sms-via-jeedom-paw-interface",
+      "destination": "/domotique/jeedom-envoi-de-sms-via-jeedom-paw-interface",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-installation-et-configuration-de-jeedom-paw-interface/",
+      "destination": "/domotique/jeedom-installation-et-configuration-de-jeedom-paw-interface",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-installation-et-configuration-de-jeedom-paw-interface",
+      "destination": "/domotique/jeedom-installation-et-configuration-de-jeedom-paw-interface",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-jeedom-paw-interface-jpi-apk-et-plugin/",
+      "destination": "/domotique/jeedom-jeedom-paw-interface-jpi-apk-et-plugin",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-jeedom-paw-interface-jpi-apk-et-plugin",
+      "destination": "/domotique/jeedom-jeedom-paw-interface-jpi-apk-et-plugin",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-alertes-monitoring/",
+      "destination": "/domotique/jeedom-scenario-alertes-monitoring",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-alertes-monitoring",
+      "destination": "/domotique/jeedom-scenario-alertes-monitoring",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-bouton-switch-xiaomi/",
+      "destination": "/domotique/jeedom-scenario-bouton-switch-xiaomi",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-bouton-switch-xiaomi",
+      "destination": "/domotique/jeedom-scenario-bouton-switch-xiaomi",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-etat-des-ouvrants-et-lumieres/",
+      "destination": "/domotique/jeedom-scenario-etat-des-ouvrants-et-lumieres",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-etat-des-ouvrants-et-lumieres",
+      "destination": "/domotique/jeedom-scenario-etat-des-ouvrants-et-lumieres",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-fonction-ask-via-jpi-plugin/",
+      "destination": "/domotique/jeedom-scenario-fonction-ask-via-jpi-plugin",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-fonction-ask-via-jpi-plugin",
+      "destination": "/domotique/jeedom-scenario-fonction-ask-via-jpi-plugin",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-gestion-de-la-presence-avancees/",
+      "destination": "/domotique/jeedom-scenario-gestion-de-la-presence-avancees",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-gestion-de-la-presence-avancees",
+      "destination": "/domotique/jeedom-scenario-gestion-de-la-presence-avancees",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-lumiere-sur-presence/",
+      "destination": "/domotique/jeedom-scenario-lumiere-sur-presence",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-lumiere-sur-presence",
+      "destination": "/domotique/jeedom-scenario-lumiere-sur-presence",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-lumiere-sur-presence-corrige-optimise/",
+      "destination": "/domotique/jeedom-scenario-lumiere-sur-presence-corrige-optimise",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-lumiere-sur-presence-corrige-optimise",
+      "destination": "/domotique/jeedom-scenario-lumiere-sur-presence-corrige-optimise",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-lumiere-sur-presence-evolution/",
+      "destination": "/domotique/jeedom-scenario-lumiere-sur-presence-evolution",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-lumiere-sur-presence-evolution",
+      "destination": "/domotique/jeedom-scenario-lumiere-sur-presence-evolution",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-lumiere-sur-presence-simplifie/",
+      "destination": "/domotique/jeedom-scenario-lumiere-sur-presence-simplifie",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-lumiere-sur-presence-simplifie",
+      "destination": "/domotique/jeedom-scenario-lumiere-sur-presence-simplifie",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-lumieres-bouton-switch-xiaomi/",
+      "destination": "/domotique/jeedom-scenario-lumieres-bouton-switch-xiaomi",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-lumieres-bouton-switch-xiaomi",
+      "destination": "/domotique/jeedom-scenario-lumieres-bouton-switch-xiaomi",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-notifications-avancees/",
+      "destination": "/domotique/jeedom-scenario-notifications-avancees",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-notifications-avancees",
+      "destination": "/domotique/jeedom-scenario-notifications-avancees",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-sortie-des-poubelles-avec-rappel/",
+      "destination": "/domotique/jeedom-scenario-sortie-des-poubelles-avec-rappel",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-sortie-des-poubelles-avec-rappel",
+      "destination": "/domotique/jeedom-scenario-sortie-des-poubelles-avec-rappel",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-variation-luminosite-bouton-switch-xiaomi/",
+      "destination": "/domotique/jeedom-scenario-variation-luminosite-bouton-switch-xiaomi",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenario-variation-luminosite-bouton-switch-xiaomi",
+      "destination": "/domotique/jeedom-scenario-variation-luminosite-bouton-switch-xiaomi",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenarios-fondu-parametrable-yeelight/",
+      "destination": "/domotique/jeedom-scenarios-fondu-parametrable-yeelight",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenarios-fondu-parametrable-yeelight",
+      "destination": "/domotique/jeedom-scenarios-fondu-parametrable-yeelight",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenarios-zappeur-automatique-freebox-player/",
+      "destination": "/domotique/jeedom-scenarios-zappeur-automatique-freebox-player",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-scenarios-zappeur-automatique-freebox-player",
+      "destination": "/domotique/jeedom-scenarios-zappeur-automatique-freebox-player",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-sur-raspberry-et-disque-dur/",
+      "destination": "/domotique/jeedom-sur-raspberry-et-disque-dur",
+      "permanent": true
+    },
+    {
+      "source": "/jeedom-sur-raspberry-et-disque-dur",
+      "destination": "/domotique/jeedom-sur-raspberry-et-disque-dur",
+      "permanent": true
+    },
+    {
+      "source": "/jpi-sur-mi-box-xiaomi-android-tv/",
+      "destination": "/domotique/jpi-sur-mi-box-xiaomi-android-tv",
+      "permanent": true
+    },
+    {
+      "source": "/jpi-sur-mi-box-xiaomi-android-tv",
+      "destination": "/domotique/jpi-sur-mi-box-xiaomi-android-tv",
+      "permanent": true
+    },
+    {
+      "source": "/lampe-de-bureau-xiaomi-mijia/",
+      "destination": "/domotique/lampe-de-bureau-xiaomi-mijia",
+      "permanent": true
+    },
+    {
+      "source": "/lampe-de-bureau-xiaomi-mijia",
+      "destination": "/domotique/lampe-de-bureau-xiaomi-mijia",
+      "permanent": true
+    },
+    {
+      "source": "/lampe-de-chevet-xiaomi-yeelight/",
+      "destination": "/domotique/lampe-de-chevet-xiaomi-yeelight",
+      "permanent": true
+    },
+    {
+      "source": "/lampe-de-chevet-xiaomi-yeelight",
+      "destination": "/domotique/lampe-de-chevet-xiaomi-yeelight",
+      "permanent": true
+    },
+    {
+      "source": "/le-choix-de-mon-systeme-domotique/",
+      "destination": "/domotique/le-choix-de-mon-systeme-domotique",
+      "permanent": true
+    },
+    {
+      "source": "/le-choix-de-mon-systeme-domotique",
+      "destination": "/domotique/le-choix-de-mon-systeme-domotique",
+      "permanent": true
+    },
+    {
+      "source": "/les-interrupteurs-muraux-xiaomi-aqara-wall-switch/",
+      "destination": "/domotique/les-interrupteurs-muraux-xiaomi-aqara-wall-switch",
+      "permanent": true
+    },
+    {
+      "source": "/les-interrupteurs-muraux-xiaomi-aqara-wall-switch",
+      "destination": "/domotique/les-interrupteurs-muraux-xiaomi-aqara-wall-switch",
+      "permanent": true
+    },
+    {
+      "source": "/materiel-compatible-jeedom/",
+      "destination": "/domotique/materiel-compatible-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/materiel-compatible-jeedom",
+      "destination": "/domotique/materiel-compatible-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/migration-home-assistant-vmm-docker/",
+      "destination": "/domotique/migration-home-assistant-vmm-docker",
+      "permanent": true
+    },
+    {
+      "source": "/migration-home-assistant-vmm-docker",
+      "destination": "/domotique/migration-home-assistant-vmm-docker",
+      "permanent": true
+    },
+    {
+      "source": "/mises-a-jour-du-firmware-et-du-plugin-jeedom-xiaomi-home/",
+      "destination": "/domotique/mises-a-jour-du-firmware-et-du-plugin-jeedom-xiaomi-home",
+      "permanent": true
+    },
+    {
+      "source": "/mises-a-jour-du-firmware-et-du-plugin-jeedom-xiaomi-home",
+      "destination": "/domotique/mises-a-jour-du-firmware-et-du-plugin-jeedom-xiaomi-home",
+      "permanent": true
+    },
+    {
+      "source": "/packs-widget-pour-jeedom/",
+      "destination": "/domotique/packs-widget-pour-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/packs-widget-pour-jeedom",
+      "destination": "/domotique/packs-widget-pour-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/planification-devenements-dans-jeedom-le-template/",
+      "destination": "/domotique/planification-devenements-dans-jeedom-le-template",
+      "permanent": true
+    },
+    {
+      "source": "/planification-devenements-dans-jeedom-le-template",
+      "destination": "/domotique/planification-devenements-dans-jeedom-le-template",
+      "permanent": true
+    },
+    {
+      "source": "/planification-devenements-dans-jeedom-scenarios/",
+      "destination": "/domotique/planification-devenements-dans-jeedom-scenarios",
+      "permanent": true
+    },
+    {
+      "source": "/planification-devenements-dans-jeedom-scenarios",
+      "destination": "/domotique/planification-devenements-dans-jeedom-scenarios",
+      "permanent": true
+    },
+    {
+      "source": "/planification-devenements-jeedom-virtuel-widgets/",
+      "destination": "/domotique/planification-devenements-jeedom-virtuel-widgets",
+      "permanent": true
+    },
+    {
+      "source": "/planification-devenements-jeedom-virtuel-widgets",
+      "destination": "/domotique/planification-devenements-jeedom-virtuel-widgets",
+      "permanent": true
+    },
+    {
+      "source": "/reglage-automatique-des-lumieres-et-des-volumes/",
+      "destination": "/domotique/reglage-automatique-des-lumieres-et-des-volumes",
+      "permanent": true
+    },
+    {
+      "source": "/reglage-automatique-des-lumieres-et-des-volumes",
+      "destination": "/domotique/reglage-automatique-des-lumieres-et-des-volumes",
+      "permanent": true
+    },
+    {
+      "source": "/sauvegarde-et-restauration-de-jeedom/",
+      "destination": "/domotique/sauvegarde-et-restauration-de-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/sauvegarde-et-restauration-de-jeedom",
+      "destination": "/domotique/sauvegarde-et-restauration-de-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/sources-article-gestion-de-la-presence-avancees/",
+      "destination": "/domotique/sources-article-gestion-de-la-presence-avancees",
+      "permanent": true
+    },
+    {
+      "source": "/sources-article-gestion-de-la-presence-avancees",
+      "destination": "/domotique/sources-article-gestion-de-la-presence-avancees",
+      "permanent": true
+    },
+    {
+      "source": "/tutoriel-mode-design-pour-debutant/",
+      "destination": "/domotique/tutoriel-mode-design-pour-debutant",
+      "permanent": true
+    },
+    {
+      "source": "/tutoriel-mode-design-pour-debutant",
+      "destination": "/domotique/tutoriel-mode-design-pour-debutant",
+      "permanent": true
+    },
+    {
+      "source": "/volets-somfy-rts-avec-pseudo-retour-detat/",
+      "destination": "/domotique/volets-somfy-rts-avec-pseudo-retour-detat",
+      "permanent": true
+    },
+    {
+      "source": "/volets-somfy-rts-avec-pseudo-retour-detat",
+      "destination": "/domotique/volets-somfy-rts-avec-pseudo-retour-detat",
+      "permanent": true
+    },
+    {
+      "source": "/volets-somfy-rts-avec-pseudo-retour-detat-dans-jeedom-le-template/",
+      "destination": "/domotique/volets-somfy-rts-avec-pseudo-retour-detat-dans-jeedom-le-template",
+      "permanent": true
+    },
+    {
+      "source": "/volets-somfy-rts-avec-pseudo-retour-detat-dans-jeedom-le-template",
+      "destination": "/domotique/volets-somfy-rts-avec-pseudo-retour-detat-dans-jeedom-le-template",
+      "permanent": true
+    },
+    {
+      "source": "/widget-personnalise/",
+      "destination": "/domotique/widget-personnalise",
+      "permanent": true
+    },
+    {
+      "source": "/widget-personnalise",
+      "destination": "/domotique/widget-personnalise",
+      "permanent": true
+    },
+    {
+      "source": "/xiaomi-aqara-wall-switch-dans-jeedom/",
+      "destination": "/domotique/xiaomi-aqara-wall-switch-dans-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/xiaomi-aqara-wall-switch-dans-jeedom",
+      "destination": "/domotique/xiaomi-aqara-wall-switch-dans-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/xiaomi-roborock-s50-dans-jeedom/",
+      "destination": "/domotique/xiaomi-roborock-s50-dans-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/xiaomi-roborock-s50-dans-jeedom",
+      "destination": "/domotique/xiaomi-roborock-s50-dans-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/zone-aspirateur-robot-dans-jeedom/",
+      "destination": "/domotique/zone-aspirateur-robot-dans-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/zone-aspirateur-robot-dans-jeedom",
+      "destination": "/domotique/zone-aspirateur-robot-dans-jeedom",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "destination": "https://guillaumebraillon.fr/domotique",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/sujet/tutoriels/",
+      "destination": "https://guillaumebraillon.fr/domotique",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/ampoules-connectees-couleur-et-blanc-xiaomi-yeelight/",
+      "destination": "https://guillaumebraillon.fr/domotique/ampoules-connectees-couleur-et-blanc-xiaomi-yeelight",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/ampoules-connectees-couleur-et-blanc-xiaomi-yeelight",
+      "destination": "https://guillaumebraillon.fr/domotique/ampoules-connectees-couleur-et-blanc-xiaomi-yeelight",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/ampoules-xiaomi-yeelight-dans-jeedom/",
+      "destination": "https://guillaumebraillon.fr/domotique/ampoules-xiaomi-yeelight-dans-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/ampoules-xiaomi-yeelight-dans-jeedom",
+      "destination": "https://guillaumebraillon.fr/domotique/ampoules-xiaomi-yeelight-dans-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/banque-dimages-widgets-et-designs/",
+      "destination": "https://guillaumebraillon.fr/domotique/banque-dimages-widgets-et-designs",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/banque-dimages-widgets-et-designs",
+      "destination": "https://guillaumebraillon.fr/domotique/banque-dimages-widgets-et-designs",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/blea-sur-raspberry-pi-zero-w/",
+      "destination": "https://guillaumebraillon.fr/domotique/blea-sur-raspberry-pi-zero-w",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/blea-sur-raspberry-pi-zero-w",
+      "destination": "https://guillaumebraillon.fr/domotique/blea-sur-raspberry-pi-zero-w",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/controler-le-freebox-player/",
+      "destination": "https://guillaumebraillon.fr/domotique/controler-le-freebox-player",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/controler-le-freebox-player",
+      "destination": "https://guillaumebraillon.fr/domotique/controler-le-freebox-player",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/decouverte-des-bases-de-la-domotique/",
+      "destination": "https://guillaumebraillon.fr/domotique/decouverte-des-bases-de-la-domotique",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/decouverte-des-bases-de-la-domotique",
+      "destination": "https://guillaumebraillon.fr/domotique/decouverte-des-bases-de-la-domotique",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/design-jeedom-niveau-intermediaire/",
+      "destination": "https://guillaumebraillon.fr/domotique/design-jeedom-niveau-intermediaire",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/design-jeedom-niveau-intermediaire",
+      "destination": "https://guillaumebraillon.fr/domotique/design-jeedom-niveau-intermediaire",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/envoi-des-notifications-dans-jeedom/",
+      "destination": "https://guillaumebraillon.fr/domotique/envoi-des-notifications-dans-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/envoi-des-notifications-dans-jeedom",
+      "destination": "https://guillaumebraillon.fr/domotique/envoi-des-notifications-dans-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/erreur-sqlstatehy000-2002-resolu/",
+      "destination": "https://guillaumebraillon.fr/domotique/erreur-sqlstatehy000-2002-resolu",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/erreur-sqlstatehy000-2002-resolu",
+      "destination": "https://guillaumebraillon.fr/domotique/erreur-sqlstatehy000-2002-resolu",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/feuilles-de-style-de-design-pour-jeedom/",
+      "destination": "https://guillaumebraillon.fr/domotique/feuilles-de-style-de-design-pour-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/feuilles-de-style-de-design-pour-jeedom",
+      "destination": "https://guillaumebraillon.fr/domotique/feuilles-de-style-de-design-pour-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/fichiers-sources-dimages-widgets-et-designs/",
+      "destination": "https://guillaumebraillon.fr/domotique/fichiers-sources-dimages-widgets-et-designs",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/fichiers-sources-dimages-widgets-et-designs",
+      "destination": "https://guillaumebraillon.fr/domotique/fichiers-sources-dimages-widgets-et-designs",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/gestion-des-lumieres/",
+      "destination": "https://guillaumebraillon.fr/domotique/gestion-des-lumieres",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/gestion-des-lumieres",
+      "destination": "https://guillaumebraillon.fr/domotique/gestion-des-lumieres",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/gestion-des-lumieres-dans-jeedom/",
+      "destination": "https://guillaumebraillon.fr/domotique/gestion-des-lumieres-dans-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/gestion-des-lumieres-dans-jeedom",
+      "destination": "https://guillaumebraillon.fr/domotique/gestion-des-lumieres-dans-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/installation-de-jeedom-netinstall-sur-raspberry-3/",
+      "destination": "https://guillaumebraillon.fr/domotique/installation-de-jeedom-netinstall-sur-raspberry-3",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/installation-de-jeedom-netinstall-sur-raspberry-3",
+      "destination": "https://guillaumebraillon.fr/domotique/installation-de-jeedom-netinstall-sur-raspberry-3",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/installation-de-raspbian-et-jeedom-sur-raspberry/",
+      "destination": "https://guillaumebraillon.fr/domotique/installation-de-raspbian-et-jeedom-sur-raspberry",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/installation-de-raspbian-et-jeedom-sur-raspberry",
+      "destination": "https://guillaumebraillon.fr/domotique/installation-de-raspbian-et-jeedom-sur-raspberry",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/installation-et-configuration-de-la-gateway-xiaomi/",
+      "destination": "https://guillaumebraillon.fr/domotique/installation-et-configuration-de-la-gateway-xiaomi",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/installation-et-configuration-de-la-gateway-xiaomi",
+      "destination": "https://guillaumebraillon.fr/domotique/installation-et-configuration-de-la-gateway-xiaomi",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/installation-et-configuration-du-detecteur-de-mouvement-xiaomi/",
+      "destination": "https://guillaumebraillon.fr/domotique/installation-et-configuration-du-detecteur-de-mouvement-xiaomi",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/installation-et-configuration-du-detecteur-de-mouvement-xiaomi",
+      "destination": "https://guillaumebraillon.fr/domotique/installation-et-configuration-du-detecteur-de-mouvement-xiaomi",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/installation-et-configuration-du-detecteur-douverture-de-porte-xiaomi/",
+      "destination": "https://guillaumebraillon.fr/domotique/installation-et-configuration-du-detecteur-douverture-de-porte-xiaomi",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/installation-et-configuration-du-detecteur-douverture-de-porte-xiaomi",
+      "destination": "https://guillaumebraillon.fr/domotique/installation-et-configuration-du-detecteur-douverture-de-porte-xiaomi",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/installation-et-configuration-du-plugin-xiaomi/",
+      "destination": "https://guillaumebraillon.fr/domotique/installation-et-configuration-du-plugin-xiaomi",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/installation-et-configuration-du-plugin-xiaomi",
+      "destination": "https://guillaumebraillon.fr/domotique/installation-et-configuration-du-plugin-xiaomi",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/installation-plugin-rfxcom-et-volets-somfy-rts/",
+      "destination": "https://guillaumebraillon.fr/domotique/installation-plugin-rfxcom-et-volets-somfy-rts",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/installation-plugin-rfxcom-et-volets-somfy-rts",
+      "destination": "https://guillaumebraillon.fr/domotique/installation-plugin-rfxcom-et-volets-somfy-rts",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/installation-sur-pc-et-test-de-jeedom/",
+      "destination": "https://guillaumebraillon.fr/domotique/installation-sur-pc-et-test-de-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/installation-sur-pc-et-test-de-jeedom",
+      "destination": "https://guillaumebraillon.fr/domotique/installation-sur-pc-et-test-de-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-comparatif-sur-rpi-3-avec-xiaomi-zwave-ou-rf-433/",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-comparatif-sur-rpi-3-avec-xiaomi-zwave-ou-rf-433",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-comparatif-sur-rpi-3-avec-xiaomi-zwave-ou-rf-433",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-comparatif-sur-rpi-3-avec-xiaomi-zwave-ou-rf-433",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-envoi-de-sms-via-jeedom-paw-interface/",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-envoi-de-sms-via-jeedom-paw-interface",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-envoi-de-sms-via-jeedom-paw-interface",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-envoi-de-sms-via-jeedom-paw-interface",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-installation-et-configuration-de-jeedom-paw-interface/",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-installation-et-configuration-de-jeedom-paw-interface",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-installation-et-configuration-de-jeedom-paw-interface",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-installation-et-configuration-de-jeedom-paw-interface",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-jeedom-paw-interface-jpi-apk-et-plugin/",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-jeedom-paw-interface-jpi-apk-et-plugin",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-jeedom-paw-interface-jpi-apk-et-plugin",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-jeedom-paw-interface-jpi-apk-et-plugin",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-alertes-monitoring/",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-alertes-monitoring",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-alertes-monitoring",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-alertes-monitoring",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-bouton-switch-xiaomi/",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-bouton-switch-xiaomi",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-bouton-switch-xiaomi",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-bouton-switch-xiaomi",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-etat-des-ouvrants-et-lumieres/",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-etat-des-ouvrants-et-lumieres",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-etat-des-ouvrants-et-lumieres",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-etat-des-ouvrants-et-lumieres",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-fonction-ask-via-jpi-plugin/",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-fonction-ask-via-jpi-plugin",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-fonction-ask-via-jpi-plugin",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-fonction-ask-via-jpi-plugin",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-gestion-de-la-presence-avancees/",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-gestion-de-la-presence-avancees",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-gestion-de-la-presence-avancees",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-gestion-de-la-presence-avancees",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-lumiere-sur-presence/",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-lumiere-sur-presence",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-lumiere-sur-presence",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-lumiere-sur-presence",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-lumiere-sur-presence-corrige-optimise/",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-lumiere-sur-presence-corrige-optimise",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-lumiere-sur-presence-corrige-optimise",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-lumiere-sur-presence-corrige-optimise",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-lumiere-sur-presence-evolution/",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-lumiere-sur-presence-evolution",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-lumiere-sur-presence-evolution",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-lumiere-sur-presence-evolution",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-lumiere-sur-presence-simplifie/",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-lumiere-sur-presence-simplifie",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-lumiere-sur-presence-simplifie",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-lumiere-sur-presence-simplifie",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-lumieres-bouton-switch-xiaomi/",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-lumieres-bouton-switch-xiaomi",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-lumieres-bouton-switch-xiaomi",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-lumieres-bouton-switch-xiaomi",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-notifications-avancees/",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-notifications-avancees",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-notifications-avancees",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-notifications-avancees",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-sortie-des-poubelles-avec-rappel/",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-sortie-des-poubelles-avec-rappel",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-sortie-des-poubelles-avec-rappel",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-sortie-des-poubelles-avec-rappel",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-variation-luminosite-bouton-switch-xiaomi/",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-variation-luminosite-bouton-switch-xiaomi",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenario-variation-luminosite-bouton-switch-xiaomi",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenario-variation-luminosite-bouton-switch-xiaomi",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenarios-fondu-parametrable-yeelight/",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenarios-fondu-parametrable-yeelight",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenarios-fondu-parametrable-yeelight",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenarios-fondu-parametrable-yeelight",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenarios-zappeur-automatique-freebox-player/",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenarios-zappeur-automatique-freebox-player",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-scenarios-zappeur-automatique-freebox-player",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-scenarios-zappeur-automatique-freebox-player",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-sur-raspberry-et-disque-dur/",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-sur-raspberry-et-disque-dur",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jeedom-sur-raspberry-et-disque-dur",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-sur-raspberry-et-disque-dur",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jpi-sur-mi-box-xiaomi-android-tv/",
+      "destination": "https://guillaumebraillon.fr/domotique/jpi-sur-mi-box-xiaomi-android-tv",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/jpi-sur-mi-box-xiaomi-android-tv",
+      "destination": "https://guillaumebraillon.fr/domotique/jpi-sur-mi-box-xiaomi-android-tv",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/lampe-de-bureau-xiaomi-mijia/",
+      "destination": "https://guillaumebraillon.fr/domotique/lampe-de-bureau-xiaomi-mijia",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/lampe-de-bureau-xiaomi-mijia",
+      "destination": "https://guillaumebraillon.fr/domotique/lampe-de-bureau-xiaomi-mijia",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/lampe-de-chevet-xiaomi-yeelight/",
+      "destination": "https://guillaumebraillon.fr/domotique/lampe-de-chevet-xiaomi-yeelight",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/lampe-de-chevet-xiaomi-yeelight",
+      "destination": "https://guillaumebraillon.fr/domotique/lampe-de-chevet-xiaomi-yeelight",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/le-choix-de-mon-systeme-domotique/",
+      "destination": "https://guillaumebraillon.fr/domotique/le-choix-de-mon-systeme-domotique",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/le-choix-de-mon-systeme-domotique",
+      "destination": "https://guillaumebraillon.fr/domotique/le-choix-de-mon-systeme-domotique",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/les-interrupteurs-muraux-xiaomi-aqara-wall-switch/",
+      "destination": "https://guillaumebraillon.fr/domotique/les-interrupteurs-muraux-xiaomi-aqara-wall-switch",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/les-interrupteurs-muraux-xiaomi-aqara-wall-switch",
+      "destination": "https://guillaumebraillon.fr/domotique/les-interrupteurs-muraux-xiaomi-aqara-wall-switch",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/materiel-compatible-jeedom/",
+      "destination": "https://guillaumebraillon.fr/domotique/materiel-compatible-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/materiel-compatible-jeedom",
+      "destination": "https://guillaumebraillon.fr/domotique/materiel-compatible-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/migration-home-assistant-vmm-docker/",
+      "destination": "https://guillaumebraillon.fr/domotique/migration-home-assistant-vmm-docker",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/migration-home-assistant-vmm-docker",
+      "destination": "https://guillaumebraillon.fr/domotique/migration-home-assistant-vmm-docker",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/mises-a-jour-du-firmware-et-du-plugin-jeedom-xiaomi-home/",
+      "destination": "https://guillaumebraillon.fr/domotique/mises-a-jour-du-firmware-et-du-plugin-jeedom-xiaomi-home",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/mises-a-jour-du-firmware-et-du-plugin-jeedom-xiaomi-home",
+      "destination": "https://guillaumebraillon.fr/domotique/mises-a-jour-du-firmware-et-du-plugin-jeedom-xiaomi-home",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/packs-widget-pour-jeedom/",
+      "destination": "https://guillaumebraillon.fr/domotique/packs-widget-pour-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/packs-widget-pour-jeedom",
+      "destination": "https://guillaumebraillon.fr/domotique/packs-widget-pour-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/planification-devenements-dans-jeedom-le-template/",
+      "destination": "https://guillaumebraillon.fr/domotique/planification-devenements-dans-jeedom-le-template",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/planification-devenements-dans-jeedom-le-template",
+      "destination": "https://guillaumebraillon.fr/domotique/planification-devenements-dans-jeedom-le-template",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/planification-devenements-dans-jeedom-scenarios/",
+      "destination": "https://guillaumebraillon.fr/domotique/planification-devenements-dans-jeedom-scenarios",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/planification-devenements-dans-jeedom-scenarios",
+      "destination": "https://guillaumebraillon.fr/domotique/planification-devenements-dans-jeedom-scenarios",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/planification-devenements-jeedom-virtuel-widgets/",
+      "destination": "https://guillaumebraillon.fr/domotique/planification-devenements-jeedom-virtuel-widgets",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/planification-devenements-jeedom-virtuel-widgets",
+      "destination": "https://guillaumebraillon.fr/domotique/planification-devenements-jeedom-virtuel-widgets",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/reglage-automatique-des-lumieres-et-des-volumes/",
+      "destination": "https://guillaumebraillon.fr/domotique/reglage-automatique-des-lumieres-et-des-volumes",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/reglage-automatique-des-lumieres-et-des-volumes",
+      "destination": "https://guillaumebraillon.fr/domotique/reglage-automatique-des-lumieres-et-des-volumes",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/sauvegarde-et-restauration-de-jeedom/",
+      "destination": "https://guillaumebraillon.fr/domotique/sauvegarde-et-restauration-de-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/sauvegarde-et-restauration-de-jeedom",
+      "destination": "https://guillaumebraillon.fr/domotique/sauvegarde-et-restauration-de-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/sources-article-gestion-de-la-presence-avancees/",
+      "destination": "https://guillaumebraillon.fr/domotique/sources-article-gestion-de-la-presence-avancees",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/sources-article-gestion-de-la-presence-avancees",
+      "destination": "https://guillaumebraillon.fr/domotique/sources-article-gestion-de-la-presence-avancees",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/tutoriel-mode-design-pour-debutant/",
+      "destination": "https://guillaumebraillon.fr/domotique/tutoriel-mode-design-pour-debutant",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/tutoriel-mode-design-pour-debutant",
+      "destination": "https://guillaumebraillon.fr/domotique/tutoriel-mode-design-pour-debutant",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/volets-somfy-rts-avec-pseudo-retour-detat/",
+      "destination": "https://guillaumebraillon.fr/domotique/volets-somfy-rts-avec-pseudo-retour-detat",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/volets-somfy-rts-avec-pseudo-retour-detat",
+      "destination": "https://guillaumebraillon.fr/domotique/volets-somfy-rts-avec-pseudo-retour-detat",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/volets-somfy-rts-avec-pseudo-retour-detat-dans-jeedom-le-template/",
+      "destination": "https://guillaumebraillon.fr/domotique/volets-somfy-rts-avec-pseudo-retour-detat-dans-jeedom-le-template",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/volets-somfy-rts-avec-pseudo-retour-detat-dans-jeedom-le-template",
+      "destination": "https://guillaumebraillon.fr/domotique/volets-somfy-rts-avec-pseudo-retour-detat-dans-jeedom-le-template",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/widget-personnalise/",
+      "destination": "https://guillaumebraillon.fr/domotique/widget-personnalise",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/widget-personnalise",
+      "destination": "https://guillaumebraillon.fr/domotique/widget-personnalise",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/xiaomi-aqara-wall-switch-dans-jeedom/",
+      "destination": "https://guillaumebraillon.fr/domotique/xiaomi-aqara-wall-switch-dans-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/xiaomi-aqara-wall-switch-dans-jeedom",
+      "destination": "https://guillaumebraillon.fr/domotique/xiaomi-aqara-wall-switch-dans-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/xiaomi-roborock-s50-dans-jeedom/",
+      "destination": "https://guillaumebraillon.fr/domotique/xiaomi-roborock-s50-dans-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/xiaomi-roborock-s50-dans-jeedom",
+      "destination": "https://guillaumebraillon.fr/domotique/xiaomi-roborock-s50-dans-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/zone-aspirateur-robot-dans-jeedom/",
+      "destination": "https://guillaumebraillon.fr/domotique/zone-aspirateur-robot-dans-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/zone-aspirateur-robot-dans-jeedom",
+      "destination": "https://guillaumebraillon.fr/domotique/zone-aspirateur-robot-dans-jeedom",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    }
+  ]
+}
