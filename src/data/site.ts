@@ -5,8 +5,15 @@ export const site = {
   defaultTitle: "Guillaume Braillon - Développement, domotique, musique et découvertes",
   home: {
     badge: "Mes passions, mes projets, mes découvertes",
-    description:
-      "Depuis de nombreuses années, je partage ici ce qui nourrit ma curiosité : mes créations numériques, mes découvertes technologiques, mes projets web, mais aussi mes passions comme la musique avec mes tablatures de guitare, mes voyages, et mes articles autour de la domotique, des objets connectés et des nouvelles technologies. Retrouvez également des sujets plus personnels liés à la vidéo, la photo, le multimédia, le daltonisme et les expériences qui ont marqué mon parcours. Ce site rassemble mes réalisations, mes apprentissages et les différents univers que j'ai envie de partager.",
+    description: [
+      "Développeur **Full Stack JavaScript**, je construis des applications web et j’explore les technologies qui m’intéressent, de **l’IA et l’automatisation** à la domotique et aux objets connectés.",
+
+      "Ce site présente mes **Projets & créations**, mais aussi ce qui existe en dehors du code : **Tablatures** de guitare, **Articles domotiques** et **Voyages**.",
+
+      "Un espace pour **montrer ce que je fais, documenter ce que j’apprends et expérimenter de nouvelles idées**.",
+
+      "Pour découvrir mon parcours professionnel, retrouvez également **Mon CV**, accessible directement depuis le bouton dédié.",
+    ],
   },
 } as const;
 
