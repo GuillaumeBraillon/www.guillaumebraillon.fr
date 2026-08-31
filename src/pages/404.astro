@@ -1,0 +1,46 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Button from "../components/Button.astro";
+import { navItems } from "../data/site";
+---
+
+<Layout
+  title="Page introuvable - Guillaume Braillon"
+  description="Cette page n'existe pas ou plus."
+>
+  <div class="flex flex-col items-center text-center py-10 px-4">
+    <span
+      class="font-mono text-[13px] px-2.5 py-1 rounded-full bg-[#f6f8fa] border border-[#d0d7de] text-[#636c76] mb-6"
+    >
+      Erreur 404
+    </span>
+
+    <h1 class="text-2xl sm:text-3xl font-bold text-[#1f2328] mb-3">Cette page n'existe pas</h1>
+
+    <p class="text-[#636c76] max-w-md mb-8 leading-relaxed">
+      Le lien que vous avez suivi est peut-être cassé, ou la page a été déplacée. Si vous venez
+      d'une ancienne URL du site, essayez de repartir depuis l'accueil ou l'une des sections
+      ci-dessous.
+    </p>
+
+    <div class="flex flex-wrap items-center justify-center gap-2 mb-10">
+      <Button href="/" variant="primary">Retour à l'accueil</Button>
+      <Button href="/articles">Articles</Button>
+    </div>
+
+    <nav class="flex flex-wrap items-center justify-center gap-2">
+      {
+        navItems
+          .filter((item) => item.href !== "/")
+          .map((item) => (
+            <a
+              href={item.href}
+              class="px-3 py-1.5 text-xs rounded-md border border-[#d0d7de] text-[#636c76] hover:text-[#0969da] hover:border-[#0969da] transition-colors"
+            >
+              {item.label}
+            </a>
+          ))
+      }
+    </nav>
+  </div>
+</Layout>
