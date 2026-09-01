@@ -42,7 +42,7 @@ export const contactLinks = [
   {
     label: "LinkedIn",
     value: "Guillaume Braillon",
-    href: "https://linkedin.com/in/guillaume-braillon",
+    href: "https://www.linkedin.com/in/guillaumebraillon/",
     icon: "linkedin",
   },
 ] as const;
