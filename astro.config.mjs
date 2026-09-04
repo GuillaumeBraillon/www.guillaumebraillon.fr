@@ -3,9 +3,16 @@ import rehypeExternalLinks from "rehype-external-links";
 import { unified } from "@astrojs/markdown-remark";
 import sitemap from "@astrojs/sitemap";
 import tailwindcss from "@tailwindcss/vite";
+import vercel from "@astrojs/vercel";
 
 export default defineConfig({
   site: "https://guillaumebraillon.fr",
+  output: "server",
+  adapter: vercel({
+    webAnalytics: {
+      enabled: true,
+    },
+  }),
   integrations: [sitemap()],
   devToolbar: {
     enabled: false,
