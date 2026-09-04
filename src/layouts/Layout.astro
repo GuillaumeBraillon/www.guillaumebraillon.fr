@@ -2,6 +2,7 @@
 import "../styles/global.css";
 import { contactLinks, navItems, site } from "../data/site";
 import Button from "../components/Button.astro";
+import SpeedInsights from "@vercel/speed-insights/astro";
 
 interface Props {
   title?: string;
@@ -130,4 +131,5 @@ const currentPath = Astro.url.pathname;
       </nav>
     </div>
   </footer>
+  <SpeedInsights />
 </html>
