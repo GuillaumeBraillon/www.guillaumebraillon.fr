@@ -98,14 +98,50 @@ J'ai quitté le groupe en 2013 pour partir vers de nouvelles aventures.
 
 Nous sommes maintenant en 2021.
 
-Après un mariage, deux enfants et près de huit années passées loin de mes guitares, l'envie est revenue.
+Après un mariage, deux enfants et près de huit années passées loin de mes guitares, l’envie est revenue.
 
 > Huit années sans vraiment jouer peuvent sembler longues, mais certaines passions attendent simplement le bon moment pour revenir.
 
-Contrairement au vélo, la guitare ne se récupère pas instantanément : j'ai parfois l'impression d'avoir tout oublié. Pourtant, le plaisir est toujours là.
+Contrairement au vélo, la guitare ne se récupère pas instantanément : j’ai parfois l’impression d’avoir tout oublié. Pourtant, le plaisir est toujours là.
 
-Je me suis inscrit aux jam sessions de **Plug'n Play** à Lyon, et c'est un vrai bonheur de jouer avec d'autres musiciens, d'être accompagné et encouragé à sortir de ma zone de confort.
+Je me suis inscrit aux jam sessions de **Plug’n Play**, une école de musique à Lyon, et c’est un vrai bonheur de jouer avec d’autres musiciens, d’être accompagné et encouragé à sortir de ma zone de confort.
 
-## Aujourd'hui
+Pendant un an, je participe à cette formation et retrouve le plaisir de jouer avec d’autres. Pourtant, au fil des mois, je dois me rendre à l’évidence : je ne trouve pas vraiment ce qui me motive à prendre la guitare. L’envie et le plaisir ne reviennent pas comme je l’espérais.
 
-Aujourd'hui encore, la musique reste un fil conducteur de ma vie. Elle m'a permis de faire des rencontres marquantes, de voyager, de créer, de partager et d'apprendre. Plus qu'un simple loisir, elle fait partie de mon histoire.
+Je décide donc de ne pas renouveler l’expérience et de faire une nouvelle pause.
+
+## Une nouvelle approche en 2025
+
+La pause se prolonge finalement jusqu’en 2025.
+
+Lors de la Fête de la musique 2025, je découvre une autre école de musique de mon quartier, **ARTIS**. Leur fonctionnement attire immédiatement mon attention : les cours sont organisés en deux temps. Certaines semaines sont consacrées à des cours particuliers de 30 minutes, appelés **pupitres**, et les autres à des cours en groupe.
+
+Sur le papier, l’idée me séduit beaucoup. J’imagine les cours pupitre comme l’occasion de travailler en tête-à-tête sur les points qui me bloquent, de corriger mes faiblesses et de perfectionner mon jeu de manière plus précise. Les cours en groupe permettraient ensuite d’apprendre à jouer avec les autres et de mettre en pratique ce qui a été travaillé individuellement.
+
+L’idée me plaît suffisamment pour que je m’inscrive pour la rentrée 2025.
+
+Malheureusement, la réalité est moins convaincante que ce que j’avais imaginé.
+
+Les cours pupitre se résument finalement à jouer quelque chose de différent à chaque séance, sans véritable continuité et sans que le contenu soit vraiment adapté à mes faiblesses ou à ce que j’aimerais travailler.
+
+Les cours en groupe ne sont pas beaucoup plus passionnants. Ils manquent de challenge et chacun joue essentiellement sa propre partie, sans véritable échange entre les musiciens. Je propose d’aller boire un verre de temps en temps pour apprendre à mieux se connaître et créer davantage de liens en dehors des cours, mais l’idée ne prend pas.
+
+Je propose également de faire des répétitions en dehors du cadre des cours. Nous essayons, mais ces répétitions consistent surtout à rejouer les morceaux appris, sans vraiment sortir de nos zones de confort.
+
+Je comprends finalement ce qui me manque depuis longtemps : **l’improvisation, le plaisir et le partage**. Jouer ensemble ne suffit pas. Ce que je recherche, c’est cette alchimie qui donne envie de prendre la guitare, de tenter quelque chose, de réagir à ce que jouent les autres et de simplement prendre plaisir à faire de la musique ensemble.
+
+Et malgré les cours et les répétitions, je ne retrouve toujours pas cette sensation. La musique reste présente, mais l'étincelle n'est pas là. Je joue, mais je ne ressens pas cette envie profonde de prendre la guitare pour le simple plaisir de jouer avec les autres.
+
+![alt text](DSC_1605.jpg) ![alt text](DSC_1627.jpg) ![alt text](IMG-20260622-WA0002.jpg)
+
+## Retour chez Plug’n Play en 2026
+
+Malgré cette nouvelle déception, je ne m’avoue pas vaincu. Je veux continuer à jouer en groupe et je décide donc de tenter une nouvelle expérience pour la rentrée 2026 : retour à **Plug’n Play**, mais cette fois dans la formation **My Rock Band**.
+
+J’espère que cette fois sera la bonne et que je retrouverai enfin ce qui me donne envie de prendre ma guitare : **jouer, improviser, partager et surtout prendre du plaisir avec d’autres musiciens**.
+
+## Aujourd’hui
+
+Aujourd’hui encore, la musique reste un fil conducteur de ma vie. Elle m’a permis de faire des rencontres marquantes, de voyager, de créer, de partager et d’apprendre. Plus qu’un simple loisir, elle fait partie de mon histoire.
+
+Et malgré les pauses, les déceptions et les années où la guitare reste dans son étui, l’envie de retrouver cette sensation est toujours là. Peut-être que la bonne formule est simplement encore à trouver.
