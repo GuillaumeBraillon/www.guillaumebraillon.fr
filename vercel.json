@@ -31,6 +31,11 @@
       "permanent": true
     },
     {
+      "source": "/page/:num/",
+      "destination": "/articles",
+      "permanent": true
+    },
+    {
       "source": "/amazon-prime-music-gratuit/",
       "destination": "/articles/amazon-prime-music-gratuit",
       "permanent": true
@@ -1019,6 +1024,50 @@
       "source": "/xiaomi-roborock-s50-dans-jeedom",
       "destination": "/domotique/xiaomi-roborock-s50-dans-jeedom",
       "permanent": true
+    },
+    {
+      "source": "/contact/",
+      "destination": "https://guillaumebraillon.fr/cv",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/contact",
+      "destination": "https://guillaumebraillon.fr/cv",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/configuration-jeedom/",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-installation-et-configuration-de-jeedom-paw-interface",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
+    },
+    {
+      "source": "/configuration-jeedom",
+      "destination": "https://guillaumebraillon.fr/domotique/jeedom-installation-et-configuration-de-jeedom-paw-interface",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "domotique.guillaumebraillon.fr"
+        }
+      ]
     },
     {
       "source": "/zone-aspirateur-robot-dans-jeedom/",

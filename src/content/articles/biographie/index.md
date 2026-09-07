@@ -1,5 +1,5 @@
 ---
-title: "Biographie musicale."
+title: "Biographie musicale"
 date: 2021-07-18
 tags: ["Musique", "Guitare"]
 description: "Mon parcours de guitariste depuis 1994, des influences blues et jazz jusqu'aux sessions en groupe et au home studio."
