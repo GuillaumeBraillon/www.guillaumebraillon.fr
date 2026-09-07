@@ -5,6 +5,8 @@ import { render } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import { getPublishedCollection } from "../../lib/content";
 
+export const prerender = true;
+
 export async function getStaticPaths() {
   const projects = await getPublishedCollection("projects");
   return projects.map((project) => ({
@@ -14,6 +16,9 @@ export async function getStaticPaths() {
 }
 
 const { project } = Astro.props;
+if (!project) {
+  return Astro.redirect("/404", 404);
+}
 const { Content } = await render(project);
 
 const rawReadmeUrl = `${project.data.githubUrl.replace("github.com", "raw.githubusercontent.com")}/main/README.md`;

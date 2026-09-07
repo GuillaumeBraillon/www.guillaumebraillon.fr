@@ -6,6 +6,8 @@ import { render } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import { formatDateFr, getPublishedCollection } from "../../lib/content";
 
+export const prerender = true;
+
 export async function getStaticPaths() {
   const domotiques = await getPublishedCollection("domotiques");
   return domotiques.map((domotique) => ({
@@ -15,6 +17,9 @@ export async function getStaticPaths() {
 }
 
 const { domotique } = Astro.props;
+if (!domotique) {
+  return Astro.redirect("/404", 404);
+}
 const { data } = domotique;
 const { Content } = await render(domotique);
 const formattedDate = formatDateFr(data.date);

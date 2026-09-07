@@ -5,7 +5,7 @@ import MarkdownImages from "../../components/MarkdownImages.astro";
 import { render } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import { formatDateFr, getPublishedCollection } from "../../lib/content";
-
+export const prerender = true;
 export async function getStaticPaths() {
   const articles = await getPublishedCollection("articles");
   return articles.map((article) => ({
@@ -15,6 +15,9 @@ export async function getStaticPaths() {
 }
 
 const { article } = Astro.props;
+if (!article) {
+  return Astro.redirect("/404", 404);
+}
 const { data } = article;
 const { Content } = await render(article);
 const formattedDate = formatDateFr(data.date);

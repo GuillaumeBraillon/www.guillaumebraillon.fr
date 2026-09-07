@@ -8,6 +8,8 @@ import TravelMap from "../../components/TravelMap.astro";
 import { itineraries } from "../../data/itineraries";
 import { getPublishedCollection } from "../../lib/content";
 
+export const prerender = true;
+
 export async function getStaticPaths() {
   const voyages = await getPublishedCollection("voyages");
   return voyages.map((voyage) => ({
@@ -17,6 +19,9 @@ export async function getStaticPaths() {
 }
 
 const { voyage } = Astro.props;
+if (!voyage) {
+  return Astro.redirect("/404", 404);
+}
 const { data } = voyage;
 const { Content } = await render(voyage);
 ---
