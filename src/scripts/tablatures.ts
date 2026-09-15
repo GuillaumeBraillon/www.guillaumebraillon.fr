@@ -39,6 +39,15 @@ export function initTablatures() {
     };
   });
 
+  // Le "#" (et autres caractères réservés) doit être encodé, sinon le navigateur
+  // le traite comme un fragment d'URL et tronque le chemin (ex: "...- C#m.pdf" -> 404).
+  function encodePath(path: string) {
+    return path
+      .split("/")
+      .map((segment) => encodeURIComponent(segment))
+      .join("/");
+  }
+
   function escapeRegExp(str: string) {
     return str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
   }
@@ -225,7 +234,7 @@ export function initTablatures() {
 
         // Si c'est un PDF et qu'on est sur mobile, on ouvre directement l'onglet au lieu de la modal
         if (extension === "pdf" && isMobile) {
-          window.open(tabPath, "_blank");
+          window.open(encodePath(tabPath), "_blank");
         } else {
           openTabModal(name, tabPath, extension);
           targetLink.scrollIntoView({ behavior: "smooth", block: "center" });
@@ -284,7 +293,7 @@ export function initTablatures() {
 
     resetModalContent();
     if (modalTitle) modalTitle.textContent = name;
-    if (modalOpenNewTab) modalOpenNewTab.href = path;
+    if (modalOpenNewTab) modalOpenNewTab.href = encodePath(path);
 
     modal.classList.remove("hidden");
     modal.classList.add("flex");
@@ -295,7 +304,7 @@ export function initTablatures() {
     // IMAGE
     if (TEXT_EXTENSIONS.has(extension)) {
       try {
-        const res = await fetch(path);
+        const res = await fetch(encodePath(path));
         const text = await res.text();
         if (textEl) {
           textEl.classList.remove("hidden");
@@ -307,7 +316,7 @@ export function initTablatures() {
       }
     } else if (IMAGE_EXTENSIONS.has(extension)) {
       if (imageContentEl) {
-        imageContentEl.src = path;
+        imageContentEl.src = encodePath(path);
         imageContentEl.alt = `Aperçu de la tablature ${name}`;
         imageContentEl.classList.remove("hidden");
       }
@@ -315,7 +324,7 @@ export function initTablatures() {
       if (pdfContainerEl) {
         pdfContainerEl.classList.remove("hidden");
         pdfContainerEl.innerHTML = `
-          <iframe src="${path}?v=${Date.now()}" class="w-full h-[80vh] border-0"></iframe>
+          <iframe src="${encodePath(path)}?v=${Date.now()}" class="w-full h-[80vh] border-0"></iframe>
         `;
       }
     } else {
@@ -355,7 +364,7 @@ export function initTablatures() {
 
     // Comportement direct pour le PDF sur mobile
     if (extension === "pdf" && isMobile) {
-      window.open(path, "_blank");
+      window.open(encodePath(path), "_blank");
       e.preventDefault();
       return;
     }

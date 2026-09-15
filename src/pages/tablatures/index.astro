@@ -107,7 +107,7 @@ for (const t of tablatures) {
                   data-name={file.name.toLowerCase()}
                 >
                   <a
-                    href={file.path}
+                    href={file.path.split("/").map(encodeURIComponent).join("/")}
                     class="inline-block py-1 text-sm text-[#0969da] hover:underline"
                     data-original-name={file.name.replace(/\.[^.]+$/, "")}
                     data-path={file.path}
