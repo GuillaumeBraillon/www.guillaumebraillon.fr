@@ -1,0 +1,474 @@
+---
+import Layout from "../../layouts/Layout.astro";
+---
+
+<Layout
+  title="Musique collaborative"
+  description="Un projet musical participatif pour créer des morceaux avec des musiciens du monde entier."
+>
+  <div class="space-y-4">
+    <!-- Hero -->
+    <section class="relative overflow-hidden pt-4">
+      <div class="absolute -right-24 -top-24 h-72 w-72 rounded-full bg-blue-500/5 blur-3xl"></div>
+
+      <div class="relative">
+        <div class="mb-6 flex items-center justify-between gap-4">
+          <div
+            class="inline-flex overflow-hidden rounded-md border gh-border text-xs font-medium"
+            role="group"
+            aria-label="Language"
+          >
+            <button
+              type="button"
+              data-lang="fr"
+              class="lang-button px-3 py-1.5 gh-text"
+              aria-pressed="true"
+            >
+              FR
+            </button>
+            <button
+              type="button"
+              data-lang="en"
+              class="lang-button px-3 py-1.5 gh-text-muted"
+              aria-pressed="false"
+            >
+              EN
+            </button>
+          </div>
+        </div>
+
+        <div data-content="fr">
+          <p class="mb-4 text-sm font-medium uppercase tracking-widest gh-text-muted">
+            Un projet musical participatif
+          </p>
+
+          <h1 class="max-w-4xl text-4xl font-bold tracking-tight gh-text sm:text-5xl md:text-6xl">
+            Je commence un morceau.<br />
+            <span class="gh-text-muted">Vous lui donnez une nouvelle vie.</span>
+          </h1>
+
+          <p class="mt-6 max-w-none text-lg leading-relaxed gh-text-muted">
+            Je crée des morceaux à la maison et je partage leurs pistes séparées. Des musiciens
+            peuvent alors ajouter leur propre partie, où qu'ils soient dans le monde.
+          </p>
+
+          <div class="mt-8">
+            <p class="text-base font-medium gh-text">
+              Une chanson. Plusieurs musiciens. Une création collective.
+            </p>
+          </div>
+          <p class="mt-2 text-sm gh-text-muted">
+            Pas de compétition. Pas besoin d'être professionnel. Juste de la musique.
+          </p>
+        </div>
+
+        <div data-content="en" class="hidden">
+          <p class="mb-4 text-sm font-medium uppercase tracking-widest gh-text-muted">
+            A collaborative music project
+          </p>
+
+          <h1 class="max-w-4xl text-4xl font-bold tracking-tight gh-text sm:text-5xl md:text-6xl">
+            I start a song.<br />
+            <span class="gh-text-muted">You give it a new life.</span>
+          </h1>
+
+          <p class="mt-6 max-w-none text-lg leading-relaxed gh-text-muted">
+            I create songs at home and share their individual tracks. Musicians can then add their
+            own part, wherever they are in the world.
+          </p>
+
+          <div class="mt-8">
+            <p class="text-base font-medium gh-text">
+              One song. Many musicians. One collective creation.
+            </p>
+          </div>
+          <p class="mt-2 text-sm gh-text-muted">
+            No competition. No need to be a professional. Just music.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- How it works -->
+    <section>
+      <div data-content="fr">
+        <h2 class="text-2xl font-semibold tracking-tight gh-text">Comment ça marche ?</h2>
+
+        <p class="mt-2 max-w-none text-sm leading-relaxed gh-text-muted">
+          Le principe est volontairement simple. Chacun joue avec les moyens dont il dispose et
+          apporte quelque chose au morceau.
+        </p>
+      </div>
+
+      <div data-content="en" class="hidden">
+        <h2 class="text-2xl font-semibold tracking-tight gh-text">How does it work?</h2>
+
+        <p class="mt-2 max-w-none text-sm leading-relaxed gh-text-muted">
+          The idea is deliberately simple. Everyone plays with whatever they have and brings
+          something to the song.
+        </p>
+      </div>
+
+      <div class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        <div class="relative rounded-xl border gh-border p-5">
+          <span class="text-3xl font-bold gh-text opacity-20">01</span>
+
+          <div data-content="fr">
+            <h3 class="mt-4 font-semibold gh-text">Je commence</h3>
+            <p class="mt-2 text-sm leading-relaxed gh-text-muted">
+              Guitare, basse, batterie ou tout autre instrument. Je crée une première version du
+              morceau.
+            </p>
+          </div>
+
+          <div data-content="en" class="hidden">
+            <h3 class="mt-4 font-semibold gh-text">I start</h3>
+            <p class="mt-2 text-sm leading-relaxed gh-text-muted">
+              Guitar, bass, drums or any other instrument. I create the first version of the song.
+            </p>
+          </div>
+        </div>
+
+        <div class="relative rounded-xl border gh-border p-5">
+          <span class="text-3xl font-bold gh-text opacity-20">02</span>
+
+          <div data-content="fr">
+            <h3 class="mt-4 font-semibold gh-text">Je partage</h3>
+            <p class="mt-2 text-sm leading-relaxed gh-text-muted">
+              Les pistes sont disponibles séparément au format WAV pour permettre à chacun de
+              travailler dessus.
+            </p>
+          </div>
+
+          <div data-content="en" class="hidden">
+            <h3 class="mt-4 font-semibold gh-text">I share</h3>
+            <p class="mt-2 text-sm leading-relaxed gh-text-muted">
+              The individual tracks are shared as WAV files so anyone can work on the song.
+            </p>
+          </div>
+        </div>
+
+        <div class="relative rounded-xl border gh-border p-5">
+          <span class="text-3xl font-bold gh-text opacity-20">03</span>
+
+          <div data-content="fr">
+            <h3 class="mt-4 font-semibold gh-text">Vous ajoutez</h3>
+            <p class="mt-2 text-sm leading-relaxed gh-text-muted">
+              Une voix, un solo, un clavier, des percussions... votre interprétation rejoint le
+              morceau.
+            </p>
+          </div>
+
+          <div data-content="en" class="hidden">
+            <h3 class="mt-4 font-semibold gh-text">You add</h3>
+            <p class="mt-2 text-sm leading-relaxed gh-text-muted">
+              Vocals, a solo, keys, percussion... your interpretation becomes part of the song.
+            </p>
+          </div>
+        </div>
+
+        <div class="relative rounded-xl border gh-border p-5">
+          <span class="text-3xl font-bold gh-text opacity-20">04</span>
+
+          <div data-content="fr">
+            <h3 class="mt-4 font-semibold gh-text">On écoute</h3>
+            <p class="mt-2 text-sm leading-relaxed gh-text-muted">
+              Je mixe les contributions et le morceau évolue au fil des participations.
+            </p>
+          </div>
+
+          <div data-content="en" class="hidden">
+            <h3 class="mt-4 font-semibold gh-text">We listen</h3>
+            <p class="mt-2 text-sm leading-relaxed gh-text-muted">
+              I mix the contributions and the song evolves with every new musician.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Example collaboration -->
+    <section>
+      <div data-content="fr">
+        <p class="text-xs font-medium uppercase tracking-widest gh-text-muted">Exemple</p>
+
+        <h2 class="mt-2 text-2xl font-semibold tracking-tight gh-text">
+          Un morceau qui évolue au fil des contributions
+        </h2>
+
+        <p class="mt-2 max-w-none text-sm leading-relaxed gh-text-muted">
+          Imaginons un morceau commencé ici, puis enrichi par plusieurs musiciens. Chacun reçoit les
+          mêmes pistes de départ et les informations nécessaires pour jouer dans le tempo et la
+          tonalité.
+        </p>
+      </div>
+
+      <div data-content="en" class="hidden">
+        <p class="text-xs font-medium uppercase tracking-widest gh-text-muted">Example</p>
+
+        <h2 class="mt-2 text-2xl font-semibold tracking-tight gh-text">
+          A song that evolves with every contribution
+        </h2>
+
+        <p class="mt-2 max-w-none text-sm leading-relaxed gh-text-muted">
+          Imagine a song started here and gradually enriched by several musicians. Everyone gets the
+          same starting tracks and the information needed to play in time and in key.
+        </p>
+      </div>
+
+      <div class="mt-8 overflow-hidden rounded-2xl border gh-border">
+        <div class="divide-y gh-border">
+          <!-- 01 -->
+          <div class="grid gap-4 p-5 sm:grid-cols-[120px_1fr] sm:gap-8 sm:p-6">
+            <div>
+              <span class="font-mono text-xs font-medium gh-text-muted">01</span>
+
+              <div data-content="fr">
+                <p class="mt-2 text-sm font-semibold gh-text">Départ</p>
+              </div>
+
+              <div data-content="en" class="hidden">
+                <p class="mt-2 text-sm font-semibold gh-text">The beginning</p>
+              </div>
+            </div>
+
+            <div data-content="fr">
+              <p class="font-medium gh-text">Guillaume</p>
+
+              <p class="mt-1 text-sm leading-relaxed gh-text-muted">
+                Guitare, basse et batterie. Le morceau est enregistré et les pistes sont exportées
+                depuis <span class="font-mono">00:00:00</span>.
+              </p>
+
+              <p class="mt-3 text-xs gh-text-muted">120 BPM · 4/4 · Mi mineur (Em)</p>
+            </div>
+
+            <div data-content="en" class="hidden">
+              <p class="font-medium gh-text">Guillaume</p>
+
+              <p class="mt-1 text-sm leading-relaxed gh-text-muted">
+                Guitar, bass and drums. The song is recorded and all tracks are exported from
+                <span class="font-mono">00:00:00</span>.
+              </p>
+
+              <p class="mt-3 text-xs gh-text-muted">120 BPM · 4/4 · E minor (Em)</p>
+            </div>
+          </div>
+
+          <!-- 02 -->
+          <div class="grid gap-4 p-5 sm:grid-cols-[120px_1fr] sm:gap-8 sm:p-6">
+            <div>
+              <span class="font-mono text-xs font-medium gh-text-muted">02</span>
+
+              <div data-content="fr">
+                <p class="mt-2 text-sm font-semibold gh-text">Une voix</p>
+              </div>
+
+              <div data-content="en" class="hidden">
+                <p class="mt-2 text-sm font-semibold gh-text">A voice</p>
+              </div>
+            </div>
+
+            <div data-content="fr">
+              <p class="font-medium gh-text">Un musicien à l'autre bout du monde</p>
+
+              <p class="mt-1 text-sm leading-relaxed gh-text-muted">
+                Il télécharge les pistes, les importe dans son logiciel audio et ajoute sa voix en
+                conservant le même point de départ.
+              </p>
+
+              <p class="mt-3 text-xs gh-text-muted">Il renvoie uniquement sa nouvelle piste WAV.</p>
+            </div>
+
+            <div data-content="en" class="hidden">
+              <p class="font-medium gh-text">A musician on the other side of the world</p>
+
+              <p class="mt-1 text-sm leading-relaxed gh-text-muted">
+                They download the tracks, import them into their audio software and add their voice
+                while keeping the same starting point.
+              </p>
+
+              <p class="mt-3 text-xs gh-text-muted">They send back only their new WAV track.</p>
+            </div>
+          </div>
+
+          <!-- 03 -->
+          <div class="grid gap-4 p-5 sm:grid-cols-[120px_1fr] sm:gap-8 sm:p-6">
+            <div>
+              <span class="font-mono text-xs font-medium gh-text-muted">03</span>
+
+              <div data-content="fr">
+                <p class="mt-2 text-sm font-semibold gh-text">Un autre musicien</p>
+              </div>
+
+              <div data-content="en" class="hidden">
+                <p class="mt-2 text-sm font-semibold gh-text">Another musician</p>
+              </div>
+            </div>
+
+            <div data-content="fr">
+              <p class="font-medium gh-text">Une nouvelle contribution</p>
+
+              <p class="mt-1 text-sm leading-relaxed gh-text-muted">
+                Quelqu'un d'autre ajoute un clavier, un solo de guitare, un saxophone ou tout autre
+                instrument. Il travaille lui aussi à partir des mêmes repères.
+              </p>
+
+              <p class="mt-3 text-xs gh-text-muted">
+                Même tempo · même tonalité · même position de départ
+              </p>
+            </div>
+
+            <div data-content="en" class="hidden">
+              <p class="font-medium gh-text">A new contribution</p>
+
+              <p class="mt-1 text-sm leading-relaxed gh-text-muted">
+                Someone else adds keyboards, a guitar solo, saxophone or any other instrument. They
+                also work from the same musical references.
+              </p>
+
+              <p class="mt-3 text-xs gh-text-muted">Same tempo · same key · same starting point</p>
+            </div>
+          </div>
+
+          <!-- 04 -->
+          <div class="grid gap-4 p-5 sm:grid-cols-[120px_1fr] sm:gap-8 sm:p-6">
+            <div>
+              <span class="font-mono text-xs font-medium gh-text-muted">04</span>
+
+              <div data-content="fr">
+                <p class="mt-2 text-sm font-semibold gh-text">Nouvelle version</p>
+              </div>
+
+              <div data-content="en" class="hidden">
+                <p class="mt-2 text-sm font-semibold gh-text">A new version</p>
+              </div>
+            </div>
+
+            <div data-content="fr">
+              <p class="font-medium gh-text">Le morceau prend une nouvelle forme</p>
+
+              <p class="mt-1 text-sm leading-relaxed gh-text-muted">
+                Je récupère les contributions, les mixe avec les pistes originales et publie une
+                nouvelle version du morceau.
+              </p>
+
+              <p class="mt-3 text-sm font-medium gh-text">
+                Et une nouvelle contribution peut encore arriver.
+              </p>
+            </div>
+
+            <div data-content="en" class="hidden">
+              <p class="font-medium gh-text">The song takes a new shape</p>
+
+              <p class="mt-1 text-sm leading-relaxed gh-text-muted">
+                I collect the contributions, mix them with the original tracks and publish a new
+                version of the song.
+              </p>
+
+              <p class="mt-3 text-sm font-medium gh-text">
+                And another contribution can still arrive.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div data-content="fr" class="mt-5 rounded-lg border border-dashed gh-border p-5">
+        <p class="text-sm leading-relaxed gh-text-muted">
+          <span class="font-medium gh-text">Le principe technique est simple :</span> toutes les pistes
+          partent de <span class="font-mono gh-text">00:00:00</span>. Le tempo, la mesure, la
+          tonalité et les autres informations musicales accompagnent les fichiers pour que chaque
+          musicien puisse enregistrer sa partie directement dans le bon cadre.
+        </p>
+      </div>
+
+      <div data-content="en" class="hidden mt-5 rounded-lg border border-dashed gh-border p-5">
+        <p class="text-sm leading-relaxed gh-text-muted">
+          <span class="font-medium gh-text">The technical principle is simple:</span> every track starts
+          at <span class="font-mono gh-text">00:00:00</span>. Tempo, time signature, key and other
+          musical information are provided with the files so every musician can record their part
+          within the same framework.
+        </p>
+      </div>
+    </section>
+
+    <!-- Open invitation -->
+    <section class="relative overflow-hidden rounded-2xl border gh-border p-8 sm:p-10">
+      <div class="absolute -right-16 -top-16 h-48 w-48 rounded-full bg-purple-500/10 blur-3xl">
+      </div>
+
+      <div class="relative">
+        <div data-content="fr">
+          <p class="text-sm font-medium uppercase tracking-widest gh-text-muted">Et maintenant ?</p>
+
+          <h2 class="mt-3 max-w-none text-3xl font-bold tracking-tight gh-text">
+            Le premier morceau est en préparation.
+          </h2>
+
+          <p class="mt-4 max-w-none leading-relaxed gh-text-muted">
+            Je travaille actuellement sur le premier morceau de ce projet. Lorsqu'il sera prêt, les
+            pistes seront disponibles ici et chacun pourra tenter d'y ajouter sa propre partie.
+          </p>
+
+          <p class="mt-6 text-sm font-medium gh-text">
+            Peut-être que le prochain son viendra de l'autre bout du monde.
+          </p>
+        </div>
+
+        <div data-content="en" class="hidden">
+          <p class="text-sm font-medium uppercase tracking-widest gh-text-muted">What's next?</p>
+
+          <h2 class="mt-3 max-w-none text-3xl font-bold tracking-tight gh-text">
+            The first song is being prepared.
+          </h2>
+
+          <p class="mt-4 max-w-none leading-relaxed gh-text-muted">
+            I'm currently working on the first song for this project. Once it's ready, the
+            individual tracks will be available here and anyone will be able to add their own part.
+          </p>
+
+          <p class="mt-6 text-sm font-medium gh-text">
+            Maybe the next sound will come from the other side of the world.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer statement -->
+    <section class="pb-4 text-center">
+      <div data-content="fr">
+        <p class="text-lg font-medium gh-text">Jouer. Partager. Construire ensemble.</p>
+      </div>
+
+      <div data-content="en" class="hidden">
+        <p class="text-lg font-medium gh-text">Play. Share. Build together.</p>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    const buttons = document.querySelectorAll<HTMLButtonElement>(".lang-button");
+    const contents = document.querySelectorAll<HTMLElement>("[data-content]");
+
+    buttons.forEach((button) => {
+      button.addEventListener("click", () => {
+        const language = button.dataset.lang;
+
+        if (!language) return;
+
+        buttons.forEach((item) => {
+          const active = item.dataset.lang === language;
+
+          item.classList.toggle("gh-text", active);
+          item.classList.toggle("gh-text-muted", !active);
+          item.setAttribute("aria-pressed", String(active));
+        });
+
+        contents.forEach((content) => {
+          content.classList.toggle("hidden", content.dataset.content !== language);
+        });
+      });
+    });
+  </script>
+</Layout>

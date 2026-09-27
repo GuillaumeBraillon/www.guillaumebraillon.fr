@@ -7,12 +7,10 @@ export const site = {
     badge: "Mes passions, mes projets, mes découvertes",
     description: [
       "Développeur **Full Stack JavaScript**, je construis des applications web et j’explore les technologies qui m’intéressent, de **l’IA et l’automatisation** à la domotique et aux objets connectés.",
-
-      "Ce site présente mes **Projets & créations**, mais aussi ce qui existe en dehors du code : **Tablatures** de guitare, **Articles domotiques** et **Voyages**.",
-
+      "Ce site présente mes **[Projets & créations](/projects)**, mais aussi ce qui existe en dehors du code : **[Tablatures](/tablatures)** de guitare, **[Articles domotiques](/articles)** et **[Voyages](/voyages)**.",
       "Un espace pour **montrer ce que je fais, documenter ce que j’apprends et expérimenter de nouvelles idées**.",
-
-      "Pour découvrir mon parcours professionnel, retrouvez également **Mon CV**, accessible directement depuis le bouton dédié.",
+      "Pour découvrir mon parcours professionnel, retrouvez également **[Mon CV](/cv)**, accessible directement depuis le bouton dédié.",
+      "Je lance également le **[World Jam Project](/world-jam-project)** : un projet musical collaboratif où des musiciens du monde entier peuvent contribuer à un même morceau.",
     ],
   },
 } as const;
@@ -24,6 +22,7 @@ export const navItems = [
   { href: "/articles", label: "Articles" },
   { href: "/tablatures", label: "Tablatures" },
   { href: "/voyages", label: "Voyages" },
+  { href: "/world-jam-project", label: "The World Jam Project" },
 ] as const;
 
 export const contactLinks = [
