@@ -12,7 +12,7 @@ interface Props {
 
 const {
   title = site.defaultTitle,
-  description = site.home.description,
+  description = site.home.description.join(" "),
   image = "/og-default.png",
 } = Astro.props;
 const canonical = new URL(
