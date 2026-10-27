@@ -2,6 +2,7 @@ import { site, contactLinks } from "./site";
 
 export const profile = {
   name: site.name,
+  status: "En formation",
   title: "Développeur Full Stack JavaScript • IA & Automatisation",
   subtitle: "React · Angular · Node.js · TypeScript · Ruby · Intégration IA",
   website: site.website,

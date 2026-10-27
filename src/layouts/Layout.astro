@@ -126,11 +126,11 @@ const currentPath = Astro.url.pathname;
           contactLinks.map((link) => (
             <a
               href={link.href}
-              target="_blank"
-              rel="noopener noreferrer"
+              target={link.href.startsWith("mailto:") ? undefined : "_blank"}
+              rel={link.href.startsWith("mailto:") ? undefined : "noopener noreferrer"}
               class="text-[#0969da] hover:underline"
             >
-              {link.label}
+              {link.label === "Email" ? `${link.label} : ${link.value}` : link.label}
             </a>
           ))
         }

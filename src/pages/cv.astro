@@ -5,20 +5,22 @@ import Button from "../components/Button.astro";
 import Layout from "../layouts/Layout.astro";
 import { profile, skills, experiences, educations } from "../data/cv";
 import { contactLinks } from "../data/site";
+
+const profileStatusHref =
+  profile.status === "En formation"
+    ? "#formation"
+    : profile.status === "En poste"
+      ? "#experiences"
+      : undefined;
 ---
 
 <Layout title={`CV - ${profile.name}`}>
-  <div class="flex justify-end mb-3 gh-divider-bottom">
-    <div class="flex flex-wrap items-center justify-end gap-2 py-2">
-      <Button id="download-cv-pdf" variant="primary">Télécharger le CV en PDF</Button>
-    </div>
-  </div>
   <div class="space-y-6">
     <header class="grid gap-4 md:grid-cols-[minmax(0,1fr)_16rem] md:items-stretch">
       <div
         class="gh-card border-l-4 border-l-[#0969da] bg-linear-to-br from-[#f6f8fa] to-white p-5 md:p-6"
       >
-        <p class="text-[11px] font-semibold uppercase tracking-[0.16em] text-[#0969da]">
+        <p class="text-lg font-bold leading-tight tracking-tight text-[#0969da] md:text-xl">
           {profile.title}
         </p>
         <p class="mt-2 text-xs text-[#57606a] font-mono tracking-wide">{profile.subtitle}</p>
@@ -32,22 +34,37 @@ import { contactLinks } from "../data/site";
             ))
           }
         </div>
+        <div class="mt-5 flex justify-end border-t border-[#d0d7de] pt-4">
+          <Button id="download-cv-pdf" variant="primary">Télécharger le CV en PDF</Button>
+        </div>
       </div>
 
       <div class="min-w-0 p-4 gh-surface-muted gh-card space-y-3 text-xs gh-text-muted">
         <div class="grid gap-2">
-          <h1
-            class="text-xl font-semibold text-[#1f2328] tracking-tight flex flex-wrap items-center gap-2 mb-1"
-          >
-            {profile.name}
-            <span class="gh-badge gh-badge--home text-[10px] font-normal">Disponible</span>
-          </h1>
+          <h1 class="text-xl font-semibold text-[#1f2328] tracking-tight">{profile.name}</h1>
+          {
+            profileStatusHref ? (
+              <a
+                href={profileStatusHref}
+                class="inline-flex w-fit items-center gap-1.5 rounded-full border border-[#bfdbfe] bg-[#eff6ff] px-2.5 py-1 text-[11px] font-medium text-[#1d4ed8] transition-colors hover:border-[#93c5fd] hover:bg-[#dbeafe]"
+                aria-label={`Voir la rubrique ${profile.status === "En formation" ? "Formation" : "Expériences"}`}
+              >
+                <span class="h-1.5 w-1.5 rounded-full bg-[#3b82f6]" aria-hidden="true" />
+                {profile.status}
+              </a>
+            ) : (
+              <span class="inline-flex w-fit items-center gap-1.5 rounded-full border border-[#bfdbfe] bg-[#eff6ff] px-2.5 py-1 text-[11px] font-medium text-[#1d4ed8]">
+                <span class="h-1.5 w-1.5 rounded-full bg-[#3b82f6]" aria-hidden="true" />
+                {profile.status}
+              </span>
+            )
+          }
           {
             contactLinks.map((link) => (
               <a
                 href={link.href}
-                target="_blank"
-                rel="noopener noreferrer"
+                target={link.href.startsWith("mailto:") ? undefined : "_blank"}
+                rel={link.href.startsWith("mailto:") ? undefined : "noopener noreferrer"}
                 class="group flex min-w-0 items-center gap-2 overflow-hidden rounded-md border border-[#d0d7de] bg-white px-2.5 py-2 transition-colors hover:border-[#0969da] hover:bg-[#ddf4ff]"
               >
                 <span class="inline-flex h-8 w-8 shrink-0 items-center justify-center rounded-md bg-[#f6f8fa] text-[#636c76] transition-colors group-hover:bg-white group-hover:text-[#0969da]">
@@ -63,16 +80,29 @@ import { contactLinks } from "../data/site";
             ))
           }
         </div>
-        <div class="border-t border-[#d0d7de] pt-3 text-[11px] font-mono">
-          Permis B · {profile.lang}
+        <div class="flex flex-wrap gap-2 border-t border-[#d0d7de] pt-3">
+          <span
+            class="inline-flex items-center gap-1.5 rounded-md border border-[#d0d7de] bg-white px-2.5 py-1.5 text-[11px]"
+          >
+            <span class="font-semibold text-[#57606a]">Permis</span>
+            <span class="font-mono text-[#1f2328]">B</span>
+          </span>
+          <span
+            class="inline-flex min-w-0 items-center gap-1.5 rounded-md border border-[#d0d7de] bg-white px-2.5 py-1.5 text-[11px]"
+          >
+            <span class="font-semibold text-[#57606a]">Langue</span>
+            <span class="truncate text-[#1f2328]">{profile.lang}</span>
+          </span>
         </div>
       </div>
     </header>
 
     <div class="grid grid-cols-1 lg:grid-cols-[2fr_1fr] gap-6">
       <div class="space-y-6">
-        <section>
-          <h2 class="text-xs font-semibold text-[#1f2328] uppercase tracking-wider mb-3">
+        <section id="experiences" class="scroll-mt-6">
+          <h2
+            class="mb-4 border-l-4 border-[#0969da] py-1 pl-3 text-base font-bold tracking-tight text-[#1f2328]"
+          >
             Expériences Professionnelles
           </h2>
           <div class="space-y-4">
@@ -95,8 +125,10 @@ import { contactLinks } from "../data/site";
           </div>
         </section>
 
-        <section>
-          <h2 class="text-xs font-semibold text-[#1f2328] uppercase tracking-wider mb-3">
+        <section id="formation" class="scroll-mt-6">
+          <h2
+            class="mb-4 border-l-4 border-[#0969da] py-1 pl-3 text-base font-bold tracking-tight text-[#1f2328]"
+          >
             Formation & Certifications
           </h2>
           <div class="grid gap-3 sm:grid-cols-2">
@@ -121,7 +153,9 @@ import { contactLinks } from "../data/site";
       </div>
 
       <div class="space-y-4">
-        <h2 class="text-xs font-semibold text-[#1f2328] uppercase tracking-wider">
+        <h2
+          class="border-l-4 border-[#0969da] py-1 pl-3 text-base font-bold tracking-tight text-[#1f2328]"
+        >
           Compétences Techniques
         </h2>
 
