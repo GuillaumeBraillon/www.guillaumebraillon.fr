@@ -25,6 +25,7 @@ const wrapperClass =
     : "gh-card p-3.5 flex gap-3 hover:border-[#0969da] transition-colors min-w-0";
 
 const imageClass = variant === "featured" ? "w-24 h-24" : "w-16 h-16";
+const imageSize = variant === "featured" ? 96 : 64;
 const titleClass = variant === "featured" ? "text-[14px]" : "text-[14px]";
 const metaClass =
   variant === "featured"
@@ -38,6 +39,10 @@ const metaClass =
       <Image
         src={thumbnail}
         alt={thumbnailAlt}
+        width={imageSize}
+        height={imageSize}
+        densities={[1, 2]}
+        fit="cover"
         class={`${imageClass} object-cover rounded shrink-0`}
         loading="lazy"
       />

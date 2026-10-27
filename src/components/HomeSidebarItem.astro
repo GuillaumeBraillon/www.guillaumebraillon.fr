@@ -17,6 +17,10 @@ const { href, title, thumbnail, thumbnailAlt = "" } = Astro.props as Props;
       <Image
         src={thumbnail}
         alt={thumbnailAlt}
+        width={48}
+        height={48}
+        densities={[1, 2]}
+        fit="cover"
         class="w-12 h-12 object-cover rounded shrink-0"
         loading="lazy"
       />
