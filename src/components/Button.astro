@@ -4,9 +4,10 @@ interface Props {
   variant?: "primary" | "secondary";
   external?: boolean;
   onclick?: string;
+  id?: string;
 }
 
-const { href, variant = "secondary", external = false, onclick } = Astro.props;
+const { href, variant = "secondary", external = false, onclick, id } = Astro.props;
 ---
 
 {
@@ -25,6 +26,7 @@ const { href, variant = "secondary", external = false, onclick } = Astro.props;
   ) : (
     <button
       type="button"
+      id={id}
       class:list={[
         "gh-button",
         variant === "primary" ? "gh-button--primary" : "gh-button--secondary",

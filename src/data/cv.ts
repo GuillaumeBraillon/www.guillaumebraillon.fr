@@ -3,27 +3,30 @@ import { site, contactLinks } from "./site";
 export const profile = {
   name: site.name,
   title: "Développeur Full Stack JavaScript • IA & Automatisation",
-  subtitle: "React · Angular · Node.js · TypeScript · IA Agentique",
+  subtitle: "React · Angular · Node.js · TypeScript · Ruby · Intégration IA",
   website: site.website,
   github: contactLinks.find((link) => link.label === "GitHub")?.href || "",
   linkedin: contactLinks.find((link) => link.label === "LinkedIn")?.href || "",
   lang: "Anglais (professionnel)",
   details: [
-    "**Développeur Full Stack JavaScript** avec plusieurs années d’expérience dans la conception et l’évolution d’applications web. Je travaille principalement avec **TypeScript, React, Angular et Node.js**, du frontend aux API et bases de données.",
+    "**Développeur Full Stack JavaScript** avec plusieurs années d’expérience dans la conception et l’évolution d’applications web. Je travaille principalement avec **TypeScript, React, Angular et Node.js**, du frontend aux API et bases de données. Mon parcours couvre aussi bien le développement de nouvelles fonctionnalités que l’évolution d’applications existantes, au sein d’équipes Agile/Scrum.",
 
-    "J’ai également développé une expertise en **automatisation et intégration de services**, notamment avec **n8n, les APIs, les webhooks et les systèmes connectés**.",
+    "J’ai également développé une expertise en **automatisation et intégration de services**, notamment avec **n8n, les API, les webhooks et les systèmes connectés**. Je conçois des workflows qui relient les outils et les services pour simplifier les processus métiers.",
 
-    "Je me spécialise aujourd’hui dans **l’intégration de l’IA générative** : **LLM, RAG et agents IA**. Je recherche des projets combinant **développement logiciel et IA** pour construire des applications modernes et utiles.",
+    "Depuis un an, j’approfondis la **programmation assistée par l’IA** et l’intégration de fonctionnalités d’IA dans les applications. J’explore notamment **Ruby et Rails**, la gem **ruby_llm**, les API de LLM et les agents IA, en complément de mon expérience en développement web.",
+
+    'Je partage mes réalisations personnelles sur **GitHub** et dans la rubrique <a href="/projects">Projets</a> de ce site, pour illustrer concrètement les technologies et les approches que j’expérimente.',
   ],
 };
 
 export const skills = {
   frontend: ["Angular", "React", "TypeScript", "JavaScript", "Vue.js", "HTML5/CSS3", "Sass"],
-  backend: ["Node.js", "Express", "NestJS", "REST API", "OpenAPI", "Webhooks"],
+  backend: ["Node.js", "Express", "NestJS", "Ruby", "Rails", "REST API", "OpenAPI", "Webhooks"],
   database: ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Supabase"],
   devops: ["Docker", "GitHub", "CI/CD", "AWS", "Google Cloud", "Datadog", "Kafka"],
   automation: ["n8n", "Home Assistant", "Jeedom", "MQTT", "Objets connectés"],
-  iaAuto: ["GitHub Copilot", "Cursor", "LLM", "RAG", "Prompt Engineering"],
+  iaAuto: ["LLM", "RAG", "Agents IA", "Prompt engineering", "Intégration d’API IA"],
+  aiDevTools: ["Codex", "Zoo (VS Code)", "Ollama", "GitHub Copilot", "Cursor"],
 };
 
 export const experiences = [
@@ -56,7 +59,7 @@ export const educations = [
     institution: "Le Wagon Lyon",
     year: "2026",
     details:
-      "Développement full-stack (JavaScript, TypeScript, React, Node.js), intégration d’IA générative, IA-assisted coding, RAG, agents IA et déploiement d’applications modernes.",
+      "Certification RNCP39261 de niveau 6 (équivalent Bac+3/4). Parcours AI Software : Ruby et POO, SQL et Active Record, front-end, applications full-stack avec Rails, intégration de LLM et d’agents IA, programmation assistée par Cursor, Git et déploiement cloud.",
   },
   {
     title: "Certifications Progress OpenEdge",

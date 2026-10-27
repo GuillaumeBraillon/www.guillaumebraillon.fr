@@ -8,35 +8,39 @@ import { contactLinks } from "../data/site";
 ---
 
 <Layout title={`CV - ${profile.name}`}>
-  <div class="print:hidden flex justify-end mb-3 gh-divider-bottom">
-    <div class="text-right">
-      <Button onclick="window.print()">Imprimer / Enregistrer en PDF</Button>
-
-      <p class="mt-1 text-[11px] text-[#57606a]">
-        Pour un meilleur rendu, utilisez les marges <strong>Minimales</strong> ou
-        <strong>Aucune</strong>.
-      </p>
+  <div class="flex justify-end mb-3 gh-divider-bottom">
+    <div class="flex flex-wrap items-center justify-end gap-2 py-2">
+      <Button id="download-cv-pdf" variant="primary">Télécharger le CV en PDF</Button>
     </div>
   </div>
   <div class="space-y-6">
-    <header class="flex flex-col md:flex-row md:items-start justify-between gap-4">
-      <div>
-        <p class="text-base font-bold text-[#0969da] mt-1">{profile.title}</p>
-        <p class="text-xs text-[#57606a] font-mono mt-0.5">{profile.subtitle}</p>
-        <div class="mt-3 space-y-3 text-[14px] text-[#24292f] leading-relaxed w-full">
+    <header class="grid gap-4 md:grid-cols-[minmax(0,1fr)_16rem] md:items-stretch">
+      <div
+        class="gh-card border-l-4 border-l-[#0969da] bg-linear-to-br from-[#f6f8fa] to-white p-5 md:p-6"
+      >
+        <p class="text-[11px] font-semibold uppercase tracking-[0.16em] text-[#0969da]">
+          {profile.title}
+        </p>
+        <p class="mt-2 text-xs text-[#57606a] font-mono tracking-wide">{profile.subtitle}</p>
+        <div class="mt-5 space-y-3 text-[14px] text-[#24292f] leading-relaxed">
           {
             profile.details.map((paragraph) => (
-              <p set:html={paragraph.replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")} />
+              <p
+                class="[&_strong]:font-semibold [&_strong]:text-[#1f2328] [&_a]:font-medium [&_a]:text-[#0969da] [&_a]:underline [&_a]:underline-offset-2 hover:[&_a]:text-[#0550ae]"
+                set:html={paragraph.replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")}
+              />
             ))
           }
         </div>
       </div>
 
-      <div class="shrink-0 p-3 gh-surface-muted gh-card space-y-2 text-xs gh-text-muted min-w-64">
+      <div class="min-w-0 p-4 gh-surface-muted gh-card space-y-3 text-xs gh-text-muted">
         <div class="grid gap-2">
-          <h1 class="text-2xl font-semibold text-[#1f2328] tracking-tight flex items-center gap-2">
+          <h1
+            class="text-xl font-semibold text-[#1f2328] tracking-tight flex flex-wrap items-center gap-2 mb-1"
+          >
             {profile.name}
-            <span class="gh-badge gh-badge--home text-xs font-normal"> Disponible </span>
+            <span class="gh-badge gh-badge--home text-[10px] font-normal">Disponible</span>
           </h1>
           {
             contactLinks.map((link) => (
@@ -44,7 +48,7 @@ import { contactLinks } from "../data/site";
                 href={link.href}
                 target="_blank"
                 rel="noopener noreferrer"
-                class="group flex items-center gap-2 rounded-md border border-[#d0d7de] bg-white px-2.5 py-2 transition-colors hover:border-[#0969da] hover:bg-[#ddf4ff]"
+                class="group flex min-w-0 items-center gap-2 overflow-hidden rounded-md border border-[#d0d7de] bg-white px-2.5 py-2 transition-colors hover:border-[#0969da] hover:bg-[#ddf4ff]"
               >
                 <span class="inline-flex h-8 w-8 shrink-0 items-center justify-center rounded-md bg-[#f6f8fa] text-[#636c76] transition-colors group-hover:bg-white group-hover:text-[#0969da]">
                   <RepoIcon name={link.icon} />
@@ -59,15 +63,13 @@ import { contactLinks } from "../data/site";
             ))
           }
         </div>
-        <div class="pt-1.5 text-[11px] font-mono">
+        <div class="border-t border-[#d0d7de] pt-3 text-[11px] font-mono">
           Permis B · {profile.lang}
         </div>
       </div>
     </header>
 
-    <div
-      class="grid grid-cols-1 lg:grid-cols-[2fr_1fr] print:grid-cols-[2fr_1fr] gap-6 print:gap-4"
-    >
+    <div class="grid grid-cols-1 lg:grid-cols-[2fr_1fr] gap-6">
       <div class="space-y-6">
         <section>
           <h2 class="text-xs font-semibold text-[#1f2328] uppercase tracking-wider mb-3">
@@ -93,7 +95,7 @@ import { contactLinks } from "../data/site";
           </div>
         </section>
 
-        <section class="print-break-before">
+        <section>
           <h2 class="text-xs font-semibold text-[#1f2328] uppercase tracking-wider mb-3">
             Formation & Certifications
           </h2>
@@ -125,18 +127,15 @@ import { contactLinks } from "../data/site";
 
         <SkillGroup title="Intelligence Artificielle" skills={skills.iaAuto} tone="success" />
 
+        <SkillGroup title="Outils de développement IA" skills={skills.aiDevTools} tone="muted" />
+
         <SkillGroup title="Automatisation & IoT" skills={skills.automation} tone="success" />
 
         <SkillGroup title="Frontend" skills={skills.frontend} tone="info" />
 
         <SkillGroup title="Backend" skills={skills.backend} tone="info" />
 
-        <SkillGroup
-          title="Bases de données"
-          skills={skills.database}
-          tone="mono"
-          class="print-break-before"
-        />
+        <SkillGroup title="Bases de données" skills={skills.database} tone="mono" />
 
         <SkillGroup title="DevOps & Outils" skills={skills.devops} tone="muted" />
 
@@ -150,3 +149,7 @@ import { contactLinks } from "../data/site";
     </div>
   </div>
 </Layout>
+
+<script>
+  import "../scripts/export-cv-pdf";
+</script>

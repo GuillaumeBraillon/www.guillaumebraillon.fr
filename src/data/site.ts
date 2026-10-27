@@ -27,6 +27,12 @@ export const navItems = [
 
 export const contactLinks = [
   {
+    label: "Email",
+    value: "contact@guillaumebraillon.fr",
+    href: "mailto:contact@guillaumebraillon.fr",
+    icon: "email",
+  },
+  {
     label: "Site perso",
     value: site.website,
     href: `https://${site.website}`,

@@ -1,6 +1,6 @@
 ---
 interface Props {
-  name?: "repo" | "website" | "github" | "linkedin";
+  name?: "repo" | "website" | "github" | "linkedin" | "email";
   size?: number;
   class?: string;
 }
@@ -36,6 +36,11 @@ const icons = {
     paths: [
       "M1.15 5.3h3.1V15h-3.1V5.3ZM2.7 1a1.8 1.8 0 1 1 0 3.6A1.8 1.8 0 0 1 2.7 1Zm3.45 4.3h2.97v1.33h.04c.41-.78 1.42-1.6 2.93-1.6 3.13 0 3.71 2.06 3.71 4.74V15h-3.1v-4.64c0-1.1-.02-2.53-1.54-2.53-1.54 0-1.78 1.2-1.78 2.45V15H6.15V5.3Z",
     ],
+  },
+  email: {
+    fill: "none",
+    stroke: "currentColor",
+    paths: ["M1.5 3.5h13v9h-13z", "m2 4 6 5 6-5"],
   },
 };
 
