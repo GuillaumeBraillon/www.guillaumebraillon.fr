@@ -21,6 +21,12 @@ const canonical = new URL(
 ).toString();
 const imageUrl = new URL(image, Astro.site ?? "https://guillaumebraillon.fr").toString();
 const currentPath = Astro.url.pathname;
+const lastCommitDate = new Intl.DateTimeFormat("fr-FR", {
+  day: "numeric",
+  month: "long",
+  year: "numeric",
+  timeZone: "Europe/Paris",
+}).format(new Date(import.meta.env.PUBLIC_LAST_COMMIT_DATE));
 ---
 
 <html lang="fr" class="scroll-smooth">
@@ -118,8 +124,9 @@ const currentPath = Astro.url.pathname;
     <div
       class="max-w-5xl mx-auto px-4 py-4 flex items-center justify-between text-[12px] text-[#636c76]"
     >
-      <div class="flex items-center gap-2">
+      <div class="flex flex-col gap-1">
         <span>© {new Date().getFullYear()} {site.name}</span>
+        <span class="text-[11px] text-[#8c959f]">Dernière mise à jour : {lastCommitDate}</span>
       </div>
       <nav class="flex gap-3">
         {
